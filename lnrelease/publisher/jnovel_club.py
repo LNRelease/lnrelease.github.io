@@ -20,7 +20,7 @@ def _parse(series: Series, info: list[Info], alts: set[Info]) -> list[Book]:
         pass
     elif all(' Volume ' in info[i].title for i in todo):  # multipart volume
         part(series, info, books)
-    elif len(todo) < size:  # probably short stories
+    elif len(todo) < size - 1:  # probably short stories
         one(series, info, books)
     else:  # special volume name
         bookwalker(series, info, alts, books)

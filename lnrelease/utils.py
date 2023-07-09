@@ -180,12 +180,12 @@ class Book:
             return self.publisher < other.publisher
         elif self.date != other.date:
             return self.date < other.date
-        elif self.name != other.name:
-            return self.name < other.name
         elif len(self.volume) != len(other.volume):
             pad = max(len(self.volume), len(other.volume))
             return self.volume.zfill(pad) < other.volume.zfill(pad)
-        return self.volume < other.volume
+        elif self.volume != other.volume:
+            return self.volume < other.volume
+        return self.name < other.name
 
     def __hash__(self) -> int:
         return hash((self.serieskey, self.publisher, self.name, self.volume, self.format, self.date))

@@ -34,11 +34,11 @@ def write_page(books: Iterable[Book], output: Path) -> None:
             name = f'[{book.name}]({book.link})' if book.link else book.name
             match book.format:
                 case Format.PHYSICAL:
-                    format = '<span style="visibility: hidden">💻</span>📖'
+                    format = '<span style="visibility: hidden">🖥️</span>📖'
                 case Format.DIGITAL:
-                    format = '💻<span style="visibility: hidden">📖</span>'
+                    format = '🖥️<span style="visibility: hidden">📖</span>'
                 case Format.PHYSICAL_DIGITAL:
-                    format = '💻📖'
+                    format = '🖥️📖'
             file.write(f'{book.date.strftime("%b %d")}|{name}|{book.volume}|{book.publisher}|{format}|\n')
 
 
@@ -54,7 +54,7 @@ def main() -> None:
                 books.append(opp)  # add for both
         else:
             books.append(book)
-    books.sort(key=attrgetter('date', 'name', 'format', 'publisher', 'volume', 'serieskey'))
+    books.sort(key=lambda x: (x.date, x))
 
     today = datetime.date.today()
     start_date = today.replace(day=1)

@@ -12,7 +12,7 @@ def parse(series: Series, info: list[Info], alts: set[Info]) -> list[Book]:
     standard(series, info, books)
     omnibus(series, info, books)
     short(series, info, books)
-    if books.count(None) < size:
+    if books.count(None) < size - 1:
         one(series, info, books)
     else:
         bookwalker(series, info, alts, books)
