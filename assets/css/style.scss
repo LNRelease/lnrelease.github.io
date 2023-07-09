@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        filter: hue-rotate(180deg) invert(92%);
+    }
+
+    .markdown-body table td:last-child {
+        filter: hue-rotate(180deg) invert(100%);
+    }
+}
+
+.markdown-body {
+    line-height: 1.2;
+}
+
+.markdown-body table {
+    display: table;
+}
+
+.container-lg {
+    max-width: 1280px;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+    padding: 0px 4px 2px 4px;
+}
+
+.markdown-body table td {
+    white-space: nowrap;
+    width: 0;
+}
+
+.markdown-body table td:nth-child(2) {
+    white-space: normal;
+    width: 100%;
+}
