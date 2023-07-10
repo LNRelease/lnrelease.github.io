@@ -29,14 +29,15 @@ def write_page(books: Iterable[Book], output: Path) -> None:
                 month = book.date.month
                 file.write(f'\n### {book.date.strftime("%B")}\n\n')
                 file.write('Date|Series|Volume|Publisher|Type|\n')
-                file.write(':---|:---|:---:|:---|---|\n')
+                file.write(':---:|:---|:---:|:---|:---:|\n')
 
             name = f'[{book.name}]({book.link})' if book.link else book.name
+            # spacer to align text, github yeets input tag
             match book.format:
                 case Format.PHYSICAL:
-                    format = '<span style="visibility: hidden">🖥️</span>📖'
+                    format = '<input class="spacer" alt="🖥️" type="image" disabled>📖'
                 case Format.DIGITAL:
-                    format = '🖥️<span style="visibility: hidden">📖</span>'
+                    format = '🖥️<input class="spacer" alt="📖" type="image" disabled>'
                 case Format.PHYSICAL_DIGITAL:
                     format = '🖥️📖'
             file.write(f'{book.date.strftime("%b %d")}|{name}|{book.volume}|{book.publisher}|{format}|\n')

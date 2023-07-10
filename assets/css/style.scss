@@ -31,12 +31,31 @@
     padding: 0px 4px 2px 4px;
 }
 
-.markdown-body table td {
-    white-space: nowrap;
-    width: 0;
+.spacer {
+    display: none;
+    visibility: hidden;
+}
+
+@media (min-width: 544px) {
+    .markdown-body table td {
+        white-space: nowrap;
+        overflow: hidden;
+        max-width: 16vw;
+    }
+
+    .spacer {
+        display: inline;
+    }
 }
 
 .markdown-body table td:nth-child(2) {
     white-space: normal;
     width: 100%;
+}
+
+.markdown-body table th:nth-child(3) {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ".";
+    max-width: 6vw;
 }
