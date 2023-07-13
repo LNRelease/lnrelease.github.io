@@ -6,12 +6,13 @@ from utils import Book, Info, Series
 
 NAME = 'misc'
 
-PARSE = re.compile(r'(?P<name>.+?)[,:]? +(?:Vol\.|\(?Volume|\(Light Novel) *(?P<volume>\d+\.?\d?)\)?(?::.+)?')
+PARSE = re.compile(r'(?P<name>.+?)(?:,|:| -)? +(?:Vol\.|\(?Volume|\(Light Novel) *(?P<volume>\d+\.?\d?)\)?(?::.+)?')
 OMNIBUS = re.compile(r'.+(?:Vol\.|\(?Volume) *(?P<volume>\d+-\d+)\)?')
 PART = re.compile(r'(?P<name>.+?):? Volume (?P<volume>\d+\.?5?) (?P<part>.+)')
 NUMBER = re.compile(r'\b(?P<volume>\d+\.?\d?)\b(?:: .+)?')
 SHORT = re.compile(r'\s*#?(?P<volume>\w{1,2})')
 BOOKWALKER = re.compile(r'(?P<volume>\d+\.?\d?[^\s:\)]*):? ?.*')
+URL = re.compile(r'-volume-(?P<volume>\d+)')
 
 # number converter for volume parsing
 NUM_DICT = {
@@ -170,6 +171,22 @@ def bookwalker(series: Series, info: list[Info], alts: list[Info], books: list[B
             inf.index = alts[poss.index(close[0])].index
     info.sort()
 
+    return changed
+
+
+def url(series: Series, info: list[Info], books: list[Book]) -> bool:
+    # searches url for number
+    changed = False
+    for i, book in enumerate(books):
+        if book:
+            continue
+
+        inf = info[i]
+        if match := URL.search(inf.link):
+            name = inf.title
+            vol = match.group('volume')
+            books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+            changed = True
     return changed
 
 

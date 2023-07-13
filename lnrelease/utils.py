@@ -2,6 +2,7 @@ import csv
 import datetime
 import re
 import unicodedata
+import warnings
 from collections.abc import Iterable, Iterator
 from dataclasses import dataclass
 from enum import StrEnum
@@ -228,7 +229,9 @@ class Session(requests.Session):
         self.headers.update(HEADERS)
         retry = Retry(
             total=10,
-            backoff_factor=1
+            backoff_factor=1,
+            respect_retry_after_header=True,
+            status_forcelist=[429]
         )
         adapter = HTTPAdapter(max_retries=retry)
         self.mount('http://', adapter)

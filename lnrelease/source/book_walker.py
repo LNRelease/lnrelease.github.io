@@ -54,8 +54,8 @@ def scrape_full(limit: int = 1000) -> tuple[set[Series], set[Info]]:
             'np': '1',  # by individual books
             'order': 'release'
         }
-        for page in range(1, limit):
-            params['page'] = page
+        for i in range(1, limit):
+            params['page'] = i
             page = session.get('https://global.bookwalker.jp/categories/3/', params=params)
             soup = BeautifulSoup(page.content, 'html.parser')
 

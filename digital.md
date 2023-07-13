@@ -54,6 +54,7 @@ Jul 21|[The Game Master Has Logged In to Another World](https://j-novel.club/ser
 Jul 24|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jul 25|[Am I Actually the Strongest?](https://global.bookwalker.jp/defb5a89ab-ba31-4e3e-8e30-749b13cdaeb6/)|3|Kodansha|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jul 25|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975350536-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-9-light-novel)|9|Yen Press|🖥️📖|
+Jul 25|[Chainsaw Man: Buddy Stories](https://www.viz.com/read/novel/chainsaw-man-buddy-stories/product/7517)|1|VIZ Media|🖥️📖|
 Jul 25|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-16/)|16|Seven Seas Entertainment|🖥️📖|
 Jul 26|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-26)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jul 26|[Only the Villainous Lord Wields the Power to Level Up](https://j-novel.club/series/only-the-villainous-lord-wields-the-power-to-level-up#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -175,6 +176,7 @@ Sep 26|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/i
 Sep 26|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️📖|
 Sep 27|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-14)|14|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 28|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Sep 29|[Monster Tamer](https://j-novel.club/series/monster-tamer#volume-15)|15|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 29|[The Do-Over Damsel Conquers the Dragon Emperor](https://global.bookwalker.jp/de29a01679-a176-453d-b7fd-2d122c557904/)|3|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 29|[You Like Me, Not My Daughter?!](https://j-novel.club/series/you-like-me-not-my-daughter#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
@@ -194,6 +196,7 @@ Oct 10|[Failure Frame: I Became the Strongest and Annihilated Everything With Lo
 Oct 10|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-20)|20|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 10|[The Sorcerer's Receptionist](https://j-novel.club/series/the-sorcerer-s-receptionist#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 12|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-13)|13|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 12|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 16|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 17|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367596-alya-sometimes-hides-her-feelings-in-russian-vol-4)|4|Yen Press|🖥️📖|
 Oct 17|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371050-a-misanthrope-teaches-a-class-for-demi-humans-vol-1-mr-hitoma-won-t-you-teach-us-about-humans)|1|Yen Press|🖥️📖|
@@ -224,6 +227,7 @@ Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/b
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Nov 06|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 07|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Nov 07|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Nov 10|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-6)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|

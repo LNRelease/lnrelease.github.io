@@ -33,6 +33,7 @@ Jul 18|[The World's Finest Assassin Gets Reincarnated in Another World as an Ari
 Jul 18|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975334673-wandering-witch-the-journey-of-elaina-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Jul 18|[Words Bubble Up Like Soda Pop](https://yenpress.com/titles/9781975352776-words-bubble-up-like-soda-pop-light-novel)|1|Yen Press|🖥️📖|
 Jul 25|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975350536-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-9-light-novel)|9|Yen Press|🖥️📖|
+Jul 25|[Chainsaw Man: Buddy Stories](https://www.viz.com/read/novel/chainsaw-man-buddy-stories/product/7517)|1|VIZ Media|🖥️📖|
 Jul 25|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-16/)|16|Seven Seas Entertainment|🖥️📖|
 Jul 25|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 25|[Secrets of the Silent Witch](https://yenpress.com/titles/9781975370077-secrets-of-the-silent-witch-vol-4)|4|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
