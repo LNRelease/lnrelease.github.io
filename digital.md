@@ -155,7 +155,8 @@ Sep 19|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/978197
 Sep 19|[The Deer King](https://yenpress.com/titles/9781975352332-the-deer-king-vol-1-novel-survivors)|1|Yen Press|🖥️📖|
 Sep 19|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975363093-the-demon-sword-master-of-excalibur-academy-vol-9-light-novel)|9|Yen Press|🖥️📖|
 Sep 19|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975368005-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-4-light-novel)|4|Yen Press|🖥️📖|
-Sep 19|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975373511-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-6-light-novel)|6|Yen Press|🖥️📖|
+Sep 19|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975373511-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-6-light-novel)|6.1|Yen Press|🖥️📖|
+Sep 19|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975373511-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-6-light-novel-the-broken-and-abandoned)|6.2|Yen Press|🖥️📖|
 Sep 19|[The Saga of Tanya the Evil](https://yenpress.com/titles/9781975323523-the-saga-of-tanya-the-evil-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Sep 19|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975372606-the-vexations-of-a-shut-in-vampire-princess-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Sep 20|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-27)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -246,7 +247,8 @@ Nov 21|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the 
 Nov 21|[No Game No Life](https://yenpress.com/titles/9781975370350-no-game-no-life-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975350260-our-last-crusade-or-the-rise-of-a-new-world-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Rascal Does Not Dream](https://yenpress.com/titles/9781975375270-rascal-does-not-dream-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel)|6|Yen Press|🖥️📖|
+Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel)|6.1|Yen Press|🖥️📖|
+Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel-miraculous-final-cut)|6.2|Yen Press|🖥️📖|
 Nov 21|[Sword Art Online Alternative Gun Gale Online](https://yenpress.com/titles/9781975375232-sword-art-online-alternative-gun-gale-online-vol-13-light-novel)|13|Yen Press|🖥️📖|
 Nov 21|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975352202-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Nov 21|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368654-wandering-witch-the-journey-of-elaina-vol-12-light-novel)|12|Yen Press|🖥️📖|
