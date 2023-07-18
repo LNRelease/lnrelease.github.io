@@ -24,6 +24,7 @@ Jul 18|[Magical Explorer](https://yenpress.com/titles/9781975350512-magical-expl
 Jul 18|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975344290-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Jul 18|[Overlord](https://yenpress.com/titles/9781975367800-overlord-vol-16-light-novel-the-half-elf-demigod-part-ii)|16|Yen Press|🖥️📖|
 Jul 18|[Sabikui Bisco](https://yenpress.com/titles/9781975336899-sabikui-bisco-vol-5-light-novel)|5|Yen Press|🖥️📖|
+Jul 18|[Saving 80,000 Gold in Another World for my Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-2-light-novel)|2|Kodansha|🖥️📖|
 Jul 18|[Solo Leveling](https://yenpress.com/titles/9781975319410-solo-leveling-vol-8-novel)|8|Yen Press|🖥️📖|
 Jul 18|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 18|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975342029-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-10-light-novel)|10|Yen Press|🖥️📖|
@@ -32,8 +33,9 @@ Jul 18|[The Samurai and the Prisoner](https://yenpress.com/titles/9781975360504-
 Jul 18|[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://yenpress.com/titles/9781975367220-the-world-s-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Jul 18|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975334673-wandering-witch-the-journey-of-elaina-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Jul 18|[Words Bubble Up Like Soda Pop](https://yenpress.com/titles/9781975352776-words-bubble-up-like-soda-pop-light-novel)|1|Yen Press|🖥️📖|
+Jul 25|[Am I Actually the Strongest?](https://kodansha.us/product/am-i-actually-the-strongest-3-light-novel)|3|Kodansha|🖥️📖|
 Jul 25|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975350536-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-9-light-novel)|9|Yen Press|🖥️📖|
-Jul 25|[Chainsaw Man: Buddy Stories](https://www.viz.com/read/novel/chainsaw-man-buddy-stories/product/7517)|1|VIZ Media|🖥️📖|
+Jul 25|[Chainsaw Man: Buddy Stories](https://www.viz.com/read/novel/chainsaw-man-buddy-stories/product/7517/paperback)|1|VIZ Media|🖥️📖|
 Jul 25|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-16/)|16|Seven Seas Entertainment|🖥️📖|
 Jul 25|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 25|[Secrets of the Silent Witch](https://yenpress.com/titles/9781975370077-secrets-of-the-silent-witch-vol-4)|4|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -51,6 +53,7 @@ Aug 07|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#vol
 Aug 07|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-8)|8|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 08|[A Certain Magical Index: The Old Testament Omnibus Edition](https://yenpress.com/titles/9781975351588-a-certain-magical-index-the-old-testament-omnibus-edition)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 08|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-14/)|14|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Aug 08|[Summer Ghost](https://sevenseasentertainment.com/books/summer-ghost-light-novel/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 08|[You Can Have My Back](https://yenpress.com/titles/9781975363932-you-can-have-my-back-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Aug 15|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 15|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-23/)|23|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -82,14 +85,13 @@ Aug 22|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Sep 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Sep 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️📖|
 Sep 05|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance-of-a-bookworm#volume-20)|8|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-10)|10|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-12)|12|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-15/)|15|Seven Seas Entertainment|🖥️📖|
-Sep 19|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975352998-associate-professor-akira-takatsuki-s-conjecture-vol-2-light-novel-the-devil-is-in-the-details)|2|Yen Press|🖥️📖|
+Sep 19|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975352998-associate-professor-akira-takatsuki-s-conjecture-vol-2-light-novel-the-supernatural-hides-in-the-cracks)|2|Yen Press|🖥️📖|
 Sep 19|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367688-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Sep 19|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975343972-death-march-to-the-parallel-world-rhapsody-vol-19-light-novel)|19|Yen Press|🖥️📖|
 Sep 19|[Defeating the Demon Lord's a Cinch (If You've Got a Ringer)](https://yenpress.com/titles/9781975370251-defeating-the-demon-lord-s-a-cinch-if-you-ve-got-a-ringer-vol-5)|5|Yen Press|🖥️📖|
@@ -108,8 +110,7 @@ Sep 19|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/978197
 Sep 19|[The Deer King](https://yenpress.com/titles/9781975352332-the-deer-king-vol-1-novel-survivors)|1|Yen Press|🖥️📖|
 Sep 19|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975363093-the-demon-sword-master-of-excalibur-academy-vol-9-light-novel)|9|Yen Press|🖥️📖|
 Sep 19|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975368005-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-4-light-novel)|4|Yen Press|🖥️📖|
-Sep 19|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975373511-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-6-light-novel)|6.1|Yen Press|🖥️📖|
-Sep 19|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975373511-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-6-light-novel-the-broken-and-abandoned)|6.2|Yen Press|🖥️📖|
+Sep 19|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975373511-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-6-light-novel-the-broken-and-abandoned)|6|Yen Press|🖥️📖|
 Sep 19|[The Saga of Tanya the Evil](https://yenpress.com/titles/9781975323523-the-saga-of-tanya-the-evil-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Sep 19|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975372606-the-vexations-of-a-shut-in-vampire-princess-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Sep 19|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-10/)|10|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -143,7 +144,7 @@ Oct 17|[Sasaki and Peeps](https://yenpress.com/titles/9781975367909-sasaki-and-p
 Oct 17|[Suzume](https://yenpress.com/titles/9781975373061-suzume)|1|Yen Press|🖥️📖|
 Oct 17|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363895-the-ephemeral-scenes-of-setsuna-s-journey-vol-2-light-novel-the-former-68th-hero-and-the-dragon-maiden)|2|Yen Press|🖥️📖|
 Oct 17|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-holy-grail-of-eris-vol-4-light-novel)|4|Yen Press|🖥️📖|
-Oct 17|[The Lawyer in Shizuku-ishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizuku-ishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
+Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
 Oct 24|[Arifureta: From Commonplace to World's Strongest](https://sevenseasentertainment.com/books/arifureta-from-commonplace-to-worlds-strongest-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
@@ -174,8 +175,7 @@ Nov 21|[No Game No Life](https://yenpress.com/titles/9781975370350-no-game-no-li
 Nov 21|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975350260-our-last-crusade-or-the-rise-of-a-new-world-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378103-phantom-thief-red-vol-1)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 21|[Rascal Does Not Dream](https://yenpress.com/titles/9781975375270-rascal-does-not-dream-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel)|6.1|Yen Press|🖥️📖|
-Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel-miraculous-final-cut)|6.2|Yen Press|🖥️📖|
+Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel-miraculous-final-cut)|6|Yen Press|🖥️📖|
 Nov 21|[Sword Art Online Alternative Gun Gale Online](https://yenpress.com/titles/9781975375232-sword-art-online-alternative-gun-gale-online-vol-13-light-novel)|13|Yen Press|🖥️📖|
 Nov 21|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975352202-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Nov 21|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374044-the-misfit-of-demon-king-academy-vol-2-light-novel)|2|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -193,6 +193,7 @@ Date|Series|Volume|Publisher|Type|
 Dec 05|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Dec 05|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-16/)|16|Seven Seas Entertainment|🖥️📖|
 Dec 05|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Dec 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️📖|
 Dec 11|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-19)|19|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 11|[Slayers](https://j-novel.club/series/slayers#volume-11)|11|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 12|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
@@ -201,6 +202,7 @@ Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-t
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Dec 19|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Dec 19|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Dec 26|[Loyal Soldier, Lustful Beast](https://sevenseasentertainment.com/books/loyal-soldier-lustful-beast-light-novel/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|🖥️📖|
 Dec 26|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Dec 26|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
@@ -216,13 +218,15 @@ Jan 02|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://se
 Jan 02|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Jan 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-22)|1|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 08|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-27)|27|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jan 09|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 09|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 09|[The World's Fastest Level Up](https://sevenseasentertainment.com/books/the-worlds-fastest-level-up-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
-Jan 16|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
+Jan 16|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 16|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jan 23|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
 Jan 23|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jan 23|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
+Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jan 30|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jan 30|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 

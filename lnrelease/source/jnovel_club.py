@@ -1,7 +1,7 @@
 import datetime
 import warnings
 
-from utils import Format, Info, Series, Session
+from utils import Info, Series, Session
 
 # thanks for api
 NAME = 'J-Novel Club'
@@ -24,13 +24,13 @@ def parse(session: Session, serieskey: str, slug: str) -> set[Info]:
                 break
 
             title = book['title']
-            date = datetime.datetime.fromisoformat(book['publishing'][:10]).date()
+            date = datetime.date.fromisoformat(book['publishing'][:10])
             index = book['number']
             link = f'https://j-novel.club/series/{slug}#volume-{index}'
-            info.add(Info(serieskey, link, NAME, NAME, title, index, Format.DIGITAL, None, date))
+            info.add(Info(serieskey, link, NAME, NAME, title, index, 'Digital', None, date))
             if 'physicalPublishing' in book:
-                date = datetime.datetime.fromisoformat(book['physicalPublishing'][:10]).date()
-                info.add(Info(serieskey, link, NAME, NAME, title, index, Format.PHYSICAL, None, date))
+                date = datetime.date.fromisoformat(book['physicalPublishing'][:10])
+                info.add(Info(serieskey, link, NAME, NAME, title, index, 'Physical', None, date))
 
         if jsn['pagination']['lastPage']:
             break
@@ -38,11 +38,8 @@ def parse(session: Session, serieskey: str, slug: str) -> set[Info]:
     return info
 
 
-def scrape_full() -> tuple[set[Series], set[Info]]:
+def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     # everything because events only has digital releases
-    series = set()
-    info = set()
-
     with Session() as session:
         params = {
             'format': 'json',
@@ -69,11 +66,8 @@ def scrape_full() -> tuple[set[Series], set[Info]]:
     return series, info
 
 
-def scrape() -> tuple[set[Series], set[Info]]:
+def scrape(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     # get recentish series
-    series = set()
-    info = set()
-
     with Session() as session:
         page = session.get('https://labs.j-novel.club/app/v1/events?format=json')
         jsn = page.json()

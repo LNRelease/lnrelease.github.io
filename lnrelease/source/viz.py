@@ -4,50 +4,40 @@ from pathlib import Path
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
-from utils import Format, Info, Link, Series, Session, Table
+from utils import Info, Link, Series, Session, Table
 
 NAME = 'VIZ Media'
 
 PAGES = Path('viz.csv')
 
 
-def parse(session: Session, link: str) -> tuple[Series, Info] | None:
+def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date] | None:
+    info = set()
     page = session.get(link)
     soup = BeautifulSoup(page.content, 'html.parser')
 
     series_title = soup.find('strong', string='Series').find_next('a').text
     title = soup.select_one('div#purchase_links_block h2').text
     index = 0
-    formats = {x.text for x in soup.find(role='tablist').find_all('a')}
-    if any(x in formats for x in ('Paperback', 'Hardback', 'Hardcover')):
-        if 'Digital' in formats:
-            format = Format.PHYSICAL_DIGITAL
-        else:
-            format = Format.PHYSICAL
-    elif 'Digital' in formats:
-        format = Format.DIGITAL
-    else:
-        warnings.warn(f'{link} unknown format', RuntimeWarning)
-        format = Format.NONE
     isbn = soup.find('strong', string='ISBN-13').next_sibling.strip()
     date = soup.find('strong', string='Release').next_sibling.strip()
     date = datetime.datetime.strptime(date, '%B %d, %Y').date()
 
     series = Series(None, series_title)
-    info = Info(series.key, link, NAME, NAME, title, index, format, isbn, date)
-    return series, info
+    for a in soup.find(role='tablist').find_all('a'):
+        format = a.text
+        url = f'{link}/{format.lower()}'
+        info.add(Info(series.key, url, NAME, NAME, title, index, format, isbn, date))
+    return series, info, date
 
 
-def scrape_full(limit: int = 1000) -> tuple[set[Series], set[Info]]:
+def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
     limit += 1
     pages = Table(PAGES, Link)
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages.rows if not row.date or row.date < cutoff}
-
-    series = set()
-    info = set()
+    skip = {row.link for row in pages if not row.date or row.date < cutoff}
 
     with Session() as session:
         site = r'https://www.viz.com/search/{}?search=Novel&category=Novel'
@@ -65,8 +55,8 @@ def scrape_full(limit: int = 1000) -> tuple[set[Series], set[Info]]:
                     res = parse(session, link)
                     if res:
                         series.add(res[0])
-                        info.add(res[1])
-                        date = res[1].date
+                        info |= res[1]
+                        date = res[2]
                     else:
                         date = None
                     pages.add(Link(link, date))
@@ -75,9 +65,9 @@ def scrape_full(limit: int = 1000) -> tuple[set[Series], set[Info]]:
 
             if not results:
                 break
-    # pages.save()
+    pages.save()
     return series, info
 
 
-def scrape() -> tuple[set[Series], set[Info]]:
-    return scrape_full(5)
+def scrape(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
+    return scrape_full(series, info, 5)

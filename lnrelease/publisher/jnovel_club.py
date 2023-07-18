@@ -1,32 +1,37 @@
 import datetime
 import re
 
-from utils import Book, Format, Info, Series
+from utils import Book, Info, Series
 
-from . import bookwalker, check, guess, one, part, short, standard
+from . import check, copy, guess, one, part, secondary, short, standard
 
 NAME = 'J-Novel Club'
 
 BOOKWALKER = re.compile(r'(?P<volume>\d+\.?5?[^\s:\)]*)(?:: )?(?P<title>.+)?')
 
 
-def _parse(series: Series, info: list[Info], alts: set[Info]) -> list[Book]:
-    size = len(info)
-    books: list[Book] = [None] * size
+def _parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
+    books: dict[str, list[Book]] = {}
+    for format, lst in info.items():
+        books[format] = [None] * len(lst)
+    main_info = max(info.values(), key=len)
+    main_books = max(books.values(), key=len)
+    size = len(main_info)
 
     standard(series, info, books)
-    todo = [i for i, book in enumerate(books) if not book]
+    todo = [i for i, book in enumerate(main_books) if not book]
     if len(todo) == 0:  # done
         pass
-    elif all(' Volume ' in info[i].title for i in todo):  # multipart volume
+    elif all(' Volume ' in main_info[i].title for i in todo):  # multipart volume
         part(series, info, books)
     elif len(todo) < size - 1:  # probably short stories
         one(series, info, books)
     else:  # special volume name
-        bookwalker(series, info, alts, books)
+        secondary(series, info, alts, books)
         short(series, info, books)
         guess(series, info, books)
 
+    copy(series, info, books)
     check(series, info, books)
     return books
 
@@ -65,8 +70,8 @@ def omnibus(books: list[Book]) -> list[Book]:
     return books
 
 
-def parse(series: Series, info: list[Info], alts: set[Info]) -> list[Book]:
+def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
     books = _parse(series, info, alts)
-    if books[0].format == Format.PHYSICAL:
-        omnibus(books)
+    if 'Physical' in books:
+        omnibus(books['Physical'])
     return books

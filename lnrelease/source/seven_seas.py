@@ -3,7 +3,7 @@ import re
 import warnings
 
 from bs4 import BeautifulSoup
-from utils import Format, Info, Series, Session
+from utils import Info, Series, Session
 
 NAME = 'Seven Seas Entertainment'
 
@@ -39,16 +39,13 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
             isbn = None
 
         if physical_date:
-            info.add(Info(series.key, volume_link, NAME, NAME, title, index, Format.PHYSICAL, isbn, physical_date))
+            info.add(Info(series.key, volume_link, NAME, NAME, title, index, 'Physical', isbn, physical_date))
         if digital_date:
-            info.add(Info(series.key, volume_link, NAME, NAME, title, index, Format.DIGITAL, None, digital_date))
+            info.add(Info(series.key, volume_link, NAME, NAME, title, index, 'Digital', None, digital_date))
     return series, info
 
 
-def scrape_full() -> tuple[set[Series], set[Info]]:
-    series: set[Series] = set()
-    info: set[Info] = set()
-
+def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     with Session() as session:
         tag = r'https://sevenseasentertainment.com/tag/light-novels/page/{}/'
         for i in range(1, 100):
@@ -61,9 +58,9 @@ def scrape_full() -> tuple[set[Series], set[Info]]:
                     link = a.get('href')
                     title = a.text
                     res = parse(session, link, title)
-                    if len(res[1]) > 1:
+                    if len(res[1]) > 0:
                         series.add(res[0])
-                        info.update(res[1])
+                        info |= res[1]
                 except Exception as e:
                     warnings.warn(f'{link}: {e}', RuntimeWarning)
 
@@ -71,5 +68,4 @@ def scrape_full() -> tuple[set[Series], set[Info]]:
                     or (match := PAGES.fullmatch(pages.text))
                     and match.group('cur') == match.group('last')):
                 break
-
     return series, info

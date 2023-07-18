@@ -4,7 +4,7 @@ import warnings
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from utils import Format, Info, Link, Series, Session, Table
+from utils import Info, Link, Series, Session, Table
 
 NAME = 'BOOK☆WALKER'
 
@@ -33,20 +33,17 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
         return None
 
     series = Series(None, series_title)
-    info = Info(series.key, link, NAME, publisher, title, index, Format.DIGITAL, isbn, date)
+    info = Info(series.key, link, NAME, publisher, title, index, 'Digital', isbn, date)
     return series, info
 
 
-def scrape_full(limit: int = 1000) -> tuple[set[Series], set[Info]]:
+def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
     limit += 1
     pages = Table(PAGES, Link)
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages.rows if not row.date or row.date < cutoff}
-
-    series = set()
-    info = set()
+    skip = {row.link for row in pages if not row.date or row.date < cutoff}
 
     with Session() as session:
         session.cookies.set('glSafeSearch', '1')
@@ -85,5 +82,5 @@ def scrape_full(limit: int = 1000) -> tuple[set[Series], set[Info]]:
     return series, info
 
 
-def scrape() -> tuple[set[Series], set[Info]]:
-    return scrape_full(5)
+def scrape(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
+    return scrape_full(series, info, 5)

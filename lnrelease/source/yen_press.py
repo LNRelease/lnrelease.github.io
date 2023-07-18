@@ -4,7 +4,7 @@ import warnings
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from utils import Format, Info, Link, Series, Session, Table
+from utils import Info, Link, Series, Session, Table
 
 NAME = 'Yen Press'
 
@@ -16,6 +16,8 @@ LINK = re.compile(r'(https://yenpress.com)?/titles/(?P<isbn>\d{13})-(?P<name>[\w
 
 def parse(session: Session, link: str, isbn: str) -> None | tuple[Series, Info]:
     page = session.get(link)
+    if page.status_code == 404:
+        return None
     soup = BeautifulSoup(page.content, 'html.parser')
 
     details = soup.find(class_='book-details')
@@ -31,29 +33,20 @@ def parse(session: Session, link: str, isbn: str) -> None | tuple[Series, Info]:
     title = soup.find('h1', class_='heading').text
     date = datetime.datetime.strptime(details.select_one('span:-soup-contains("Release Date") + p').text,
                                       '%b %d, %Y').date()
-    match soup.find(class_='deliver active').text:
-        case 'Paperback' | 'Hardback':
-            format = Format.PHYSICAL
-        case 'Digital':
-            format = Format.DIGITAL
-        case _:
-            format = None
-            warnings.warn(f'{link} unknown format', RuntimeWarning)
+    format = soup.find(class_='deliver active').text
     series = Series(None, series_title)
     info = Info(series.key, link, NAME, NAME, title, 0, format, isbn, date)
     return series, info
 
 
-def scrape_full() -> tuple[set[Series], set[Info]]:
+def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     pages = Table(PAGES, Link)
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages.rows if not row.date or row.date < cutoff}
+    skip = {row.link for row in pages if not row.date or row.date < cutoff}
 
-    series: set[Series] = set()
-    # keep only smallest isbn on latest date of same title/format
-    info: dict[tuple[str, Format], Info] = {}
+    isbns: dict[str, Series] = {inf.isbn: inf for inf in info}
 
     with Session() as session:
         page = session.get('https://yenpress.com/sitemap.xml')
@@ -61,27 +54,23 @@ def scrape_full() -> tuple[set[Series], set[Info]]:
 
         for link in soup.find_all('loc', string=TITLES):
             link = link.text
-            if link in skip:
-                continue
             isbn = LINK.fullmatch(link).group('isbn')
+            if isbn in skip:
+                continue
 
             try:
                 res = parse(session, link, isbn)
                 if res:
-                    serie = res[0]
+                    series.add(res[0])
                     inf = res[1]
-
-                    key = (inf.title, inf.format)
-                    if (key not in info or inf.date > info[key].date
-                            or inf.date == info[key].date and inf.isbn < info[key].isbn):
-                        series.add(serie)
-                        info[key] = inf
+                    isbns[isbn] = inf
                     date = inf.date
                 else:
                     date = None
-                pages.add(Link(link, date))
+                if Link(isbn, None) not in pages:
+                    pages.add(Link(isbn, date))
             except Exception as e:
                 warnings.warn(f'{link}: {e}', RuntimeWarning)
 
     pages.save()
-    return series, set(info.values())
+    return series, set(isbns.values())

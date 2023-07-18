@@ -1,6 +1,9 @@
+import datetime
 import re
 import warnings
+from collections import Counter, defaultdict
 from difflib import get_close_matches
+from operator import attrgetter
 
 from utils import Book, Info, Series
 
@@ -11,7 +14,7 @@ OMNIBUS = re.compile(r'.+(?:Vol\.|\(?Volume) *(?P<volume>\d+-\d+)\)?')
 PART = re.compile(r'(?P<name>.+?):? Volume (?P<volume>\d+\.?5?) (?P<part>.+)')
 NUMBER = re.compile(r'\b(?P<volume>\d+\.?\d?)\b(?:: .+)?')
 SHORT = re.compile(r'\s*#?(?P<volume>\w{1,2})')
-BOOKWALKER = re.compile(r'(?P<volume>\d+\.?\d?[^\s:\)]*):? ?.*')
+SOURCE = re.compile(r'(?P<volume>\d+\.?\d?[^\s:\)]*):? ?.*')
 URL = re.compile(r'-volume-(?P<volume>\d+)')
 
 # number converter for volume parsing
@@ -43,36 +46,88 @@ def diff_list(titles: list[str]) -> list[str]:
     return [t[i:] for t in titles]
 
 
-def standard(series: Series, info: list[Info], books: list[Book]) -> bool:
-    # simple parsing
+def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
+    # apply volume in longest format to others
     changed = False
-    for i, inf in enumerate(info):
-        if match := PARSE.fullmatch(inf.title):
-            name = match.group('name')
-            vol = match.group('volume')
-        elif i == 0 and series.title == inf.title:
-            name = inf.title
-            vol = '1'
-        else:
+    main_info = max(info.values(), key=len)
+    main_books = max(books.values(), key=len)
+    main_diff = diff_list([i.title for i in main_info])
+    poss = {main_diff[i]: b for i, b in enumerate(main_books) if b}
+    titles = {inf.title: main_books[i] for i, inf in enumerate(main_info)}
+
+    for key, lst in books.items():
+        if len(lst) == 1 and not lst[0]:
+            inf = info[key][0]
+            lst[0] = Book(series.key, inf.link, inf.publisher, inf.title, '1', inf.format, inf.isbn, inf.date)
             continue
-        books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
-        changed = True
-    return changed
 
+        diff = diff_list([i.title for i in info[key]])
+        for i, book in enumerate(lst):
+            if book:
+                continue
 
-def omnibus(series: Series, info: list[Info], books: list[Book]) -> bool:
-    # omnibus voluems
-    changed = False
-    for i, inf in enumerate(info):
-        if match := OMNIBUS.fullmatch(inf.title):
-            name = series.title
-            vol = match.group('volume')
-            books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+            inf = info[key][i]
+            if inf.title in titles:
+                book = titles[inf.title]
+            elif match := get_close_matches(diff[i], poss, n=1, cutoff=0.95):
+                book = poss[match[0]]
+            else:
+                continue
+            books[key][i] = Book(series.key, inf.link, inf.publisher, book.name, book.volume, inf.format, inf.isbn, inf.date)
             changed = True
     return changed
 
 
-def guess(series: Series, info: list[Info], books: list[Book]) -> bool:
+def standard(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
+    # simple parsing
+    changed = False
+    for key, lst in info.items():
+        for i, inf in enumerate(lst):
+            if match := PARSE.fullmatch(inf.title):
+                name = match.group('name')
+                vol = match.group('volume')
+            elif i == 0 and series.title == inf.title:
+                name = inf.title
+                vol = '1'
+            else:
+                continue
+            books[key][i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+            changed = True
+    return changed
+
+
+def omnibus(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
+    # omnibus voluems
+    changed = False
+    for key, lst in info.items():
+        for i, inf in enumerate(lst):
+            if match := OMNIBUS.fullmatch(inf.title):
+                name = series.title
+                vol = match.group('volume')
+                books[key][i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+                changed = True
+    return changed
+
+
+def one(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
+    # assume remaining volumes are individual
+    changed = False
+    main_info = max(info.values(), key=len)
+    main_books = max(books.values(), key=len)
+
+    for i, book in enumerate(main_books):
+        if book:
+            continue
+
+        inf = main_info[i]
+        name = inf.title
+        vol = '1'
+        main_books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+        changed = True
+    return changed
+
+
+def _guess(series: Series, info: list[Info], books: list[Book]) -> bool:
     # guess volume by looking at previous
     changed = False
     for i, book in enumerate(books):
@@ -91,48 +146,46 @@ def guess(series: Series, info: list[Info], books: list[Book]) -> bool:
     return changed
 
 
-def short(series: Series, info: list[Info], books: list[Book]) -> bool:
+def guess(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
+    # guess volume by looking at previous
+    main_info = max(info.values(), key=len)
+    main_books = max(books.values(), key=len)
+    return _guess(series, main_info, main_books)
+
+
+def short(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
     # finds short string that looks right
     changed = False
-    diff = diff_list([sub_nums(i.title) for i in info])
-    for i, book in enumerate(books):
+    main_info = max(info.values(), key=len)
+    main_books = max(books.values(), key=len)
+    diff = diff_list([sub_nums(i.title) for i in main_info])
+
+    for i, book in enumerate(main_books):
         if book:
             continue
 
-        inf = info[i]
+        inf = main_info[i]
         match = NUMBER.fullmatch(diff[i]) or SHORT.fullmatch(diff[i])
         if not match:
             continue
         name = series.title
         vol = match.group('volume')
-        books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+        main_books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
         changed = True
     return changed
 
 
-def one(series: Series, info: list[Info], books: list[Book]) -> bool:
-    # assume remaining volumes are individual
-    changed = False
-    for i, book in enumerate(books):
-        if book:
-            continue
-
-        inf = info[i]
-        name = inf.title
-        vol = '1'
-        books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
-        changed = True
-    return changed
-
-
-def part(series: Series, info: list[Info], books: list[Book]) -> bool:
+def part(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
     # multipart volumes
     changed = False
-    for i, book in enumerate(books):
+    main_info = max(info.values(), key=len)
+    main_books = max(books.values(), key=len)
+
+    for i, book in enumerate(main_books):
         if book:
             continue
 
-        inf = info[i]
+        inf = main_info[i]
         if match := PART.fullmatch(inf.title):
             name = match.group('name')
             vol = match.group('volume')
@@ -142,51 +195,85 @@ def part(series: Series, info: list[Info], books: list[Book]) -> bool:
             name = inf.title
             vol = '1'
             warnings.warn(f'Part volume parsing error: {inf.title}', RuntimeWarning)
-        books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+        main_books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
         changed = True
     return changed
 
 
-def bookwalker(series: Series, info: list[Info], alts: list[Info], books: list[Book]) -> bool:
-    # checks bookwalker for numbers
+def url(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
+    # searches url for volume
     changed = False
-    alts = [x for x in alts if x.serieskey == series.key]
-    if not alts:
-        return False
+    main_info = max(info.values(), key=len)
+    main_books = max(books.values(), key=len)
 
-    diff = diff_list([i.title for i in info])
-    poss = diff_list([i.title for i in alts])
-    for i, inf in enumerate(info):
-        if ((close := get_close_matches(diff[i], poss, n=1, cutoff=0.01))
-                and (match := BOOKWALKER.fullmatch(close[0]))):
-            name = series.title
-            vol = match.group('volume')
-            books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
-            changed = True
-    dupes(books)
-
-    # replace index if unset
-    for i, inf in enumerate(info):
-        if inf.index == 0 and (close := get_close_matches(diff[i], poss, n=1, cutoff=0.01)):
-            inf.index = alts[poss.index(close[0])].index
-    info.sort()
-
-    return changed
-
-
-def url(series: Series, info: list[Info], books: list[Book]) -> bool:
-    # searches url for number
-    changed = False
-    for i, book in enumerate(books):
+    for i, book in enumerate(main_books):
         if book:
             continue
 
-        inf = info[i]
+        inf = main_info[i]
         if match := URL.search(inf.link):
             name = inf.title
             vol = match.group('volume')
-            books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+            main_books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
             changed = True
+    return changed
+
+
+def secondary(series: Series, info: dict[str, list[Info]], alts: list[Info], books: dict[str, list[Book]]) -> bool:
+    # check secondary sources
+    changed = False
+    sources: defaultdict[str, list[Info]] = defaultdict(list)
+    for x in alts:
+        if x.serieskey == series.key:
+            sources[x.source].append(x)
+    if not sources:
+        return False
+
+    poss: dict[str, dict[str, Info]] = {}
+    for source, lst in sources.items():
+        diff = diff_list([i.title for i in lst])
+        poss[source] = {x: lst[i] for i, x in enumerate(diff)}
+    today = datetime.date.today()
+    cutoff = today.replace(year=today.year-5)
+
+    # replace index if unset
+    for value in info.values():
+        diff = diff_list([i.title for i in value])
+        for i, inf in enumerate(value):
+            if inf.index == 0:
+                indicies: Counter[int] = Counter()
+                for source, pos in poss.items():
+                    if ((close := get_close_matches(diff[i], pos, n=1, cutoff=0.01))
+                            and (index := pos[close[0]].index) != 0):
+                        indicies[index] += 1
+                if index := indicies.most_common(1):
+                    inf.index = index[0][0]
+
+        # trust index if old series and multiple with same date
+        if (len({inf.date for inf in value}) != len(value)
+                and all(inf.date < cutoff for inf in value)):
+            value.sort(key=attrgetter('publisher', 'source', 'index'))
+        else:  # index unreliable for current series
+            value.sort()
+
+    # find volume in sources
+    main_info = max(info.values(), key=len)
+    main_books = max(books.values(), key=len)
+    diff = diff_list([i.title for i in main_info])
+
+    for i, inf in enumerate(main_info):
+        volumes: Counter[str] = Counter()
+        for source, pos in poss.items():
+            if ((close := get_close_matches(diff[i], pos, n=1, cutoff=0.01))
+                    and (match := SOURCE.fullmatch(close[0]))):
+                volumes[match.group('volume')] += 1
+        if volume := volumes.most_common(1):
+            name = series.title
+            vol = volume[0][0]
+            main_books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+            changed = True
+    dupes(main_books)
+
     return changed
 
 
@@ -212,21 +299,24 @@ def dupes(books: list[Book]) -> bool:
     return changed
 
 
-def check(series: Series, info: list[Info], books: list[Book]) -> list[Book]:
+def check(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> list[Book]:
     # check for errors
-    if guess(series, info, books):
-        warnings.warn(f'None volume found: {series.title}', RuntimeWarning)
-    if len(set(books)) != len(books):
-        dupes(books)
-        warnings.warn(f'Duplicate volume found: {series.title}', RuntimeWarning)
+    for key, lst in books.items():
+        if _guess(series, lst, books[key]):
+            warnings.warn(f'None volume found: {series.title}', RuntimeWarning)
+        if len(set(lst)) != len(lst):
+            dupes(lst)
+            warnings.warn(f'Duplicate volume found: {series.title}', RuntimeWarning)
     return books
 
 
-def parse(series: Series, info: list[Info], alts: set[Info]) -> list[Book]:
-    size = len(info)
-    books: list[Book] = [None] * size
+def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
+    books: dict[str, list[Book]] = {}
+    for format, lst in info.items():
+        books[format] = [None] * len(lst)
 
     standard(series, info, books)
     guess(series, info, books)
+    copy(series, info, books)
     check(series, info, books)
     return books
