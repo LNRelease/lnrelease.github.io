@@ -6,7 +6,7 @@ from utils import FORMATS, Info, Series, Session
 
 NAME = 'Kodansha'
 
-BRACKETS = re.compile(f'(?P<title>.+) \((?P<format>{"|".join(FORMATS)})\)')
+FORMAT = re.compile(f'(?P<title>.+) \((?P<format>{"|".join(FORMATS)})\)')
 
 
 def parse(session: Session, series: Series, link: str, format: str = '') -> set[Info]:
@@ -46,7 +46,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             title = content['title']
             link = f'https://api.kodansha.us/product/forSeries/{content["id"]}'
             format = ''
-            if match := BRACKETS.fullmatch(title):
+            if match := FORMAT.fullmatch(title):
                 title = match.group('title')
                 format = match.group('format')
             s = Series(None, title)

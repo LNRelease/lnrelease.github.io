@@ -16,11 +16,16 @@ from urllib3.util.retry import Retry
 HEADERS = {'User-Agent': 'lnrelease.github.io/1.1'}
 
 TITLE = re.compile(r' \((?:light )?novels?\)', flags=re.IGNORECASE)
+NONWORD = re.compile(r'\W')
 
 
 PHYSICAL = ['Physical', 'Hardcover', 'Hardback', 'Paperback']
 DIGITAL = ['Digital']
 FORMATS = {x: i for i, x in enumerate(PHYSICAL + DIGITAL)}
+
+
+def clean_str(s: str) -> str:
+    return NONWORD.sub('', unicodedata.normalize('NFKD', s)).lower()
 
 
 class Format(StrEnum):
@@ -71,7 +76,7 @@ class Series:
 
     def __post_init__(self) -> None:
         self.title = TITLE.sub('', self.title).replace('’', "'").strip()
-        self.key = self.key or re.sub(r'\W', '', unicodedata.normalize('NFKD', self.title)).lower()
+        self.key = self.key or clean_str(self.title)
 
     @classmethod
     def from_db(cls, key: str, title: str) -> Self:

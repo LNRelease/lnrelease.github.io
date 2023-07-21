@@ -26,7 +26,7 @@ Jul 07|[Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](h
 Jul 07|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-5)|4.2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jul 10|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance-of-a-bookworm#volume-19)|7|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 10|[Black Summoner](https://j-novel.club/series/black-summoner#volume-13)|13|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Jul 10|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-1)|1-2|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jul 10|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-1)|1-3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 10|[VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream](https://j-novel.club/series/vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jul 10|[Yuri Tama: From Third Wheel to Trifecta](https://j-novel.club/series/yuri-tama-from-third-wheel-to-trifecta#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jul 11|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -135,6 +135,7 @@ Aug 22|[The Detective Is Already Dead](https://yenpress.com/titles/9781975368975
 Aug 22|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975369033-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-5-novel)|5|Yen Press|🖥️📖|
 Aug 22|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 22|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975352875-the-princess-of-convenient-plot-devices-vol-3-light-novel)|3|Yen Press|🖥️📖|
+Aug 22|[The Wrong Way to Use Healing Magic](https://www.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-3)|3|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 22|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|4|Yen Press|🖥️📖|
 Aug 23|[The Greatest Magician's Ultimate Quest: I Woke from a 300 Year Slumber to a World of Disappointment](https://j-novel.club/series/the-greatest-magician-s-ultimate-quest-i-woke-from-a-300-year-slumber-to-a-world-of-disappointment#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 24|[I'm Not the Hero!](https://j-novel.club/series/i-m-not-the-hero#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -142,6 +143,7 @@ Aug 24|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https:/
 Aug 25|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 25|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 28|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-22)|22|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Aug 29|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-3)|3|One Peace Books|🖥️📖|
 Aug 30|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-7)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 31|[Moon Blossom Asura: The Ruthless Reincarnated Mercenary Forms the Ultimate Army](https://j-novel.club/series/moon-blossom-asura#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 31|[Revolutionary Reprise of the Blue Rose Princess](https://global.bookwalker.jp/debb342bdc-33f2-4f3b-85f2-02c451b8ada8/)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -159,11 +161,11 @@ Sep 11|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance
 Sep 11|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 11|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 11|[Lucia and the Loom: Weaving Her Way to Happiness](https://j-novel.club/series/lucia-and-the-loom-weaving-her-way-to-happiness#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-10)|10|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-12)|12|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-10)|10-12|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-15/)|15|Seven Seas Entertainment|🖥️📖|
+Sep 12|[NieR Replicant ver.1.22474487139... Project Gestalt Recollections File 1](https://www.rightstufanime.com/NieR-Replicant-ver-1-22474487139-Project-Gestalt-Recollections-File-1-Novel-Hardcover)|1|Square Enix Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 14|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 14|[The Master of Ragnarok & Blesser of Einherjar](https://j-novel.club/series/the-master-of-ragnarok-blesser-of-einherjar#volume-24)|24|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 15|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-23)|23|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -318,7 +320,6 @@ Dec 05|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://s
 Dec 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️📖|
 Dec 11|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-19)|19|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 11|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Dec 11|[Slayers](https://j-novel.club/series/slayers#volume-11)|11|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 12|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Dec 12|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|

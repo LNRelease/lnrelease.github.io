@@ -116,6 +116,7 @@ Aug 24|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https:/
 Aug 25|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 25|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 28|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-22)|22|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Aug 29|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-3)|3|One Peace Books|🖥️📖|
 Aug 30|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-7)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 31|[Moon Blossom Asura: The Ruthless Reincarnated Mercenary Forms the Ultimate Army](https://j-novel.club/series/moon-blossom-asura#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 31|[Revolutionary Reprise of the Blue Rose Princess](https://global.bookwalker.jp/debb342bdc-33f2-4f3b-85f2-02c451b8ada8/)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|

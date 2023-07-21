@@ -14,7 +14,7 @@ for file in Path('lnrelease/publisher').glob('*.py'):
     module = importlib.import_module(f'publisher.{file.stem}')
     PUBLISHERS[module.NAME] = module
 PRIMARY = {'J-Novel Club', 'Kodansha', 'Seven Seas Entertainment', 'VIZ Media', 'Yen Press'}
-SECONDARY = {'BOOK☆WALKER'}
+SECONDARY = {'BOOK☆WALKER', 'Right Stuf'}
 BOOKS = Path('books.csv')
 
 

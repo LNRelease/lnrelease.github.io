@@ -38,11 +38,11 @@ def diff_list(titles: list[str]) -> list[str]:
     # returns list from when strings start to differ
     s1 = min(titles)
     s2 = max(titles)
-    for i, c in enumerate(s1):
-        if c != s2[i]:
+    for i in range(len(s1)):
+        if s1[i] != s2[i]:
             break
     else:
-        i = len(s1)
+        i += 1
     return [t[i:] for t in titles]
 
 
@@ -52,29 +52,36 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
     main_info = max(info.values(), key=len)
     main_books = max(books.values(), key=len)
     main_diff = diff_list([i.title for i in main_info])
-    poss = {main_diff[i]: b for i, b in enumerate(main_books) if b}
-    titles = {inf.title: main_books[i] for i, inf in enumerate(main_info)}
+    poss = {d: b for d, b in zip(main_diff, main_books) if b}
+    titles = {inf.title: book for inf, book in zip(main_info, main_books)}
 
     for key, lst in books.items():
+        # single volume
         if len(lst) == 1 and not lst[0]:
             inf = info[key][0]
             lst[0] = Book(series.key, inf.link, inf.publisher, inf.title, '1', inf.format, inf.isbn, inf.date)
             continue
 
+        # find close match
         diff = diff_list([i.title for i in info[key]])
-        for i, book in enumerate(lst):
+        for i, (inf, book) in enumerate(zip(info[key], lst)):
             if book:
                 continue
 
-            inf = info[key][i]
             if inf.title in titles:
                 book = titles[inf.title]
             elif match := get_close_matches(diff[i], poss, n=1, cutoff=0.95):
                 book = poss[match[0]]
             else:
                 continue
-            books[key][i] = Book(series.key, inf.link, inf.publisher, book.name, book.volume, inf.format, inf.isbn, inf.date)
+            lst[i] = Book(series.key, inf.link, inf.publisher, book.name, book.volume, inf.format, inf.isbn, inf.date)
             changed = True
+
+        # assume same order
+        if all(x is None for x in lst) and len(lst) == len(main_books):
+            for i, (inf, book) in enumerate(zip(info[key], main_books)):
+                lst[i] = Book(series.key, inf.link, inf.publisher, book.name, book.volume, inf.format, inf.isbn, inf.date)
+
     return changed
 
 
@@ -115,11 +122,10 @@ def one(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]
     main_info = max(info.values(), key=len)
     main_books = max(books.values(), key=len)
 
-    for i, book in enumerate(main_books):
+    for i, (inf, book) in enumerate(zip(main_info, main_books)):
         if book:
             continue
 
-        inf = main_info[i]
         name = inf.title
         vol = '1'
         main_books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
@@ -130,11 +136,10 @@ def one(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]
 def _guess(series: Series, info: list[Info], books: list[Book]) -> bool:
     # guess volume by looking at previous
     changed = False
-    for i, book in enumerate(books):
+    for i, (inf, book) in enumerate(zip(info, books)):
         if book:
             continue
 
-        inf = info[i]
         if i == 0:
             vol = '1'
         else:
@@ -160,11 +165,10 @@ def short(series: Series, info: dict[str, list[Info]], books: dict[str, list[Boo
     main_books = max(books.values(), key=len)
     diff = diff_list([sub_nums(i.title) for i in main_info])
 
-    for i, book in enumerate(main_books):
+    for i, (inf, book) in enumerate(zip(main_info, main_books)):
         if book:
             continue
 
-        inf = main_info[i]
         match = NUMBER.fullmatch(diff[i]) or SHORT.fullmatch(diff[i])
         if not match:
             continue
@@ -181,11 +185,10 @@ def part(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
     main_info = max(info.values(), key=len)
     main_books = max(books.values(), key=len)
 
-    for i, book in enumerate(main_books):
+    for i, (inf, book) in enumerate(zip(main_info, main_books)):
         if book:
             continue
 
-        inf = main_info[i]
         if match := PART.fullmatch(inf.title):
             name = match.group('name')
             vol = match.group('volume')
@@ -206,11 +209,10 @@ def url(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]
     main_info = max(info.values(), key=len)
     main_books = max(books.values(), key=len)
 
-    for i, book in enumerate(main_books):
+    for i, (inf, book) in enumerate(zip(main_info, main_books)):
         if book:
             continue
 
-        inf = main_info[i]
         if match := URL.search(inf.link):
             name = inf.title
             vol = match.group('volume')
@@ -223,30 +225,31 @@ def secondary(series: Series, info: dict[str, list[Info]], alts: list[Info], boo
     # check secondary sources
     changed = False
     sources: defaultdict[str, list[Info]] = defaultdict(list)
-    for x in alts:
-        if x.serieskey == series.key:
-            sources[x.source].append(x)
+    for alt in alts:
+        if alt.serieskey == series.key:
+            sources[alt.source].append(alt)
     if not sources:
         return False
+    sources = dict(sorted(sources.items()))
 
     poss: dict[str, dict[str, Info]] = {}
     for source, lst in sources.items():
         diff = diff_list([i.title for i in lst])
-        poss[source] = {x: lst[i] for i, x in enumerate(diff)}
+        poss[source] = {x: i for x, i in zip(diff, lst)}
     today = datetime.date.today()
     cutoff = today.replace(year=today.year-5)
 
     # replace index if unset
     for value in info.values():
         diff = diff_list([i.title for i in value])
-        for i, inf in enumerate(value):
+        for dif, inf in zip(diff, value):
             if inf.index == 0:
-                indicies: Counter[int] = Counter()
+                indices: Counter[int] = Counter()
                 for source, pos in poss.items():
-                    if ((close := get_close_matches(diff[i], pos, n=1, cutoff=0.01))
-                            and (index := pos[close[0]].index) != 0):
-                        indicies[index] += 1
-                if index := indicies.most_common(1):
+                    if ((close := get_close_matches(dif, pos, n=1, cutoff=0.01))
+                            and (p := pos[close[0]]) and p.index != 0):
+                        indices[p.index] += 1 + (inf.format == p.format) + (inf.publisher == p.publisher)
+                if index := indices.most_common(1):
                     inf.index = index[0][0]
 
         # trust index if old series and multiple with same date
@@ -261,12 +264,14 @@ def secondary(series: Series, info: dict[str, list[Info]], alts: list[Info], boo
     main_books = max(books.values(), key=len)
     diff = diff_list([i.title for i in main_info])
 
-    for i, inf in enumerate(main_info):
+    for i, (dif, inf) in enumerate(zip(diff, main_info)):
         volumes: Counter[str] = Counter()
         for source, pos in poss.items():
-            if ((close := get_close_matches(diff[i], pos, n=1, cutoff=0.01))
+            if ((close := get_close_matches(dif, pos, n=1, cutoff=0.01))
                     and (match := SOURCE.fullmatch(close[0]))):
-                volumes[match.group('volume')] += 1
+                p = pos[close[0]]
+                vol = match.group('volume')
+                volumes[vol] += 1 + (inf.format == p.format) + (inf.publisher == p.publisher)
         if volume := volumes.most_common(1):
             name = series.title
             vol = volume[0][0]
@@ -302,7 +307,7 @@ def dupes(books: list[Book]) -> bool:
 def check(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> list[Book]:
     # check for errors
     for key, lst in books.items():
-        if _guess(series, lst, books[key]):
+        if _guess(series, info[key], lst):
             warnings.warn(f'None volume found: {series.title}', RuntimeWarning)
         if len(set(lst)) != len(lst):
             dupes(lst)

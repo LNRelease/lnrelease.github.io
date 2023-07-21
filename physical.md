@@ -12,7 +12,7 @@ Date|Series|Volume|Publisher|Type|
 Jul 04|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 04|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 10|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance-of-a-bookworm#volume-19)|7|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Jul 10|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-1)|1-2|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jul 10|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-1)|1-3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 11|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 11|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-19/)|19|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 11|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -78,7 +78,9 @@ Aug 22|[The Detective Is Already Dead](https://yenpress.com/titles/9781975368975
 Aug 22|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975369033-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-5-novel)|5|Yen Press|🖥️📖|
 Aug 22|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 22|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975352875-the-princess-of-convenient-plot-devices-vol-3-light-novel)|3|Yen Press|🖥️📖|
+Aug 22|[The Wrong Way to Use Healing Magic](https://www.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-3)|3|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 22|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|4|Yen Press|🖥️📖|
+Aug 29|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-3)|3|One Peace Books|🖥️📖|
 
 ### September
 
@@ -87,10 +89,10 @@ Date|Series|Volume|Publisher|Type|
 Sep 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 05|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance-of-a-bookworm#volume-20)|8|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-10)|10|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-12)|12|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-10)|10-12|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-15/)|15|Seven Seas Entertainment|🖥️📖|
+Sep 12|[NieR Replicant ver.1.22474487139... Project Gestalt Recollections File 1](https://www.rightstufanime.com/NieR-Replicant-ver-1-22474487139-Project-Gestalt-Recollections-File-1-Novel-Hardcover)|1|Square Enix Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 19|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975352998-associate-professor-akira-takatsuki-s-conjecture-vol-2-light-novel-the-supernatural-hides-in-the-cracks)|2|Yen Press|🖥️📖|
 Sep 19|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367688-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Sep 19|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975343972-death-march-to-the-parallel-world-rhapsody-vol-19-light-novel)|19|Yen Press|🖥️📖|
@@ -195,7 +197,6 @@ Dec 05|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-
 Dec 05|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️📖|
 Dec 11|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-19)|19|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 11|[Slayers](https://j-novel.club/series/slayers#volume-11)|11|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 12|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Dec 12|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
