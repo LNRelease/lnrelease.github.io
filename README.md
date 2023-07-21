@@ -70,6 +70,7 @@ Jul 25|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the 
 Jul 25|[Secrets of the Silent Witch](https://yenpress.com/titles/9781975370077-secrets-of-the-silent-witch-vol-4)|4|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 25|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-8/)|8|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 25|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jul 25|[The Ryuo's Work is Never Done!](https://global.bookwalker.jp/ded0263f46-3ce5-42ab-9499-1e47df4e180c/)|17|SB Creative|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jul 26|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-26)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jul 26|[Only the Villainous Lord Wields the Power to Level Up](https://j-novel.club/series/only-the-villainous-lord-wields-the-power-to-level-up#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jul 27|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -258,11 +259,13 @@ Oct 17|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-ho
 Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
 Oct 20|[Fiancée No More: The Forsaken Lady, the Prince, and Their Make-Believe Love](https://j-novel.club/series/fianc-e-no-more-the-forsaken-lady-the-prince-and-their-make-believe-love#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 20|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 23|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28)|28|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 24|[Arifureta: From Commonplace to World's Strongest](https://sevenseasentertainment.com/books/arifureta-from-commonplace-to-worlds-strongest-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Oct 25|[Only the Villainous Lord Wields the Power to Level Up](https://j-novel.club/series/only-the-villainous-lord-wields-the-power-to-level-up#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 25|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[Seventh](https://j-novel.club/series/seventh#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 27|[Stuck in a Time Loop: When All Else Fails, Be a Villainess](https://j-novel.club/series/stuck-in-a-time-loop-when-all-else-fails-be-a-villainess#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[The Game Master Has Logged In to Another World](https://j-novel.club/series/the-game-master-has-logged-into-a-different-world#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
