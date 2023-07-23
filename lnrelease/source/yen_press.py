@@ -67,8 +67,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     date = inf.date
                 else:
                     date = None
-                if Link(isbn, None) not in pages:
-                    pages.add(Link(isbn, date))
+                pages.replace(Link(isbn, date))
             except Exception as e:
                 warnings.warn(f'{link}: {e}', RuntimeWarning)
 

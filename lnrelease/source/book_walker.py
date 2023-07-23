@@ -71,7 +71,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                         date = res[1].date
                     else:
                         date = None
-                    pages.add(Link(link, date))
+                    pages.replace(Link(link, date))
                 except Exception as e:
                     warnings.warn(f'{link}: {e}', RuntimeWarning)
 
