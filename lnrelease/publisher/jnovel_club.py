@@ -1,6 +1,5 @@
 import datetime
 import re
-import warnings
 from collections import Counter, defaultdict
 
 from utils import Book, Info, Series

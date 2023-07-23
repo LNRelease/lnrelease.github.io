@@ -15,6 +15,7 @@ Jul 10|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance
 Jul 10|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-1)|1-3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 11|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 11|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-19/)|19|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jul 11|[KATANAGATARI](https://kodansha.us/product/katanagatari-4)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 11|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 11|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 18|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344252-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-4-light-novel)|4|Yen Press|🖥️📖|
@@ -62,30 +63,30 @@ Aug 22|[Bride of the Barrier Master](https://yenpress.com/titles/9781975370336-b
 Aug 22|[Cross-Dressing Villainess Cecilia Sylvie](https://yenpress.com/titles/9781975368593-cross-dressing-villainess-cecilia-sylvie-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Aug 22|[Hollow Regalia](https://yenpress.com/titles/9781975368616-hollow-regalia-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Aug 22|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9781975333973-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-3-light-novel)|3|Yen Press|🖥️📖|
-Aug 22|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334154-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Aug 22|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975368227-kunon-the-sorcerer-can-see-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Aug 22|[Liar, Liar](https://yenpress.com/titles/9781975370596-liar-liar-vol-1)|1|Yen Press|🖥️📖|
 Aug 22|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 22|[Looks Are All You Need](https://yenpress.com/titles/9781975371258-looks-are-all-you-need-vol-1-shiika-s-crescendo)|1|Yen Press|🖥️📖|
 Aug 22|[Sasaki and Miyano: Second-Years](https://yenpress.com/titles/9781975364458-sasaki-and-miyano-second-years-vol-2)|2|Yen Press|🖥️📖|
 Aug 22|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368265-sentenced-to-be-a-hero-vol-1-light-novel-the-prison-records-of-penal-hero-unit-9004)|1|Yen Press|🖥️📖|
 Aug 22|[Spice and Wolf](https://yenpress.com/titles/9781975370312-spice-and-wolf-vol-24-light-novel-spring-log-vii)|24|Yen Press|🖥️📖|
 Aug 22|[Spy Classroom](https://yenpress.com/titles/9781975350284-spy-classroom-vol-6-light-novel-pandemonium-thy-name-is-sybilla)|6|Yen Press|🖥️📖|
 Aug 22|[Sword Art Online](https://yenpress.com/titles/9781975369774-sword-art-online-27-light-novel)|27|Yen Press|🖥️📖|
 Aug 22|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975369750-that-time-i-got-reincarnated-as-a-slime-vol-16-light-novel)|16|Yen Press|🖥️📖|
-Aug 22|[The Asterisk War](https://yenpress.com/titles/9781975369095-the-asterisk-war-vol-17-light-novel-the-grand-finale)|17|Yen Press|🖥️📖|
 Aug 22|[The Detective Is Already Dead](https://yenpress.com/titles/9781975368975-the-detective-is-already-dead-vol-6)|6|Yen Press|🖥️📖|
 Aug 22|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975369033-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-5-novel)|5|Yen Press|🖥️📖|
 Aug 22|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 22|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975352875-the-princess-of-convenient-plot-devices-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Aug 22|[The Wrong Way to Use Healing Magic](https://www.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-3)|3|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 22|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|4|Yen Press|🖥️📖|
+Aug 29|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334154-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-6-light-novel)|6|Yen Press|🖥️📖|
+Aug 29|[Liar, Liar](https://yenpress.com/titles/9781975370596-liar-liar-vol-1)|1|Yen Press|🖥️📖|
+Aug 29|[Looks Are All You Need](https://yenpress.com/titles/9781975371258-looks-are-all-you-need-vol-1-shiika-s-crescendo)|1|Yen Press|🖥️📖|
 Aug 29|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-3)|3|One Peace Books|🖥️📖|
+Aug 29|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|4|Yen Press|🖥️📖|
 
 ### September
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Sep 05|[The Asterisk War](https://yenpress.com/titles/9781975369095-the-asterisk-war-vol-17-light-novel-the-grand-finale)|17|Yen Press|🖥️📖|
 Sep 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 05|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance-of-a-bookworm#volume-20)|8|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|

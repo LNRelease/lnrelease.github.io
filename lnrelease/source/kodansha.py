@@ -13,47 +13,51 @@ def parse(session: Session, series: Series, link: str, format: str = '') -> set[
     info = set()
 
     page = session.get(link)
-    jsn = page.json()
+    jsn = page.json()['response']
 
-    for index, book in enumerate(jsn, start=1):
-        slug = book['readableUrl'] if 'readableUrl' in book else book['id']
-        url = f'https://kodansha.us/product/{slug}'
-        title = book['name']
-        readable = book['readable']
-        isbn = readable['isbn']
-        date = datetime.date.fromisoformat(readable['releaseDate'][:10])
-        format = format or readable['coverType']
-        info.add(Info(series.key, url, NAME, NAME, title, index, format, isbn, date))
+    slug = jsn['readableUrl'] if 'readableUrl' in jsn else jsn['id']
+    url = f'https://kodansha.us/product/{slug}'
+    title = jsn['name']
+    readable = jsn['readable']
+    isbn = readable['isbn']
+    date = datetime.date.fromisoformat(readable['printReleaseDate'][:10])
+    format = format or readable['coverType']
+    info.add(Info(series.key, url, NAME, NAME, title, 0, format, isbn, date))
 
-        if eisbn := readable['eisbn']:
-            if 'digitalReleaseDate' in readable:
-                date = datetime.date.fromisoformat(readable['digitalReleaseDate'][:10])
-            info.add(Info(series.key, url, NAME, NAME, title, index, 'Digital', eisbn, date))
+    if eisbn := readable['eisbn']:
+        edate = datetime.date.fromisoformat(readable['digitalReleaseDate'][:10])
+        info.add(Info(series.key, url, NAME, NAME, title, 0, 'Digital', eisbn, edate))
 
     return info
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
+    isbns: dict[str, Series] = {inf.isbn: inf for inf in info}
+
     with Session() as session:
         params = {'subCategory': 'Book',
-                  'includeSeries': 'True',
                   'fromIndex': '0',
                   'count': '1000'}
         page = session.get('https://api.kodansha.us/discover/v2', params=params)
         jsn = page.json()
-        for serie in jsn['response']:
-            content = serie['content']
-            title = content['title']
-            link = f'https://api.kodansha.us/product/forSeries/{content["id"]}'
+        for book in jsn['response']:
+            content = book['content']
+            if 'seriesName' not in content:
+                continue
+
+            title = content['seriesName']
             format = ''
             if match := FORMAT.fullmatch(title):
                 title = match.group('title')
                 format = match.group('format')
-            s = Series(None, title)
-            if s in series:  # filter for light novels
+            serie = Series(None, title)
+
+            if serie in series:  # filter for light novels
+                link = f'https://api.kodansha.us/product/{content["id"]}'
                 try:
-                    info |= parse(session, s, link, format)
+                    for inf in parse(session, serie, link, format):
+                        isbns[inf.isbn] = inf
                 except Exception as e:
                     warnings.warn(f'{link}: {e}', RuntimeWarning)
 
-    return series, info
+    return series, set(isbns.values())

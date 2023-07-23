@@ -94,10 +94,7 @@ Aug 22|[Bride of the Barrier Master](https://yenpress.com/titles/9781975370336-b
 Aug 22|[Cross-Dressing Villainess Cecilia Sylvie](https://yenpress.com/titles/9781975368593-cross-dressing-villainess-cecilia-sylvie-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Aug 22|[Hollow Regalia](https://yenpress.com/titles/9781975368616-hollow-regalia-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Aug 22|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9781975333973-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-3-light-novel)|3|Yen Press|🖥️📖|
-Aug 22|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334154-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Aug 22|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975368227-kunon-the-sorcerer-can-see-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Aug 22|[Liar, Liar](https://yenpress.com/titles/9781975370596-liar-liar-vol-1)|1|Yen Press|🖥️📖|
-Aug 22|[Looks Are All You Need](https://yenpress.com/titles/9781975371258-looks-are-all-you-need-vol-1-shiika-s-crescendo)|1|Yen Press|🖥️📖|
 Aug 22|[Otherside Picnic](https://j-novel.club/series/otherside-picnic#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 22|[Sasaki and Miyano: Second-Years](https://yenpress.com/titles/9781975364458-sasaki-and-miyano-second-years-vol-2)|2|Yen Press|🖥️📖|
 Aug 22|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368265-sentenced-to-be-a-hero-vol-1-light-novel-the-prison-records-of-penal-hero-unit-9004)|1|Yen Press|🖥️📖|
@@ -105,18 +102,20 @@ Aug 22|[Spice and Wolf](https://yenpress.com/titles/9781975370312-spice-and-wolf
 Aug 22|[Spy Classroom](https://yenpress.com/titles/9781975350284-spy-classroom-vol-6-light-novel-pandemonium-thy-name-is-sybilla)|6|Yen Press|🖥️📖|
 Aug 22|[Sword Art Online](https://yenpress.com/titles/9781975369774-sword-art-online-27-light-novel)|27|Yen Press|🖥️📖|
 Aug 22|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975369750-that-time-i-got-reincarnated-as-a-slime-vol-16-light-novel)|16|Yen Press|🖥️📖|
-Aug 22|[The Asterisk War](https://yenpress.com/titles/9781975369095-the-asterisk-war-vol-17-light-novel-the-grand-finale)|17|Yen Press|🖥️📖|
 Aug 22|[The Detective Is Already Dead](https://yenpress.com/titles/9781975368975-the-detective-is-already-dead-vol-6)|6|Yen Press|🖥️📖|
 Aug 22|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975369033-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-5-novel)|5|Yen Press|🖥️📖|
 Aug 22|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975352875-the-princess-of-convenient-plot-devices-vol-3-light-novel)|3|Yen Press|🖥️📖|
-Aug 22|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|4|Yen Press|🖥️📖|
 Aug 23|[The Greatest Magician's Ultimate Quest: I Woke from a 300 Year Slumber to a World of Disappointment](https://j-novel.club/series/the-greatest-magician-s-ultimate-quest-i-woke-from-a-300-year-slumber-to-a-world-of-disappointment#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 24|[I'm Not the Hero!](https://j-novel.club/series/i-m-not-the-hero#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 24|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 25|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 25|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 28|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-22)|22|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Aug 29|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334154-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-6-light-novel)|6|Yen Press|🖥️📖|
+Aug 29|[Liar, Liar](https://yenpress.com/titles/9781975370596-liar-liar-vol-1)|1|Yen Press|🖥️📖|
+Aug 29|[Looks Are All You Need](https://yenpress.com/titles/9781975371258-looks-are-all-you-need-vol-1-shiika-s-crescendo)|1|Yen Press|🖥️📖|
 Aug 29|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-3)|3|One Peace Books|🖥️📖|
+Aug 29|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|4|Yen Press|🖥️📖|
 Aug 30|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-7)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 31|[Moon Blossom Asura: The Ruthless Reincarnated Mercenary Forms the Ultimate Army](https://j-novel.club/series/moon-blossom-asura#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 31|[Revolutionary Reprise of the Blue Rose Princess](https://global.bookwalker.jp/debb342bdc-33f2-4f3b-85f2-02c451b8ada8/)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -127,6 +126,7 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Sep 01|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 01|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-20)|20|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Sep 05|[The Asterisk War](https://yenpress.com/titles/9781975369095-the-asterisk-war-vol-17-light-novel-the-grand-finale)|17|Yen Press|🖥️📖|
 Sep 08|[Culinary Chronicles of the Court Flower](https://j-novel.club/series/culinary-chronicles-of-the-court-flower#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 11|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 11|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
