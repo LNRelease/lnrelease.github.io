@@ -56,7 +56,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     s = Series(None, serie['title'])
                     series.add(s)
                     try:
-                        info |= parse(session, s.key, serie['slug'])
+                        inf = parse(session, s.key, serie['slug'])
+                        info -= inf
+                        info |= inf
                     except Exception as e:
                         warnings.warn(f'{serie["slug"]}: {e}', RuntimeWarning)
 
@@ -78,5 +80,7 @@ def scrape(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]
                     and 'pulp' not in serie['tags']):
                 s = Series(None, serie['title'])
                 series.add(s)
-                info |= parse(session, s.key, serie['slug'])
+                inf = parse(session, s.key, serie['slug'])
+                info -= inf
+                info |= inf
     return series, info

@@ -260,10 +260,6 @@ class Table(set[Link | Info | Book | Series]):
         with open(self.file, 'w', encoding='utf-8', newline='') as f:
             csv.writer(f).writerows(sorted(self))
 
-    def replace(self, elem: Link | Info | Book | Series) -> None:
-        self.discard(elem)
-        self.add(elem)
-
 
 class Session(requests.Session):
     def __init__(self) -> None:

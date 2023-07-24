@@ -107,6 +107,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                 res = parse(item)
                 if res:
                     series.add(res[0])
+                    info.discard(res[1])
                     info.add(res[1])
 
             for l in jsn['links']:

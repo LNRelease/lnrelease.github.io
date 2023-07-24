@@ -2,6 +2,7 @@ import datetime
 import re
 import warnings
 from pathlib import Path
+from random import random
 
 from bs4 import BeautifulSoup
 from utils import Info, Link, Series, Session, Table
@@ -44,7 +45,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages if not row.date or row.date < cutoff}
+    skip = {row.link for row in pages if random() < 0.9 and (not row.date or row.date < cutoff)}
 
     isbns: dict[str, Series] = {inf.isbn: inf for inf in info}
 
@@ -67,7 +68,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     date = inf.date
                 else:
                     date = None
-                pages.replace(Link(isbn, date))
+                l = Link(isbn, date)
+                pages.discard(l)
+                pages.add(l)
             except Exception as e:
                 warnings.warn(f'{link}: {e}', RuntimeWarning)
 

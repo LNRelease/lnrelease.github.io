@@ -2,6 +2,7 @@ import datetime
 import json
 import warnings
 from pathlib import Path
+from random import random
 
 from bs4 import BeautifulSoup
 from utils import Info, Link, Series, Session, Table
@@ -43,7 +44,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages if not row.date or row.date < cutoff}
+    skip = {row.link for row in pages if random() < 0.9 and (not row.date or row.date < cutoff)}
 
     with Session() as session:
         session.cookies.set('glSafeSearch', '1')
@@ -67,11 +68,14 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                     res = parse(session, link)
                     if res:
                         series.add(res[0])
+                        info.discard(res[1])
                         info.add(res[1])
                         date = res[1].date
                     else:
                         date = None
-                    pages.replace(Link(link, date))
+                    l = Link(link, date)
+                    pages.discard(l)
+                    pages.add(l)
                 except Exception as e:
                     warnings.warn(f'{link}: {e}', RuntimeWarning)
 
