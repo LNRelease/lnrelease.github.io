@@ -40,7 +40,7 @@ def main() -> None:
     for book in Table(BOOKS, Book):
         releases[Release(*book)].append(book)
     for release, books in releases.items():
-        books.sort(key=lambda x: FORMATS[x.format])
+        books.sort(key=lambda x: FORMATS.get(x.format, 0))
         formats = {Format.from_str(x.format) for x in books}
         release.format = formats.pop() if len(formats) == 1 else Format.PHYSICAL_DIGITAL
         book = books[0]

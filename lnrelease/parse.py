@@ -41,7 +41,7 @@ def main():
         inf: defaultdict[str, list[Info]] = defaultdict(list)
         for i in group:
             inf[i.format].append(i)
-        inf = dict(sorted(inf.items(), key=lambda x: FORMATS[x[0]]))
+        inf = dict(sorted(inf.items(), key=lambda x: FORMATS.get(x[0], 0)))
         for x in module.parse(serie, inf, alts).values():
             books.update(x)
     books.save()

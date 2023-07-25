@@ -5,7 +5,7 @@ from pathlib import Path
 from random import random
 
 from bs4 import BeautifulSoup
-from utils import Info, Link, Series, Session, Table
+from utils import FORMATS, Info, Link, Series, Session, Table
 
 NAME = 'Yen Press'
 
@@ -22,8 +22,10 @@ def parse(session: Session, link: str, isbn: str) -> None | tuple[Series, Info]:
     soup = BeautifulSoup(page.content, 'html.parser')
 
     details = soup.find(class_='book-details')
+    format = soup.find(class_='deliver active').text
     # category of ebooks is inconsistent
-    if (not soup.select_one('div.breadcrumbs > a[href="/category/light-novels"]')
+    if (format not in FORMATS or
+        not soup.select_one('div.breadcrumbs > a[href="/category/light-novels"]')
             and details.select_one('span:-soup-contains("Imprint") + p').text != 'Yen On'):
         return None
 
@@ -34,7 +36,6 @@ def parse(session: Session, link: str, isbn: str) -> None | tuple[Series, Info]:
     title = soup.find('h1', class_='heading').text
     date = datetime.datetime.strptime(details.select_one('span:-soup-contains("Release Date") + p').text,
                                       '%b %d, %Y').date()
-    format = soup.find(class_='deliver active').text
     series = Series(None, series_title)
     info = Info(series.key, link, NAME, NAME, title, 0, format, isbn, date)
     return series, info
