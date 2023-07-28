@@ -77,15 +77,15 @@ Aug 22|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://s
 Aug 22|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975352875-the-princess-of-convenient-plot-devices-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Aug 22|[The Wrong Way to Use Healing Magic](https://www.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-3)|3|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Aug 29|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334154-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-6-light-novel)|6|Yen Press|🖥️📖|
-Aug 29|[Liar, Liar](https://yenpress.com/titles/9781975370596-liar-liar-vol-1)|1|Yen Press|🖥️📖|
 Aug 29|[Looks Are All You Need](https://yenpress.com/titles/9781975371258-looks-are-all-you-need-vol-1-shiika-s-crescendo)|1|Yen Press|🖥️📖|
 Aug 29|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-3)|3|One Peace Books|🖥️📖|
-Aug 29|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|4|Yen Press|🖥️📖|
+Aug 29|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|4|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
 ### September
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Sep 05|[Liar, Liar](https://yenpress.com/titles/9781975370596-liar-liar-vol-1-apparently-the-lying-transfer-student-dominates-games-by-cheating)|1|Yen Press|🖥️📖|
 Sep 05|[The Asterisk War](https://yenpress.com/titles/9781975369095-the-asterisk-war-vol-17-light-novel-the-grand-finale)|17|Yen Press|🖥️📖|
 Sep 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 05|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -172,7 +172,7 @@ Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaw
 Nov 21|[High School DxD](https://yenpress.com/titles/9781975350383-high-school-dxd-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Horror Collector](https://yenpress.com/titles/9781975378226-horror-collector-vol-1)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 21|[Ishura](https://yenpress.com/titles/9781975363079-ishura-vol-5)|5|Yen Press|🖥️📖|
-Nov 21|[Liar, Liar](https://yenpress.com/titles/9781975370619-liar-liar-vol-2)|2|Yen Press|🖥️📖|
+Nov 21|[Liar, Liar](https://yenpress.com/titles/9781975370619-liar-liar-vol-2-the-lying-transfer-student-is-targeted-by-the-little-devil)|2|Yen Press|🖥️📖|
 Nov 21|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Nov 21|[No Game No Life](https://yenpress.com/titles/9781975370350-no-game-no-life-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975350260-our-last-crusade-or-the-rise-of-a-new-world-vol-12-light-novel)|12|Yen Press|🖥️📖|
