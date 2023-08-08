@@ -31,6 +31,7 @@ def main() -> None:
             else:
                 print(f'{futures[future]} done')
 
+    series -= series - {Series(i.serieskey, '') for i in info}
     series.save()
     info.clear()
     for inf in sources.values():
