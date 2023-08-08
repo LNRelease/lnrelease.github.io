@@ -28,6 +28,7 @@ PUBLISHERS = {
     'DIGITAL MANGA PUBLISHING': 'Digital Manga Publishing',
     'EREWHON BOOKS': '',
     'J-NOVEL CLUB': 'J-Novel Club',
+    'JNC': 'J-Novel Club',
     'J-NOVEL HEART': 'J-Novel Club',
     'KNOPF PUBLISHERS': '',
     'KODANSHA COMICS': '',

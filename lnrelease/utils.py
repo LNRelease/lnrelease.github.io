@@ -277,4 +277,7 @@ class Session(requests.Session):
 
     def get(self, url, timeout=1000, **kwargs) -> requests.Response:
         kwargs['timeout'] = timeout
-        return super().get(url, **kwargs)
+        page = super().get(url, **kwargs)
+        if page.status_code != 200:
+            warnings.warn(f'Not OK status code ({page.status_code}): {url}', RuntimeWarning)
+        return page

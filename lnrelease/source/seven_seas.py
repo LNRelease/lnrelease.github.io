@@ -8,7 +8,9 @@ from utils import Info, Series, Session
 NAME = 'Seven Seas Entertainment'
 
 PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
-
+# manually fill in
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.1'}
+COOKIES = {'cf_clearance': ''}
 
 def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[Info]]:
     series = Series(None, series_title)
@@ -47,6 +49,8 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     with Session() as session:
+        session.headers.update(HEADERS)
+        session.cookies.update(COOKIES)
         tag = r'https://sevenseasentertainment.com/tag/light-novels/page/{}/'
         for i in range(1, 100):
             page = session.get(tag.format(i))
