@@ -20,12 +20,15 @@ def main() -> None:
         sources[inf.source].add(inf)
 
     with ThreadPoolExecutor() as executor:
-        futures = {executor.submit(s.scrape_full, series.copy(), sources[s.NAME]): s.NAME for s in SOURCES}
+        futures = {executor.submit(s.scrape_full, series.copy(), sources[s.NAME].copy()): s.NAME for s in SOURCES}
         for future in as_completed(futures):
             try:
                 serie, inf = future.result()
                 series |= serie
-                sources[futures[future]] = inf
+                series.save()
+                info -= sources[futures[future]]
+                info |= inf
+                info.save()
             except Exception as e:
                 warnings.warn(f'Error scraping {futures[future]}: {e}', RuntimeWarning)
             else:
@@ -33,10 +36,6 @@ def main() -> None:
 
     series -= series - {Series(i.serieskey, '') for i in info}
     series.save()
-    info.clear()
-    for inf in sources.values():
-        info |= inf
-    info.save()
 
 
 if __name__ == '__main__':

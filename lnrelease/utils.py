@@ -1,5 +1,6 @@
 import csv
 import datetime
+import random
 import re
 import unicodedata
 import warnings
@@ -7,13 +8,14 @@ from collections.abc import Iterator
 from dataclasses import dataclass
 from enum import StrEnum
 from pathlib import Path
+from time import sleep
 from typing import Self
 
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.1'}
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.2'}
 
 TITLE = re.compile(r' \((?:light )?novels?\)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
@@ -265,11 +267,15 @@ class Session(requests.Session):
     def __init__(self) -> None:
         super().__init__()
         self.headers.update(HEADERS)
+        self.set_retry()
+
+    def set_retry(self, total: int = 5, backoff_factor: float = 2,
+                  status_forcelist: set[int] = {429, 500, 502, 503, 504}):
         retry = Retry(
-            total=10,
-            backoff_factor=1,
+            total=total,
+            backoff_factor=backoff_factor,
             respect_retry_after_header=True,
-            status_forcelist={429, 500, 502, 503, 504}
+            status_forcelist=status_forcelist
         )
         adapter = HTTPAdapter(max_retries=retry)
         self.mount('http://', adapter)
@@ -278,6 +284,20 @@ class Session(requests.Session):
     def get(self, url, timeout=1000, **kwargs) -> requests.Response:
         kwargs['timeout'] = timeout
         page = super().get(url, **kwargs)
-        if page.status_code != 200:
-            warnings.warn(f'Not OK status code ({page.status_code}): {url}', RuntimeWarning)
+        match page.status_code:
+            case 200:
+                pass
+            case 403:  # cloudflare
+                self.set_retry(total=1, status_forcelist={500, 502, 503, 504})
+                url = 'https://webcache.googleusercontent.com/search?strip=1&q=cache:' + url
+                page = super().get(url, **kwargs)
+                if page.status_code == 429:
+                    # wait an hour or two
+                    warnings.warn(f'Google code 429: {url}', RuntimeWarning)
+                    sleep(random.uniform(3600, 7200))
+                    page = super().get(url, **kwargs)
+                self.set_retry()
+                sleep(random.uniform(30, 40))
+            case _:
+                warnings.warn(f'Status code ({page.status_code}): {url}', RuntimeWarning)
         return page

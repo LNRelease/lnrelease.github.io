@@ -44,7 +44,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages if random() < 0.9 and (not row.date or row.date < cutoff)}
+    skip = {row.link for row in pages if random() > 0.4 and (not row.date or row.date < cutoff)}
 
     with Session() as session:
         session.cookies.set('glSafeSearch', '1')
@@ -61,7 +61,9 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                 a = book.a
                 link = a.get('href')
                 title = a.get('title')
-                if title.startswith('BOOK☆WALKER Exclusive: ') or link in skip:
+                if (title.startswith('BOOK☆WALKER Exclusive: ')
+                    or title.endswith(' Bundle Set')
+                        or link in skip):
                     continue
 
                 try:

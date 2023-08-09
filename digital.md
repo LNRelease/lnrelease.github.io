@@ -219,6 +219,7 @@ Nov 22|[I'm Not the Hero!](https://j-novel.club/series/i-m-not-the-hero#volume-2
 Nov 23|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 23|[The Ideal Sponger Life](https://j-novel.club/series/the-ideal-sponger-life#volume-14)|14|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 28|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
+Nov 29|[How a Realist Hero Rebuilt the Kingdom](https://j-novel.club/series/how-a-realist-hero-rebuilt-the-kingdom#volume-19)|18|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 30|[Fluffy Paradise](https://global.bookwalker.jp/de003d0e8e-7c31-4565-a544-99a3ef36e9f2/)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
 ### December

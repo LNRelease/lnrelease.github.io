@@ -46,7 +46,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages if random() < 0.9 and (not row.date or row.date < cutoff)}
+    skip = {row.link for row in pages if random() > 0.4 and (not row.date or row.date < cutoff)}
 
     isbns: dict[str, Series] = {inf.isbn: inf for inf in info}
 

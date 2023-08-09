@@ -51,9 +51,11 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     with Session() as session:
         session.headers.update(HEADERS)
         session.cookies.update(COOKIES)
-        tag = r'https://sevenseasentertainment.com/tag/light-novels/page/{}/'
+        base = r'https://sevenseasentertainment.com/tag/light-novels/'
+        path = 'page/{}/'
         for i in range(1, 100):
-            page = session.get(tag.format(i))
+            url = base + ('' if i == 1 else path.format(i))
+            page = session.get(url)
             soup = BeautifulSoup(page.content, 'html.parser')
 
             for serie in soup.find_all(id='series'):
