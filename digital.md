@@ -170,6 +170,7 @@ Oct 17|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-ho
 Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
 Oct 19|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 20|[Fiancée No More: The Forsaken Lady, the Prince, and Their Make-Believe Love](https://j-novel.club/series/fianc-e-no-more-the-forsaken-lady-the-prince-and-their-make-believe-love#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 20|[Formerly, the Fallen Daughter of the Duke](https://j-novel.club/series/formerly-the-fallen-daughter-of-the-duke#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 20|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 23|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28)|28|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
