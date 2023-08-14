@@ -71,7 +71,6 @@ Sep 19|[Reign of the Seven Spellblades](https://yenpress.com/titles/978197536954
 Sep 19|[Studio Chizu's BELLE](https://yenpress.com/titles/9781975350956-studio-chizu-s-belle)|1|Yen Press|🖥️📖|
 Sep 19|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351014-sugar-apple-fairy-tale-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Sep 19|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975374822-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-13-light-novel)|13|Yen Press|🖥️📖|
-Sep 19|[The Deer King](https://yenpress.com/titles/9781975352332-the-deer-king-vol-1-novel-survivors)|1|Yen Press|🖥️📖|
 Sep 19|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975363093-the-demon-sword-master-of-excalibur-academy-vol-9-light-novel)|9|Yen Press|🖥️📖|
 Sep 19|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975368005-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Sep 19|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975373511-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-6-light-novel-the-broken-and-abandoned)|6|Yen Press|🖥️📖|
@@ -87,6 +86,7 @@ Sep 26|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/978197
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Oct 03|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Oct 03|[The Deer King](https://yenpress.com/titles/9781975352332-the-deer-king-vol-1-novel-survivors)|1|Yen Press|🖥️📖|
 Oct 09|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-3)|3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 09|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-19)|19-20|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 09|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-10)|10|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -161,7 +161,7 @@ Dec 05|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://s
 Dec 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️📖|
 Dec 11|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-19)|19|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 12|[A Certain Magical Index NT](https://yenpress.com/titles/9781975380656-a-certain-magical-index-nt-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Dec 12|[Blade & Bastard](https://yenpress.com/titles/9781975389758-blade-bastard-vol-1-light-novel)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Dec 12|[Blade & Bastard](https://yenpress.com/titles/9781975389758-blade-bastard-vol-1-light-novel-warm-ash-dusky-dungeon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 12|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367701-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Dec 12|[Bungo Stray Dogs](https://yenpress.com/titles/9781975379520-bungo-stray-dogs-vol-9-light-novel)|9|Yen Press|🖥️📖|
 Dec 12|[Canine Detective Chris](https://yenpress.com/titles/9781975378646-canine-detective-chris-vol-1)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -173,7 +173,7 @@ Dec 12|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real Wo
 Dec 12|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334178-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Dec 12|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975373917-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Dec 12|[Magical Explorer](https://yenpress.com/titles/9781975367558-magical-explorer-vol-6-light-novel-reborn-as-a-side-character-in-a-fantasy-dating-sim)|6|Yen Press|🖥️📖|
-Dec 12|[Online! The Unbeatable Game](https://yenpress.com/titles/9781975378622-online-the-unbeatable-game-vol-1)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Dec 12|[Online!](https://yenpress.com/titles/9781975378622-online-vol-1-the-devil-s-unbeatable-game)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 12|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
 Dec 12|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975364984-spy-classroom-short-story-collection-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Dec 12|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375539-that-time-i-got-reincarnated-as-a-slime-vol-17-light-novel)|17|Yen Press|🖥️📖|
@@ -196,14 +196,12 @@ Dec 26|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasent
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Jan 02|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
-Jan 02|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Jan 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-22)|1|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 08|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-27)|27|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 09|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 09|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 16|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 16|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
-Jan 23|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
 Jan 23|[Astrea Record, Vol. 1 Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379889-astrea-record-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes)|1|Yen Press|🖥️📖|
 Jan 23|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1)|1|Yen Press|🖥️📖|
 Jan 23|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975367640-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-10-light-novel)|10|Yen Press|🖥️📖|
@@ -265,6 +263,8 @@ Date|Series|Volume|Publisher|Type|
 Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Apr 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-16)|16|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 08|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-11)|11|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Apr 09|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
+Apr 09|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### May
 

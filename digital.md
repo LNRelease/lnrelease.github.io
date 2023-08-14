@@ -100,7 +100,6 @@ Sep 19|[Reign of the Seven Spellblades](https://yenpress.com/titles/978197536954
 Sep 19|[Studio Chizu's BELLE](https://yenpress.com/titles/9781975350956-studio-chizu-s-belle)|1|Yen Press|🖥️📖|
 Sep 19|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351014-sugar-apple-fairy-tale-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Sep 19|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975374822-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-13-light-novel)|13|Yen Press|🖥️📖|
-Sep 19|[The Deer King](https://yenpress.com/titles/9781975352332-the-deer-king-vol-1-novel-survivors)|1|Yen Press|🖥️📖|
 Sep 19|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975363093-the-demon-sword-master-of-excalibur-academy-vol-9-light-novel)|9|Yen Press|🖥️📖|
 Sep 19|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975368005-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Sep 19|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975373511-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-6-light-novel-the-broken-and-abandoned)|6|Yen Press|🖥️📖|
@@ -137,6 +136,7 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Oct 02|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s-daughter-is-my-ex#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 02|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 03|[The Deer King](https://yenpress.com/titles/9781975352332-the-deer-king-vol-1-novel-survivors)|1|Yen Press|🖥️📖|
 Oct 04|[8th Loop for the Win! With Seven Lives' Worth of XP and the Third Princess's Appraisal Skill, My Behemoth and I Are Unstoppable!](https://j-novel.club/series/8th-loop-for-the-win-with-seven-lives-worth-of-xp-and-the-third-princess-s-appraisal-skill-my-behemoth-and-i-are-unstoppable#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 05|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 06|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-5)|3.1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -180,6 +180,7 @@ Oct 25|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-l
 Oct 27|[Seventh](https://j-novel.club/series/seventh#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[Stuck in a Time Loop: When All Else Fails, Be a Villainess](https://j-novel.club/series/stuck-in-a-time-loop-when-all-else-fails-be-a-villainess#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[The Game Master Has Logged In to Another World](https://j-novel.club/series/the-game-master-has-logged-into-a-different-world#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 30|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-21)|21|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### November
@@ -191,6 +192,7 @@ Nov 07|[Loner Life in Another World](https://sevenseasentertainment.com/books/lo
 Nov 07|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Nov 09|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 09|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Nov 10|[The Greatest Magician's Ultimate Quest: I Woke from a 300 Year Slumber to a World of Disappointment](https://j-novel.club/series/the-greatest-magician-s-ultimate-quest-i-woke-from-a-300-year-slumber-to-a-world-of-disappointment#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 10|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-6)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 13|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 14|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
@@ -228,6 +230,7 @@ Nov 30|[Fluffy Paradise](https://global.bookwalker.jp/de003d0e8e-7c31-4565-a544-
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Dec 01|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 04|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 05|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Dec 05|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-16/)|16|Seven Seas Entertainment|🖥️📖|
 Dec 05|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
@@ -264,10 +267,8 @@ Dec 26|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasent
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Jan 02|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
-Jan 02|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Jan 09|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 16|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
-Jan 23|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
 Jan 23|[Astrea Record, Vol. 1 Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379889-astrea-record-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes)|1|Yen Press|🖥️📖|
 Jan 23|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1)|1|Yen Press|🖥️📖|
 Jan 23|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975367640-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-10-light-novel)|10|Yen Press|🖥️📖|
@@ -320,6 +321,8 @@ Mar 26|[Skeleton Knight in Another World](https://sevenseasentertainment.com/boo
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
+Apr 09|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
+Apr 09|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### May
 
