@@ -39,7 +39,6 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
 
 
 def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
-    limit += 1
     pages = Table(PAGES, Link)
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
@@ -52,7 +51,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
             'np': '1',  # by individual books
             'order': 'release'
         }
-        for i in range(1, limit):
+        for i in range(1, limit + 1):
             params['page'] = i
             page = session.get('https://global.bookwalker.jp/categories/3/', params=params)
             soup = BeautifulSoup(page.content, 'html.parser')

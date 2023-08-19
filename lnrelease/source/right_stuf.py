@@ -1,5 +1,4 @@
 import datetime
-import json
 import re
 import warnings
 from urllib.parse import urlencode, urljoin
@@ -41,6 +40,7 @@ PUBLISHERS = {
     'SEVEN SEAS': 'Seven Seas Entertainment',
     'SHAMBHALA': '',
     'SQUARE ENIX BOOKS': 'Square Enix Books',
+    'STEAMSHIP': 'Seven Seas Entertainment',
     'STONE BRIDGE PRESS': '',
     'TENTAI BOOKS': 'Tentai Books',
     'TITAN BOOKS': '',

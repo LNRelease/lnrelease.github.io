@@ -33,7 +33,6 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date
 
 
 def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
-    limit += 1
     pages = Table(PAGES, Link)
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
@@ -42,7 +41,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
 
     with Session() as session:
         site = r'https://www.viz.com/search/{}?search=Novel&category=Novel'
-        for i in range(1, limit):
+        for i in range(1, limit + 1):
             page = session.get(site.format(i))
             soup = BeautifulSoup(page.content, 'html.parser')
 

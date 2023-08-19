@@ -20,10 +20,13 @@ HEADERS = {'User-Agent': 'lnrelease.github.io/1.2'}
 TITLE = re.compile(r' \((?:light )?novels?\)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
 
-
-PHYSICAL = ['Physical', 'Hardcover', 'Hardback', 'Paperback']
-DIGITAL = ['Digital']
+PHYSICAL = ('Physical', 'Hardcover', 'Hardback', 'Paperback')
+DIGITAL = ('Digital',)
 FORMATS = {x: i for i, x in enumerate(PHYSICAL + DIGITAL)}
+
+PRIMARY = ('J-Novel Club', 'Kodansha', 'Seven Seas Entertainment', 'VIZ Media', 'Yen Press')
+SECONDARY = ('BOOK☆WALKER', 'Right Stuf')
+SOURCES = {x: i for i, x in enumerate(PRIMARY + SECONDARY)}
 
 
 def clean_str(s: str) -> str:
@@ -131,7 +134,7 @@ class Info:
         elif self.publisher != other.publisher:
             return self.publisher < other.publisher
         elif self.source != other.source:
-            return self.source < other.source
+            return SOURCES.get(self.source) < SOURCES.get(other.source)
         elif self.format != other.format:
             return self.format < other.format
         elif self.date != other.date:

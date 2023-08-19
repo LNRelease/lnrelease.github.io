@@ -5,7 +5,7 @@ from collections import Counter, defaultdict
 from difflib import get_close_matches
 from operator import attrgetter
 
-from utils import Book, Info, Series
+from utils import SOURCES, Book, Info, Series
 
 NAME = 'misc'
 
@@ -230,7 +230,7 @@ def secondary(series: Series, info: dict[str, list[Info]], alts: list[Info], boo
             sources[alt.source].append(alt)
     if not sources:
         return False
-    sources = dict(sorted(sources.items()))
+    sources = dict(sorted(sources.items(), key=lambda x: SOURCES.get(x[0], 0)))
 
     poss: dict[str, dict[str, Info]] = {}
     for source, lst in sources.items():
