@@ -48,9 +48,10 @@ def main() -> None:
         release.isbn = book.isbn
     releases = sorted(releases.keys())
 
-    today = datetime.date.today()
-    start_date = today.replace(day=1)
-    end_date = today.replace(year=today.year+1, month=12, day=31)
+    today = datetime.datetime.today()
+    start_date = today - datetime.timedelta(days=7)
+    start_date = start_date.replace(day=1).date()
+    end_date = today.replace(year=today.year+1, month=12, day=31).date()
     start = bisect_left(releases, start_date, key=attrgetter('date'))
     end = bisect_right(releases, end_date, key=attrgetter('date'), lo=start)
     cur_releases = releases[start:end]

@@ -3,6 +3,7 @@ import warnings
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+from time import time
 
 from utils import Info, Series, Table
 
@@ -20,6 +21,7 @@ def main() -> None:
         sources[inf.source].add(inf)
 
     with ThreadPoolExecutor() as executor:
+        start = time()
         futures = {executor.submit(s.scrape_full, series.copy(), sources[s.NAME].copy()): s.NAME for s in SOURCES}
         for future in as_completed(futures):
             try:
@@ -32,7 +34,7 @@ def main() -> None:
             except Exception as e:
                 warnings.warn(f'Error scraping {futures[future]}: {e}', RuntimeWarning)
             else:
-                print(f'{futures[future]} done')
+                print(f'{futures[future]} done ({time() - start:.2f}s)')
 
     series -= series - {Series(i.serieskey, '') for i in info}
     series.save()

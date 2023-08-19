@@ -4,18 +4,21 @@ import random
 import re
 import unicodedata
 import warnings
+from collections import defaultdict
 from collections.abc import Iterator
 from dataclasses import dataclass
 from enum import StrEnum
 from pathlib import Path
-from time import sleep
+from threading import Lock
+from time import sleep, time
 from typing import Self
+from urllib.parse import urlparse
 
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.2'}
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.3'}
 
 TITLE = re.compile(r' \((?:light )?novels?\)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
@@ -266,6 +269,42 @@ class Table(set[Link | Info | Book | Series]):
             csv.writer(f).writerows(sorted(self))
 
 
+class RateLimiter:
+    def __init__(self) -> None:
+        self.lock = Lock()
+        self.delays = {
+            'global.bookwalker.jp': (0.1, 0.5),
+            'labs.j-novel.club': (5, 10),
+            'api.kodansha.us': (10, 30),
+            'www.rightstufanime.com': (30, 120),
+            'sevenseasentertainment.com': (5, 10),
+            'www.viz.com': (10, 60),
+            'yenpress.com': (0.1, 0.5),
+            'webcache.googleusercontent.com': (30, 35),
+        }
+        self.last_request = {}
+        self.locks = defaultdict(Lock)
+
+    def acquire(self, url: str) -> None:
+        with self.lock:
+            netloc = urlparse(url).netloc
+            lock = self.locks[netloc]
+        lock.acquire()
+        delay = random.uniform(*self.delays.get(netloc, (0, 0)))
+        sleep(max(0, delay - time() + self.last_request.get(netloc, 0)))
+
+    def release(self, url: str, success: bool) -> None:
+        with self.lock:
+            netloc = urlparse(url).netloc
+            lock = self.locks[netloc]
+        if success:
+            self.last_request[netloc] = time()
+        lock.release()
+
+
+RATE_LIMITER = RateLimiter()
+
+
 class Session(requests.Session):
     def __init__(self) -> None:
         super().__init__()
@@ -273,7 +312,7 @@ class Session(requests.Session):
         self.set_retry()
 
     def set_retry(self, total: int = 5, backoff_factor: float = 2,
-                  status_forcelist: set[int] = {429, 500, 502, 503, 504}):
+                  status_forcelist: set[int] = {429, 500, 502, 503, 504}) -> None:
         retry = Retry(
             total=total,
             backoff_factor=backoff_factor,
@@ -286,21 +325,26 @@ class Session(requests.Session):
 
     def get(self, url, timeout=1000, **kwargs) -> requests.Response:
         kwargs['timeout'] = timeout
+
+        RATE_LIMITER.acquire(url)
         page = super().get(url, **kwargs)
-        match page.status_code:
-            case 200:
-                pass
-            case 403:  # cloudflare
-                self.set_retry(total=1, status_forcelist={500, 502, 503, 504})
-                url = 'https://webcache.googleusercontent.com/search?strip=1&q=cache:' + url
+
+        if page.status_code == 403:  # cloudflare
+            RATE_LIMITER.release(url, False)
+            self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
+            url = 'https://webcache.googleusercontent.com/search?strip=1&q=cache:' + url
+
+            RATE_LIMITER.acquire(url)
+            page = super().get(url, **kwargs)
+
+            if page.status_code == 429:
+                warnings.warn(f'Google code 429: {url}', RuntimeWarning)
+                sleep(3600)  # wait an hour
                 page = super().get(url, **kwargs)
-                if page.status_code == 429:
-                    # wait an hour or two
-                    warnings.warn(f'Google code 429: {url}', RuntimeWarning)
-                    sleep(random.uniform(3600, 7200))
-                    page = super().get(url, **kwargs)
-                self.set_retry()
-                sleep(random.uniform(30, 40))
-            case _:
-                warnings.warn(f'Status code ({page.status_code}): {url}', RuntimeWarning)
+
+            self.set_retry()
+        elif page.status_code != 200:
+            warnings.warn(f'Status code ({page.status_code}): {url}', RuntimeWarning)
+
+        RATE_LIMITER.release(url, True)
         return page

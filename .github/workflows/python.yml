@@ -2,7 +2,7 @@ name: python
 
 on:
   schedule:
-    - cron: '0 6 7,14,21,28 * *'
+    - cron: '0 6 * * *'
 
   workflow_dispatch:
 

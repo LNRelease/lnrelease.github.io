@@ -59,27 +59,27 @@ Sep 12|[The Asterisk War](https://yenpress.com/titles/9781975369095-the-asterisk
 Sep 19|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975352998-associate-professor-akira-takatsuki-s-conjecture-vol-2-light-novel-the-supernatural-hides-in-the-cracks)|2|Yen Press|🖥️📖|
 Sep 19|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367688-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Sep 19|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975343972-death-march-to-the-parallel-world-rhapsody-vol-19-light-novel)|19|Yen Press|🖥️📖|
-Sep 19|[Defeating the Demon Lord's a Cinch (If You've Got a Ringer)](https://yenpress.com/titles/9781975370251-defeating-the-demon-lord-s-a-cinch-if-you-ve-got-a-ringer-vol-5)|5|Yen Press|🖥️📖|
 Sep 19|[Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin](https://yenpress.com/titles/9781975369118-hazure-skill-the-guild-member-with-a-worthless-skill-is-actually-a-legendary-assassin-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Sep 19|[Hell Mode](https://yenpress.com/titles/9781975368500-hell-mode-vol-2-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing)|2|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 19|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369460-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Sep 19|[King's Proposal](https://yenpress.com/titles/9781975370039-king-s-proposal-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Sep 19|[Magical Girl Raising Project](https://yenpress.com/titles/9781975373436-magical-girl-raising-project-vol-16-light-novel-white)|16|Yen Press|🖥️📖|
-Sep 19|[Maiden of the Needle](https://yenpress.com/titles/9781975361648-maiden-of-the-needle-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Sep 19|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368319-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-2-light-novel)|2|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 19|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975369545-reign-of-the-seven-spellblades-vol-9-light-novel)|9|Yen Press|🖥️📖|
 Sep 19|[Studio Chizu's BELLE](https://yenpress.com/titles/9781975350956-studio-chizu-s-belle)|1|Yen Press|🖥️📖|
 Sep 19|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351014-sugar-apple-fairy-tale-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Sep 19|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975374822-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-13-light-novel)|13|Yen Press|🖥️📖|
 Sep 19|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975363093-the-demon-sword-master-of-excalibur-academy-vol-9-light-novel)|9|Yen Press|🖥️📖|
-Sep 19|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975368005-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Sep 19|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975373511-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-6-light-novel-the-broken-and-abandoned)|6|Yen Press|🖥️📖|
 Sep 19|[The Saga of Tanya the Evil](https://yenpress.com/titles/9781975323523-the-saga-of-tanya-the-evil-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Sep 19|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975372606-the-vexations-of-a-shut-in-vampire-princess-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Sep 19|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-10/)|10|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Sep 26|[Defeating the Demon Lord's a Cinch (If You've Got a Ringer)](https://yenpress.com/titles/9781975370251-defeating-the-demon-lord-s-a-cinch-if-you-ve-got-a-ringer-vol-5)|5|Yen Press|🖥️📖|
 Sep 26|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Sep 26|[Maiden of the Needle](https://yenpress.com/titles/9781975361648-maiden-of-the-needle-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Sep 26|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 26|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975372569-the-angel-next-door-spoils-me-rotten-vol-5-5-light-novel)|5.5|Yen Press|🖥️📖|
+Sep 26|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975368005-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-4-light-novel)|4|Yen Press|🖥️📖|
 
 ### October
 
@@ -127,7 +127,7 @@ Nov 14|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-an
 Nov 14|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-13/)|13|Seven Seas Entertainment|🖥️📖|
 Nov 14|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-vol-12-light-novel-holy-blue-bullet)|12|Yen Press|🖥️📖|
-Nov 21|[Agent of the Four Seasons](https://yenpress.com/titles/9781975373177-agent-of-the-four-seasons-vol-1)|1|Yen Press|🖥️📖|
+Nov 21|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373177-agents-of-the-four-seasons-vol-1-dance-of-spring-part-i)|1|Yen Press|🖥️📖|
 Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
 Nov 21|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
 Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
@@ -260,12 +260,17 @@ Mar 26|[Skeleton Knight in Another World](https://sevenseasentertainment.com/boo
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Apr 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Apr 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-16)|16|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 08|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-11)|11|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 09|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
 Apr 09|[I'm in Love with the Villainess: She's so Cheeky for a Commoner](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-light-novel-vol-2/)|2|Seven Seas Entertainment|🖥️📖|
 Apr 09|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Apr 16|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
+Apr 30|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Apr 30|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-18/)|18|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
 ### May
 
@@ -273,6 +278,8 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 May 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 May 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-24)|3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### June
 
