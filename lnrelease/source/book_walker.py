@@ -18,6 +18,9 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
 
     jsn = json.loads(soup.find('script', type='application/ld+json').text)
     publisher = jsn['brand']['name']
+    if publisher == 'Yen On':
+        publisher = 'Yen Press'
+
     title = jsn['name']
     index = 0
     for index, vol in enumerate(soup.select('h3:-soup-contains("Read all volumes") + div a'), start=1):

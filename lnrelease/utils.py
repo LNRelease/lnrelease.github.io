@@ -36,6 +36,15 @@ def clean_str(s: str) -> str:
     return NONWORD.sub('', unicodedata.normalize('NFKD', s)).lower()
 
 
+def volume_lt(a: str, b: str) -> bool:
+    try:
+        af = float(a.split('-')[0])
+        bf = float(b.split('-')[0])
+        return af < bf
+    except ValueError:
+        return a < b
+
+
 class Format(StrEnum):
     # spacer to align text, github yeets input tag
     NONE = ''
@@ -196,11 +205,8 @@ class Book:
             return self.publisher < other.publisher
         elif self.date != other.date:
             return self.date < other.date
-        elif len(self.volume) != len(other.volume):
-            pad = max(len(self.volume), len(other.volume))
-            return self.volume.zfill(pad) < other.volume.zfill(pad)
         elif self.volume != other.volume:
-            return self.volume < other.volume
+            return volume_lt(self.volume, other.volume)
         return self.name < other.name
 
     def __hash__(self) -> int:
@@ -245,10 +251,7 @@ class Release:
             return self.publisher < other.publisher
         elif self.name != other.name:
             return self.name < other.name
-        elif len(self.volume) != len(other.volume):
-            pad = max(len(self.volume), len(other.volume))
-            return self.volume.zfill(pad) < other.volume.zfill(pad)
-        return self.volume < other.volume
+        return volume_lt(self.volume, other.volume)
 
     def __hash__(self) -> int:
         return hash((self.serieskey, self.publisher, self.name, self.volume, self.date))

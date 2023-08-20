@@ -20,9 +20,6 @@ BOOKS = Path('books.csv')
 def main():
     series = {row.key: row for row in Table(SERIES, Series)}
     info = Table(INFO, Info)
-    for row in info:
-        if row.publisher == 'Yen On':
-            row.publisher = 'Yen Press'
     alts = {i for i in info if i.source in SECONDARY and i.publisher in PRIMARY}
     info.difference_update(alts)
 

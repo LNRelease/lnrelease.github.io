@@ -1,18 +1,22 @@
-import re
-
 from utils import Book, Info, Series
 
 from . import check, copy, guess, one, secondary, short, standard
 
 NAME = 'Yen Press'
 
-PARSE = re.compile(r'(?P<name>.+?)[,:]? +(?:Vol\.|Volume) +(?P<volume>\d+\.?\d?)(?::.+)?')
-
 
 def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
     books: dict[str, list[Book]] = {}
     for format, lst in info.items():
+        # remove duplicates
+        seen = set()
+        for inf in lst.copy():
+            title = inf.title
+            if title in seen:
+                lst.remove(inf)
+            seen.add(title)
         books[format] = [None] * len(lst)
+
     main_info = max(info.values(), key=len)
     main_books = max(books.values(), key=len)
     size = len(main_info)

@@ -6,6 +6,15 @@ NAME = 'Seven Seas Entertainment'
 
 
 def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
+    if 'Digital' not in info and any(alt.serieskey == series.key
+                                     and alt.publisher == NAME
+                                     and alt.format == 'Digital' for alt in alts):
+        # copy physical dates if digital releases found elsewhere
+        info['Digital'] = []
+        for inf in info['Physical']:
+            i = Info(series.key, inf.link, inf.source, inf.publisher, inf.title, inf.index, 'Digital', '', inf.date)
+            info['Digital'].append(i)
+
     books: dict[str, list[Book]] = {}
     for format, lst in info.items():
         books[format] = [None] * len(lst)

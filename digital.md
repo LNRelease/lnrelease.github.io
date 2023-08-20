@@ -22,6 +22,7 @@ Aug 04|[The Reincarnated Villainess Won't Seek Revenge](https://global.bookwalke
 Aug 04|[The Troubles of Miss Nicola the Exorcist](https://j-novel.club/series/the-troubles-of-miss-nicola-the-exorcist#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 07|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-s-daughter-and-the-ebony-blade#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 07|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Aug 08|[Summer Ghost](https://sevenseasentertainment.com/books/summer-ghost-light-novel/)|1|Seven Seas Entertainment|🖥️📖|
 Aug 08|[You Can Have My Back](https://yenpress.com/titles/9781975363932-you-can-have-my-back-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Aug 09|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Aug 10|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -272,6 +273,7 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Jan 02|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
 Jan 09|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
+Jan 16|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-1/)|1|Seven Seas Entertainment|🖥️📖|
 Jan 16|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jan 23|[Astrea Record, Vol. 1 Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379889-astrea-record-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes)|1|Yen Press|🖥️📖|
 Jan 23|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1)|1|Yen Press|🖥️📖|
