@@ -4,7 +4,7 @@ import warnings
 from pathlib import Path
 from random import random
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, element
 from utils import FORMATS, Info, Link, Series, Session, Table
 
 NAME = 'Yen Press'
@@ -15,30 +15,36 @@ TITLES = re.compile(r'https://yenpress\.com/titles/\d{13}-(?!.*(manga-vol|vol-\d
 LINK = re.compile(r'(https://yenpress.com)?/titles/(?P<isbn>\d{13})-(?P<name>[\w-]+)')
 
 
-def parse(session: Session, link: str, isbn: str) -> None | tuple[Series, Info]:
+def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Series, set[Info]]:
     page = session.get(link)
     if page.status_code == 404:
         return None
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    details = soup.find(class_='book-details')
-    format = soup.find(class_='deliver active').text
-    # category of ebooks is inconsistent
-    if (format not in FORMATS or
-        not soup.select_one('div.breadcrumbs > a[href="/category/light-novels"]')
-            and details.select_one('span:-soup-contains("Imprint") + p').text != 'Yen On'):
-        return None
-
-    series_title = details.select_one('span:-soup-contains("Series") + p').text
-    if series_title.endswith('(light novel serial)'):
-        return None
-
+    formats: list[str] = [x.text for x in soup.find(class_='tabs').find_all('span')]
+    details: element.ResultSet[element.Tag] = soup.find(class_='book-details').find_all('div', recursive=False)
+    series_title = details[0].select_one('span:-soup-contains("Series") + p').text
     title = soup.find('h1', class_='heading').text
-    date = datetime.datetime.strptime(details.select_one('span:-soup-contains("Release Date") + p').text,
-                                      '%b %d, %Y').date()
+
+    if (series_title.endswith('(light novel serial)')  # category of ebooks is inconsistent
+        or (not soup.select_one('div.breadcrumbs > a[href="/category/light-novels"]')
+            and details[0].select_one('span:-soup-contains("Imprint") + p').text != 'Yen On')):
+        return None
+
     series = Series(None, series_title)
-    info = Info(series.key, link, NAME, NAME, title, 0, format, isbn, date)
-    return series, info
+    info = set()
+    for format, detail in zip(formats, details):
+        if format not in FORMATS:
+            continue
+
+        isbn = detail.select_one('span:-soup-contains("ISBN") + p').text
+        date = datetime.datetime.strptime(detail.select_one('span:-soup-contains("Release Date") + p').text,
+                                          '%b %d, %Y').date()
+        info.add(Info(series.key, links[isbn], NAME, NAME, title, 0, format, isbn, date))
+
+    if info:
+        return series, info
+    return None
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
@@ -46,7 +52,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages if random() > 0.4 and (not row.date or row.date < cutoff)}
+    skip = {row.link for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
 
     isbns: dict[str, Series] = {inf.isbn: inf for inf in info}
 
@@ -54,24 +60,26 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         page = session.get('https://yenpress.com/sitemap.xml')
         soup = BeautifulSoup(page.content, 'lxml-xml')
 
-        for link in soup.find_all('loc', string=TITLES):
-            link = link.text
-            isbn = LINK.fullmatch(link).group('isbn')
+        links = {LINK.fullmatch(x.text).group('isbn'): x.text for x in soup.find_all('loc', string=TITLES)}
+        for isbn, link in links.items():
             if isbn in skip:
                 continue
 
             try:
-                res = parse(session, link, isbn)
+                res = parse(session, link, links)
                 if res:
                     series.add(res[0])
-                    inf = res[1]
-                    isbns[isbn] = inf
-                    date = inf.date
+                    for inf in res[1]:
+                        isbns[inf.isbn] = inf
+                        date = inf.date
+                        l = Link(inf.isbn, date)
+                        pages.discard(l)
+                        pages.add(l)
+                        skip.add(inf.isbn)
                 else:
-                    date = None
-                l = Link(isbn, date)
-                pages.discard(l)
-                pages.add(l)
+                    l = Link(isbn, None)
+                    pages.discard(l)
+                    pages.add(l)
             except Exception as e:
                 warnings.warn(f'{link}: {e}', RuntimeWarning)
 

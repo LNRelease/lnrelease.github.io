@@ -46,7 +46,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages if random() > 0.4 and (not row.date or row.date < cutoff)}
+    skip = {row.link for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
 
     with Session() as session:
         session.cookies.set('glSafeSearch', '1')

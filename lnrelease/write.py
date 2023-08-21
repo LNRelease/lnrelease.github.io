@@ -37,7 +37,7 @@ def write_page(releases: Iterable[Release], output: Path) -> None:
 
 def main() -> None:
     releases: defaultdict[Release, list[Book]] = defaultdict(list)
-    for book in Table(BOOKS, Book):
+    for book in sorted(Table(BOOKS, Book)):
         releases[Release(*book)].append(book)
     for release, books in releases.items():
         books.sort(key=lambda x: FORMATS.get(x.format, 0))

@@ -244,13 +244,13 @@ Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/97819753479
 Nov 21|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
 Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Nov 21|[High School DxD](https://yenpress.com/titles/9781975350383-high-school-dxd-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Horror Collector](https://yenpress.com/titles/9781975378226-horror-collector-vol-1-the-faceless-kid)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Nov 21|[Horror Collector](https://yenpress.com/titles/9781975378226-horror-collector-vol-1-the-faceless-kid)|1|Yen Press|🖥️📖|
 Nov 21|[Ishura](https://yenpress.com/titles/9781975363079-ishura-vol-5)|5|Yen Press|🖥️📖|
 Nov 21|[Liar, Liar](https://yenpress.com/titles/9781975370619-liar-liar-vol-2-the-lying-transfer-student-is-targeted-by-the-little-devil)|2|Yen Press|🖥️📖|
 Nov 21|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Nov 21|[No Game No Life](https://yenpress.com/titles/9781975370350-no-game-no-life-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975350260-our-last-crusade-or-the-rise-of-a-new-world-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378103-phantom-thief-red-vol-1-a-brand-new-heist-for-a-brand-new-red)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Nov 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378103-phantom-thief-red-vol-1-a-brand-new-heist-for-a-brand-new-red)|1|Yen Press|🖥️📖|
 Nov 21|[Rascal Does Not Dream](https://yenpress.com/titles/9781975375270-rascal-does-not-dream-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel-miraculous-final-cut)|6|Yen Press|🖥️📖|
 Nov 21|[Sword Art Online Alternative Gun Gale Online](https://yenpress.com/titles/9781975375232-sword-art-online-alternative-gun-gale-online-vol-13-light-novel-5th-squad-jam-finish)|13|Yen Press|🖥️📖|
@@ -285,7 +285,7 @@ Dec 12|[A Certain Magical Index NT](https://yenpress.com/titles/9781975380656-a-
 Dec 12|[Blade & Bastard](https://yenpress.com/titles/9781975389758-blade-bastard-vol-1-light-novel-warm-ash-dusky-dungeon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 12|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367701-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Dec 12|[Bungo Stray Dogs](https://yenpress.com/titles/9781975379520-bungo-stray-dogs-vol-9-light-novel)|9|Yen Press|🖥️📖|
-Dec 12|[Canine Detective Chris](https://yenpress.com/titles/9781975378646-canine-detective-chris-vol-1)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Dec 12|[Canine Detective Chris](https://yenpress.com/titles/9781975378646-canine-detective-chris-vol-1)|1|Yen Press|🖥️📖|
 Dec 12|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975343996-death-march-to-the-parallel-world-rhapsody-vol-20-light-novel)|20|Yen Press|🖥️📖|
 Dec 12|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Dec 12|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
@@ -294,7 +294,7 @@ Dec 12|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real Wo
 Dec 12|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334178-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Dec 12|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975373917-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Dec 12|[Magical Explorer](https://yenpress.com/titles/9781975367558-magical-explorer-vol-6-light-novel-reborn-as-a-side-character-in-a-fantasy-dating-sim)|6|Yen Press|🖥️📖|
-Dec 12|[Online!](https://yenpress.com/titles/9781975378622-online-vol-1-the-devil-s-unbeatable-game)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Dec 12|[Online!](https://yenpress.com/titles/9781975378622-online-vol-1-the-devil-s-unbeatable-game)|1|Yen Press|🖥️📖|
 Dec 12|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
 Dec 12|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975364984-spy-classroom-short-story-collection-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Dec 12|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375539-that-time-i-got-reincarnated-as-a-slime-vol-17-light-novel)|17|Yen Press|🖥️📖|

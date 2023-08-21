@@ -236,9 +236,8 @@ class Release:
 
     def __eq__(self, other: Self) -> bool:
         return (isinstance(other, self.__class__)
-                and self.serieskey == other.serieskey
                 and self.publisher == other.publisher
-                and self.name == other.name
+                and clean_str(self.name) == clean_str(other.name)
                 and self.volume == other.volume
                 and self.date == other.date)
 
@@ -249,12 +248,12 @@ class Release:
             return self.serieskey < other.serieskey
         elif self.publisher != other.publisher:
             return self.publisher < other.publisher
-        elif self.name != other.name:
-            return self.name < other.name
-        return volume_lt(self.volume, other.volume)
+        elif self.volume != other.volume:
+            return volume_lt(self.volume, other.volume)
+        return self.name < other.name
 
     def __hash__(self) -> int:
-        return hash((self.serieskey, self.publisher, self.name, self.volume, self.date))
+        return hash((self.publisher, clean_str(self.name), self.volume, self.date))
 
 
 class Table(set[Link | Info | Book | Series]):
@@ -276,13 +275,13 @@ class RateLimiter:
     def __init__(self) -> None:
         self.lock = Lock()
         self.delays = {
-            'global.bookwalker.jp': (0.1, 0.5),
+            'global.bookwalker.jp': (0.5, 1),
             'labs.j-novel.club': (5, 10),
             'api.kodansha.us': (10, 30),
             'www.rightstufanime.com': (30, 120),
             'sevenseasentertainment.com': (5, 10),
             'www.viz.com': (10, 60),
-            'yenpress.com': (0.1, 0.5),
+            'yenpress.com': (0.5, 1),
             'webcache.googleusercontent.com': (30, 35),
         }
         self.last_request = {}
