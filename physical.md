@@ -54,6 +54,7 @@ Sep 11|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance
 Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-10)|10-12|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-15/)|15|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Sep 12|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/722863/my-unique-skill-makes-me-op-even-at-level-1-vol-3-light-novel-by-nazuna-miki/9781647292126)|3|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 12|[NieR Replicant ver.1.22474487139... Project Gestalt Recollections File 1](https://www.rightstufanime.com/NieR-Replicant-ver-1-22474487139-Project-Gestalt-Recollections-File-1-Novel-Hardcover)|1|Square Enix Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 12|[The Asterisk War](https://yenpress.com/titles/9781975369095-the-asterisk-war-vol-17-light-novel-the-grand-finale)|17|Yen Press|🖥️📖|
 Sep 19|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975352998-associate-professor-akira-takatsuki-s-conjecture-vol-2-light-novel-the-supernatural-hides-in-the-cracks)|2|Yen Press|🖥️📖|
@@ -107,11 +108,13 @@ Oct 17|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](http
 Oct 17|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335373-re-starting-life-in-another-world-vol-23-light-novel)|23|Yen Press|🖥️📖|
 Oct 17|[Sasaki and Peeps](https://yenpress.com/titles/9781975367909-sasaki-and-peeps-vol-5-light-novel-betrayals-conspiracies-and-coups-d-etat-the-gripping-conclusion-to-the-otherworld-succession-battle-meanwhile-you-asked-for-it-it-s-time-for-a-slice-of-life-episode-in-modern-japan-but-we-appear-to-be-on-hard-mode)|5|Yen Press|🖥️📖|
 Oct 17|[Suzume](https://yenpress.com/titles/9781975373061-suzume)|1|Yen Press|🖥️📖|
+Oct 17|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/722870/the-dawn-of-the-witch-4-light-novel-by-kakeru-kobashiri/9781647291884)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 17|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363895-the-ephemeral-scenes-of-setsuna-s-journey-vol-2-light-novel-the-former-68th-hero-and-the-dragon-maiden)|2|Yen Press|🖥️📖|
 Oct 17|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-holy-grail-of-eris-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
 Oct 24|[Arifureta: From Commonplace to World's Strongest](https://sevenseasentertainment.com/books/arifureta-from-commonplace-to-worlds-strongest-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Oct 31|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/722858/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-3-light-novel-by-miraijina/9781647292171)|3|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### November
@@ -128,6 +131,7 @@ Nov 14|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reinca
 Nov 14|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-vol-12-light-novel-holy-blue-bullet)|12|Yen Press|🖥️📖|
 Nov 21|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373177-agents-of-the-four-seasons-vol-1-dance-of-spring-part-i)|1|Yen Press|🖥️📖|
+Nov 21|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734083/am-i-actually-the-strongest-4-light-novel-by-sai-sumimori/9781647292027)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
 Nov 21|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
 Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
@@ -148,6 +152,7 @@ Nov 21|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781
 Nov 21|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975352264-wolf-parchment-new-theory-spice-wolf-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Nov 21|[You Can Have My Back](https://yenpress.com/titles/9781975363956-you-can-have-my-back-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Nov 28|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-17/)|17|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Nov 28|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734075/saving-80000-gold-in-another-world-for-my-retirement-3-light-novel-by-funa/9781647292737)|3|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 28|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Nov 28|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
@@ -181,6 +186,7 @@ Dec 12|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](http
 Dec 12|[Vampire Hunter D](https://www.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-4)|10-12|Dark Horse|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Dec 19|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/734066/my-unique-skill-makes-me-op-even-at-level-1-vol-4-light-novel-by-miki-nazuna/9781647293116)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Dec 19|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 26|[Loyal Soldier, Lustful Beast](https://sevenseasentertainment.com/books/loyal-soldier-lustful-beast-light-novel/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -232,10 +238,12 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of-gluttony-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 13|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Feb 20|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Feb 20|[The Invincible Shovel](https://sevenseasentertainment.com/books/the-invincible-shovel-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Feb 20|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
+Feb 27|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/734067/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-4-light-novel-by-miraijina/9781647293123)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 27|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Feb 27|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 
@@ -248,6 +256,7 @@ Mar 05|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/bo
 Mar 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-23)|2|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 11|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-12)|12|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://j-novel.club/series/the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap#volume-7)|7|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Mar 12|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734082/am-i-actually-the-strongest-5-light-novel-by-sai-sumimori/9781647292034)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
 Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
@@ -269,6 +278,7 @@ Apr 09|[I'm in Love with the Villainess: She's so Cheeky for a Commoner](https:/
 Apr 09|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Apr 16|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
+Apr 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734068/saving-80000-gold-in-another-world-for-my-retirement-4-light-novel-by-funa/9781647293130)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 30|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Apr 30|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-18/)|18|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
@@ -280,6 +290,7 @@ May 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainme
 May 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-24)|3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+May 21|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745918/my-unique-skill-makes-me-op-even-at-level-1-vol-5-light-novel-by-miki-nazuna/9781647293345)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
 ### June
 

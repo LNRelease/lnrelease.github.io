@@ -24,12 +24,12 @@ TITLE = re.compile(r' \((?:light )?novels?\)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
 
 PHYSICAL = ('Physical', 'Hardcover', 'Hardback', 'Paperback')
-DIGITAL = ('Digital',)
+DIGITAL = ('Digital', 'eBook')
 AUDIOBOOK = ('Audiobook',)
 FORMATS = {x: i for i, x in enumerate(PHYSICAL + DIGITAL + AUDIOBOOK)}
 
 PRIMARY = ('J-Novel Club', 'Kodansha', 'Seven Seas Entertainment', 'VIZ Media', 'Yen Press')
-SECONDARY = ('BOOK☆WALKER', 'Right Stuf')
+SECONDARY = ('BOOK☆WALKER', 'Penguin Random House', 'Right Stuf')
 SOURCES = {x: i for i, x in enumerate(PRIMARY + SECONDARY)}
 
 
@@ -292,6 +292,7 @@ class RateLimiter:
             'global.bookwalker.jp': (0.5, 1),
             'labs.j-novel.club': (5, 10),
             'api.kodansha.us': (10, 30),
+            'www.penguinrandomhouse.ca': (60, 600),
             'www.rightstufanime.com': (30, 120),
             'sevenseasentertainment.com': (5, 10),
             'www.viz.com': (10, 60),
