@@ -25,7 +25,8 @@ NONWORD = re.compile(r'\W')
 
 PHYSICAL = ('Physical', 'Hardcover', 'Hardback', 'Paperback')
 DIGITAL = ('Digital',)
-FORMATS = {x: i for i, x in enumerate(PHYSICAL + DIGITAL)}
+AUDIOBOOK = ('Audiobook',)
+FORMATS = {x: i for i, x in enumerate(PHYSICAL + DIGITAL + AUDIOBOOK)}
 
 PRIMARY = ('J-Novel Club', 'Kodansha', 'Seven Seas Entertainment', 'VIZ Media', 'Yen Press')
 SECONDARY = ('BOOK☆WALKER', 'Right Stuf')
@@ -51,6 +52,7 @@ class Format(StrEnum):
     PHYSICAL = '<input class="spacer" alt="🖥️" type="image" disabled>📖'
     DIGITAL = '🖥️<input class="spacer" alt="📖" type="image" disabled>'
     PHYSICAL_DIGITAL = '🖥️📖'
+    AUDIOBOOK = '🔊'
 
     @staticmethod
     def from_str(s: str) -> Self:
@@ -58,6 +60,8 @@ class Format(StrEnum):
             return Format.PHYSICAL
         elif s in DIGITAL:
             return Format.DIGITAL
+        elif s in AUDIOBOOK:
+            return Format.AUDIOBOOK
         warnings.warn(f'Unknown format: {s}', RuntimeWarning)
         return Format.NONE
 
@@ -210,7 +214,12 @@ class Book:
         return self.name < other.name
 
     def __hash__(self) -> int:
-        return hash((self.serieskey, self.publisher, self.name, self.volume, self.format, self.date))
+        return hash((self.serieskey,
+                     self.publisher,
+                     self.name,
+                     self.volume,
+                     self.format,
+                     self.date))
 
     def __iter__(self) -> Iterator[Self]:
         yield self.serieskey
@@ -239,6 +248,7 @@ class Release:
                 and self.publisher == other.publisher
                 and clean_str(self.name) == clean_str(other.name)
                 and self.volume == other.volume
+                and (self.format in AUDIOBOOK) == (other.format in AUDIOBOOK)
                 and self.date == other.date)
 
     def __lt__(self, other: Self) -> bool:
@@ -253,7 +263,11 @@ class Release:
         return self.name < other.name
 
     def __hash__(self) -> int:
-        return hash((self.publisher, clean_str(self.name), self.volume, self.date))
+        return hash((self.publisher,
+                     clean_str(self.name),
+                     self.volume,
+                     self.format in AUDIOBOOK,
+                     self.date))
 
 
 class Table(set[Link | Info | Book | Series]):

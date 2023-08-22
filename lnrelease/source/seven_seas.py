@@ -9,7 +9,7 @@ NAME = 'Seven Seas Entertainment'
 
 PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
 # manually fill in
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.1'}
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.3'}
 COOKIES = {'cf_clearance': ''}
 
 def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[Info]]:
