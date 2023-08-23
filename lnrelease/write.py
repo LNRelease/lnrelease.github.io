@@ -11,6 +11,7 @@ from utils import FORMATS, Book, Format, Release, Table
 OUT = Path('README.md')
 DIGITAL = Path('digital.md')
 PHYSICAL = Path('physical.md')
+AUDIOBOOK = Path('audiobook.md')
 YEAR = Path('year')
 
 
@@ -36,17 +37,19 @@ def write_page(releases: Iterable[Release], output: Path) -> None:
 
 
 def main() -> None:
-    releases: defaultdict[Release, list[Book]] = defaultdict(list)
+    dic: defaultdict[Release, list[Book]] = defaultdict(list)
     for book in sorted(Table(BOOKS, Book)):
-        releases[Release(*book)].append(book)
-    for release, books in releases.items():
+        dic[Release(*book)].append(book)
+    for release, books in dic.items():
         books.sort(key=lambda x: FORMATS.get(x.format, 0))
         formats = {Format.from_str(x.format) for x in books}
         release.format = formats.pop() if len(formats) == 1 else Format.PHYSICAL_DIGITAL
+        if release.format == Format.AUDIOBOOK:
+            release.name += ' (Audiobook)'
         book = books[0]
         release.link = book.link
         release.isbn = book.isbn
-    releases = sorted(releases.keys())
+    releases: list[Release] = sorted(dic.keys())
 
     today = datetime.datetime.today()
     start_date = today - datetime.timedelta(days=7)
@@ -57,8 +60,9 @@ def main() -> None:
     cur_releases = releases[start:end]
 
     write_page(cur_releases, OUT)
-    write_page((b for b in cur_releases if b.format != Format.PHYSICAL), DIGITAL)
-    write_page((b for b in cur_releases if b.format != Format.DIGITAL), PHYSICAL)
+    write_page((b for b in cur_releases if b.format.is_digital()), DIGITAL)
+    write_page((b for b in cur_releases if b.format.is_physical()), PHYSICAL)
+    write_page((b for b in cur_releases if b.format == Format.AUDIOBOOK), AUDIOBOOK)
 
     YEAR.mkdir(exist_ok=True)
     start = 0

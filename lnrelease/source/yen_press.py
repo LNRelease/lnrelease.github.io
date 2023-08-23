@@ -24,13 +24,17 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
     formats: list[str] = [x.text for x in soup.find(class_='tabs').find_all('span')]
     details: element.ResultSet[element.Tag] = soup.find(class_='book-details').find_all('div', recursive=False)
     series_title = details[0].select_one('span:-soup-contains("Series") + p').text
-    title = soup.find('h1', class_='heading').text
-
-    if (series_title.endswith('(light novel serial)')  # category of ebooks is inconsistent
-        or (not soup.select_one('div.breadcrumbs > a[href="/category/light-novels"]')
-            and details[0].select_one('span:-soup-contains("Imprint") + p').text != 'Yen On')):
+    if series_title.endswith('(light novel serial)'):
         return None
 
+    category = soup.find('div', class_='breadcrumbs').find_all('a')[-1].get('href')
+    imprint = details[0].select_one('span:-soup-contains("Imprint") + p').text
+    # category of ebooks is inconsistent
+    if (category != '/category/light-novels' and category != '/category/audio-books'
+            and imprint != 'Yen On' and imprint != 'Yen Audio'):
+        return None
+
+    title = soup.find('h1', class_='heading').text
     series = Series(None, series_title)
     info = set()
     for format, detail in zip(formats, details):

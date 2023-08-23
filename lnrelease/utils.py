@@ -20,12 +20,12 @@ from urllib3.util.retry import Retry
 
 HEADERS = {'User-Agent': 'lnrelease.github.io/1.3'}
 
-TITLE = re.compile(r' \((?:light )?novels?\)', flags=re.IGNORECASE)
+TITLE = re.compile(r' \((?:(?:light )?novels?|audio(?:book)?)\)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
 
 PHYSICAL = ('Physical', 'Hardcover', 'Hardback', 'Paperback')
 DIGITAL = ('Digital', 'eBook')
-AUDIOBOOK = ('Audiobook',)
+AUDIOBOOK = ('Audiobook', 'Audio')
 FORMATS = {x: i for i, x in enumerate(PHYSICAL + DIGITAL + AUDIOBOOK)}
 
 PRIMARY = ('J-Novel Club', 'Kodansha', 'Seven Seas Entertainment', 'VIZ Media', 'Yen Press')
@@ -64,6 +64,12 @@ class Format(StrEnum):
             return Format.AUDIOBOOK
         warnings.warn(f'Unknown format: {s}', RuntimeWarning)
         return Format.NONE
+
+    def is_digital(self) -> bool:
+        return self == Format.DIGITAL or self == Format.PHYSICAL_DIGITAL
+
+    def is_physical(self) -> bool:
+        return self == Format.PHYSICAL or self == Format.PHYSICAL_DIGITAL
 
 
 @dataclass
@@ -297,7 +303,7 @@ class RateLimiter:
             'sevenseasentertainment.com': (5, 10),
             'www.viz.com': (10, 60),
             'yenpress.com': (0.5, 1),
-            'webcache.googleusercontent.com': (30, 35),
+            'webcache.googleusercontent.com': (31, 35),
         }
         self.last_request = {}
         self.locks = defaultdict(Lock)

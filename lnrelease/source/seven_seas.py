@@ -12,6 +12,7 @@ PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
 HEADERS = {'User-Agent': 'lnrelease.github.io/1.3'}
 COOKIES = {'cf_clearance': ''}
 
+
 def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[Info]]:
     series = Series(None, series_title)
     info = set()
@@ -20,7 +21,9 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
     soup = BeautifulSoup(page.content, 'html.parser')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
     for index, release in enumerate(soup.find_all(class_='series-volume'), start=1):
-        if not (format := release.find('b', string='Format:')) or format.next_sibling != ' Light Novel':
+        header = release.find_previous_sibling('h3').text
+        format = release.find('b', string='Format:')
+        if (format and format.next_sibling != ' Light Novel'):
             continue
 
         a = release.h3.a
@@ -30,20 +33,23 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
         physical_date = datetime.datetime.strptime(date.next_sibling, ': %Y/%m/%d').date()
         if date := release.find('b', text='Early Digital:'):
             digital_date = datetime.datetime.strptime(date.next_sibling, ' %Y/%m/%d').date()
-        elif digital:
+        elif digital and header == 'VOLUMES':
             digital_date = physical_date
         else:
             digital_date = None
-        isbn = release.find('b', string='ISBN:').next_sibling.strip()
-        if isbn == '(digital-only single)':
-            digital_date = physical_date
-            physical_date = None
-            isbn = None
+        isbn = ''
+        if header == 'VOLUMES':
+            isbn = release.find('b', string='ISBN:').next_sibling.strip()
+            if isbn == '(digital-only single)':
+                digital_date = physical_date
+                physical_date = None
+                isbn = ''
 
         if physical_date:
-            info.add(Info(series.key, volume_link, NAME, NAME, title, index, 'Physical', isbn, physical_date))
+            format = 'Physical' if header == 'VOLUMES' else 'Audiobook'
+            info.add(Info(series.key, volume_link, NAME, NAME, title, index, format, isbn, physical_date))
         if digital_date:
-            info.add(Info(series.key, volume_link, NAME, NAME, title, index, 'Digital', None, digital_date))
+            info.add(Info(series.key, volume_link, NAME, NAME, title, index, 'Digital', '', digital_date))
     return series, info
 
 
