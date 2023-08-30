@@ -54,7 +54,7 @@ Sep 11|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance
 Sep 11|[Slayers](https://j-novel.club/series/slayers#volume-10)|10-12|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 11|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-15/)|15|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Sep 12|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/722863/my-unique-skill-makes-me-op-even-at-level-1-vol-3-light-novel-by-nazuna-miki/9781647292126)|3|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Sep 12|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-vol-3-light-novel)|3|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 12|[NieR Replicant ver.1.22474487139... Project Gestalt Recollections File 1](https://www.rightstufanime.com/NieR-Replicant-ver-1-22474487139-Project-Gestalt-Recollections-File-1-Novel-Hardcover)|1|Square Enix Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Sep 12|[The Asterisk War](https://yenpress.com/titles/9781975369095-the-asterisk-war-vol-17-light-novel-the-grand-finale)|17|Yen Press|🖥️📖|
 Sep 19|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975352998-associate-professor-akira-takatsuki-s-conjecture-vol-2-light-novel-the-supernatural-hides-in-the-cracks)|2|Yen Press|🖥️📖|
@@ -238,8 +238,27 @@ Date|Series|Volume|Publisher|Type|
 Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of-gluttony-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel)|3|Yen Press|🖥️📖|
+Feb 20|[Black Summoner](https://yenpress.com/titles/9781975392208-black-summoner-vol-1-light-novel)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Feb 20|[Date A Live](https://yenpress.com/titles/9781975350345-date-a-live-vol-11-light-novel)|11|Yen Press|🖥️📖|
+Feb 20|[Days with My Stepsister](https://yenpress.com/titles/9781975372057-days-with-my-stepsister-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Feb 20|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
+Feb 20|[Horror Collector](https://yenpress.com/titles/9781975378240-horror-collector-vol-2)|2|Yen Press|🖥️📖|
+Feb 20|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9781975379070-if-the-villainess-and-villain-met-and-fell-in-love-vol-2-light-novel)|2|Yen Press|🖥️📖|
+Feb 20|[Liar, Liar](https://yenpress.com/titles/9781975370633-liar-liar-vol-3)|3|Yen Press|🖥️📖|
+Feb 20|[Magical Girl Raising Project](https://yenpress.com/titles/9781975378899-magical-girl-raising-project-vol-17-light-novel)|17|Yen Press|🖥️📖|
+Feb 20|[Miss Savage Fang](https://yenpress.com/titles/9781975371098-miss-savage-fang-vol-1)|1|Yen Press|🖥️📖|
+Feb 20|[My Happy Marriage](https://yenpress.com/titles/9781975375294-my-happy-marriage-vol-6-light-novel)|6|Yen Press|🖥️📖|
+Feb 20|[Phantom Thief Red](https://yenpress.com/titles/9781975378127-phantom-thief-red-vol-2)|2|Yen Press|🖥️📖|
+Feb 20|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377922-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-2-light-novel)|2|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Feb 20|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351038-sugar-apple-fairy-tale-vol-5-light-novel)|5|Yen Press|🖥️📖|
+Feb 20|[The Greatest Demon Lord Is Reborn as a Typical Nobody](https://yenpress.com/titles/9781975370138-the-greatest-demon-lord-is-reborn-as-a-typical-nobody-vol-9-light-novel)|9|Yen Press|🖥️📖|
+Feb 20|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9781975374990-the-kept-man-of-the-princess-knight-vol-1)|1|Yen Press|🖥️📖|
+Feb 20|[The Other World's Books Depend on the Bean Counter](https://yenpress.com/titles/9781975364342-the-other-world-s-books-depend-on-the-bean-counter-vol-1-light-novel)|1|Yen Press|🖥️📖|
+Feb 20|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371173-the-unimplemented-overlords-have-joined-the-party-vol-1)|1|Yen Press|🖥️📖|
+Feb 20|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379643-the-vexations-of-a-shut-in-vampire-princess-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Feb 20|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
+Feb 20|[You Are My Regret](https://yenpress.com/titles/9781975378806-you-are-my-regret-vol-1)|1|Yen Press|🖥️📖|
 Feb 27|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/734067/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-4-light-novel-by-miraijina/9781647293123)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 27|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Feb 27|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|

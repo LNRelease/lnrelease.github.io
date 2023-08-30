@@ -63,3 +63,12 @@ Date|Series|Volume|Publisher|Type|
 Jan 16|[Overlord (Audiobook)](https://yenpress.com/titles/9781975370190-overlord-vol-11-the-dwarven-crafter)|11|Yen Press|🔊|
 Jan 16|[Spice and Wolf (Audiobook)](https://yenpress.com/titles/9781975371340-spice-and-wolf-vol-8-the-town-of-strife-i)|8|Yen Press|🔊|
 Jan 16|[The Saga of Tanya the Evil (Audiobook)](https://yenpress.com/titles/9781975389819-the-saga-of-tanya-the-evil-vol-9-omnes-una-manet-nox)|9|Yen Press|🔊|
+
+### February
+
+Date|Series|Volume|Publisher|Type|
+:---:|:---|:---:|:---|:---:|
+Feb 13|[Goblin Slayer (Audiobook)](https://yenpress.com/titles/9781975388225-goblin-slayer-vol-2)|2|Yen Press|🔊|
+Feb 13|[Is It Wrong to Try to Pick Up Girls in a Dungeon? (Audiobook)](https://yenpress.com/titles/9781975388188-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-2)|2|Yen Press|🔊|
+Feb 13|[So I'm a Spider, So What? (Audiobook)](https://yenpress.com/titles/9781975375881-so-i-m-a-spider-so-what-vol-8)|8|Yen Press|🔊|
+Feb 13|[Sword Art Online (Audiobook)](https://yenpress.com/titles/9781975371302-sword-art-online-12-alicization-rising)|12|Yen Press|🔊|
