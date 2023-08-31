@@ -77,6 +77,8 @@ Sep 01|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm
 Sep 01|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-20)|20|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 05|[Liar, Liar](https://yenpress.com/titles/9781975370596-liar-liar-vol-1-apparently-the-lying-transfer-student-dominates-games-by-cheating)|1|Yen Press|🖥️📖|
 Sep 05|[Your Forma](https://yenpress.com/titles/9781975367886-your-forma-vol-4)|4|Yen Press|🖥️📖|
+Sep 07|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Sep 07|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 08|[Culinary Chronicles of the Court Flower](https://j-novel.club/series/culinary-chronicles-of-the-court-flower#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 11|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 11|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -125,8 +127,10 @@ Sep 26|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](http
 Sep 27|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-14)|14|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 28|[Accidentally in Love: The Witch, the Knight, and the Love Potion Slipup](https://j-novel.club/series/accidentally-in-love-the-witch-the-knight-and-the-love-potion-slipup#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 28|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Sep 28|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 29|[Fluffy Paradise](https://global.bookwalker.jp/deb10bda84-e043-4413-80a7-a65a1c69196c/)|1|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 29|[Monster Tamer](https://j-novel.club/series/monster-tamer#volume-15)|15|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Sep 29|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 29|[Surviving in Another World as a Villainess Fox Girl!](https://global.bookwalker.jp/de4b04fad7-0787-4093-86d0-4e50e410bd36/)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 29|[The Do-Over Damsel Conquers the Dragon Emperor](https://global.bookwalker.jp/de29a01679-a176-453d-b7fd-2d122c557904/)|3|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 29|[The Drab Princess, the Black Cat, and the Satisfying Break-up](https://global.bookwalker.jp/de1582c233-2581-4d74-a63b-6e25a36ba126/)|3|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -175,7 +179,6 @@ Oct 20|[Fiancée No More: The Forsaken Lady, the Prince, and Their Make-Believe 
 Oct 20|[Formerly, the Fallen Daughter of the Duke](https://j-novel.club/series/formerly-the-fallen-daughter-of-the-duke#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 20|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 23|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28)|28|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Oct 25|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 25|[Only the Villainous Lord Wields the Power to Level Up](https://j-novel.club/series/only-the-villainous-lord-wields-the-power-to-level-up#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 25|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -183,7 +186,6 @@ Oct 27|[Seventh](https://j-novel.club/series/seventh#volume-5)|5|J-Novel Club|�
 Oct 27|[Stuck in a Time Loop: When All Else Fails, Be a Villainess](https://j-novel.club/series/stuck-in-a-time-loop-when-all-else-fails-be-a-villainess#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[The Game Master Has Logged In to Another World](https://j-novel.club/series/the-game-master-has-logged-into-a-different-world#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 30|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-21)|21|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### November
 
@@ -192,7 +194,6 @@ Date|Series|Volume|Publisher|Type|
 Nov 02|[The Troubles of Miss Nicola the Exorcist](https://j-novel.club/series/the-troubles-of-miss-nicola-the-exorcist#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 06|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 07|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Nov 07|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Nov 09|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 09|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 09|[Marriage, Divorce, and Beyond: The White Mage and Black Knight's Romance Reignited](https://j-novel.club/series/marriage-divorce-and-beyond-the-white-mage-and-black-knight-s-romance-reignited#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -270,11 +271,11 @@ Dec 12|[The Magician Who Rose From Failure](https://j-novel.club/series/the-magi
 Dec 18|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
-Dec 19|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Dec 19|[The Crown of Rutile Quartz](https://j-novel.club/series/the-crown-of-rutile-quartz#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 19|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 25|[Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|🖥️📖|
+Dec 26|[Spy x Family: Family Portrait](https://www.viz.com/read/novel/spy-x-family-novels/product/7681/paperback)|1|VIZ Media|🖥️📖|
 Dec 26|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 
@@ -350,7 +351,6 @@ Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-
 Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
-Mar 26|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
 
 ### April
 
@@ -377,6 +377,12 @@ Date|Series|Volume|Publisher|Type|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 May 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+
+### June
+
+Date|Series|Volume|Publisher|Type|
+:---:|:---|:---:|:---|:---:|
+Jun 11|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
 
 ### July
 

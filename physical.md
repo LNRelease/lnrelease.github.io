@@ -113,16 +113,16 @@ Oct 17|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9
 Oct 17|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-holy-grail-of-eris-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
 Oct 24|[Arifureta: From Commonplace to World's Strongest](https://sevenseasentertainment.com/books/arifureta-from-commonplace-to-worlds-strongest-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Oct 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 31|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/722858/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-3-light-novel-by-miraijina/9781647292171)|3|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
 ### November
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Nov 07|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Nov 07|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
+Nov 07|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 13|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-15)|15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 13|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance-of-a-bookworm#volume-21)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 13|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-8)|8|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -185,10 +185,11 @@ Dec 12|[Vampire Hunter D](https://www.rightstufanime.com/Vampire-Hunter-D-Novel-
 Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Dec 19|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/734066/my-unique-skill-makes-me-op-even-at-level-1-vol-4-light-novel-by-miki-nazuna/9781647293116)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 19|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Dec 19|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 26|[Loyal Soldier, Lustful Beast](https://sevenseasentertainment.com/books/loyal-soldier-lustful-beast-light-novel/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|🖥️📖|
+Dec 26|[Spy x Family: Family Portrait](https://www.viz.com/read/novel/spy-x-family-novels/product/7681/paperback)|1|VIZ Media|🖥️📖|
 Dec 26|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 
@@ -279,7 +280,6 @@ Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!]
 Mar 19|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Mar 26|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/)|20|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Mar 26|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
 
 ### April
 
@@ -321,6 +321,7 @@ Date|Series|Volume|Publisher|Type|
 Jun 10|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/series/ascendance-of-a-bookworm-short-story-collection#volume-1)|1|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13)|13-15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jun 11|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
 
 ### July
 
