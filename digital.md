@@ -276,6 +276,7 @@ Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-t
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Dec 19|[The Crown of Rutile Quartz](https://j-novel.club/series/the-crown-of-rutile-quartz#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 19|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Dec 21|[The Conqueror from a Dying Kingdom](https://j-novel.club/series/the-conqueror-from-a-dying-kingdom#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 25|[Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|🖥️📖|
 Dec 26|[Spy x Family: Family Portrait](https://www.viz.com/read/novel/spy-x-family-novels/product/7681/paperback)|1|VIZ Media|🖥️📖|
