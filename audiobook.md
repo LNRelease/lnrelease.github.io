@@ -32,6 +32,7 @@ Oct 10|[Ishura (Audiobook)](https://yenpress.com/titles/9781975376758-ishura-vol
 Oct 10|[Overlord (Audiobook)](https://yenpress.com/titles/9781975370183-overlord-vol-10-the-ruler-of-conspiracy)|10|Yen Press|🔊|
 Oct 10|[Spice and Wolf (Audiobook)](https://yenpress.com/titles/9781975371333-spice-and-wolf-vol-7)|7|Yen Press|🔊|
 Oct 23|[Solo Leveling (Audiobook)](https://yenpress.com/titles/9781975325947-solo-leveling-vol-8)|8|Yen Press|🔊|
+Oct 26|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasentertainment.com/audio/mushoku-tensei-jobless-reincarnation-audiobook-vol-2/)|2|Seven Seas Entertainment|🔊|
 
 ### November
 
