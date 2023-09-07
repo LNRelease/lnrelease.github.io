@@ -5,7 +5,8 @@ from pathlib import Path
 from random import random
 
 from bs4 import BeautifulSoup
-from utils import Info, Link, Series, Session, Table
+from session import Session
+from utils import Info, Link, Series, Table
 
 NAME = 'BOOK☆WALKER'
 
@@ -14,7 +15,7 @@ PAGES = Path('book_walker.csv')
 
 def parse(session: Session, link: str) -> tuple[Series, Info] | None:
     page = session.get(link)
-    soup = BeautifulSoup(page.content, 'html.parser')
+    soup = BeautifulSoup(page.content, 'lxml')
 
     jsn = json.loads(soup.find('script', type='application/ld+json').text)
     publisher = jsn['brand']['name']
@@ -57,7 +58,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
         for i in range(1, limit + 1):
             params['page'] = i
             page = session.get('https://global.bookwalker.jp/categories/3/', params=params)
-            soup = BeautifulSoup(page.content, 'html.parser')
+            soup = BeautifulSoup(page.content, 'lxml')
 
             for book in soup.find_all(class_='a-tile-ttl'):
                 a = book.a

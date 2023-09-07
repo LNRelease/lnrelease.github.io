@@ -3,13 +3,14 @@ import re
 import warnings
 
 from bs4 import BeautifulSoup
-from utils import Info, Series, Session
+from session import Session
+from utils import Info, Series
 
 NAME = 'Seven Seas Entertainment'
 
 PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
 # manually fill in
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.3'}
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.4'}
 COOKIES = {'cf_clearance': ''}
 
 
@@ -18,21 +19,21 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
     info = set()
 
     page = session.get(link)
-    soup = BeautifulSoup(page.content, 'html.parser')
+    soup = BeautifulSoup(page.content, 'lxml')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
     for index, release in enumerate(soup.find_all(class_='series-volume'), start=1):
         header = release.find_previous_sibling('h3').text
         format = release.find('b', string='Format:')
-        if (format and format.next_sibling != ' Light Novel'):
+        if (format and 'Light Novel' not in format.next_sibling):
             continue
 
         a = release.h3.a
         volume_link = a.get('href')
         title = a.text
         date = release.find('b', string='Release Date')
-        physical_date = datetime.datetime.strptime(date.next_sibling, ': %Y/%m/%d').date()
-        if date := release.find('b', text='Early Digital:'):
-            digital_date = datetime.datetime.strptime(date.next_sibling, ' %Y/%m/%d').date()
+        physical_date = datetime.datetime.strptime(date.next_sibling.strip(' :'), '%Y/%m/%d').date()
+        if date := release.find('b', string='Early Digital:'):
+            digital_date = datetime.datetime.strptime(date.next_sibling.strip(), '%Y/%m/%d').date()
         elif digital and header == 'VOLUMES':
             digital_date = physical_date
         else:
@@ -62,7 +63,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         for i in range(1, 100):
             url = base + ('' if i == 1 else path.format(i))
             page = session.get(url)
-            soup = BeautifulSoup(page.content, 'html.parser')
+            soup = BeautifulSoup(page.content, 'lxml')
 
             for serie in soup.find_all(id='series'):
                 try:

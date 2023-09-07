@@ -3,7 +3,8 @@ import re
 import warnings
 from urllib.parse import urlencode, urljoin
 
-from utils import FORMATS, Info, Series, Session
+from session import Session
+from utils import FORMATS, Info, Series
 
 NAME = 'Right Stuf'
 

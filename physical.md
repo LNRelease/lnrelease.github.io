@@ -5,44 +5,6 @@
 
 ## 2023
 
-### August
-
-Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
-Aug 01|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 01|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 01|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975373054-the-misfit-of-demon-king-academy-vol-1-light-novel)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 07|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-18)|18|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 07|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-8)|8|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 08|[A Certain Magical Index: The Old Testament Omnibus Edition](https://yenpress.com/titles/9781975351588-a-certain-magical-index-the-old-testament-omnibus-edition)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 08|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-14/)|14|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 08|[Summer Ghost](https://sevenseasentertainment.com/books/summer-ghost-light-novel/)|1|Seven Seas Entertainment|🖥️📖|
-Aug 08|[You Can Have My Back](https://yenpress.com/titles/9781975363932-you-can-have-my-back-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Aug 15|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 15|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-23/)|23|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 20|[The Do-Over Damsel Conquers the Dragon Emperor](https://www.rightstufanime.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Novel-Volume-2)|2|Cross Infinite World|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 22|[Accel World](https://yenpress.com/titles/9781975367848-accel-world-vol-26-light-novel-conqueror-of-the-sundered-heavens)|26|Yen Press|🖥️📖|
-Aug 22|[Bride of the Barrier Master](https://yenpress.com/titles/9781975370336-bride-of-the-barrier-master-vol-2)|2|Yen Press|🖥️📖|
-Aug 22|[Cross-Dressing Villainess Cecilia Sylvie](https://yenpress.com/titles/9781975368593-cross-dressing-villainess-cecilia-sylvie-vol-5-light-novel)|5|Yen Press|🖥️📖|
-Aug 22|[Hollow Regalia](https://yenpress.com/titles/9781975368616-hollow-regalia-vol-2-light-novel)|2|Yen Press|🖥️📖|
-Aug 22|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9781975333973-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-3-light-novel)|3|Yen Press|🖥️📖|
-Aug 22|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975368227-kunon-the-sorcerer-can-see-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Aug 22|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 22|[Sasaki and Miyano: Second-Years](https://yenpress.com/titles/9781975364458-sasaki-and-miyano-second-years-vol-2)|2|Yen Press|🖥️📖|
-Aug 22|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368265-sentenced-to-be-a-hero-vol-1-light-novel-the-prison-records-of-penal-hero-unit-9004)|1|Yen Press|🖥️📖|
-Aug 22|[Spice and Wolf](https://yenpress.com/titles/9781975370312-spice-and-wolf-vol-24-light-novel-spring-log-vii)|24|Yen Press|🖥️📖|
-Aug 22|[Spy Classroom](https://yenpress.com/titles/9781975350284-spy-classroom-vol-6-light-novel-pandemonium-thy-name-is-sybilla)|6|Yen Press|🖥️📖|
-Aug 22|[Sword Art Online](https://yenpress.com/titles/9781975369774-sword-art-online-27-light-novel)|27|Yen Press|🖥️📖|
-Aug 22|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975369750-that-time-i-got-reincarnated-as-a-slime-vol-16-light-novel)|16|Yen Press|🖥️📖|
-Aug 22|[The Detective Is Already Dead](https://yenpress.com/titles/9781975368975-the-detective-is-already-dead-vol-6)|6|Yen Press|🖥️📖|
-Aug 22|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975369033-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-5-novel)|5|Yen Press|🖥️📖|
-Aug 22|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 22|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975352875-the-princess-of-convenient-plot-devices-vol-3-light-novel)|3|Yen Press|🖥️📖|
-Aug 22|[The Wrong Way to Use Healing Magic](https://www.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-3)|3|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Aug 29|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334154-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-6-light-novel)|6|Yen Press|🖥️📖|
-Aug 29|[Looks Are All You Need](https://yenpress.com/titles/9781975371258-looks-are-all-you-need-vol-1-shiika-s-crescendo)|1|Yen Press|🖥️📖|
-Aug 29|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-3)|3|One Peace Books|🖥️📖|
-
 ### September
 
 Date|Series|Volume|Publisher|Type|
@@ -263,7 +225,6 @@ Feb 20|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](htt
 Feb 20|[You Are My Regret](https://yenpress.com/titles/9781975378806-you-are-my-regret-vol-1)|1|Yen Press|🖥️📖|
 Feb 27|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/734067/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-4-light-novel-by-miraijina/9781647293123)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 27|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
-Feb 27|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 
 ### March
 
@@ -288,7 +249,6 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Apr 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
-Apr 02|[The Invincible Shovel](https://sevenseasentertainment.com/books/the-invincible-shovel-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Apr 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-16)|16|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 08|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-11)|11|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 09|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
@@ -299,7 +259,6 @@ Apr 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasent
 Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Apr 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734068/saving-80000-gold-in-another-world-for-my-retirement-4-light-novel-by-funa/9781647293130)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
-Apr 23|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Apr 30|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Apr 30|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-18/)|18|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
@@ -314,6 +273,7 @@ May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Tur
 May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 May 21|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745918/my-unique-skill-makes-me-op-even-at-level-1-vol-5-light-novel-by-miki-nazuna/9781647293345)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 21|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/)|14|Seven Seas Entertainment|🖥️📖|
+May 28|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### June
 
@@ -323,6 +283,7 @@ Jun 10|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/s
 Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13)|13-15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 11|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
+Jun 25|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 
 ### July
 
@@ -332,6 +293,7 @@ Jul 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance
 Jul 08|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-4)|4-6|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jul 30|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Jul 30|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### August
 
@@ -344,3 +306,9 @@ Aug 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-g
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Sep 03|[The World's Fastest Level Up](https://sevenseasentertainment.com/books/the-worlds-fastest-level-up-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+
+### December
+
+Date|Series|Volume|Publisher|Type|
+:---:|:---|:---:|:---|:---:|
+Dec 31|[The Invincible Shovel](https://sevenseasentertainment.com/books/the-invincible-shovel-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|

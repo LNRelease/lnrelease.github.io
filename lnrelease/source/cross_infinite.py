@@ -1,0 +1,129 @@
+import datetime
+import warnings
+from collections import defaultdict
+from urllib.parse import urljoin, urlparse
+
+from bs4 import BeautifulSoup
+from session import Session
+from utils import Info, Series, find_series
+
+from . import store
+
+NAME = 'Cross Infinite World'
+
+
+def get_format(s: str) -> str:
+    match s:
+        case ('Paperback'
+              | 'Print'
+              | 'Paperback Releases'
+              | 'Print Releases'):
+            return 'Paperback'
+        case ('Hardcover'
+              | 'Hardcover Releases'):
+            return 'Hardcover'
+        case ('Audiobook'
+              | 'Audiobook Release'):
+            return 'Audiobook'
+        case ('Digital'
+              | 'Digital Releases'
+              | 'Digital Release'
+              | 'Available Now!'
+              | 'Pre-Order Now!'):
+            return 'Digital'
+        case _:
+            warnings.warn(f'Unknown CIW format: {s}', RuntimeWarning)
+            return 'Digital'
+
+
+def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
+    page = session.get(link)
+    soup = BeautifulSoup(page.content, 'lxml')
+    box = soup.select_one('div.container > div.row + div.row > div.box')
+    series_title = box.h2.strong.text.removesuffix(' Volumes')
+    series = Series(None, series_title)
+    info = set()
+
+    for index, panel in enumerate(box.find_all('div', class_='panel'), start=1):
+        if a := panel.find('a', recursive=False):
+            link = urljoin('https://crossinfworld.com/', a.get('href'))
+        title = panel.find('div', class_='panel-heading').strong.text
+        body = panel.find('div', class_='panel-body')
+
+        links: defaultdict[str, dict[str, str]] = defaultdict(dict)
+        for a in body.find_all('a'):
+            format = get_format(a.find_previous('p').text)
+            url = a.get('href').strip()
+            url = session.resolve(url)
+            norm = store.normalise(session, url)
+            if norm is None:
+                warnings.warn(f'{netloc} normalise failed')
+            elif norm:
+                links[format][url] = norm
+
+        for format, urls in links.items():
+            alts = []
+            force = all('amazon' in urlparse(url).netloc for url in urls)
+            for url, norm in urls.items():
+                netloc = urlparse(norm).netloc
+                if netloc in store.STORES or 'audible' in netloc:
+                    alts.append(norm)
+                    if res := store.parse(session, url, norm, force,
+                                          series=series, publisher=NAME,
+                                          title=title, index=index, format=format):
+                        info |= res[1]
+                        force = False
+                elif netloc in store.PROCESSED:
+                    alts.append(norm)
+                    force = False
+
+            alts.sort()
+            info.add(Info(series.key, link, NAME, NAME, title, index, format, '', None, alts))
+
+    return series, info
+
+
+def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
+    items = {(inf.link, inf.format): inf for inf in info}
+    with Session() as session:
+        page = session.get(r'https://crossinfworld.com/series.html')
+        soup = BeautifulSoup(page.content, 'lxml')
+        for a in soup.select('div.row > div.box > div > a'):
+            try:
+                link = urljoin('https://crossinfworld.com/', a.get('href'))
+                res = parse(session, link)
+
+                if len(res[1]) > 0:
+                    series.add(res[0])
+                    for inf in res[1]:
+                        key = inf.link, inf.format
+                        if inf.source == NAME and key in items:
+                            inf.isbn = items[key].isbn
+                            inf.date = items[key].date
+                        items[key] = inf
+
+            except Exception as e:
+                warnings.warn(f'{link}: {e}', RuntimeWarning)
+
+        page = session.get(r'https://crossinfworld.com/Calendar.html')
+        soup = BeautifulSoup(page.content, 'lxml')
+        for book in soup.select('table#sort > tbody > tr'):
+            format = get_format(book.find('td', {'data-table-header': 'Format'}).text)
+            a = book.find('td', {'data-table-header': 'Title'}).a
+            title = a.text
+            link = urljoin('https://crossinfworld.com/', a.get('href'))
+            date = book.find('td', {'data-table-header': 'Date'}).text
+            date = datetime.datetime.strptime(date, '%m/%d/%y').date()
+            isbn = book.find('td', {'data-table-header': 'ISBN'}).text
+
+            key = link, format
+            if key in items:
+                items[key].isbn = isbn
+                items[key].date = date
+            else:
+                warnings.warn(f'{title} ({format}) not found: {link}', RuntimeWarning)
+                serie = find_series(title, series) or Series(None, title)
+                series.add(serie)
+                items[key] = Info(serie.key, link, NAME, NAME, title, 0, format, isbn, date)
+
+    return series, set(items.values())

@@ -5,7 +5,8 @@ from . import check, copy, guess, one, secondary, short, standard
 NAME = 'Yen Press'
 
 
-def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
+def parse(series: Series, info: dict[str, list[Info]],
+          links: set[Info]) -> dict[str, list[Book]]:
     books: dict[str, list[Book]] = {}
     for format, lst in info.items():
         # remove duplicates
@@ -26,7 +27,7 @@ def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[
     if main_books.count(None) < size - 1:
         one(series, info, books)
     else:
-        secondary(series, info, alts, books)
+        secondary(series, info, links, books)
         guess(series, info, books)
 
     copy(series, info, books)

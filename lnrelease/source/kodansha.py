@@ -2,7 +2,8 @@ import datetime
 import re
 import warnings
 
-from utils import FORMATS, Info, Series, Session
+from session import Session
+from utils import FORMATS, Info, Series
 
 NAME = 'Kodansha'
 

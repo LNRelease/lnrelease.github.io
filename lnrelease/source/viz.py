@@ -5,7 +5,8 @@ from random import random
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
-from utils import Info, Link, Series, Session, Table
+from session import Session
+from utils import Info, Link, Series, Table
 
 NAME = 'VIZ Media'
 
@@ -15,7 +16,7 @@ PAGES = Path('viz.csv')
 def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date] | None:
     info = set()
     page = session.get(link)
-    soup = BeautifulSoup(page.content, 'html.parser')
+    soup = BeautifulSoup(page.content, 'lxml')
 
     series_title = soup.find('strong', string='Series').find_next('a').text
     title = soup.select_one('div#purchase_links_block h2').text
@@ -37,17 +38,17 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages if random() < 0.9 and (not row.date or row.date < cutoff)}
+    skip = {row.link for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
 
     with Session() as session:
         site = r'https://www.viz.com/search/{}?search=Novel&category=Novel'
         for i in range(1, limit + 1):
             page = session.get(site.format(i))
-            soup = BeautifulSoup(page.content, 'html.parser')
+            soup = BeautifulSoup(page.content, 'lxml')
 
             results = soup.select('div#results > article > div > a')
             for a in results:
-                link = urljoin('https://www.viz.com', a.get('href'))
+                link = urljoin('https://www.viz.com/', a.get('href'))
                 if link in skip:
                     continue
 

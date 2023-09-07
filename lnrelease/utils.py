@@ -1,24 +1,13 @@
 import csv
 import datetime
-import random
 import re
 import unicodedata
 import warnings
-from collections import defaultdict
 from collections.abc import Iterator
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from enum import StrEnum
 from pathlib import Path
-from threading import Lock
-from time import sleep, time
 from typing import Self
-from urllib.parse import urlparse
-
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.3'}
 
 TITLE = re.compile(r' \((?:(?:light )?novels?|audio(?:book)?)\)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
@@ -28,9 +17,29 @@ DIGITAL = ('Digital', 'eBook')
 AUDIOBOOK = ('Audiobook', 'Audio')
 FORMATS = {x: i for i, x in enumerate(PHYSICAL + DIGITAL + AUDIOBOOK)}
 
-PRIMARY = ('J-Novel Club', 'Kodansha', 'Seven Seas Entertainment', 'VIZ Media', 'Yen Press')
-SECONDARY = ('BOOK☆WALKER', 'Penguin Random House', 'Right Stuf')
+PRIMARY = (
+    'Cross Infinite World',
+    'J-Novel Club',
+    'Kodansha',
+    'Seven Seas Entertainment',
+    'VIZ Media',
+    'Yen Press',
+)
+SECONDARY = (
+    'BOOK☆WALKER',
+    'Penguin Random House',
+    'Right Stuf',
+    'Amazon',
+    'Apple',
+    'Barnes & Noble',
+    'Google',
+    'Kobo',
+    'Audible',
+)
 SOURCES = {x: i for i, x in enumerate(PRIMARY + SECONDARY)}
+
+# placeholder date
+EPOCH = datetime.date(1, 1, 1)
 
 
 def clean_str(s: str) -> str:
@@ -134,16 +143,19 @@ class Info:
     format: str
     isbn: str
     date: datetime.date
+    alts: list[str] = field(default_factory=list)
 
     def __post_init__(self) -> None:
         self.title = TITLE.sub('', self.title).replace('’', "'").strip()
+        self.date = self.date or EPOCH
 
     @classmethod
-    def from_db(cls, serieskey: str, link: str, source: str, publisher: str,
-                title: str, index: str, format: str, isbn: str, date: str) -> Self:
+    def from_db(cls, serieskey: str, link: str, source: str, publisher: str, title: str,
+                index: str, format: str, isbn: str, date: str, *alts: str) -> Self:
         index = int(index)
         date = datetime.date.fromisoformat(date)
-        return cls(serieskey, link, source, publisher, title, index, format, isbn, date)
+        alts = list(alts)
+        return cls(serieskey, link, source, publisher, title, index, format, isbn, date, alts)
 
     def __eq__(self, other: Self) -> bool:
         return (isinstance(other, self.__class__)
@@ -156,7 +168,7 @@ class Info:
         elif self.publisher != other.publisher:
             return self.publisher < other.publisher
         elif self.source != other.source:
-            return SOURCES.get(self.source) < SOURCES.get(other.source)
+            return SOURCES[self.source] < SOURCES[other.source]
         elif self.format != other.format:
             return self.format < other.format
         elif self.date != other.date:
@@ -178,6 +190,8 @@ class Info:
         yield self.format
         yield self.isbn
         yield self.date
+        for alt in self.alts:
+            yield alt
 
 
 @dataclass
@@ -192,8 +206,8 @@ class Book:
     date: datetime.date
 
     @classmethod
-    def from_db(cls, serieskey: str, link: str, publisher: str,
-                name: str, volume: str, format: str, isbn: str, date: str) -> Self:
+    def from_db(cls, serieskey: str, link: str, publisher: str, name: str,
+                volume: str, format: str, isbn: str, date: str) -> Self:
         date = datetime.date.fromisoformat(date)
         return cls(serieskey, link, publisher, name, volume, format, isbn, date)
 
@@ -291,83 +305,12 @@ class Table(set[Link | Info | Book | Series]):
             csv.writer(f).writerows(sorted(self))
 
 
-class RateLimiter:
-    def __init__(self) -> None:
-        self.lock = Lock()
-        self.delays = {
-            'global.bookwalker.jp': (0.5, 1),
-            'labs.j-novel.club': (5, 10),
-            'api.kodansha.us': (10, 30),
-            'www.penguinrandomhouse.ca': (60, 600),
-            'www.rightstufanime.com': (30, 120),
-            'sevenseasentertainment.com': (5, 10),
-            'www.viz.com': (10, 60),
-            'yenpress.com': (0.5, 1),
-            'webcache.googleusercontent.com': (31, 35),
-        }
-        self.last_request = {}
-        self.locks = defaultdict(Lock)
-
-    def acquire(self, url: str) -> None:
-        with self.lock:
-            netloc = urlparse(url).netloc
-            lock = self.locks[netloc]
-        lock.acquire()
-        delay = random.uniform(*self.delays.get(netloc, (0, 0)))
-        sleep(max(0, delay - time() + self.last_request.get(netloc, 0)))
-
-    def release(self, url: str, success: bool) -> None:
-        with self.lock:
-            netloc = urlparse(url).netloc
-            lock = self.locks[netloc]
-        if success:
-            self.last_request[netloc] = time()
-        lock.release()
-
-
-RATE_LIMITER = RateLimiter()
-
-
-class Session(requests.Session):
-    def __init__(self) -> None:
-        super().__init__()
-        self.headers.update(HEADERS)
-        self.set_retry()
-
-    def set_retry(self, total: int = 5, backoff_factor: float = 2,
-                  status_forcelist: set[int] = {429, 500, 502, 503, 504}) -> None:
-        retry = Retry(
-            total=total,
-            backoff_factor=backoff_factor,
-            respect_retry_after_header=True,
-            status_forcelist=status_forcelist
-        )
-        adapter = HTTPAdapter(max_retries=retry)
-        self.mount('http://', adapter)
-        self.mount('https://', adapter)
-
-    def get(self, url, timeout=1000, **kwargs) -> requests.Response:
-        kwargs['timeout'] = timeout
-
-        RATE_LIMITER.acquire(url)
-        page = super().get(url, **kwargs)
-
-        if page.status_code == 403:  # cloudflare
-            RATE_LIMITER.release(url, False)
-            self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
-            url = 'https://webcache.googleusercontent.com/search?strip=1&q=cache:' + url
-
-            RATE_LIMITER.acquire(url)
-            page = super().get(url, **kwargs)
-
-            if page.status_code == 429:
-                warnings.warn(f'Google code 429: {url}', RuntimeWarning)
-                sleep(3600)  # wait an hour
-                page = super().get(url, **kwargs)
-
-            self.set_retry()
-        elif page.status_code != 200:
-            warnings.warn(f'Status code ({page.status_code}): {url}', RuntimeWarning)
-
-        RATE_LIMITER.release(url, True)
-        return page
+def find_series(title: str, series: set[Series]) -> Series | None:
+    s = clean_str(title)
+    matches: list[Series] = []
+    for serie in series:
+        if s.startswith(serie.key):
+            matches.append(serie)
+    if matches:
+        return max(matches, key=lambda x: len(x.title))
+    return None

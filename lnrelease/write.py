@@ -41,15 +41,15 @@ def main() -> None:
     for book in sorted(Table(BOOKS, Book)):
         dic[Release(*book)].append(book)
     for release, books in dic.items():
-        books.sort(key=lambda x: FORMATS.get(x.format, 0))
-        formats = {Format.from_str(x.format) for x in books}
+        books.sort(key=lambda b: FORMATS.get(b.format, 0))
+        formats = {Format.from_str(b.format) for b in books}
         release.format = formats.pop() if len(formats) == 1 else Format.PHYSICAL_DIGITAL
         if release.format == Format.AUDIOBOOK:
             release.name += ' (Audiobook)'
         book = books[0]
         release.link = book.link
         release.isbn = book.isbn
-    releases: list[Release] = sorted(dic.keys())
+    releases: list[Release] = sorted(dic)
 
     today = datetime.datetime.today()
     start_date = today - datetime.timedelta(days=7)
@@ -59,12 +59,14 @@ def main() -> None:
     end = bisect_right(releases, end_date, key=attrgetter('date'), lo=start)
     cur_releases = releases[start:end]
 
-    write_page(cur_releases, OUT)
+    write_page((b for b in cur_releases if b.format != Format.AUDIOBOOK), OUT)
     write_page((b for b in cur_releases if b.format.is_digital()), DIGITAL)
     write_page((b for b in cur_releases if b.format.is_physical()), PHYSICAL)
     write_page((b for b in cur_releases if b.format == Format.AUDIOBOOK), AUDIOBOOK)
 
     YEAR.mkdir(exist_ok=True)
+    for file in YEAR.iterdir():
+        file.unlink()
     start = 0
     while start < len(releases):
         year = releases[start].date.year

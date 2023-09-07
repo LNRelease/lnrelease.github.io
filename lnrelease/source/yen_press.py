@@ -5,7 +5,8 @@ from pathlib import Path
 from random import random
 
 from bs4 import BeautifulSoup, element
-from utils import FORMATS, Info, Link, Series, Session, Table
+from session import Session
+from utils import FORMATS, Info, Link, Series, Table
 
 NAME = 'Yen Press'
 
@@ -19,7 +20,7 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
     page = session.get(link)
     if page.status_code == 404:
         return None
-    soup = BeautifulSoup(page.content, 'html.parser')
+    soup = BeautifulSoup(page.content, 'lxml')
 
     formats: list[str] = [x.text for x in soup.find(class_='tabs').find_all('span')]
     details: element.ResultSet[element.Tag] = soup.find(class_='book-details').find_all('div', recursive=False)
@@ -80,7 +81,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         pages.discard(l)
                         pages.add(l)
                         skip.add(inf.isbn)
-                else:
+                elif isbn not in isbns:
                     l = Link(isbn, None)
                     pages.discard(l)
                     pages.add(l)

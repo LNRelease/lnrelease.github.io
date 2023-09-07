@@ -1,6 +1,7 @@
 import datetime
 import re
 from collections import Counter, defaultdict
+from itertools import chain
 
 from utils import Book, Info, Series
 
@@ -11,7 +12,8 @@ NAME = 'J-Novel Club'
 OMNIBUS = re.compile(r'(?P<name>.+?) (?:Collector\'s Edition )?(?:Omnibus )?Volume (?P<start>\d+(?:\.\d)?)-(?P<end>\d+(?:\.\d)?)')
 
 
-def _parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
+def _parse(series: Series, info: dict[str, list[Info]],
+           links: dict[str, list[Info]]) -> dict[str, list[Book]]:
     books: dict[str, list[Book]] = {}
     for format, lst in info.items():
         books[format] = [None] * len(lst)
@@ -28,7 +30,7 @@ def _parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict
     elif len(todo) < size - 1:  # probably short stories
         one(series, info, books)
     else:  # special volume name
-        secondary(series, info, alts, books)
+        secondary(series, info, links, books)
         short(series, info, books)
         guess(series, info, books)
 
@@ -132,7 +134,7 @@ def group(books: list[Book]) -> list[Book]:
     return books
 
 
-def omnibus(series: Series, books: dict[str, list[Book]], alts: set[Info]) -> list[Book]:
+def omnibus(series: Series, books: dict[str, list[Book]], links: dict[str, list[Info]]) -> list[Book]:
     # split into subseries
     physicals: defaultdict[str, list[Book]] = defaultdict(list)
     for book in books['Physical']:
@@ -144,7 +146,7 @@ def omnibus(series: Series, books: dict[str, list[Book]], alts: set[Info]) -> li
 
     # take omnibus from right stuf
     matches: defaultdict[str, dict[re.Match, Info]] = defaultdict(dict)
-    for inf in alts:
+    for inf in chain.from_iterable(links.values()):
         if (series.key.startswith(inf.serieskey)
             and inf.source == 'Right Stuf'
                 and (match := OMNIBUS.fullmatch(inf.title))):
@@ -169,8 +171,9 @@ def omnibus(series: Series, books: dict[str, list[Book]], alts: set[Info]) -> li
     return [book for x in physicals.values() for book in x]
 
 
-def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
-    books = _parse(series, info, alts)
+def parse(series: Series, info: dict[str, list[Info]],
+          links: dict[str, list[Info]]) -> dict[str, list[Book]]:
+    books = _parse(series, info, links)
     if 'Physical' in books:
-        books['Physical'] = omnibus(series, books, alts)
+        books['Physical'] = omnibus(series, books, links)
     return books

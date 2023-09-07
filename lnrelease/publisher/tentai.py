@@ -5,7 +5,8 @@ from . import check, copy, standard
 NAME = 'Tentai Books'
 
 
-def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
+def parse(series: Series, info: dict[str, list[Info]],
+          links: set[Info]) -> dict[str, list[Book]]:
     books: dict[str, list[Book]] = {}
     for format, lst in info.items():
         books[format] = [None] * len(lst)

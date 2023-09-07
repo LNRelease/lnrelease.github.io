@@ -5,7 +5,8 @@ from . import check, copy, guess, standard
 NAME = 'SB Creative'
 
 
-def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
+def parse(series: Series, info: dict[str, list[Info]],
+          links: dict[str, list[Info]]) -> dict[str, list[Book]]:
     books: dict[str, list[Book]] = {}
     for format, lst in info.items():
         books[format] = [None] * len(lst)

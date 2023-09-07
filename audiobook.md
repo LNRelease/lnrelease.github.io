@@ -5,18 +5,11 @@
 
 ## 2023
 
-### August
-
-Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
-Aug 15|[Sword Art Online (Audiobook)](https://yenpress.com/titles/9781975371289-sword-art-online-10-alicization-running)|10|Yen Press|🔊|
-Aug 22|[Even If These Tears Disappear Tonight (Audiobook)](https://yenpress.com/titles/9781975368999-even-if-these-tears-disappear-tonight)|1|Yen Press|🔊|
-Aug 24|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Audiobook)](https://sevenseasentertainment.com/audio/reborn-as-a-space-mercenary-audiobook-vol-2/)|2|Seven Seas Entertainment|🔊|
-
 ### September
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Sep 05|[The Dragon's Soulmate is a Mushroom Princess! (Audiobook)](https://crossinfworld.com/The-Dragons-Soulmate-is-a-Mushroom-Princess.html)|1|Cross Infinite World|🔊|
 Sep 12|[86--EIGHTY-SIX (Audiobook)](https://yenpress.com/titles/9781975369729-86-eighty-six-vol-6-light-novel-darkest-before-the-dawn)|6|Yen Press|🔊|
 Sep 12|[Rascal Does Not Dream of a Dreaming Girl (Audiobook)](https://yenpress.com/titles/9781975370848-rascal-does-not-dream-of-a-dreaming-girl-light-novel)|6|Yen Press|🔊|
 Sep 12|[The Saga of Tanya the Evil (Audiobook)](https://yenpress.com/titles/9781975346959-the-saga-of-tanya-the-evil-vol-8-in-omnia-paratus)|8|Yen Press|🔊|

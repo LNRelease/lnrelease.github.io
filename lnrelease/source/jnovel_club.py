@@ -1,7 +1,8 @@
 import datetime
 import warnings
 
-from utils import Info, Series, Session
+from session import Session
+from utils import Info, Series
 
 # thanks for api
 NAME = 'J-Novel Club'

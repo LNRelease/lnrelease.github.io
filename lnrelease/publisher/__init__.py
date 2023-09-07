@@ -3,9 +3,10 @@ import re
 import warnings
 from collections import Counter, defaultdict
 from difflib import get_close_matches
+from itertools import chain
 from operator import attrgetter
 
-from utils import SOURCES, Book, Info, Series
+from utils import EPOCH, SOURCES, Book, Info, Series
 
 NAME = 'misc'
 
@@ -44,6 +45,25 @@ def diff_list(titles: list[str]) -> list[str]:
     else:
         i += 1
     return [t[i:] for t in titles]
+
+
+def dates(info: dict[str, list[Info]], links: dict[str, list[Info]]) -> bool:
+    changed = False
+    for lst in info.values():
+        for inf in lst:
+            if inf.date != EPOCH:
+                continue
+
+            dates: Counter[str] = Counter()
+            for link in inf.alts:
+                for alt in links.get(link, ()):
+                    dates[alt.date] += 1
+            if date := dates.most_common(1):
+                inf.date = date[0][0]
+                changed = True
+            else:
+                warnings.warn(f'No dates found for {inf.title} ({inf.format})', RuntimeWarning)
+    return changed
 
 
 def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
@@ -221,16 +241,17 @@ def url(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]
     return changed
 
 
-def secondary(series: Series, info: dict[str, list[Info]], alts: list[Info], books: dict[str, list[Book]]) -> bool:
+def secondary(series: Series, info: dict[str, list[Info]],
+              links: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
     # check secondary sources
     changed = False
     sources: defaultdict[str, list[Info]] = defaultdict(list)
-    for alt in alts:
-        if alt.serieskey == series.key:
-            sources[alt.source].append(alt)
+    for inf in chain.from_iterable(links.values()):
+        if inf.serieskey == series.key:
+            sources[inf.source].append(inf)
     if not sources:
         return False
-    sources = dict(sorted(sources.items(), key=lambda x: SOURCES.get(x[0], 0)))
+    sources = dict(sorted(sources.items(), key=lambda x: SOURCES[x[0]]))
 
     poss: dict[str, dict[str, Info]] = {}
     for source, lst in sources.items():
@@ -315,7 +336,8 @@ def check(series: Series, info: dict[str, list[Info]], books: dict[str, list[Boo
     return books
 
 
-def parse(series: Series, info: dict[str, list[Info]], alts: set[Info]) -> dict[str, list[Book]]:
+def parse(series: Series, info: dict[str, list[Info]],
+          links: dict[str, list[Info]]) -> dict[str, list[Book]]:
     books: dict[str, list[Book]] = {}
     for format, lst in info.items():
         books[format] = [None] * len(lst)

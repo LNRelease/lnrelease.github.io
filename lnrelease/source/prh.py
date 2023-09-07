@@ -2,20 +2,10 @@ import datetime
 import warnings
 from urllib.parse import urljoin
 
-from utils import FORMATS, Info, Series, Session, clean_str
+from session import Session
+from utils import FORMATS, Info, Series, find_series
 
 NAME = 'Penguin Random House'
-
-
-def find_series(title: str, series: set[Series]) -> Series | None:
-    s = clean_str(title)
-    matches: list[Series] = []
-    for serie in series:
-        if s.startswith(serie.key):
-            matches.append(serie)
-    if matches:
-        return max(matches, key=lambda x: len(x.title))
-    return None
 
 
 def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
