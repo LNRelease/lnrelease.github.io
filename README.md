@@ -193,7 +193,7 @@ Nov 21|[Ishura](https://yenpress.com/titles/9781975363079-ishura-vol-5)|5|Yen Pr
 Nov 21|[Liar, Liar](https://yenpress.com/titles/9781975370619-liar-liar-vol-2-the-lying-transfer-student-is-targeted-by-the-little-devil)|2|Yen Press|🖥️📖|
 Nov 21|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975350260-our-last-crusade-or-the-rise-of-a-new-world-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378103-phantom-thief-red-vol-1-a-brand-new-heist-for-a-brand-new-red)|1|Yen Press|🖥️📖|
-Nov 21|[Rascal Does Not Dream](https://yenpress.com/titles/9781975375270-rascal-does-not-dream-vol-12-light-novel)|12|Yen Press|🖥️📖|
+Nov 21|[Rascal Does Not Dream of His Student](https://yenpress.com/titles/9781975375270-rascal-does-not-dream-of-his-student-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel-miraculous-final-cut)|6|Yen Press|🖥️📖|
 Nov 21|[Sword Art Online Alternative Gun Gale Online](https://yenpress.com/titles/9781975375232-sword-art-online-alternative-gun-gale-online-vol-13-light-novel-5th-squad-jam-finish)|13|Yen Press|🖥️📖|
 Nov 21|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975352202-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-11-light-novel)|11|Yen Press|🖥️📖|
@@ -234,8 +234,8 @@ Dec 11|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grie
 Dec 12|[A Certain Magical Index NT](https://yenpress.com/titles/9781975380656-a-certain-magical-index-nt-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Dec 12|[Blade & Bastard](https://yenpress.com/titles/9781975389758-blade-bastard-vol-1-light-novel-warm-ash-dusky-dungeon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 12|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367701-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-11-light-novel)|11|Yen Press|🖥️📖|
-Dec 12|[Bungo Stray Dogs](https://yenpress.com/titles/9781975379520-bungo-stray-dogs-vol-9-light-novel)|9|Yen Press|🖥️📖|
-Dec 12|[Canine Detective Chris](https://yenpress.com/titles/9781975378646-canine-detective-chris-vol-1)|1|Yen Press|🖥️📖|
+Dec 12|[Anime Bungo Stray Dogs: Novel Version](https://yenpress.com/titles/9781975379520-anime-bungo-stray-dogs-novel-version)|1|Yen Press|🖥️📖|
+Dec 12|[Canine Detective Chris](https://yenpress.com/titles/9781975378646-canine-detective-chris-vol-1-the-shiba-inu-detective-tracks-down-the-stolen-jewels)|1|Yen Press|🖥️📖|
 Dec 12|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975343996-death-march-to-the-parallel-world-rhapsody-vol-20-light-novel)|20|Yen Press|🖥️📖|
 Dec 12|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Dec 12|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
@@ -246,13 +246,14 @@ Dec 12|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/
 Dec 12|[Magical Explorer](https://yenpress.com/titles/9781975367558-magical-explorer-vol-6-light-novel-reborn-as-a-side-character-in-a-fantasy-dating-sim)|6|Yen Press|🖥️📖|
 Dec 12|[Online!](https://yenpress.com/titles/9781975378622-online-vol-1-the-devil-s-unbeatable-game)|1|Yen Press|🖥️📖|
 Dec 12|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
-Dec 12|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975364984-spy-classroom-short-story-collection-vol-2-light-novel)|2|Yen Press|🖥️📖|
+Dec 12|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975364984-spy-classroom-short-story-collection-vol-2-light-novel-the-spy-teacher-who-loved-me)|2|Yen Press|🖥️📖|
 Dec 12|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375539-that-time-i-got-reincarnated-as-a-slime-vol-17-light-novel)|17|Yen Press|🖥️📖|
 Dec 12|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975372644-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Dec 12|[The Magician Who Rose From Failure](https://j-novel.club/series/the-magician-who-rose-from-failure#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 12|[Vampire Hunter D](https://www.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-4)|10-12|Dark Horse|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 13|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 15|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-12)|12|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 18|[Fake Saint of the Year: You Wanted the Perfect Saint? Too Bad!](https://j-novel.club/series/fake-saint-of-the-year-you-wanted-the-perfect-saint-too-bad#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 18|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
@@ -395,6 +396,7 @@ May 28|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/bo
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Jun 04|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-18/)|18|Seven Seas Entertainment|🖥️📖|
 Jun 10|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/series/ascendance-of-a-bookworm-short-story-collection#volume-1)|1|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13)|13-15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
