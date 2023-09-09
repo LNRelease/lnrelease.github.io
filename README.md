@@ -207,6 +207,7 @@ Nov 22|[Reincarnated Mage with Inferior Eyes: Breezing through the Future as an 
 Nov 23|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 23|[The Ideal Sponger Life](https://j-novel.club/series/the-ideal-sponger-life#volume-14)|14|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 24|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Nov 26|[The Retired Demon of the Maxed-Out Village](https://j-novel.club/series/the-retired-demon-of-the-maxed-out-village#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 28|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-17/)|17|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 28|[Moon Blossom Asura: The Ruthless Reincarnated Mercenary Forms the Ultimate Army](https://j-novel.club/series/moon-blossom-asura#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 28|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734075/saving-80000-gold-in-another-world-for-my-retirement-3-light-novel-by-funa/9781647292737)|3|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -229,6 +230,7 @@ Dec 05|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-
 Dec 05|[No Game No Life](https://yenpress.com/titles/9781975370350-no-game-no-life-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Dec 05|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️📖|
+Dec 11|[Full Clearing Another World under a Goddess with Zero Believers](https://j-novel.club/series/full-clearing-another-world-under-a-goddess-with-zero-believers#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 11|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-19)|19|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 11|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 12|[A Certain Magical Index NT](https://yenpress.com/titles/9781975380656-a-certain-magical-index-nt-vol-1-light-novel)|1|Yen Press|🖥️📖|
@@ -388,8 +390,10 @@ May 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainme
 May 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-24)|3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+May 21|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-2/)|2|Seven Seas Entertainment|🖥️📖|
 May 21|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745918/my-unique-skill-makes-me-op-even-at-level-1-vol-5-light-novel-by-miki-nazuna/9781647293345)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 21|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/)|14|Seven Seas Entertainment|🖥️📖|
+May 28|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-18/)|18|Seven Seas Entertainment|🖥️📖|
 May 28|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### June
