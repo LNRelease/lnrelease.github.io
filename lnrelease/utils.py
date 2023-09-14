@@ -19,6 +19,7 @@ FORMATS = {x: i for i, x in enumerate(PHYSICAL + DIGITAL + AUDIOBOOK)}
 
 PRIMARY = (
     'Cross Infinite World',
+    'Hanashi Media',
     'J-Novel Club',
     'Kodansha',
     'Seven Seas Entertainment',

@@ -2,7 +2,7 @@ from utils import Book, Info, Series
 
 from . import check, copy, dates, guess, standard
 
-NAME = 'Cross Infinite World'
+NAME = 'Hanashi Media'
 
 
 def parse(series: Series, info: dict[str, list[Info]],

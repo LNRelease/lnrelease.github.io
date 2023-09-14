@@ -90,6 +90,8 @@ def parse(jsn: dict) -> tuple[Series, Info] | None:
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
+    isbns: dict[str, Info] = {inf.isbn: inf for inf in info}
+
     with Session() as session:
         params = {'country': 'US',
                   'currency': 'USD',
@@ -108,9 +110,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             for item in jsn['items']:
                 res = parse(item)
                 if res:
-                    series.add(res[0])
-                    info.discard(res[1])
-                    info.add(res[1])
+                    serie, inf = res
+                    series.add(serie)
+                    isbns[inf.isbn] = inf
 
             for l in jsn['links']:
                 if l['rel'] == 'next':
@@ -119,4 +121,4 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             else:
                 link = ''
 
-    return series, info
+    return series, set(isbns.values())

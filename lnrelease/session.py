@@ -1,10 +1,9 @@
 import random
 import warnings
-from collections import defaultdict
 from threading import Lock
 from time import sleep, time
 from typing import Self
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -59,14 +58,15 @@ DELAYS = {
     'crossinfworld.com': (10, 30),
     'play.google.com': (10, 30),
     'webcache.googleusercontent.com': (30, 40),
-    'labs.j-novel.club': (5, 20),
+    'hanashi.media': (30, 600),
+    'labs.j-novel.club': (10, 20),
     'www.kobo.com': (10, 30),
     'api.kodansha.us': (30, 60),
     'www.penguinrandomhouse.ca': (30, 600),
     'www.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
     'www.viz.com': (30, 120),
-    'yenpress.com': (0.5, 1),
+    'yenpress.com': (1, 2),
 }
 LAST_REQUEST: dict[str, float] = {}
 LIMITERS: dict[str, Limiter] = {}
@@ -97,31 +97,40 @@ class Session(requests.Session):
         self.mount('http://', adapter)
         self.mount('https://', adapter)
 
-    def resolve(self, link: str) -> str:
+    def resolve(self, link: str, force: bool = False, **kwargs) -> str:
+        netloc = urlparse(link).netloc
+        if not force and netloc not in SHORTENERS:
+            return link
+
         try:
-            netloc = urlparse(link).netloc
-            if netloc in SHORTENERS:
-                return self.head(link, allow_redirects=True).url
-        except Exception as e:
-            warnings.warn(f'Error resolving {link}')
+            self.set_retry(status_forcelist={})
+            kwargs.setdefault('timeout', 10)
+            kwargs.setdefault('allow_redirects', False)
+            page = self.head(link, **kwargs)
+            if page.status_code not in (200, 301):
+                page = super().get(link, **kwargs)
+            if page.status_code == 301:
+                link = urljoin(page.url, page.headers.get('Location'))
+        except requests.exceptions.RequestException as e:
+            warnings.warn(f'Error resolving {link}: {e}')
+        finally:
+            self.set_retry()
         return link
 
-    def google_cache(self, url: str, **kwargs) -> requests.Response:
+    def google_cache(self, url: str, **kwargs) -> requests.Response | None:
         url = 'https://webcache.googleusercontent.com/search?q=cache:' + url
+        page = self.try_get(url, retries=5, **kwargs)
 
-        with limiter('webcache.googleusercontent.com'):
-            page = super().get(url, **kwargs)
-
-            if page.status_code == 429:
-                warnings.warn(f'Google code 429: {url}', RuntimeWarning)
-                sleep(7200)
-                page = super().get(url, **kwargs)
-
+        if page and page.status_code == 429:
+            warnings.warn(f'Google code 429: {url}', RuntimeWarning)
+            sleep(7200)
+            page = self.try_get(url, retries=5, **kwargs)
         return page
 
     def _bing_cache(self, link: str, url: str, **kwargs) -> requests.Response | None:
-        with limiter('www.bing.com'):
-            page = super().get(link, **kwargs)
+        page = self.try_get(link, retries=5, **kwargs)
+        if not page:
+            return None
 
         soup = BeautifulSoup(page.content, 'lxml')
         path = urlparse(store.normalise(self, url)).path
@@ -136,10 +145,10 @@ class Session(requests.Session):
 
             lst = u['u'].split('|')
             params = {'d': lst[2], 'w': lst[3]}
-            with limiter('cc.bingj.com'):
-                page = super().get(link, params=params, **kwargs)
-                if page.status_code == 200:
-                    break
+
+            page = self.try_get(link, retries=5, params=params, **kwargs)
+            if page and page.status_code == 200:
+                break
 
         return page
 
@@ -149,29 +158,36 @@ class Session(requests.Session):
 
     def get_cache(self, url: str, **kwargs) -> requests.Response | None:
         google = self.google_cache(url, **kwargs)
-        if google.status_code == 200:
+        if google and google.status_code == 200:
             return google
 
         bing = self.bing_cache(url, **kwargs)
         return bing or google
 
-    def get(self, url, timeout=1000, web_cache=False, **kwargs) -> requests.Response:
-        kwargs['timeout'] = timeout
-
+    def try_get(self, url: str, retries: int, **kwargs) -> requests.Response | None:
         netloc = urlparse(url).netloc
-        with limiter(netloc):
-            if not web_cache:
-                page = super().get(url, **kwargs)
-                if page.status_code == 403:  # cloudflare
-                    web_cache = True
+        for _ in range(retries):
+            try:
+                with limiter(netloc):
+                    page = super().get(url, **kwargs)
+                    return page
+            except requests.exceptions.RequestException:
+                pass
+        return None
 
-            if web_cache:
-                self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
-                page = self.get_cache(url, **kwargs)
-                self.set_retry()
-            if page.status_code not in (200, 404):
-                warnings.warn(f'Status code {page.status_code}: {url}', RuntimeWarning)
+    def get(self, url: str, web_cache: bool = False, **kwargs) -> requests.Response:
+        kwargs.setdefault('timeout', 100)
+        netloc = urlparse(url).netloc
+        if not web_cache:
+            page = self.try_get(url, retries=5, **kwargs)
+            if not page or page.status_code == 403:  # cloudflare
+                web_cache = True
 
-            LAST_REQUEST[netloc] = time()
+        if web_cache:
+            self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
+            page = self.get_cache(url, **kwargs)
+            self.set_retry()
+        if page.status_code not in (200, 404):
+            warnings.warn(f'Status code {page.status_code}: {url}', RuntimeWarning)
 
         return page

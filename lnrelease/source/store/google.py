@@ -13,7 +13,7 @@ SCRIPT = re.compile(r'"Published on"')
 DATA = re.compile(r'data:(?P<data>\[.+\])')
 
 
-def normalise(link: str) -> str | None:
+def normalise(session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = f'/store/{match.group("format")}/details'

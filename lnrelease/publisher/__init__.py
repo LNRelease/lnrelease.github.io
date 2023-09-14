@@ -10,12 +10,12 @@ from utils import EPOCH, SOURCES, Book, Info, Series
 
 NAME = 'misc'
 
-PARSE = re.compile(r'(?P<name>.+?)(?:,|:| -)? +(?:Vol\.|\(?Volume|\(Light Novel) *(?P<volume>\d+\.?\d?)\)?(?::.+)?')
+PARSE = re.compile(r'(?P<name>.+?)(?:,|:| -)? +(?:Vol\.|\(?Volume|\(Light Novel) *(?P<volume>\d+(?:\.\d)?)\)?(?::.+)?')
 OMNIBUS = re.compile(r'.+(?:Vol\.|\(?Volume) *(?P<volume>\d+-\d+)\)?')
-PART = re.compile(r'(?P<name>.+?):? Volume (?P<volume>\d+\.?5?) (?P<part>.+)')
-NUMBER = re.compile(r'\b(?P<volume>\d+\.?\d?)\b(?:: .+)?')
+PART = re.compile(r'(?P<name>.+?):? Volume (?P<volume>\d+(?:\.5)?) (?P<part>.+)')
+NUMBER = re.compile(r'\b(?P<volume>\d+(?:\.\d)?)\b(?:: .+)?')
 SHORT = re.compile(r'\s*#?(?P<volume>\w{1,2})')
-SOURCE = re.compile(r'(?P<volume>\d+\.?\d?[^\s:\)]*):? ?.*')
+SOURCE = re.compile(r'(?P<volume>\d+(?:\.\d)?[^\s:\)]*):? ?.*')
 URL = re.compile(r'-volume-(?P<volume>\d+)')
 
 # number converter for volume parsing

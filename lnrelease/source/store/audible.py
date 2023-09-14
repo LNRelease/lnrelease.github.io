@@ -12,7 +12,7 @@ PATH = re.compile(r'/pd/(?P<name>[^/]+)/(?P<asin>\w{10})(?:/.*)?')
 BOOK = re.compile(r',?\s*Book (?P<index>\d+)\s*')
 
 
-def normalise(link: str) -> str | None:
+def normalise(session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = f'/pd/{match.group("name")}/{match.group("asin")}'
@@ -32,7 +32,10 @@ def parse(session, link: str, norm: str, *, series: Series = None, publisher: st
     page = session.get(norm)
     soup = BeautifulSoup(page.content, 'lxml')
 
-    jsn = json.loads(soup.find(id='bottom-0').find('script', type='application/ld+json').text)[0]
+    script = soup.find(id='bottom-0').find('script', type='application/ld+json')
+    if not script:
+        return None
+    jsn = json.loads(script.text)[0]
     publisher = publisher or jsn['publisher']
 
     title = title or jsn['name']

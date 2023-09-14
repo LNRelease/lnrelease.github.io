@@ -18,9 +18,12 @@ FORMATS = 'https://www.barnesandnoble.com/cartridges/ProductDetailContent/Produc
 HEADERS = {'User-Agent': ''}
 
 
-def normalise(link: str) -> str | None:
+def normalise(session, link: str) -> str | None:
     u = urlparse(link)
     if not PATH.fullmatch(u.path):
+        res = session.resolve(link, force=True, headers=HEADERS)
+        if res != link:
+            return normalise(session, res)
         return None
     query = urlencode([(k, v) for k, v in parse_qsl(u.query) if k == 'ean'])
     return urlunparse(('https', 'www.barnesandnoble.com', u.path, '', query, ''))

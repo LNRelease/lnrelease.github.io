@@ -54,17 +54,16 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
         for a in body.find_all('a'):
             format = get_format(a.find_previous('p').text)
             url = a.get('href').strip()
-            url = session.resolve(url)
-            norm = store.normalise(session, url)
+            norm = store.normalise(session, url, resolve=True)
             if norm is None:
-                warnings.warn(f'{netloc} normalise failed')
+                warnings.warn(f'{url} normalise failed')
             elif norm:
                 links[format][url] = norm
 
         for format, urls in links.items():
             alts = []
-            force = all('amazon' in urlparse(url).netloc for url in urls)
-            for url, norm in urls.items():
+            force = True  # leave amazon to last, force only if no other sources
+            for url, norm in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
                 netloc = urlparse(norm).netloc
                 if netloc in store.STORES or 'audible' in netloc:
                     alts.append(norm)

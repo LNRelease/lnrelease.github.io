@@ -28,6 +28,7 @@ PROCESSED = {
 
 IGNORE = {
     'www.amazon.de',
+    'www.amazon.fr',
     'www.amazon.co.jp',
     'www.bookdepository.com',
     'www.booksamillion.com',
@@ -41,27 +42,32 @@ IGNORE = {
 }
 
 
-def normalise(session, link: str) -> str | None:
-    # normalise url return None if failed
-    netloc = urlparse(link).netloc
-    link = session.resolve(link)
+def normalise(session, link: str, resolve: bool = False) -> str | None:
+    # normalise url, return None if failed
     netloc = urlparse(link).netloc
 
     if 'audible' in netloc:
-        return audible.normalise(link)
+        res = audible.normalise(session, link)
     elif netloc in STORES:
-        return STORES[netloc].normalise(link)
+        res = STORES[netloc].normalise(session, link)
     elif netloc in PROCESSED:
-        return PROCESSED[netloc].normalise(link)
-    elif netloc not in IGNORE:
-        None
-    return ''
+        res = PROCESSED[netloc].normalise(session, link)
+    elif netloc in IGNORE:
+        res = ''
+    else:
+        res = None
+
+    if resolve and res is None:
+        new = session.resolve(link, force=True)
+        if new != link:
+            res = normalise(session, new, resolve=True)
+    return res
 
 
 def parse(session, link: str, norm: str, force: bool = False, *,
           series: Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = '') -> tuple[Series, set[Info]] | None:
-    netloc = urlparse(link).netloc
+    netloc = urlparse(norm).netloc
 
     if 'audible' in netloc:
         store = audible

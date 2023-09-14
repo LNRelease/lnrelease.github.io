@@ -24,7 +24,7 @@ DATE_FORMATS = {
 }
 
 
-def normalise(link: str) -> str | None:
+def normalise(session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = '/dp/' + match.group('asin')
@@ -86,6 +86,8 @@ def parse(session, link: str, norm: str, *, series: Series = None, publisher: st
         publisher = publisher or match.group('publisher')
         date = date or match.group('date')
     date = strpdate(link, date)
+    if not date:
+        return None
 
     info = Info(series.key, norm, NAME, publisher, title, index, format, isbn, date)
     return series, {info}

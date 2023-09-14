@@ -12,7 +12,7 @@ PATH = re.compile(r'(?:/\w+/\w+)?/(?P<format>ebook|audiobook)/(?P<name>[^/]+)(?:
 INDEX = re.compile(r'Book (?P<index>\d+) - ')
 
 
-def normalise(link: str) -> str | None:
+def normalise(session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = f'/us/en/{match.group("format")}/{match.group("name")}'

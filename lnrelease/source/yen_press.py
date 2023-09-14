@@ -59,7 +59,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     # no date = not light novel
     skip = {row.link for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
 
-    isbns: dict[str, Series] = {inf.isbn: inf for inf in info}
+    isbns: dict[str, Info] = {inf.isbn: inf for inf in info}
 
     with Session() as session:
         page = session.get('https://yenpress.com/sitemap.xml')

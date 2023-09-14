@@ -11,7 +11,7 @@ NAME = 'Apple'
 PATH = re.compile(r'/(?P<country>\w+)/(?P<format>book|audiobook)/(?:[\w-]+/)?(?P<id>id\d{10})')
 
 
-def normalise(link: str) -> str | None:
+def normalise(session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = f'/us/{match.group("format")}/{match.group("id")}'
