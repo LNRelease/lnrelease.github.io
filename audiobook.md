@@ -36,11 +36,13 @@ Nov 14|[Is It Wrong to Try to Pick Up Girls in a Dungeon? (Audiobook)](https://y
 Nov 14|[So I'm a Spider, So What? (Audiobook)](https://yenpress.com/titles/9781975375874-so-i-m-a-spider-so-what-vol-7)|7|Yen Press|🔊|
 Nov 14|[Sword Art Online (Audiobook)](https://yenpress.com/titles/9781975371296-sword-art-online-11-alicization-turning)|11|Yen Press|🔊|
 Nov 14|[Yami-hara (Audiobook)](https://yenpress.com/titles/9781975388119-yami-hara)|1|Yen Press|🔊|
+Nov 16|[I'm in Love with the Villainess (Audiobook)](https://sevenseasentertainment.com/audio/im-in-love-with-the-villainess-audiobook-vol-1/)|1|Seven Seas Entertainment|🔊|
 
 ### December
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Dec 07|[I'm in Love with the Villainess (Audiobook)](https://sevenseasentertainment.com/audio/im-in-love-with-the-villainess-audiobook-vol-2/)|2|Seven Seas Entertainment|🔊|
 Dec 12|[86--EIGHTY-SIX (Audiobook)](https://yenpress.com/titles/9781975369736-86-eighty-six-vol-7-light-novel-mist)|7|Yen Press|🔊|
 Dec 12|[I've Been Killing Slimes for 300 Years and Maxed Out My Level (Audiobook)](https://yenpress.com/titles/9781975388256-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-1)|1|Yen Press|🔊|
 Dec 12|[Konosuba: God's Blessing on This Wonderful World! (Audiobook)](https://yenpress.com/titles/9781975369699-konosuba-god-s-blessing-on-this-wonderful-world-vol-3-light-novel-you-re-being-summoned-darkness)|3|Yen Press|🔊|

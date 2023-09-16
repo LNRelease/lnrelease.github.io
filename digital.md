@@ -97,21 +97,11 @@ Oct 16|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-
 Oct 16|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 16|[VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream](https://j-novel.club/series/vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 17|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367596-alya-sometimes-hides-her-feelings-in-russian-vol-4)|4|Yen Press|🖥️📖|
-Oct 17|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371050-a-misanthrope-teaches-a-class-for-demi-humans-vol-1-mr-hitoma-won-t-you-teach-us-about-humans)|1|Yen Press|🖥️📖|
-Oct 17|[Combatants Will Be Dispatched!](https://yenpress.com/titles/9781975367664-combatants-will-be-dispatched-vol-7-light-novel)|7|Yen Press|🖥️📖|
-Oct 17|[Date A Live](https://yenpress.com/titles/9781975350321-date-a-live-vol-10-light-novel)|10|Yen Press|🖥️📖|
-Oct 17|[Days with My Stepsister](https://yenpress.com/titles/9781975372033-days-with-my-stepsister-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Oct 17|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350123-high-school-prodigies-have-it-easy-even-in-another-world-vol-9-light-novel)|9|Yen Press|🖥️📖|
 Oct 17|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9781975375935-if-the-villainess-and-villain-met-and-fell-in-love-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 17|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343200-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Oct 17|[My Happy Marriage](https://yenpress.com/titles/9781975367350-my-happy-marriage-vol-5-light-novel)|5|Yen Press|🖥️📖|
-Oct 17|[Only I Know the Ghoul Saved the World](https://yenpress.com/titles/9781975367534-only-i-know-the-ghoul-saved-the-world-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 17|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335373-re-starting-life-in-another-world-vol-23-light-novel)|23|Yen Press|🖥️📖|
 Oct 17|[Sasaki and Peeps](https://yenpress.com/titles/9781975367909-sasaki-and-peeps-vol-5-light-novel-betrayals-conspiracies-and-coups-d-etat-the-gripping-conclusion-to-the-otherworld-succession-battle-meanwhile-you-asked-for-it-it-s-time-for-a-slice-of-life-episode-in-modern-japan-but-we-appear-to-be-on-hard-mode)|5|Yen Press|🖥️📖|
-Oct 17|[Suzume](https://yenpress.com/titles/9781975373061-suzume)|1|Yen Press|🖥️📖|
 Oct 17|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-novel-4)|4|Kodansha|🖥️📖|
-Oct 17|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363895-the-ephemeral-scenes-of-setsuna-s-journey-vol-2-light-novel-the-former-68th-hero-and-the-dragon-maiden)|2|Yen Press|🖥️📖|
-Oct 17|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-holy-grail-of-eris-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
 Oct 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 19|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -119,13 +109,23 @@ Oct 20|[Fiancée No More: The Forsaken Lady, the Prince, and Their Make-Believe 
 Oct 20|[Formerly, the Fallen Daughter of the Duke](https://j-novel.club/series/formerly-the-fallen-daughter-of-the-duke#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 20|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 23|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28)|28|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 24|[Combatants Will Be Dispatched!](https://yenpress.com/titles/9781975367664-combatants-will-be-dispatched-vol-7-light-novel)|7|Yen Press|🖥️📖|
+Oct 24|[Date A Live](https://yenpress.com/titles/9781975350321-date-a-live-vol-10-light-novel)|10|Yen Press|🖥️📖|
+Oct 24|[Days with My Stepsister](https://yenpress.com/titles/9781975372033-days-with-my-stepsister-vol-1-light-novel)|1|Yen Press|🖥️📖|
+Oct 24|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343200-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-6-light-novel)|6|Yen Press|🖥️📖|
+Oct 24|[Only I Know the Ghoul Saved the World](https://yenpress.com/titles/9781975367534-only-i-know-the-ghoul-saved-the-world-vol-1-light-novel)|1|Yen Press|🖥️📖|
+Oct 24|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335373-re-starting-life-in-another-world-vol-23-light-novel)|23|Yen Press|🖥️📖|
+Oct 24|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363895-the-ephemeral-scenes-of-setsuna-s-journey-vol-2-light-novel-the-former-68th-hero-and-the-dragon-maiden)|2|Yen Press|🖥️📖|
+Oct 24|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-holy-grail-of-eris-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Oct 25|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 25|[Only the Villainous Lord Wields the Power to Level Up](https://j-novel.club/series/only-the-villainous-lord-wields-the-power-to-level-up#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 25|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 26|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[Seventh](https://j-novel.club/series/seventh#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[Stuck in a Time Loop: When All Else Fails, Be a Villainess](https://j-novel.club/series/stuck-in-a-time-loop-when-all-else-fails-be-a-villainess#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[The Game Master Has Logged In to Another World](https://j-novel.club/series/the-game-master-has-logged-into-a-different-world#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 30|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-21)|21|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 31|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371050-a-misanthrope-teaches-a-class-for-demi-humans-vol-1-mr-hitoma-won-t-you-teach-us-about-humans)|1|Yen Press|🖥️📖|
 Oct 31|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://kodansha.us/product/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-3-light-novel)|3|Kodansha|🖥️📖|
 Oct 31|[I Guess This Dragon Who Lost Her Egg to Disaster Is My Mom Now](https://crossinfworld.com/I-Guess-This-Dragon-Who-Lost-Her-Egg-to-Disaster-Is-My-Mom-Now-Volume-1.html)|1|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 31|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-1.html)|1|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -172,11 +172,13 @@ Nov 21|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How Abou
 Nov 21|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368654-wandering-witch-the-journey-of-elaina-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975352264-wolf-parchment-new-theory-spice-wolf-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Nov 21|[You Can Have My Back](https://yenpress.com/titles/9781975363956-you-can-have-my-back-vol-2-light-novel)|2|Yen Press|🖥️📖|
+Nov 22|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 22|[I'm Not the Hero!](https://j-novel.club/series/i-m-not-the-hero#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 22|[I Want to Escape from Princess Lessons](https://j-novel.club/series/i-want-to-escape-from-princess-lessons#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 22|[Reincarnated Mage with Inferior Eyes: Breezing through the Future as an Oppressed Ex-Hero](https://j-novel.club/series/reincarnated-mage-with-inferior-eyes#volume-5)|4.5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 23|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 23|[The Ideal Sponger Life](https://j-novel.club/series/the-ideal-sponger-life#volume-14)|14|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Nov 24|[Fake It to Break It! I Faked Amnesia to Break Off My Engagement and Now He's All Lovey-Dovey?!](https://j-novel.club/series/fake-it-to-break-it-i-faked-amnesia-to-break-off-my-engagement-and-now-he-s-all-lovey-dovey#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 24|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 26|[The Retired Demon of the Maxed-Out Village](https://j-novel.club/series/the-retired-demon-of-the-maxed-out-village#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 28|[Moon Blossom Asura: The Ruthless Reincarnated Mercenary Forms the Ultimate Army](https://j-novel.club/series/moon-blossom-asura#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -191,12 +193,17 @@ Nov 30|[So You Want to Live the Slow Life? A Guide to Life in the Beastly Wilds]
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Dec 01|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 01|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 01|[You Like Me, Not My Daughter?!](https://j-novel.club/series/you-like-me-not-my-daughter#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 04|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 04|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 05|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-16/)|16|Seven Seas Entertainment|🖥️📖|
 Dec 05|[No Game No Life](https://yenpress.com/titles/9781975370350-no-game-no-life-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Dec 05|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️📖|
+Dec 07|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 08|[Butareba -The Story of a Man Turned into a Pig- First Bite](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 08|[You Were Experienced, I Was Not: Our Dating Story 1st Date](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 11|[Full Clearing Another World under a Goddess with Zero Believers](https://j-novel.club/series/full-clearing-another-world-under-a-goddess-with-zero-believers#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 11|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 12|[A Certain Magical Index NT](https://yenpress.com/titles/9781975380656-a-certain-magical-index-nt-vol-1-light-novel)|1|Yen Press|🖥️📖|
@@ -214,10 +221,12 @@ Dec 12|[Magical Explorer](https://yenpress.com/titles/9781975367558-magical-expl
 Dec 12|[Online!](https://yenpress.com/titles/9781975378622-online-vol-1-the-devil-s-unbeatable-game)|1|Yen Press|🖥️📖|
 Dec 12|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
 Dec 12|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975364984-spy-classroom-short-story-collection-vol-2-light-novel-the-spy-teacher-who-loved-me)|2|Yen Press|🖥️📖|
+Dec 12|[Suzume](https://yenpress.com/titles/9781975373061-suzume)|1|Yen Press|🖥️📖|
 Dec 12|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375539-that-time-i-got-reincarnated-as-a-slime-vol-17-light-novel)|17|Yen Press|🖥️📖|
 Dec 12|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975372644-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Dec 12|[The Magician Who Rose From Failure](https://j-novel.club/series/the-magician-who-rose-from-failure#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 13|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 14|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 15|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-12)|12|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 15|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://j-novel.club/series/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me#volume-14)|14|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 18|[Fake Saint of the Year: You Wanted the Perfect Saint? Too Bad!](https://j-novel.club/series/fake-saint-of-the-year-you-wanted-the-perfect-saint-too-bad#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -225,10 +234,12 @@ Dec 18|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volum
 Dec 18|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s-daughter-is-my-ex#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Dec 19|[The Crown of Rutile Quartz](https://j-novel.club/series/the-crown-of-rutile-quartz#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Dec 19|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 20|[Black Summoner](https://j-novel.club/series/black-summoner#volume-15)|15|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 20|[I Only Have Six Months to Live, So I'm Gonna Break the Curse with Light Magic or Die Trying](https://j-novel.club/series/i-only-have-six-months-to-live#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 21|[The Conqueror from a Dying Kingdom](https://j-novel.club/series/the-conqueror-from-a-dying-kingdom#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 22|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 25|[Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 25|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 25|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|🖥️📖|
 Dec 26|[Spy x Family: Family Portrait](https://www.viz.com/read/novel/spy-x-family-novels/product/7681/paperback)|1|VIZ Media|🖥️📖|
@@ -268,8 +279,8 @@ Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevens
 Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345181-the-irregular-at-magic-high-school-vol-21-light-novel)|21|Yen Press|🖥️📖|
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Jan 23|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
-Jan 30|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Jan 30|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
+Jan 24|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Jan 26|[D-Genesis](https://j-novel.club/series/d-genesis#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 30|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 31|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
@@ -310,7 +321,9 @@ Mar 05|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/bo
 Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
 Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Mar 26|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 
 ### April
 

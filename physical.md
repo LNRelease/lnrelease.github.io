@@ -56,27 +56,26 @@ Oct 09|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-g
 Oct 09|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-10)|10|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 10|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-8/)|8|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 17|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367596-alya-sometimes-hides-her-feelings-in-russian-vol-4)|4|Yen Press|🖥️📖|
-Oct 17|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371050-a-misanthrope-teaches-a-class-for-demi-humans-vol-1-mr-hitoma-won-t-you-teach-us-about-humans)|1|Yen Press|🖥️📖|
-Oct 17|[Combatants Will Be Dispatched!](https://yenpress.com/titles/9781975367664-combatants-will-be-dispatched-vol-7-light-novel)|7|Yen Press|🖥️📖|
-Oct 17|[Date A Live](https://yenpress.com/titles/9781975350321-date-a-live-vol-10-light-novel)|10|Yen Press|🖥️📖|
-Oct 17|[Days with My Stepsister](https://yenpress.com/titles/9781975372033-days-with-my-stepsister-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Oct 17|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350123-high-school-prodigies-have-it-easy-even-in-another-world-vol-9-light-novel)|9|Yen Press|🖥️📖|
 Oct 17|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9781975375935-if-the-villainess-and-villain-met-and-fell-in-love-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 17|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343200-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Oct 17|[Monster Girl Doctor](https://sevenseasentertainment.com/books/monster-girl-doctor-vol-10/)|10|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 17|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-24/)|24|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 17|[My Happy Marriage](https://yenpress.com/titles/9781975367350-my-happy-marriage-vol-5-light-novel)|5|Yen Press|🖥️📖|
-Oct 17|[Only I Know the Ghoul Saved the World](https://yenpress.com/titles/9781975367534-only-i-know-the-ghoul-saved-the-world-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 17|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377915-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-1-light-novel)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 17|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335373-re-starting-life-in-another-world-vol-23-light-novel)|23|Yen Press|🖥️📖|
 Oct 17|[Sasaki and Peeps](https://yenpress.com/titles/9781975367909-sasaki-and-peeps-vol-5-light-novel-betrayals-conspiracies-and-coups-d-etat-the-gripping-conclusion-to-the-otherworld-succession-battle-meanwhile-you-asked-for-it-it-s-time-for-a-slice-of-life-episode-in-modern-japan-but-we-appear-to-be-on-hard-mode)|5|Yen Press|🖥️📖|
-Oct 17|[Suzume](https://yenpress.com/titles/9781975373061-suzume)|1|Yen Press|🖥️📖|
 Oct 17|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-novel-4)|4|Kodansha|🖥️📖|
-Oct 17|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363895-the-ephemeral-scenes-of-setsuna-s-journey-vol-2-light-novel-the-former-68th-hero-and-the-dragon-maiden)|2|Yen Press|🖥️📖|
-Oct 17|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-holy-grail-of-eris-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
 Oct 24|[Arifureta: From Commonplace to World's Strongest](https://sevenseasentertainment.com/books/arifureta-from-commonplace-to-worlds-strongest-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Oct 24|[Combatants Will Be Dispatched!](https://yenpress.com/titles/9781975367664-combatants-will-be-dispatched-vol-7-light-novel)|7|Yen Press|🖥️📖|
+Oct 24|[Date A Live](https://yenpress.com/titles/9781975350321-date-a-live-vol-10-light-novel)|10|Yen Press|🖥️📖|
+Oct 24|[Days with My Stepsister](https://yenpress.com/titles/9781975372033-days-with-my-stepsister-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Oct 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Oct 24|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343200-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-6-light-novel)|6|Yen Press|🖥️📖|
+Oct 24|[Only I Know the Ghoul Saved the World](https://yenpress.com/titles/9781975367534-only-i-know-the-ghoul-saved-the-world-vol-1-light-novel)|1|Yen Press|🖥️📖|
+Oct 24|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377915-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-1-light-novel)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Oct 24|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335373-re-starting-life-in-another-world-vol-23-light-novel)|23|Yen Press|🖥️📖|
+Oct 24|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363895-the-ephemeral-scenes-of-setsuna-s-journey-vol-2-light-novel-the-former-68th-hero-and-the-dragon-maiden)|2|Yen Press|🖥️📖|
+Oct 24|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-holy-grail-of-eris-vol-4-light-novel)|4|Yen Press|🖥️📖|
+Oct 31|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371050-a-misanthrope-teaches-a-class-for-demi-humans-vol-1-mr-hitoma-won-t-you-teach-us-about-humans)|1|Yen Press|🖥️📖|
 Oct 31|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://kodansha.us/product/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-3-light-novel)|3|Kodansha|🖥️📖|
 Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
@@ -142,6 +141,7 @@ Dec 12|[Magical Explorer](https://yenpress.com/titles/9781975367558-magical-expl
 Dec 12|[Online!](https://yenpress.com/titles/9781975378622-online-vol-1-the-devil-s-unbeatable-game)|1|Yen Press|🖥️📖|
 Dec 12|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
 Dec 12|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975364984-spy-classroom-short-story-collection-vol-2-light-novel-the-spy-teacher-who-loved-me)|2|Yen Press|🖥️📖|
+Dec 12|[Suzume](https://yenpress.com/titles/9781975373061-suzume)|1|Yen Press|🖥️📖|
 Dec 12|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375539-that-time-i-got-reincarnated-as-a-slime-vol-17-light-novel)|17|Yen Press|🖥️📖|
 Dec 12|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975372644-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Dec 12|[Vampire Hunter D](https://www.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-4)|10-12|Dark Horse|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -149,7 +149,7 @@ Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-t
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Dec 19|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/734066/my-unique-skill-makes-me-op-even-at-level-1-vol-4-light-novel-by-miki-nazuna/9781647293116)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 19|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Dec 19|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 26|[Loyal Soldier, Lustful Beast](https://sevenseasentertainment.com/books/loyal-soldier-lustful-beast-light-novel/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|🖥️📖|
 Dec 26|[Spy x Family: Family Portrait](https://www.viz.com/read/novel/spy-x-family-novels/product/7681/paperback)|1|VIZ Media|🖥️📖|
@@ -191,8 +191,6 @@ Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevens
 Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345181-the-irregular-at-magic-high-school-vol-21-light-novel)|21|Yen Press|🖥️📖|
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Jan 23|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
-Jan 30|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Jan 30|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jan 30|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 
 ### February
@@ -240,8 +238,10 @@ Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-
 Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Mar 26|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/)|20|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Mar 26|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 
 ### April
 
