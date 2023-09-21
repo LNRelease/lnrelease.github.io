@@ -249,6 +249,7 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Apr 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
+Apr 02|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-16)|16|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 08|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-11)|11|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 09|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
@@ -285,6 +286,7 @@ Jun 04|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-
 Jun 10|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/series/ascendance-of-a-bookworm-short-story-collection#volume-1)|1|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13)|13-15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jun 11|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
 Jun 11|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/745908/the-dawn-of-the-witch-6-light-novel-by-kakeru-kobashiri/9781647293482)|6|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 25|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|

@@ -291,6 +291,7 @@ Jan 31|[The Abandoned Heiress Gets Rich with Alchemy and Scores an Enemy General
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Feb 01|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-9)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of-gluttony-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel)|3|Yen Press|🖥️📖|
@@ -362,6 +363,7 @@ May 28|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/bo
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Jun 04|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-18/)|18|Seven Seas Entertainment|🖥️📖|
+Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jun 11|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
 Jun 25|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 
