@@ -94,7 +94,8 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
 
                 if len(res[1]) > 0:
                     series.add(res[0])
-                    info.update(res[1])
+                    info -= res[1]
+                    info |= res[1]
             except Exception as e:
                 warnings.warn(f'{link}: {e}', RuntimeWarning)
 
