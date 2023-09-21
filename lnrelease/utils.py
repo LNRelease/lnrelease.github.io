@@ -30,12 +30,12 @@ SECONDARY = (
     'BOOK☆WALKER',
     'Penguin Random House',
     'Right Stuf',
-    'Amazon',
     'Apple',
     'Barnes & Noble',
     'Google',
     'Kobo',
     'Audible',
+    'Amazon',
 )
 SOURCES = {x: i for i, x in enumerate(PRIMARY + SECONDARY)}
 
