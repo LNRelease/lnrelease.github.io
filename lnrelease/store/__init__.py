@@ -1,10 +1,13 @@
+from __future__ import annotations
+
 import warnings
 from urllib.parse import urlparse
 
-from utils import Info, Series
+import session
+import utils
 
-from . import (amazon, apple, audible, barnes_noble, book_walker, google, kobo,
-               right_stuf)
+from . import (_default, amazon, apple, audible, barnes_noble, book_walker,
+               google, kobo, prh, right_stuf, viz, yen_press)
 
 STORES = {
     'www.amazon.ca': amazon,
@@ -23,7 +26,15 @@ STORES = {
 
 PROCESSED = {
     'global.bookwalker.jp': book_walker,
+    'crossinfworld.com': _default,
+    'hanashi.media': _default,
+    'kodansha.us': _default,
+    'www.penguinrandomhouse.com': prh,
+    'j-novel.club': _default,
     'www.rightstufanime.com': right_stuf,
+    'sevenseasentertainment.com': _default,
+    'www.viz.com': viz,
+    'yenpress.com': yen_press,
 }
 
 IGNORE = {
@@ -42,7 +53,38 @@ IGNORE = {
 }
 
 
-def normalise(session, link: str, resolve: bool = False) -> str | None:
+def equal(a: str, b: str) -> bool:
+    if a == b:
+        return True
+
+    netloc = urlparse(a).netloc
+
+    if 'audible' in netloc:
+        return audible.equal(a, b)
+    elif netloc in STORES:
+        return STORES[netloc].equal(a, b)
+    elif netloc in PROCESSED:
+        return PROCESSED[netloc].equal(a, b)
+
+    warnings.warn(f'equal on unknown url: {a}')
+    return False
+
+
+def hash_link(link: str) -> int:
+    netloc = urlparse(link).netloc
+
+    if 'audible' in netloc:
+        return audible.hash_link(link)
+    elif netloc in STORES:
+        return STORES[netloc].hash_link(link)
+    elif netloc in PROCESSED:
+        return PROCESSED[netloc].hash_link(link)
+
+    warnings.warn(f'hash on unknown url: {link}')
+    return 0
+
+
+def normalise(session: session.Session, link: str, resolve: bool = False) -> str | None:
     # normalise url, return None if failed
     netloc = urlparse(link).netloc
 
@@ -64,9 +106,10 @@ def normalise(session, link: str, resolve: bool = False) -> str | None:
     return res
 
 
-def parse(session, link: str, norm: str, force: bool = False, *,
-          series: Series = None, publisher: str = '', title: str = '',
-          index: int = 0, format: str = '', isbn: str = '') -> tuple[Series, set[Info]] | None:
+def parse(session: session.Session, link: str, norm: str, force: bool = False, *,
+          series: utils.Series = None, publisher: str = '', title: str = '',
+          index: int = 0, format: str = '', isbn: str = ''
+          ) -> tuple[utils.Series, set[utils.Info]] | None:
     netloc = urlparse(norm).netloc
 
     if 'audible' in netloc:

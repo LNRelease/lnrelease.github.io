@@ -9,6 +9,8 @@ from enum import StrEnum
 from pathlib import Path
 from typing import Self
 
+import store
+
 TITLE = re.compile(r' \((?:(?:light )?novels?|audio(?:book)?)\)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
 
@@ -83,8 +85,8 @@ class Format(StrEnum):
 
 
 @dataclass
-class Link:
-    link: str
+class Key:
+    key: str
     date: datetime.date
 
     @classmethod
@@ -93,16 +95,16 @@ class Link:
         return cls(link, date)
 
     def __eq__(self, other: Self) -> bool:
-        return isinstance(other, self.__class__) and self.link == other.link
+        return isinstance(other, self.__class__) and self.key == other.key
 
     def __lt__(self, other: Self) -> bool:
-        return self.link < other.link
+        return self.key < other.key
 
     def __hash__(self) -> int:
-        return hash(self.link)
+        return hash(self.key)
 
     def __iter__(self) -> Iterator[Self]:
-        yield self.link
+        yield self.key
         yield self.date
 
 
@@ -160,7 +162,7 @@ class Info:
 
     def __eq__(self, other: Self) -> bool:
         return (isinstance(other, self.__class__)
-                and self.link == other.link
+                and store.equal(self.link, other.link)
                 and self.format == other.format)
 
     def __lt__(self, other: Self) -> bool:
@@ -179,7 +181,7 @@ class Info:
         return self.link < other.link
 
     def __hash__(self) -> int:
-        return hash((self.link, self.format))
+        return hash((store.hash_link(self.link), self.format))
 
     def __iter__(self) -> Iterator[Self]:
         yield self.serieskey
@@ -291,8 +293,8 @@ class Release:
                      self.date))
 
 
-class Table(set[Link | Info | Book | Series]):
-    def __init__(self, file: Path, cls: type[Link | Info | Book | Series]) -> None:
+class Table(set[Key | Info | Book | Series]):
+    def __init__(self, file: Path, cls: type[Key | Info | Book | Series]) -> None:
         super().__init__()
         self.file = file
         self.cls = cls

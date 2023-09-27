@@ -1,10 +1,13 @@
+from __future__ import annotations
+
 import datetime
 import json
 import re
 from urllib.parse import urlparse, urlunparse
 
+import session
+import utils
 from bs4 import BeautifulSoup
-from utils import Info, Series
 
 NAME = 'Audible'
 
@@ -12,7 +15,26 @@ PATH = re.compile(r'/pd/(?P<name>[^/]+)/(?P<asin>\w{10})(?:/.*)?')
 BOOK = re.compile(r',?\s*Book (?P<index>\d+)\s*')
 
 
-def normalise(session, link: str) -> str | None:
+def equal(a: str, b: str) -> bool:
+    ua = urlparse(a)
+    ub = urlparse(b)
+    if ua.netloc.removeprefix('www.') != ub.netloc.removeprefix('www.'):
+        return False
+
+    match_a = PATH.fullmatch(ua.path)
+    match_b = PATH.fullmatch(ub.path)
+    return (match_a and match_b
+            and match_a.group('asin') == match_b.group('asin'))
+
+
+def hash_link(link: str) -> int:
+    u = urlparse(link)
+    netloc = u.netloc.removeprefix('www.')
+    asin = PATH.fullmatch(u.path).group('asin')
+    return hash(netloc + asin)
+
+
+def normalise(session: session.Session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = f'/pd/{match.group("name")}/{match.group("asin")}'
@@ -27,8 +49,10 @@ def normalise(session, link: str) -> str | None:
     return urlunparse(('https', netloc, path, '', '', ''))
 
 
-def parse(session, link: str, norm: str, *, series: Series = None, publisher: str = '', title: str = '',
-          index: int = 0, format: str = '', isbn: str = '') -> tuple[Series, set[Info]] | None:
+def parse(session: session.Session, link: str, norm: str, *,
+          series: utils.Series = None, publisher: str = '', title: str = '',
+          index: int = 0, format: str = '', isbn: str = ''
+          ) -> tuple[utils.Series, set[utils.Info]] | None:
     page = session.get(norm)
     soup = BeautifulSoup(page.content, 'lxml')
 
@@ -49,6 +73,6 @@ def parse(session, link: str, norm: str, *, series: Series = None, publisher: st
         index = index or BOOK.fullmatch(a.next_sibling.text).group('index')
         series_title = a.text
 
-    series = series or Series(None, series_title)
-    info = Info(series.key, norm, NAME, publisher, title, index, format, isbn, date)
+    series = series or utils.Series(None, series_title)
+    info = utils.Info(series.key, norm, NAME, publisher, title, index, format, isbn, date)
     return series, {info}

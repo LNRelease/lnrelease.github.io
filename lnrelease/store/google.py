@@ -1,10 +1,13 @@
+from __future__ import annotations
+
 import datetime
 import json
 import re
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
+import session
+import utils
 from bs4 import BeautifulSoup
-from utils import Info, Series
 
 NAME = 'Google'
 
@@ -13,7 +16,17 @@ SCRIPT = re.compile(r'"Published on"')
 DATA = re.compile(r'data:(?P<data>\[.+\])')
 
 
-def normalise(session, link: str) -> str | None:
+def equal(a: str, b: str) -> bool:
+    id_a = next((v for k, v in parse_qsl(urlparse(a).query) if k == 'id'), '')
+    id_b = next((v for k, v in parse_qsl(urlparse(b).query) if k == 'id'), '')
+    return id_a == id_b
+
+
+def hash_link(link: str) -> int:
+    return hash(next((v for k, v in parse_qsl(urlparse(link).query) if k == 'id'), ''))
+
+
+def normalise(session: session.Session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = f'/store/{match.group("format")}/details'
@@ -36,8 +49,10 @@ def find_detail(detail: str, lst: list) -> str:
                 return x
 
 
-def parse(session, link: str, norm: str, *, series: Series = None, publisher: str = '', title: str = '',
-          index: int = 0, format: str = '', isbn: str = '') -> tuple[Series, set[Info]] | None:
+def parse(session: session.Session, link: str, norm: str, *,
+          series: utils.Series = None, publisher: str = '', title: str = '',
+          index: int = 0, format: str = '', isbn: str = ''
+          ) -> tuple[utils.Series, set[utils.Info]] | None:
     page = session.get(norm)
     soup = BeautifulSoup(page.content, 'lxml')
 
@@ -51,5 +66,5 @@ def parse(session, link: str, norm: str, *, series: Series = None, publisher: st
     isbn = isbn or work.get('isbn', '')
     date = datetime.date.fromisoformat(work['datePublished'])
 
-    info = Info(serieskey, norm, NAME, publisher, title, index, format, isbn, date)
+    info = utils.Info(serieskey, norm, NAME, publisher, title, index, format, isbn, date)
     return series, {info}

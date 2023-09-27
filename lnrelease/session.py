@@ -6,9 +6,9 @@ from typing import Self
 from urllib.parse import urljoin, urlparse
 
 import requests
+import store
 from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
-from source import store
 from urllib3.util.retry import Retry
 
 HEADERS = {'User-Agent': 'lnrelease.github.io/1.4'}

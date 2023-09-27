@@ -6,7 +6,7 @@ from random import random
 
 from bs4 import BeautifulSoup, element
 from session import Session
-from utils import FORMATS, Info, Link, Series, Table
+from utils import FORMATS, Info, Key, Series, Table
 
 NAME = 'Yen Press'
 
@@ -53,11 +53,11 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
-    pages = Table(PAGES, Link)
+    pages = Table(PAGES, Key)
     today = datetime.date.today()
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
-    skip = {row.link for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
+    skip = {row.key for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
 
     isbns: dict[str, Info] = {inf.isbn: inf for inf in info}
 
@@ -77,12 +77,12 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     for inf in res[1]:
                         isbns[inf.isbn] = inf
                         date = inf.date
-                        l = Link(inf.isbn, date)
+                        l = Key(inf.isbn, date)
                         pages.discard(l)
                         pages.add(l)
                         skip.add(inf.isbn)
                 elif isbn not in isbns:
-                    l = Link(isbn, None)
+                    l = Key(isbn, None)
                     pages.discard(l)
                     pages.add(l)
             except Exception as e:

@@ -3,11 +3,10 @@ import warnings
 from collections import defaultdict
 from urllib.parse import quote, urlparse
 
+import store
 from bs4 import BeautifulSoup, element
 from session import Session
 from utils import Info, Series
-
-from . import store
 
 NAME = 'Hanashi Media'
 
@@ -66,12 +65,14 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
         for url, norm in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
             netloc = urlparse(norm).netloc
             if netloc in store.STORES or 'audible' in netloc:
-                alts.append(norm)
                 if res := store.parse(session, url, norm, force,
                                       series=series, publisher=NAME,
                                       title=title, index=index, format='Digital'):
                     info |= res[1]
                     force = False
+                    alts.extend(inf.link for inf in res[1])
+                else:
+                    alts.append(norm)
             elif netloc in store.PROCESSED:
                 alts.append(norm)
                 force = False

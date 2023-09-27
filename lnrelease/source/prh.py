@@ -43,7 +43,9 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                     warnings.warn(f'Non-E PRH language: {language}', RuntimeWarning)
                     continue
 
-                info.add(Info(serie.key, url, NAME, 'Kodansha', title, 0, format, isbn, date))
+                inf = Info(serie.key, url, NAME, 'Kodansha', title, 0, format, isbn, date)
+                info.discard(inf)
+                info.add(inf)
     return series, info
 
 

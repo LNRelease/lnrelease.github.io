@@ -1,9 +1,12 @@
+from __future__ import annotations
+
 import datetime
 import re
 from urllib.parse import parse_qsl, urlencode, urljoin, urlparse, urlunparse
 
+import session
+import utils
 from bs4 import BeautifulSoup
-from utils import Info, Series
 
 NAME = 'Barnes & Noble'
 
@@ -18,7 +21,26 @@ FORMATS = 'https://www.barnesandnoble.com/cartridges/ProductDetailContent/Produc
 HEADERS = {'User-Agent': ''}
 
 
-def normalise(session, link: str) -> str | None:
+def equal(a: str, b: str) -> bool:
+    ua = urlparse(a)
+    ub = urlparse(b)
+    match_a = PATH.fullmatch(ua.path)
+    match_b = PATH.fullmatch(ub.path)
+    ean_a = next((v for k, v in parse_qsl(ua.query) if k == 'ean'), '')
+    ean_b = next((v for k, v in parse_qsl(ub.query) if k == 'ean'), '')
+
+    return (match_a and match_b
+            and match_a.group('id') == match_b.group('id')
+            and (ean_a == ean_b
+                 or (ean_a and not ean_b)
+                 or (not ean_a and ean_b)))
+
+
+def hash_link(link: str) -> int:
+    return hash(PATH.fullmatch(urlparse(link).path).group('id'))
+
+
+def normalise(session: session.Session, link: str) -> str | None:
     u = urlparse(link)
     if not PATH.fullmatch(u.path):
         res = session.resolve(link, force=True, headers=HEADERS)
@@ -29,8 +51,10 @@ def normalise(session, link: str) -> str | None:
     return urlunparse(('https', 'www.barnesandnoble.com', u.path, '', query, ''))
 
 
-def parse(session, link: str, norm: str, *, series: Series = None, publisher: str = '', title: str = '',
-          index: int = 0, format: str = '', isbn: str = '') -> tuple[Series, set[Info]] | None:
+def parse(session: session.Session, link: str, norm: str, *,
+          series: utils.Series = None, publisher: str = '', title: str = '',
+          index: int = 0, format: str = '', isbn: str = ''
+          ) -> tuple[utils.Series, set[utils.Info]] | None:
     id = PATH.fullmatch(urlparse(norm).path).group('id')
     page = session.get(FORMATS, params={'workId': id}, headers=HEADERS)
     soup = BeautifulSoup(page.content, 'lxml')
@@ -45,6 +69,6 @@ def parse(session, link: str, norm: str, *, series: Series = None, publisher: st
         publisher = publisher or PUBLISHER.fullmatch(div.find(string=PUBLISHER).text).group('name')
         date = DATE.fullmatch(div.find(string=DATE).text).group('date')
         date = datetime.datetime.strptime(date, '%m/%d/%Y').date()
-        info.add(Info(serieskey, link, NAME, publisher, title, index, format, isbn, date))
+        info.add(utils.Info(serieskey, link, NAME, publisher, title, index, format, isbn, date))
 
     return series, info

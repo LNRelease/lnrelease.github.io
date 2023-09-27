@@ -1,10 +1,13 @@
+from __future__ import annotations
+
 import datetime
 import re
 import warnings
 from urllib.parse import urlparse, urlunparse
 
+import session
+import utils
 from bs4 import BeautifulSoup
-from utils import Info, Series
 
 NAME = 'Amazon'
 
@@ -24,7 +27,26 @@ DATE_FORMATS = {
 }
 
 
-def normalise(session, link: str) -> str | None:
+def equal(a: str, b: str) -> bool:
+    ua = urlparse(a)
+    ub = urlparse(b)
+    if ua.netloc.removeprefix('www.') != ub.netloc.removeprefix('www.'):
+        return False
+
+    match_a = PATH.fullmatch(ua.path)
+    match_b = PATH.fullmatch(ub.path)
+    return (match_a and match_b
+            and match_a.group('asin') == match_b.group('asin'))
+
+
+def hash_link(link: str) -> int:
+    u = urlparse(link)
+    netloc = u.netloc.removeprefix('www.')
+    match = PATH.fullmatch(u.path)
+    return hash(netloc + match.group('asin'))
+
+
+def normalise(session: session.Session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = '/dp/' + match.group('asin')
@@ -54,8 +76,10 @@ def strpdate(link: str, s: str) -> datetime.date:
     return None
 
 
-def parse(session, link: str, norm: str, *, series: Series = None, publisher: str = '', title: str = '',
-          index: int = 0, format: str = '', isbn: str = '') -> tuple[Series, set[Info]] | None:
+def parse(session: session.Session, link: str, norm: str, *,
+          series: utils.Series = None, publisher: str = '', title: str = '',
+          index: int = 0, format: str = '', isbn: str = ''
+          ) -> tuple[utils.Series, set[utils.Info]] | None:
     page = session.get(link, web_cache=True)
     if page.status_code == 404:
         return None
@@ -65,7 +89,7 @@ def parse(session, link: str, norm: str, *, series: Series = None, publisher: st
         series_title = ''
         if attr := soup.find(id='rpi-attribute-book_details-series'):
             series_title = attr.a.text
-        series = Series(None, series_title)
+        series = utils.Series(None, series_title)
 
     isbn = isbn or get_attr(soup, 'rpi-attribute-book_details-isbn13')
     if (not isbn
@@ -89,5 +113,5 @@ def parse(session, link: str, norm: str, *, series: Series = None, publisher: st
     if not date:
         return None
 
-    info = Info(series.key, norm, NAME, publisher, title, index, format, isbn, date)
+    info = utils.Info(series.key, norm, NAME, publisher, title, index, format, isbn, date)
     return series, {info}
