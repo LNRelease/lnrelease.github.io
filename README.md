@@ -32,8 +32,8 @@ Sep 12|[The Asterisk War](https://yenpress.com/titles/9781975369095-the-asterisk
 Sep 14|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 14|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 14|[The Master of Ragnarok & Blesser of Einherjar](https://j-novel.club/series/the-master-of-ragnarok-blesser-of-einherjar#volume-24)|24|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Sep 15|[Half Spirit: a love story across the veil of death](https://hanashi.media/half-spirit/)|1|Hanashi Media|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 15|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-23)|23|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Sep 16|[Half Spirit: a love story across the veil of death](https://hanashi.media/half-spirit/)|1|Hanashi Media|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 18|[Fake Saint of the Year: You Wanted the Perfect Saint? Too Bad!](https://j-novel.club/series/fake-saint-of-the-year-you-wanted-the-perfect-saint-too-bad#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 18|[Reincarnated Mage with Inferior Eyes: Breezing through the Future as an Oppressed Ex-Hero](https://j-novel.club/series/reincarnated-mage-with-inferior-eyes#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Sep 19|[A Pale Moon Reverie](https://j-novel.club/series/a-pale-moon-reverie#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -306,12 +306,14 @@ Date|Series|Volume|Publisher|Type|
 Jan 02|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
 Jan 02|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 05|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Jan 05|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-22)|1|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 08|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-27)|27|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 09|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 09|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 09|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 11|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Jan 15|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-s-daughter-and-the-ebony-blade#volume-7)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 15|[Hell Mode](https://j-novel.club/series/hell-mode#volume-7)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 16|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 16|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
@@ -352,7 +354,7 @@ Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of
 Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel)|3|Yen Press|🖥️📖|
-Feb 20|[Black Summoner](https://yenpress.com/titles/9781975392208-black-summoner-vol-1-light-novel)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Feb 20|[Black Summoner](https://yenpress.com/titles/9781975392208-black-summoner-vol-1-light-novel-the-bound-demon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Date A Live](https://yenpress.com/titles/9781975350345-date-a-live-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Feb 20|[Days with My Stepsister](https://yenpress.com/titles/9781975372057-days-with-my-stepsister-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Feb 20|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
