@@ -213,7 +213,8 @@ def part(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
             name = match.group('name')
             vol = match.group('volume')
             part = sub_nums(match.group('part'))
-            vol += f'.{NUMBER.search(part).group("volume")}'
+            if match := NUMBER.search(part):
+                vol += f'.{match.group("volume")}'
         else:
             name = inf.title
             vol = '1'

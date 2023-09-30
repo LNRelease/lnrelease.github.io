@@ -65,9 +65,10 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             for url, norm in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
                 netloc = urlparse(norm).netloc
                 if netloc in store.STORES or 'audible' in netloc:
-                    if res := store.parse(session, url, norm, force,
+                    res = store.parse(session, url, norm, force,
                                           series=series, publisher=NAME,
-                                          title=title, index=index, format=format):
+                                          title=title, index=index, format=format)
+                    if res and res[1]:
                         info |= res[1]
                         force = False
                         alts.extend(inf.link for inf in res[1])

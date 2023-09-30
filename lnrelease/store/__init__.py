@@ -59,28 +59,34 @@ def equal(a: str, b: str) -> bool:
 
     netloc = urlparse(a).netloc
 
-    if 'audible' in netloc:
-        return audible.equal(a, b)
-    elif netloc in STORES:
-        return STORES[netloc].equal(a, b)
-    elif netloc in PROCESSED:
-        return PROCESSED[netloc].equal(a, b)
+    try:
+        if 'audible' in netloc:
+            return audible.equal(a, b)
+        elif netloc in STORES:
+            return STORES[netloc].equal(a, b)
+        elif netloc in PROCESSED:
+            return PROCESSED[netloc].equal(a, b)
 
-    warnings.warn(f'equal on unknown url: {a}')
+        warnings.warn(f'equal on unknown url: {a}')
+    except Exception as e:
+        warnings.warn(f'{a}, {b} equal error: {e}')
     return False
 
 
 def hash_link(link: str) -> int:
     netloc = urlparse(link).netloc
 
-    if 'audible' in netloc:
-        return audible.hash_link(link)
-    elif netloc in STORES:
-        return STORES[netloc].hash_link(link)
-    elif netloc in PROCESSED:
-        return PROCESSED[netloc].hash_link(link)
+    try:
+        if 'audible' in netloc:
+            return audible.hash_link(link)
+        elif netloc in STORES:
+            return STORES[netloc].hash_link(link)
+        elif netloc in PROCESSED:
+            return PROCESSED[netloc].hash_link(link)
 
-    warnings.warn(f'hash on unknown url: {link}')
+        warnings.warn(f'hash on unknown url: {link}')
+    except Exception as e:
+        warnings.warn(f'{link} hash error: {e}')
     return 0
 
 
