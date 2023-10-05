@@ -84,6 +84,8 @@ def parse(jsn: dict) -> tuple[Series, Info] | None:
 
     date = datetime.datetime.strptime(jsn['custitem_rs_release_date'], '%m/%d/%Y').date()
 
+    if series_title == '&nbsp;':
+        series_title = title
     series = Series(None, series_title)
     info = Info(series.key, link, NAME, publisher, title, 0, format, isbn, date)
     return series, info
