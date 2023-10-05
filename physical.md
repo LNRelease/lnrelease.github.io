@@ -163,7 +163,6 @@ Dec 26|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasent
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Jan 02|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
-Jan 02|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-22)|1|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 08|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-27)|27|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 09|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -191,6 +190,7 @@ Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/97819753
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Jan 23|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
 Jan 30|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
+Jan 30|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 
 ### February
 
@@ -237,8 +237,6 @@ Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-
 Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 
 ### April
 
@@ -265,6 +263,7 @@ Apr 30|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainme
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+May 07|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 May 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-24)|3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -314,6 +313,7 @@ Aug 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-g
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Sep 03|[The World's Fastest Level Up](https://sevenseasentertainment.com/books/the-worlds-fastest-level-up-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Sep 10|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 
 ### December
 

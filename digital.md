@@ -262,7 +262,6 @@ Dec 29|[The Drab Princess, the Black Cat, and the Satisfying Break-up](https://c
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Jan 02|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
-Jan 02|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 05|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 05|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 09|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -294,6 +293,7 @@ Jan 23|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-e
 Jan 24|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 26|[D-Genesis](https://j-novel.club/series/d-genesis#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 30|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
+Jan 30|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 31|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 31|[The Abandoned Heiress Gets Rich with Alchemy and Scores an Enemy General!](https://crossinfworld.com/The-Abandoned-Heiress-Gets-Rich-with-Alchemy-and-Scores-an-Enemy-General-Vol-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
@@ -336,8 +336,6 @@ Mar 05|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/bo
 Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
 Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
-Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Mar 26|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 
 ### April
 
@@ -359,6 +357,7 @@ Apr 30|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainme
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+May 07|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 May 21|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-2/)|2|Seven Seas Entertainment|🖥️📖|
@@ -391,6 +390,7 @@ Jul 30|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Sep 03|[The World's Fastest Level Up](https://sevenseasentertainment.com/books/the-worlds-fastest-level-up-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Sep 10|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 
 ### December
 
