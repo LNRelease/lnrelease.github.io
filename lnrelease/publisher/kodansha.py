@@ -9,7 +9,7 @@ from . import check, copy
 
 NAME = 'Kodansha'
 
-PARSE = re.compile(r'(?P<name>.+?),? (Volume |vol |Part |part )?(?P<volume>\d+)')
+PARSE = re.compile(r'(?P<name>.+?),? (?:[Vv]ol(?:ume)? |[Pp]art )?(?P<volume>\d+)')
 BRACKET = re.compile(r'(?P<name>.+?)(?: \(.+?\))?')
 
 

@@ -12,6 +12,7 @@ from typing import Self
 import store
 
 TITLE = re.compile(r' \((?:(?:light )?novels?|audio(?:book)?)\)', flags=re.IGNORECASE)
+SERIES = re.compile(r'(?:\b|\s)+(?:\((?:(?:light )?novels?|audio(?:book)?)\)|(?:(volume|part) [\d\-\.]+)|omnibus|(?:special|collector\'s) edition)(?:\b|\s|$)+', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
 
 PHYSICAL = ('Physical', 'Hardcover', 'Hardback', 'Paperback')
@@ -114,7 +115,7 @@ class Series:
     title: str
 
     def __post_init__(self) -> None:
-        self.title = TITLE.sub('', self.title).replace('’', "'").strip()
+        self.title = SERIES.sub('', self.title).replace('’', "'").strip()
         self.key = self.key or clean_str(self.title)
 
     @classmethod
