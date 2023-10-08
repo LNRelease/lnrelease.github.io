@@ -12,7 +12,7 @@ from typing import Self
 import store
 
 TITLE = re.compile(r' \((?:(?:light )?novels?|audio(?:book)?)\)', flags=re.IGNORECASE)
-SERIES = re.compile(r'(?:\b|\s)+(?:\((?:(?:light )?novels?|audio(?:book)?)\)|(?:(volume|part) [\d\-\.]+)|omnibus|(?:special|collector\'s) edition)(?:\W|$)+', flags=re.IGNORECASE)
+SERIES = re.compile(r'(?:\b|\s)+(?:\((?:(?:light )?novels?|audio(?:book)?)\)|(?:(volume|part) [\d\-\.]+)|omnibus|(?:special|collector\'s) edition)(?:\b|(?=\s)|$)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
 
 PHYSICAL = ('Physical', 'Hardcover', 'Hardback', 'Paperback')
