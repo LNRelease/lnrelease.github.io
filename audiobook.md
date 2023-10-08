@@ -5,18 +5,6 @@
 
 ## 2023
 
-### September
-
-Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
-Sep 05|[The Dragon's Soulmate is a Mushroom Princess! (Audiobook)](https://crossinfworld.com/The-Dragons-Soulmate-is-a-Mushroom-Princess.html)|1|Cross Infinite World|🔊|
-Sep 12|[86--EIGHTY-SIX (Audiobook)](https://yenpress.com/titles/9781975369729-86-eighty-six-vol-6-light-novel-darkest-before-the-dawn)|6|Yen Press|🔊|
-Sep 12|[Rascal Does Not Dream of a Dreaming Girl (Audiobook)](https://yenpress.com/titles/9781975370848-rascal-does-not-dream-of-a-dreaming-girl-light-novel)|6|Yen Press|🔊|
-Sep 12|[The Saga of Tanya the Evil (Audiobook)](https://yenpress.com/titles/9781975346959-the-saga-of-tanya-the-evil-vol-8-in-omnia-paratus)|8|Yen Press|🔊|
-Sep 12|[The Samurai and the Prisoner (Audiobook)](https://yenpress.com/titles/9781975368203-the-samurai-and-the-prisoner)|1|Yen Press|🔊|
-Sep 19|[Konosuba: God's Blessing on This Wonderful World! (Audiobook)](https://yenpress.com/titles/9781975369682-konosuba-god-s-blessing-on-this-wonderful-world-vol-2-light-novel-love-witches-other-delusions)|2|Yen Press|🔊|
-Sep 28|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasentertainment.com/audio/mushoku-tensei-jobless-reincarnation-audiobook-vol-1/)|1|Seven Seas Entertainment|🔊|
-
 ### October
 
 Date|Series|Volume|Publisher|Type|
