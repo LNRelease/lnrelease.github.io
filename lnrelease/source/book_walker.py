@@ -31,7 +31,7 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
     date = datetime.datetime.strptime(jsn['productionDate'], '%B %d, %Y (%I:%M %p) JST').date()
     series_title = soup.select_one('div.product-detail-inner th:-soup-contains("Series Title") + td a')
     if series_title:
-        series_title = series_title.text
+        series_title = series_title.text.removesuffix(' Light Novel (Light Novels)')
     else:
         series_title = title
     if series_title.startswith('<Partial release>') or series_title.endswith('(light novel serial)'):
