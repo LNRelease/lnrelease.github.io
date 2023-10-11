@@ -273,6 +273,7 @@ Date|Series|Volume|Publisher|Type|
 Feb 01|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-9)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of-gluttony-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Feb 07|[Seventh](https://j-novel.club/series/seventh#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Feb 20|[Black Summoner](https://yenpress.com/titles/9781975392208-black-summoner-vol-1-light-novel-the-bound-demon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
