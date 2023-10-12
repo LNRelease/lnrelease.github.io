@@ -195,9 +195,11 @@ Date|Series|Volume|Publisher|Type|
 Jan 02|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
 Jan 05|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 05|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Jan 08|[The Springtime Chime of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 09|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 09|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jan 11|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Jan 12|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12)|12|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 15|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-s-daughter-and-the-ebony-blade#volume-7)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 15|[Hell Mode](https://j-novel.club/series/hell-mode#volume-7)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 16|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
