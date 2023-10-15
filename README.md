@@ -40,7 +40,7 @@ Oct 17|[Monster Girl Doctor](https://sevenseasentertainment.com/books/monster-gi
 Oct 17|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-24/)|24|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 17|[My Happy Marriage](https://yenpress.com/titles/9781975367350-my-happy-marriage-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Oct 17|[Sasaki and Peeps](https://yenpress.com/titles/9781975367909-sasaki-and-peeps-vol-5-light-novel-betrayals-conspiracies-and-coups-d-etat-the-gripping-conclusion-to-the-otherworld-succession-battle-meanwhile-you-asked-for-it-it-s-time-for-a-slice-of-life-episode-in-modern-japan-but-we-appear-to-be-on-hard-mode)|5|Yen Press|🖥️📖|
-Oct 17|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-novel-4)|4|Kodansha|🖥️📖|
+Oct 17|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-4-light-novel)|4|Kodansha|🖥️📖|
 Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
 Oct 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 19|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -105,7 +105,6 @@ Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-
 Nov 21|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373177-agents-of-the-four-seasons-vol-1-dance-of-spring-part-i)|1|Yen Press|🖥️📖|
 Nov 21|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734083/am-i-actually-the-strongest-4-light-novel-by-sai-sumimori/9781647292027)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
-Nov 21|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
 Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Nov 21|[High School DxD](https://yenpress.com/titles/9781975350383-high-school-dxd-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Horror Collector](https://yenpress.com/titles/9781975378226-horror-collector-vol-1-the-faceless-kid)|1|Yen Press|🖥️📖|
@@ -130,9 +129,10 @@ Nov 23|[The Ideal Sponger Life](https://j-novel.club/series/the-ideal-sponger-li
 Nov 24|[Fake It to Break It! I Faked Amnesia to Break Off My Engagement and Now He's All Lovey-Dovey?!](https://j-novel.club/series/fake-it-to-break-it-i-faked-amnesia-to-break-off-my-engagement-and-now-he-s-all-lovey-dovey#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 24|[The Retired Demon of the Maxed-Out Village](https://j-novel.club/series/the-retired-demon-of-the-maxed-out-village#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 24|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Nov 28|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
 Nov 28|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-17/)|17|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 28|[Moon Blossom Asura: The Ruthless Reincarnated Mercenary Forms the Ultimate Army](https://j-novel.club/series/moon-blossom-asura#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 28|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734075/saving-80000-gold-in-another-world-for-my-retirement-3-light-novel-by-funa/9781647292737)|3|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Nov 28|[Saving 80,000 Gold in Another World for my Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-3-light-novel)|3|Kodansha|🖥️📖|
 Nov 28|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 29|[How a Realist Hero Rebuilt the Kingdom](https://j-novel.club/series/how-a-realist-hero-rebuilt-the-kingdom#volume-18)|18|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 30|[A Young Lady Finds Her True Calling Living with the Enemy](https://crossinfworld.com/A-Young-Lady-Finds-Her-True-Calling-Living-with-the-Enemy-Volume-1.html)|1|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -274,9 +274,11 @@ Jan 31|[The Abandoned Heiress Gets Rich with Alchemy and Scores an Enemy General
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Feb 01|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-9)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Feb 05|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of-gluttony-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Feb 07|[Seventh](https://j-novel.club/series/seventh#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Feb 08|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Feb 20|[Black Summoner](https://yenpress.com/titles/9781975392208-black-summoner-vol-1-light-novel-the-bound-demon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|

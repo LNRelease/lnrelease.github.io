@@ -22,7 +22,7 @@ Oct 17|[Monster Girl Doctor](https://sevenseasentertainment.com/books/monster-gi
 Oct 17|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-24/)|24|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 17|[My Happy Marriage](https://yenpress.com/titles/9781975367350-my-happy-marriage-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Oct 17|[Sasaki and Peeps](https://yenpress.com/titles/9781975367909-sasaki-and-peeps-vol-5-light-novel-betrayals-conspiracies-and-coups-d-etat-the-gripping-conclusion-to-the-otherworld-succession-battle-meanwhile-you-asked-for-it-it-s-time-for-a-slice-of-life-episode-in-modern-japan-but-we-appear-to-be-on-hard-mode)|5|Yen Press|🖥️📖|
-Oct 17|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-novel-4)|4|Kodansha|🖥️📖|
+Oct 17|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-4-light-novel)|4|Kodansha|🖥️📖|
 Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
 Oct 24|[Arifureta: From Commonplace to World's Strongest](https://sevenseasentertainment.com/books/arifureta-from-commonplace-to-worlds-strongest-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 24|[Combatants Will Be Dispatched!](https://yenpress.com/titles/9781975367664-combatants-will-be-dispatched-vol-7-light-novel)|7|Yen Press|🖥️📖|
@@ -55,7 +55,6 @@ Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-
 Nov 21|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373177-agents-of-the-four-seasons-vol-1-dance-of-spring-part-i)|1|Yen Press|🖥️📖|
 Nov 21|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734083/am-i-actually-the-strongest-4-light-novel-by-sai-sumimori/9781647292027)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
-Nov 21|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
 Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Nov 21|[High School DxD](https://yenpress.com/titles/9781975350383-high-school-dxd-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Horror Collector](https://yenpress.com/titles/9781975378226-horror-collector-vol-1-the-faceless-kid)|1|Yen Press|🖥️📖|
@@ -71,8 +70,9 @@ Nov 21|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374
 Nov 21|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368654-wandering-witch-the-journey-of-elaina-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975352264-wolf-parchment-new-theory-spice-wolf-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Nov 21|[You Can Have My Back](https://yenpress.com/titles/9781975363956-you-can-have-my-back-vol-2-light-novel)|2|Yen Press|🖥️📖|
+Nov 28|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
 Nov 28|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-17/)|17|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 28|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734075/saving-80000-gold-in-another-world-for-my-retirement-3-light-novel-by-funa/9781647292737)|3|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Nov 28|[Saving 80,000 Gold in Another World for my Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-3-light-novel)|3|Kodansha|🖥️📖|
 Nov 28|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
 ### December
