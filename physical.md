@@ -167,13 +167,13 @@ Feb 20|[Failure Frame: I Became the Strongest and Annihilated Everything With Lo
 Feb 20|[Horror Collector](https://yenpress.com/titles/9781975378240-horror-collector-vol-2-the-cursed-game-of-tag)|2|Yen Press|🖥️📖|
 Feb 20|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9781975379070-if-the-villainess-and-villain-met-and-fell-in-love-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Feb 20|[Liar, Liar](https://yenpress.com/titles/9781975370633-liar-liar-vol-3)|3|Yen Press|🖥️📖|
-Feb 20|[Magical Girl Raising Project](https://yenpress.com/titles/9781975378899-magical-girl-raising-project-vol-17-light-novel)|17|Yen Press|🖥️📖|
+Feb 20|[Magical Girl Raising Project, Vol. 17 : Episodes S](https://yenpress.com/titles/9781975378899-magical-girl-raising-project-vol-17-light-novel-episodes-s)|1|Yen Press|🖥️📖|
 Feb 20|[Miss Savage Fang](https://yenpress.com/titles/9781975371098-miss-savage-fang-vol-1)|1|Yen Press|🖥️📖|
 Feb 20|[My Happy Marriage](https://yenpress.com/titles/9781975375294-my-happy-marriage-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Feb 20|[Phantom Thief Red](https://yenpress.com/titles/9781975378127-phantom-thief-red-vol-2)|2|Yen Press|🖥️📖|
 Feb 20|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377922-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-2-light-novel)|2|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351038-sugar-apple-fairy-tale-vol-5-light-novel)|5|Yen Press|🖥️📖|
-Feb 20|[The Greatest Demon Lord Is Reborn as a Typical Nobody](https://yenpress.com/titles/9781975370138-the-greatest-demon-lord-is-reborn-as-a-typical-nobody-vol-9-light-novel)|9|Yen Press|🖥️📖|
+Feb 20|[The Greatest Demon Lord Is Reborn as a Typical Nobody](https://yenpress.com/titles/9781975370138-the-greatest-demon-lord-is-reborn-as-a-typical-nobody-vol-9-light-novel-dream-of-the-evil-god)|9|Yen Press|🖥️📖|
 Feb 20|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9781975374990-the-kept-man-of-the-princess-knight-vol-1)|1|Yen Press|🖥️📖|
 Feb 20|[The Other World's Books Depend on the Bean Counter](https://yenpress.com/titles/9781975364342-the-other-world-s-books-depend-on-the-bean-counter-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Feb 20|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371173-the-unimplemented-overlords-have-joined-the-party-vol-1)|1|Yen Press|🖥️📖|
@@ -195,8 +195,26 @@ Mar 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://j
 Mar 12|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734082/am-i-actually-the-strongest-5-light-novel-by-sai-sumimori/9781647292034)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
 Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
+Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-agents-of-the-four-seasons-vol-2)|2|Yen Press|🖥️📖|
+Mar 19|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367619-alya-sometimes-hides-her-feelings-in-russian-vol-4-5)|4.5|Yen Press|🖥️📖|
+Mar 19|[Amalgam Hound](https://yenpress.com/titles/9781975374143-amalgam-hound-vol-1-investigation-bureau-criminal-division-special-unit)|1|Yen Press|🖥️📖|
+Mar 19|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371074-a-misanthrope-teaches-a-class-for-demi-humans-vol-2)|2|Yen Press|🖥️📖|
+Mar 19|[Canine Detective Chris](https://yenpress.com/titles/9781975390969-canine-detective-chris-vol-2)|2|Yen Press|🖥️📖|
+Mar 19|[Classroom for Heroes](https://yenpress.com/titles/9781975378684-classroom-for-heroes-vol-1)|1|Yen Press|🖥️📖|
+Mar 19|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350147-high-school-prodigies-have-it-easy-even-in-another-world-vol-10-light-novel)|10|Yen Press|🖥️📖|
+Mar 19|[Ishura](https://yenpress.com/titles/9781975369446-ishura-vol-6)|6|Yen Press|🖥️📖|
+Mar 19|[King's Proposal](https://yenpress.com/titles/9781975380519-king-s-proposal-vol-4-light-novel)|4|Yen Press|🖥️📖|
+Mar 19|[Online!](https://yenpress.com/titles/9781975388959-online-vol-2-the-haunted-school-and-the-knight-s-riddle)|2|Yen Press|🖥️📖|
+Mar 19|[Orc Eroica](https://yenpress.com/titles/9781975391485-orc-eroica-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Mar 19|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335397-re-starting-life-in-another-world-vol-24-light-novel)|24|Yen Press|🖥️📖|
+Mar 19|[Sasaki and Peeps](https://yenpress.com/titles/9781975378400-sasaki-and-peeps-vol-6-light-novel)|6|Yen Press|🖥️📖|
+Mar 19|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975392000-the-contract-between-a-specter-and-a-servant-vol-1-light-novel)|1|Yen Press|🖥️📖|
+Mar 19|[The Detective Is Already Dead](https://yenpress.com/titles/9781975379568-the-detective-is-already-dead-vol-7)|7|Yen Press|🖥️📖|
+Mar 19|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363918-the-ephemeral-scenes-of-setsuna-s-journey-vol-3-light-novel)|3|Yen Press|🖥️📖|
+Mar 19|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975380632-the-executioner-and-her-way-of-life-vol-7)|7|Yen Press|🖥️📖|
+Mar 19|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975380496-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-6-novel)|6|Yen Press|🖥️📖|
 
 ### April
 
@@ -210,8 +228,25 @@ Apr 08|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted
 Apr 09|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
 Apr 09|[I'm in Love with the Villainess: She's so Cheeky for a Commoner](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-light-novel-vol-2/)|2|Seven Seas Entertainment|🖥️📖|
 Apr 09|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
+Apr 16|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpress.com/titles/9781975376895-apparently-disillusioned-adventurers-will-save-the-world-vol-4-light-novel)|4|Yen Press|🖥️📖|
+Apr 16|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367725-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-12-light-novel)|12|Yen Press|🖥️📖|
+Apr 16|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347970-chitose-is-in-the-ramune-bottle-vol-6)|6|Yen Press|🖥️📖|
 Apr 16|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Apr 16|[High School DxD](https://yenpress.com/titles/9781975350406-high-school-dxd-vol-13-light-novel)|13|Yen Press|🖥️📖|
+Apr 16|[Hollow Regalia](https://yenpress.com/titles/9781975387778-hollow-regalia-vol-4-light-novel)|4|Yen Press|🖥️📖|
+Apr 16|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343224-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-7-light-novel)|7|Yen Press|🖥️📖|
+Apr 16|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334192-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-8-light-novel)|8|Yen Press|🖥️📖|
+Apr 16|[Magical Explorer](https://yenpress.com/titles/9781975372538-magical-explorer-vol-7-light-novel-reborn-as-a-side-character-in-a-fantasy-dating-sim)|7|Yen Press|🖥️📖|
+Apr 16|[Once Upon a Witch's Death: The Tale of the One Thousand Tears of Joy](https://yenpress.com/titles/9781975379988-once-upon-a-witch-s-death-the-tale-of-the-one-thousand-tears-of-joy-vol-1-meg-raspberry-has-a-year-to-live)|1|Yen Press|🖥️📖|
+Apr 16|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975344313-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-2-light-novel)|2|Yen Press|🖥️📖|
+Apr 16|[Riviere and the Land of Prayer](https://yenpress.com/titles/9781975379780-riviere-and-the-land-of-prayer-vol-1-light-novel)|1|Yen Press|🖥️📖|
+Apr 16|[Sabikui Bisco](https://yenpress.com/titles/9781975367923-sabikui-bisco-vol-7-light-novel)|7|Yen Press|🖥️📖|
+Apr 16|[Secrets of the Silent Witch, Vol. 4.5 -after-](https://yenpress.com/titles/9781975393687-secrets-of-the-silent-witch-vol-4-5-after)|1|Yen Press|🖥️📖|
+Apr 16|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375553-that-time-i-got-reincarnated-as-a-slime-vol-18-light-novel)|18|Yen Press|🖥️📖|
+Apr 16|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374051-the-misfit-of-demon-king-academy-vol-3-light-novel)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
+Apr 16|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368678-wandering-witch-the-journey-of-elaina-vol-13-light-novel)|13|Yen Press|🖥️📖|
+Apr 16|[You Can't See the Snow](https://yenpress.com/titles/9781975379582-you-can-t-see-the-snow)|1|Yen Press|🖥️📖|
 Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Apr 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734068/saving-80000-gold-in-another-world-for-my-retirement-4-light-novel-by-funa/9781647293130)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
@@ -243,7 +278,6 @@ Jun 10|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/s
 Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-9)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13)|13-15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Jun 11|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
 Jun 11|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/745908/the-dawn-of-the-witch-6-light-novel-by-kakeru-kobashiri/9781647293482)|6|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 18|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Jun 18|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
@@ -262,7 +296,6 @@ Jul 09|[Loner Life in Another World](https://sevenseasentertainment.com/books/lo
 Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jul 30|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/)|20|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Jul 30|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
 ### August
 
