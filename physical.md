@@ -52,14 +52,11 @@ Nov 14|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-an
 Nov 14|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-13/)|13|Seven Seas Entertainment|🖥️📖|
 Nov 14|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-vol-12-light-novel-holy-blue-bullet)|12|Yen Press|🖥️📖|
-Nov 21|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373177-agents-of-the-four-seasons-vol-1-dance-of-spring-part-i)|1|Yen Press|🖥️📖|
 Nov 21|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734083/am-i-actually-the-strongest-4-light-novel-by-sai-sumimori/9781647292027)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
 Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Nov 21|[High School DxD](https://yenpress.com/titles/9781975350383-high-school-dxd-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Horror Collector](https://yenpress.com/titles/9781975378226-horror-collector-vol-1-the-faceless-kid)|1|Yen Press|🖥️📖|
-Nov 21|[Ishura](https://yenpress.com/titles/9781975363079-ishura-vol-5)|5|Yen Press|🖥️📖|
-Nov 21|[Liar, Liar](https://yenpress.com/titles/9781975370619-liar-liar-vol-2-the-lying-transfer-student-is-targeted-by-the-little-devil)|2|Yen Press|🖥️📖|
 Nov 21|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975350260-our-last-crusade-or-the-rise-of-a-new-world-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Nov 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378103-phantom-thief-red-vol-1-a-brand-new-heist-for-a-brand-new-red)|1|Yen Press|🖥️📖|
 Nov 21|[Rascal Does Not Dream of His Student](https://yenpress.com/titles/9781975375270-rascal-does-not-dream-of-his-student-light-novel)|12|Yen Press|🖥️📖|
@@ -68,12 +65,15 @@ Nov 21|[Sword Art Online Alternative Gun Gale Online](https://yenpress.com/title
 Nov 21|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975352202-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Nov 21|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374044-the-misfit-of-demon-king-academy-vol-2-light-novel)|2|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 21|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368654-wandering-witch-the-journey-of-elaina-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975352264-wolf-parchment-new-theory-spice-wolf-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Nov 21|[You Can Have My Back](https://yenpress.com/titles/9781975363956-you-can-have-my-back-vol-2-light-novel)|2|Yen Press|🖥️📖|
+Nov 28|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373177-agents-of-the-four-seasons-vol-1-dance-of-spring-part-i)|1|Yen Press|🖥️📖|
 Nov 28|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
 Nov 28|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-17/)|17|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Nov 28|[Ishura](https://yenpress.com/titles/9781975363079-ishura-vol-5)|5|Yen Press|🖥️📖|
+Nov 28|[Liar, Liar](https://yenpress.com/titles/9781975370619-liar-liar-vol-2-the-lying-transfer-student-is-targeted-by-the-little-devil)|2|Yen Press|🖥️📖|
 Nov 28|[Saving 80,000 Gold in Another World for my Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-3-light-novel)|3|Kodansha|🖥️📖|
 Nov 28|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Nov 28|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975352264-wolf-parchment-new-theory-spice-wolf-vol-7-light-novel)|7|Yen Press|🖥️📖|
 
 ### December
 
@@ -159,6 +159,7 @@ Date|Series|Volume|Publisher|Type|
 Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of-gluttony-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Feb 13|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-4)|4|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Feb 20|[Black Summoner](https://yenpress.com/titles/9781975392208-black-summoner-vol-1-light-novel-the-bound-demon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Date A Live](https://yenpress.com/titles/9781975350345-date-a-live-vol-11-light-novel)|11|Yen Press|🖥️📖|
