@@ -168,7 +168,7 @@ Feb 20|[Failure Frame: I Became the Strongest and Annihilated Everything With Lo
 Feb 20|[Horror Collector](https://yenpress.com/titles/9781975378240-horror-collector-vol-2-the-cursed-game-of-tag)|2|Yen Press|🖥️📖|
 Feb 20|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9781975379070-if-the-villainess-and-villain-met-and-fell-in-love-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Feb 20|[Liar, Liar](https://yenpress.com/titles/9781975370633-liar-liar-vol-3)|3|Yen Press|🖥️📖|
-Feb 20|[Magical Girl Raising Project, Vol. 17 : Episodes S](https://yenpress.com/titles/9781975378899-magical-girl-raising-project-vol-17-light-novel-episodes-s)|1|Yen Press|🖥️📖|
+Feb 20|[Magical Girl Raising Project](https://yenpress.com/titles/9781975378899-magical-girl-raising-project-vol-17-light-novel-episodes-s)|17|Yen Press|🖥️📖|
 Feb 20|[Miss Savage Fang](https://yenpress.com/titles/9781975371098-miss-savage-fang-vol-1)|1|Yen Press|🖥️📖|
 Feb 20|[My Happy Marriage](https://yenpress.com/titles/9781975375294-my-happy-marriage-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Feb 20|[Phantom Thief Red](https://yenpress.com/titles/9781975378127-phantom-thief-red-vol-2)|2|Yen Press|🖥️📖|
