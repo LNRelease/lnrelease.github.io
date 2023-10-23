@@ -307,6 +307,7 @@ Feb 20|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](htt
 Feb 20|[You Are My Regret](https://yenpress.com/titles/9781975378806-you-are-my-regret-vol-1)|1|Yen Press|🖥️📖|
 Feb 27|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/734067/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-4-light-novel-by-miraijina/9781647293123)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 27|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Feb 29|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-4.html)|4|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 29|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-4.html)|4|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 29|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-3.html)|3|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
@@ -342,6 +343,7 @@ Mar 19|[The Detective Is Already Dead](https://yenpress.com/titles/9781975379568
 Mar 19|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363918-the-ephemeral-scenes-of-setsuna-s-journey-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Mar 19|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975380632-the-executioner-and-her-way-of-life-vol-7)|7|Yen Press|🖥️📖|
 Mar 19|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975380496-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-6-novel)|6|Yen Press|🖥️📖|
+Mar 29|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-6.html)|6|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
 ### April
 
