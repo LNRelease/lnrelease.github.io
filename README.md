@@ -102,7 +102,7 @@ Nov 15|[Housekeeping Mage from Another World: Making Your Adventures Feel Like H
 Nov 16|[Jeanette the Genius: Defying My Evil Stepmother by Starting a Business with My Ride-or-Die Fiancé!](https://j-novel.club/series/jeanette-the-genius-defying-my-evil-stepmother-by-starting-a-business-with-my-ride-or-die-fianc#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 20|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-vol-12-light-novel-holy-blue-bullet)|12|Yen Press|🖥️📖|
-Nov 21|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734083/am-i-actually-the-strongest-4-light-novel-by-sai-sumimori/9781647292027)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Nov 21|[Am I Actually the Strongest?](https://kodansha.us/product/am-i-actually-the-strongest-novel-4)|4|Kodansha|🖥️📖|
 Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
 Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Nov 21|[High School DxD](https://yenpress.com/titles/9781975350383-high-school-dxd-vol-12-light-novel)|12|Yen Press|🖥️📖|
@@ -230,6 +230,7 @@ Jan 08|[The Springtime Chime of Marielle Clarac](https://j-novel.club/series/the
 Jan 09|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 09|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 09|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
+Jan 10|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-29)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 11|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 12|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-22)|22|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 12|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12)|12|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -284,6 +285,7 @@ Feb 07|[Seventh](https://j-novel.club/series/seventh#volume-6)|6|J-Novel Club|�
 Feb 08|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 13|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-4)|4|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Feb 19|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Feb 20|[Black Summoner](https://yenpress.com/titles/9781975392208-black-summoner-vol-1-light-novel-the-bound-demon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Date A Live](https://yenpress.com/titles/9781975350345-date-a-live-vol-11-light-novel)|11|Yen Press|🖥️📖|
@@ -408,6 +410,7 @@ Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series
 Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13)|13-15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jun 11|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/745908/the-dawn-of-the-witch-6-light-novel-by-kakeru-kobashiri/9781647293482)|6|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jun 11|[True Love Fades Away When the Contract Ends](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 18|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Jun 18|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jun 25|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/745909/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-5-light-novel-by-miraijin-a/9781647293499)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -423,6 +426,8 @@ Jul 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance
 Jul 08|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-4)|4-6|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 09|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Jul 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/745919/saving-80000-gold-in-another-world-for-my-retirement-5-light-novel-by-funa/9781647293314)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jul 30|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/)|20|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 

@@ -52,7 +52,7 @@ Nov 14|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-an
 Nov 14|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-13/)|13|Seven Seas Entertainment|🖥️📖|
 Nov 14|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-vol-12-light-novel-holy-blue-bullet)|12|Yen Press|🖥️📖|
-Nov 21|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734083/am-i-actually-the-strongest-4-light-novel-by-sai-sumimori/9781647292027)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Nov 21|[Am I Actually the Strongest?](https://kodansha.us/product/am-i-actually-the-strongest-novel-4)|4|Kodansha|🖥️📖|
 Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
 Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Nov 21|[High School DxD](https://yenpress.com/titles/9781975350383-high-school-dxd-vol-12-light-novel)|12|Yen Press|🖥️📖|
@@ -280,6 +280,7 @@ Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series
 Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13)|13-15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jun 11|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/745908/the-dawn-of-the-witch-6-light-novel-by-kakeru-kobashiri/9781647293482)|6|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jun 11|[True Love Fades Away When the Contract Ends](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 18|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Jun 18|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jun 25|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/745909/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-5-light-novel-by-miraijin-a/9781647293499)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -295,6 +296,8 @@ Jul 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance
 Jul 08|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-4)|4-6|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 09|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Jul 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/745919/saving-80000-gold-in-another-world-for-my-retirement-5-light-novel-by-funa/9781647293314)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jul 30|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/)|20|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 

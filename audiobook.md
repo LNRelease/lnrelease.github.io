@@ -23,6 +23,7 @@ Nov 14|[Goblin Slayer (Audiobook)](https://yenpress.com/titles/9781975388218-gob
 Nov 14|[Is It Wrong to Try to Pick Up Girls in a Dungeon? (Audiobook)](https://yenpress.com/titles/9781975388171-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-1)|1|Yen Press|🔊|
 Nov 14|[So I'm a Spider, So What? (Audiobook)](https://yenpress.com/titles/9781975375874-so-i-m-a-spider-so-what-vol-7)|7|Yen Press|🔊|
 Nov 14|[Sword Art Online (Audiobook)](https://yenpress.com/titles/9781975371296-sword-art-online-11-alicization-turning)|11|Yen Press|🔊|
+Nov 14|[The Dragon's Soulmate is a Mushroom Princess! (Audiobook)](https://crossinfworld.com/The-Dragons-Soulmate-is-a-Mushroom-Princess-Volume-2.html)|2|Cross Infinite World|🔊|
 Nov 14|[Yami-hara (Audiobook)](https://yenpress.com/titles/9781975388119-yami-hara)|1|Yen Press|🔊|
 Nov 16|[I'm in Love with the Villainess (Audiobook)](https://sevenseasentertainment.com/audio/im-in-love-with-the-villainess-audiobook-vol-1/)|1|Seven Seas Entertainment|🔊|
 
