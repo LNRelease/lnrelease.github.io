@@ -44,6 +44,7 @@ IGNORE = {
     'www.bookdepository.com',
     'www.booksamillion.com',
     'bookshop.org',
+    'store.crunchyroll.com',
     'books.google.com',
     'gum.co',
     'gumroad.com',
