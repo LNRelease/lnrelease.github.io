@@ -23,6 +23,7 @@ Oct 09|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/youn
 Oct 10|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-20)|20|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 10|[The Sorcerer's Receptionist](https://j-novel.club/series/the-sorcerer-s-receptionist#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 12|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-13)|13|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 12|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 12|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 13|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 16|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-s-daughter-and-the-ebony-blade#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -52,6 +53,7 @@ Oct 24|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-ho
 Oct 25|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 25|[Only the Villainous Lord Wields the Power to Level Up](https://j-novel.club/series/only-the-villainous-lord-wields-the-power-to-level-up#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 25|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Oct 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 26|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[Seventh](https://j-novel.club/series/seventh#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Oct 27|[Stuck in a Time Loop: When All Else Fails, Be a Villainess](https://j-novel.club/series/stuck-in-a-time-loop-when-all-else-fails-be-a-villainess#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -73,6 +75,7 @@ Nov 07|[Loner Life in Another World](https://sevenseasentertainment.com/books/lo
 Nov 09|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 09|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 09|[Marriage, Divorce, and Beyond: The White Mage and Black Knight's Romance Reignited](https://j-novel.club/series/marriage-divorce-and-beyond-the-white-mage-and-black-knight-s-romance-reignited#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Nov 09|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 10|[A Royal Rebound: Forget My Ex-Fiancé, I'm Being Pampered by the Prince!](https://j-novel.club/series/a-royal-rebound#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 10|[The Greatest Magician's Ultimate Quest: I Woke from a 300 Year Slumber to a World of Disappointment](https://j-novel.club/series/the-greatest-magician-s-ultimate-quest-i-woke-from-a-300-year-slumber-to-a-world-of-disappointment#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Nov 10|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-6)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -133,7 +136,6 @@ Dec 04|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophol
 Dec 04|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 05|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-16/)|16|Seven Seas Entertainment|🖥️📖|
 Dec 05|[No Game No Life](https://yenpress.com/titles/9781975370350-no-game-no-life-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Dec 05|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️📖|
 Dec 07|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 08|[Butareba -The Story of a Man Turned into a Pig- First Bite](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -177,10 +179,10 @@ Dec 22|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series
 Dec 25|[Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 25|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 25|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Dec 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|🖥️📖|
 Dec 26|[Spy x Family: Family Portrait](https://www.viz.com/read/novel/spy-x-family-novels/product/7681/paperback)|1|VIZ Media|🖥️📖|
 Dec 26|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Dec 27|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 28|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 29|[8th Loop for the Win! With Seven Lives' Worth of XP and the Third Princess's Appraisal Skill, My Behemoth and I Are Unstoppable!](https://j-novel.club/series/8th-loop-for-the-win-with-seven-lives-worth-of-xp-and-the-third-princess-s-appraisal-skill-my-behemoth-and-i-are-unstoppable#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 29|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 29|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-7)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -219,7 +221,6 @@ Jan 23|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Co
 Jan 23|[Goblin Slayer Side Story II: Dai Katana](https://yenpress.com/titles/9781975376994-goblin-slayer-side-story-ii-dai-katana-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Jan 23|[Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin](https://yenpress.com/titles/9781975371159-hazure-skill-the-guild-member-with-a-worthless-skill-is-actually-a-legendary-assassin-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Jan 23|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369484-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-2-light-novel)|2|Yen Press|🖥️📖|
-Jan 23|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jan 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975340575-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-14)|14|Yen Press|🖥️📖|
 Jan 23|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975376581-kunon-the-sorcerer-can-see-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Jan 23|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
@@ -255,14 +256,13 @@ Feb 19|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill 
 Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Feb 20|[Date A Live](https://yenpress.com/titles/9781975350345-date-a-live-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Feb 20|[Days with My Stepsister](https://yenpress.com/titles/9781975372057-days-with-my-stepsister-vol-2-light-novel)|2|Yen Press|🖥️📖|
-Feb 20|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Feb 20|[Horror Collector](https://yenpress.com/titles/9781975378240-horror-collector-vol-2-the-cursed-game-of-tag)|2|Yen Press|🖥️📖|
 Feb 20|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9781975379070-if-the-villainess-and-villain-met-and-fell-in-love-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Feb 20|[Liar, Liar](https://yenpress.com/titles/9781975370633-liar-liar-vol-3)|3|Yen Press|🖥️📖|
 Feb 20|[Magical Girl Raising Project](https://yenpress.com/titles/9781975378899-magical-girl-raising-project-vol-17-light-novel-episodes-s)|17|Yen Press|🖥️📖|
 Feb 20|[Miss Savage Fang](https://yenpress.com/titles/9781975371098-miss-savage-fang-vol-1)|1|Yen Press|🖥️📖|
 Feb 20|[My Happy Marriage](https://yenpress.com/titles/9781975375294-my-happy-marriage-vol-6-light-novel)|6|Yen Press|🖥️📖|
-Feb 20|[Phantom Thief Red](https://yenpress.com/titles/9781975378127-phantom-thief-red-vol-2)|2|Yen Press|🖥️📖|
+Feb 20|[Phantom Thief Red](https://yenpress.com/titles/9781975378127-phantom-thief-red-vol-2-the-junior-high-detective)|2|Yen Press|🖥️📖|
 Feb 20|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351038-sugar-apple-fairy-tale-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Feb 20|[The Greatest Demon Lord Is Reborn as a Typical Nobody](https://yenpress.com/titles/9781975370138-the-greatest-demon-lord-is-reborn-as-a-typical-nobody-vol-9-light-novel-dream-of-the-evil-god)|9|Yen Press|🖥️📖|
 Feb 20|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9781975374990-the-kept-man-of-the-princess-knight-vol-1)|1|Yen Press|🖥️📖|
