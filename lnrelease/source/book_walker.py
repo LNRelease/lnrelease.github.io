@@ -13,14 +13,36 @@ NAME = 'BOOK☆WALKER'
 PAGES = Path('book_walker.csv')
 
 
+PUBLISHERS = {
+    'Cross Infinite World': 'Cross Infinite World',
+    'Impress Corporation': 'Impress Corporation',
+    'J-Novel Club': 'J-Novel Club',
+    'Kodansha': 'Kodansha',
+    'One Peace Books': 'One Peace Books',
+    'SB Creative': 'SB Creative',
+    'Seven Seas Entertainment': 'Seven Seas Entertainment',
+    'Tentai Books': 'Tentai Books',
+    'Tokyopop': '',
+    'Yen On': 'Yen Press',
+    'Yen Press': 'Yen Press',
+}
+
+
+def get_publisher(pub: str) -> str:
+    try:
+        pub = PUBLISHERS[pub]
+        return pub
+    except KeyError:
+        warnings.warn(f'Unknown publisher: {pub}', RuntimeWarning)
+        return None
+
+
 def parse(session: Session, link: str) -> tuple[Series, Info] | None:
     page = session.get(link)
     soup = BeautifulSoup(page.content, 'lxml')
 
     jsn = json.loads(soup.find('script', type='application/ld+json').text)
-    publisher = jsn['brand']['name']
-    if publisher == 'Yen On':
-        publisher = 'Yen Press'
+    publisher = get_publisher(jsn['brand']['name'])
 
     title = jsn['name']
     index = 0

@@ -79,13 +79,12 @@ def limiter(netloc: str) -> Lock:
         return LIMITERS[netloc]
 
 
-skip_google = False
-
 class Session(requests.Session):
     def __init__(self) -> None:
         super().__init__()
         self.headers.update(HEADERS)
         self.set_retry()
+        self.skip_google = False
 
     def set_retry(self, total: int = 5, backoff_factor: float = 2,
                   status_forcelist: set[int] = {429, 500, 502, 503, 504}) -> None:
@@ -120,7 +119,7 @@ class Session(requests.Session):
         return link
 
     def google_cache(self, url: str, **kwargs) -> requests.Response | None:
-        if skip_google:
+        if self.skip_google:
             return None
 
         url = 'https://webcache.googleusercontent.com/search?q=cache:' + url
@@ -128,7 +127,7 @@ class Session(requests.Session):
 
         if page and page.status_code == 429:
             warnings.warn(f'Google code 429: {url}', RuntimeWarning)
-            skip_google = True
+            self.skip_google = True
             return None
         return page
 
