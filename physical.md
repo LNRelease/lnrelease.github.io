@@ -24,6 +24,7 @@ Oct 17|[My Happy Marriage](https://yenpress.com/titles/9781975367350-my-happy-ma
 Oct 17|[Sasaki and Peeps](https://yenpress.com/titles/9781975367909-sasaki-and-peeps-vol-5-light-novel-betrayals-conspiracies-and-coups-d-etat-the-gripping-conclusion-to-the-otherworld-succession-battle-meanwhile-you-asked-for-it-it-s-time-for-a-slice-of-life-episode-in-modern-japan-but-we-appear-to-be-on-hard-mode)|5|Yen Press|🖥️📖|
 Oct 17|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-4-light-novel)|4|Kodansha|🖥️📖|
 Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
+Oct 18|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-3.html)|3|Cross Infinite World|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 24|[Arifureta: From Commonplace to World's Strongest](https://sevenseasentertainment.com/books/arifureta-from-commonplace-to-worlds-strongest-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Oct 24|[Combatants Will Be Dispatched!](https://yenpress.com/titles/9781975367664-combatants-will-be-dispatched-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Oct 24|[Date A Live](https://yenpress.com/titles/9781975350321-date-a-live-vol-10-light-novel)|10|Yen Press|🖥️📖|
@@ -50,7 +51,6 @@ Nov 13|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance
 Nov 13|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-8)|8|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 14|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-11/)|11|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Nov 14|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 14|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-vol-12-light-novel-holy-blue-bullet)|12|Yen Press|🖥️📖|
 Nov 21|[Am I Actually the Strongest?](https://kodansha.us/product/am-i-actually-the-strongest-novel-4)|4|Kodansha|🖥️📖|
 Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
@@ -128,6 +128,7 @@ Jan 08|[In Another World With My Smartphone](https://j-novel.club/series/in-anot
 Jan 09|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 09|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 16|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jan 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 16|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jan 23|[Astrea Record, Vol. 1 Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379889-astrea-record-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes)|1|Yen Press|🖥️📖|
 Jan 23|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1)|1|Yen Press|🖥️📖|
@@ -144,7 +145,7 @@ Jan 23|[My Instant Death Ability Is So Overpowered, No One in This Other World S
 Jan 23|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975369569-reign-of-the-seven-spellblades-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Jan 23|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975379056-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-14-light-novel)|14|Yen Press|🖥️📖|
 Jan 23|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975372583-the-angel-next-door-spoils-me-rotten-vol-6-light-novel)|6|Yen Press|🖥️📖|
-Jan 23|[The Deer King](https://yenpress.com/titles/9781975352356-the-deer-king-vol-2-novel)|2|Yen Press|🖥️📖|
+Jan 23|[The Deer King](https://yenpress.com/titles/9781975352356-the-deer-king-vol-2-novel-returners)|2|Yen Press|🖥️📖|
 Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345181-the-irregular-at-magic-high-school-vol-21-light-novel-upheaval-prologue-arc-i)|21|Yen Press|🖥️📖|
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
@@ -160,7 +161,7 @@ Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of
 Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 13|[The Death Mage](https://www.rightstufanime.com/The-Death-Mage-Novel-Volume-4)|4|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel)|3|Yen Press|🖥️📖|
+Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel-a-discussion-of-curses-and-blessings)|3|Yen Press|🖥️📖|
 Feb 20|[Black Summoner](https://yenpress.com/titles/9781975392208-black-summoner-vol-1-light-novel-the-bound-demon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Date A Live](https://yenpress.com/titles/9781975350345-date-a-live-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Feb 20|[Days with My Stepsister](https://yenpress.com/titles/9781975372057-days-with-my-stepsister-vol-2-light-novel)|2|Yen Press|🖥️📖|
@@ -226,7 +227,6 @@ Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/b
 Apr 02|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-16)|16|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 08|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-11)|11|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Apr 09|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
 Apr 09|[I'm in Love with the Villainess: She's so Cheeky for a Commoner](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-light-novel-vol-2/)|2|Seven Seas Entertainment|🖥️📖|
 Apr 09|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Apr 16|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpress.com/titles/9781975376895-apparently-disillusioned-adventurers-will-save-the-world-vol-4-light-novel)|4|Yen Press|🖥️📖|
@@ -313,6 +313,12 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Sep 03|[The World's Fastest Level Up](https://sevenseasentertainment.com/books/the-worlds-fastest-level-up-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Sep 10|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+
+### November
+
+Date|Series|Volume|Publisher|Type|
+:---:|:---|:---:|:---|:---:|
+Nov 26|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/)|12|Seven Seas Entertainment|🖥️📖|
 
 ### December
 
