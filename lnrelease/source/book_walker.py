@@ -43,6 +43,8 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
 
     jsn = json.loads(soup.find('script', type='application/ld+json').text)
     publisher = get_publisher(jsn['brand']['name'])
+    if not publisher:
+        return None
 
     title = jsn['name']
     index = 0
