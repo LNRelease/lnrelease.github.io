@@ -42,6 +42,13 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
     soup = BeautifulSoup(page.content, 'lxml')
 
     jsn = json.loads(soup.find('script', type='application/ld+json').text)
+    series_title = soup.select_one('div.product-detail-inner th:-soup-contains("Series Title") + td a')
+    if series_title:
+        series_title = series_title.text.removesuffix(' Light Novel (Light Novels)')
+    else:
+        series_title = title
+    if series_title.startswith('<Partial release>') or series_title.endswith('(light novel serial)'):
+        return None
     publisher = get_publisher(jsn['brand']['name'])
     if not publisher:
         return None
@@ -53,13 +60,6 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
             break
     isbn = jsn['isbn']
     date = datetime.datetime.strptime(jsn['productionDate'], '%B %d, %Y (%I:%M %p) JST').date()
-    series_title = soup.select_one('div.product-detail-inner th:-soup-contains("Series Title") + td a')
-    if series_title:
-        series_title = series_title.text.removesuffix(' Light Novel (Light Novels)')
-    else:
-        series_title = title
-    if series_title.startswith('<Partial release>') or series_title.endswith('(light novel serial)'):
-        return None
 
     series = Series(None, series_title)
     info = Info(series.key, link, NAME, publisher, title, index, 'Digital', isbn, date)
