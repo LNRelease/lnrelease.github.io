@@ -5,20 +5,6 @@
 
 ## 2023
 
-### October
-
-Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
-Oct 05|[The Saint's Magic Power is Omnipotent (Audiobook)](https://sevenseasentertainment.com/audio/the-saints-magic-power-audiobook-vol-3/)|3|Seven Seas Entertainment|🔊|
-Oct 10|[Ishura (Audiobook)](https://yenpress.com/titles/9781975376758-ishura-vol-1-the-new-demon-king-war)|1|Yen Press|🔊|
-Oct 10|[Overlord (Audiobook)](https://yenpress.com/titles/9781975370183-overlord-vol-10-the-ruler-of-conspiracy)|10|Yen Press|🔊|
-Oct 10|[Spice and Wolf (Audiobook)](https://yenpress.com/titles/9781975371333-spice-and-wolf-vol-7)|7|Yen Press|🔊|
-Oct 12|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Audiobook)](https://sevenseasentertainment.com/audio/reborn-as-a-space-mercenary-audiobook-vol-3/)|3|Seven Seas Entertainment|🔊|
-Oct 19|[Classroom of the Elite (Audiobook)](https://sevenseasentertainment.com/audio/classroom-of-the-elite-audiobook-vol-4/)|4|Seven Seas Entertainment|🔊|
-Oct 23|[Solo Leveling (Audiobook)](https://yenpress.com/titles/9781975325947-solo-leveling-vol-8)|8|Yen Press|🔊|
-Oct 26|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasentertainment.com/audio/mushoku-tensei-jobless-reincarnation-audiobook-vol-2/)|2|Seven Seas Entertainment|🔊|
-Oct 26|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasentertainment.com/audio/mushoku-tensei-jobless-reincarnation-audiobook-vol-3/)|3|Seven Seas Entertainment|🔊|
-
 ### November
 
 Date|Series|Volume|Publisher|Type|

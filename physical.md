@@ -5,41 +5,6 @@
 
 ## 2023
 
-### October
-
-Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
-Oct 03|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 03|[The Deer King](https://yenpress.com/titles/9781975352332-the-deer-king-vol-1-novel-survivors)|1|Yen Press|🖥️📖|
-Oct 09|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-3)|3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 09|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-19)|19-20|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 09|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-10)|10|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 17|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367596-alya-sometimes-hides-her-feelings-in-russian-vol-4)|4|Yen Press|🖥️📖|
-Oct 17|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-8/)|8|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 17|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350123-high-school-prodigies-have-it-easy-even-in-another-world-vol-9-light-novel)|9|Yen Press|🖥️📖|
-Oct 17|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9781975375935-if-the-villainess-and-villain-met-and-fell-in-love-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 17|[Monster Girl Doctor](https://sevenseasentertainment.com/books/monster-girl-doctor-vol-10/)|10|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 17|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-24/)|24|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 17|[My Happy Marriage](https://yenpress.com/titles/9781975367350-my-happy-marriage-vol-5-light-novel)|5|Yen Press|🖥️📖|
-Oct 17|[Sasaki and Peeps](https://yenpress.com/titles/9781975367909-sasaki-and-peeps-vol-5-light-novel-betrayals-conspiracies-and-coups-d-etat-the-gripping-conclusion-to-the-otherworld-succession-battle-meanwhile-you-asked-for-it-it-s-time-for-a-slice-of-life-episode-in-modern-japan-but-we-appear-to-be-on-hard-mode)|5|Yen Press|🖥️📖|
-Oct 17|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-4-light-novel)|4|Kodansha|🖥️📖|
-Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
-Oct 18|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-3.html)|3|Cross Infinite World|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 24|[Arifureta: From Commonplace to World's Strongest](https://sevenseasentertainment.com/books/arifureta-from-commonplace-to-worlds-strongest-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 24|[Combatants Will Be Dispatched!](https://yenpress.com/titles/9781975367664-combatants-will-be-dispatched-vol-7-light-novel)|7|Yen Press|🖥️📖|
-Oct 24|[Date A Live](https://yenpress.com/titles/9781975350321-date-a-live-vol-10-light-novel)|10|Yen Press|🖥️📖|
-Oct 24|[Days with My Stepsister](https://yenpress.com/titles/9781975372033-days-with-my-stepsister-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 24|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343200-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-6-light-novel)|6|Yen Press|🖥️📖|
-Oct 24|[Only I Know the Ghoul Saved the World](https://yenpress.com/titles/9781975367534-only-i-know-the-ghoul-saved-the-world-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 24|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377915-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-1-light-novel)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Oct 24|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335373-re-starting-life-in-another-world-vol-23-light-novel)|23|Yen Press|🖥️📖|
-Oct 24|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363895-the-ephemeral-scenes-of-setsuna-s-journey-vol-2-light-novel-the-former-68th-hero-and-the-dragon-maiden)|2|Yen Press|🖥️📖|
-Oct 24|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-holy-grail-of-eris-vol-4-light-novel)|4|Yen Press|🖥️📖|
-Oct 31|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371050-a-misanthrope-teaches-a-class-for-demi-humans-vol-1-mr-hitoma-won-t-you-teach-us-about-humans)|1|Yen Press|🖥️📖|
-Oct 31|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://kodansha.us/product/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-3-light-novel)|3|Kodansha|🖥️📖|
-Oct 31|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-
 ### November
 
 Date|Series|Volume|Publisher|Type|

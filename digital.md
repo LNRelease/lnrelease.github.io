@@ -5,70 +5,6 @@
 
 ## 2023
 
-### October
-
-Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
-Oct 02|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s-daughter-is-my-ex#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 02|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 03|[The Deer King](https://yenpress.com/titles/9781975352332-the-deer-king-vol-1-novel-survivors)|1|Yen Press|🖥️📖|
-Oct 04|[8th Loop for the Win! With Seven Lives' Worth of XP and the Third Princess's Appraisal Skill, My Behemoth and I Are Unstoppable!](https://j-novel.club/series/8th-loop-for-the-win-with-seven-lives-worth-of-xp-and-the-third-princess-s-appraisal-skill-my-behemoth-and-i-are-unstoppable#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 05|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 05|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 05|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 06|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-5)|3.1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 09|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 09|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-8)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 09|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 09|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 10|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-20)|20|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 10|[The Sorcerer's Receptionist](https://j-novel.club/series/the-sorcerer-s-receptionist#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 12|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-13)|13|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 12|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 12|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-13/)|13|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 12|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 13|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 16|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-s-daughter-and-the-ebony-blade#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 16|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 16|[VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream](https://j-novel.club/series/vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 17|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367596-alya-sometimes-hides-her-feelings-in-russian-vol-4)|4|Yen Press|🖥️📖|
-Oct 17|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350123-high-school-prodigies-have-it-easy-even-in-another-world-vol-9-light-novel)|9|Yen Press|🖥️📖|
-Oct 17|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9781975375935-if-the-villainess-and-villain-met-and-fell-in-love-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 17|[My Happy Marriage](https://yenpress.com/titles/9781975367350-my-happy-marriage-vol-5-light-novel)|5|Yen Press|🖥️📖|
-Oct 17|[Sasaki and Peeps](https://yenpress.com/titles/9781975367909-sasaki-and-peeps-vol-5-light-novel-betrayals-conspiracies-and-coups-d-etat-the-gripping-conclusion-to-the-otherworld-succession-battle-meanwhile-you-asked-for-it-it-s-time-for-a-slice-of-life-episode-in-modern-japan-but-we-appear-to-be-on-hard-mode)|5|Yen Press|🖥️📖|
-Oct 17|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-4-light-novel)|4|Kodansha|🖥️📖|
-Oct 17|[The Lawyer in Shizukuishi Sleeps with a Wolf](https://yenpress.com/titles/9781975366308-the-lawyer-in-shizukuishi-sleeps-with-a-wolf)|1|Yen Press|🖥️📖|
-Oct 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 19|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 19|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 20|[Fiancée No More: The Forsaken Lady, the Prince, and Their Make-Believe Love](https://j-novel.club/series/fianc-e-no-more-the-forsaken-lady-the-prince-and-their-make-believe-love#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 20|[Formerly, the Fallen Daughter of the Duke](https://j-novel.club/series/formerly-the-fallen-daughter-of-the-duke#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 20|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 23|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28)|28|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 24|[Combatants Will Be Dispatched!](https://yenpress.com/titles/9781975367664-combatants-will-be-dispatched-vol-7-light-novel)|7|Yen Press|🖥️📖|
-Oct 24|[Date A Live](https://yenpress.com/titles/9781975350321-date-a-live-vol-10-light-novel)|10|Yen Press|🖥️📖|
-Oct 24|[Days with My Stepsister](https://yenpress.com/titles/9781975372033-days-with-my-stepsister-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 24|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343200-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-6-light-novel)|6|Yen Press|🖥️📖|
-Oct 24|[Only I Know the Ghoul Saved the World](https://yenpress.com/titles/9781975367534-only-i-know-the-ghoul-saved-the-world-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Oct 24|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335373-re-starting-life-in-another-world-vol-23-light-novel)|23|Yen Press|🖥️📖|
-Oct 24|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363895-the-ephemeral-scenes-of-setsuna-s-journey-vol-2-light-novel-the-former-68th-hero-and-the-dragon-maiden)|2|Yen Press|🖥️📖|
-Oct 24|[The Holy Grail of Eris](https://yenpress.com/titles/9781975373450-the-holy-grail-of-eris-vol-4-light-novel)|4|Yen Press|🖥️📖|
-Oct 25|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 25|[Only the Villainous Lord Wields the Power to Level Up](https://j-novel.club/series/only-the-villainous-lord-wields-the-power-to-level-up#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 25|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 26|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 27|[Seventh](https://j-novel.club/series/seventh#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 27|[Stuck in a Time Loop: When All Else Fails, Be a Villainess](https://j-novel.club/series/stuck-in-a-time-loop-when-all-else-fails-be-a-villainess#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 27|[The Game Master Has Logged In to Another World](https://j-novel.club/series/the-game-master-has-logged-into-a-different-world#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 30|[Another World Survival](https://hanashi.media/another-world-survival/#:~:text=Volume%2006)|6|Hanashi Media|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 30|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-21)|21|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 31|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371050-a-misanthrope-teaches-a-class-for-demi-humans-vol-1-mr-hitoma-won-t-you-teach-us-about-humans)|1|Yen Press|🖥️📖|
-Oct 31|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://kodansha.us/product/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-3-light-novel)|3|Kodansha|🖥️📖|
-Oct 31|[I Guess This Dragon Who Lost Her Egg to Disaster Is My Mom Now](https://crossinfworld.com/I-Guess-This-Dragon-Who-Lost-Her-Egg-to-Disaster-Is-My-Mom-Now-Volume-1.html)|1|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 31|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-1.html)|1|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Oct 31|[Third Loop: The Nameless Princess and the Cruel Emperor](https://crossinfworld.com/Third-Loop-The-Nameless-Princess-and-the-Cruel-Emperor-Volume-1.html)|1|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-
 ### November
 
 Date|Series|Volume|Publisher|Type|
@@ -239,6 +175,7 @@ Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/97819753
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Jan 23|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
 Jan 24|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Jan 24|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 24|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 25|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 26|[D-Genesis](https://j-novel.club/series/d-genesis#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -283,6 +220,7 @@ Feb 20|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles
 Feb 20|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
 Feb 20|[You Are My Regret](https://yenpress.com/titles/9781975378806-you-are-my-regret-vol-1)|1|Yen Press|🖥️📖|
 Feb 22|[I'm Not the Hero!](https://j-novel.club/series/i-m-not-the-hero#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Feb 22|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 27|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Feb 29|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-4.html)|4|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 29|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-4.html)|4|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
