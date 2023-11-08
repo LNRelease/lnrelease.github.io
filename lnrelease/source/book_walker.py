@@ -42,6 +42,7 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
     soup = BeautifulSoup(page.content, 'lxml')
 
     jsn = json.loads(soup.find('script', type='application/ld+json').text)
+    title = jsn['name']
     series_title = soup.select_one('div.product-detail-inner th:-soup-contains("Series Title") + td a')
     if series_title:
         series_title = series_title.text.removesuffix(' Light Novel (Light Novels)')
@@ -53,7 +54,6 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
     if not publisher:
         return None
 
-    title = jsn['name']
     index = 0
     for index, vol in enumerate(soup.select('h3:-soup-contains("Read all volumes") + div a'), start=1):
         if link == vol.get('href'):
