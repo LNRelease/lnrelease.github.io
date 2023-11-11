@@ -108,11 +108,9 @@ Dec 12|[Hollow Regalia](https://yenpress.com/titles/9781975372620-hollow-regalia
 Dec 12|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9781975333997-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Dec 12|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334178-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Dec 12|[Ishura](https://yenpress.com/titles/9781975363079-ishura-vol-5)|5|Yen Press|🖥️📖|
-Dec 12|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975373917-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Dec 12|[Magical Explorer](https://yenpress.com/titles/9781975367558-magical-explorer-vol-6-light-novel-reborn-as-a-side-character-in-a-fantasy-dating-sim)|6|Yen Press|🖥️📖|
 Dec 12|[No Game No Life](https://yenpress.com/titles/9781975370350-no-game-no-life-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Dec 12|[Online!](https://yenpress.com/titles/9781975378622-online-vol-1-the-devil-s-unbeatable-game)|1|Yen Press|🖥️📖|
-Dec 12|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
 Dec 12|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975364984-spy-classroom-short-story-collection-vol-2-light-novel-the-spy-teacher-who-loved-me)|2|Yen Press|🖥️📖|
 Dec 12|[Suzume](https://yenpress.com/titles/9781975373061-suzume)|1|Yen Press|🖥️📖|
 Dec 12|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375539-that-time-i-got-reincarnated-as-a-slime-vol-17-light-novel)|17|Yen Press|🖥️📖|
@@ -129,6 +127,7 @@ Dec 18|[Fake Saint of the Year: You Wanted the Perfect Saint? Too Bad!](https://
 Dec 18|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 18|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s-daughter-is-my-ex#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Dec 19|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975373917-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-vol-4-light-novel)|4|Kodansha|🖥️📖|
 Dec 19|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -200,6 +199,7 @@ Jan 23|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975376581-ku
 Jan 23|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
 Jan 23|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368326-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-3-light-novel)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975369569-reign-of-the-seven-spellblades-vol-10-light-novel)|10|Yen Press|🖥️📖|
+Jan 23|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
 Jan 23|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975379056-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-14-light-novel)|14|Yen Press|🖥️📖|
 Jan 23|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975372583-the-angel-next-door-spoils-me-rotten-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Jan 23|[The Deer King](https://yenpress.com/titles/9781975352356-the-deer-king-vol-2-novel-returners)|2|Yen Press|🖥️📖|
