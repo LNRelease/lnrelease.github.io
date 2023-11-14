@@ -259,6 +259,7 @@ Feb 20|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles
 Feb 20|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
 Feb 20|[You Are My Regret](https://yenpress.com/titles/9781975378806-you-are-my-regret-vol-1)|1|Yen Press|🖥️📖|
 Feb 22|[I'm Not the Hero!](https://j-novel.club/series/i-m-not-the-hero#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Feb 22|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 22|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 27|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/734067/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-4-light-novel-by-miraijina/9781647293123)|4|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 27|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
@@ -289,6 +290,7 @@ Mar 19|[Classroom for Heroes](https://yenpress.com/titles/9781975378684-classroo
 Mar 19|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350147-high-school-prodigies-have-it-easy-even-in-another-world-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Mar 19|[Ishura](https://yenpress.com/titles/9781975369446-ishura-vol-6)|6|Yen Press|🖥️📖|
 Mar 19|[King's Proposal](https://yenpress.com/titles/9781975380519-king-s-proposal-vol-4-light-novel)|4|Yen Press|🖥️📖|
+Mar 19|[NieR Replicant ver.1.22474487139... Project Gestalt Recollections File 2](https://www.rightstufanime.com/NieR-Replicant-ver122474487139-Project-Gestalt-Recollections-File-2-Novel-Hardcover)|1|Square Enix Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 19|[Online!](https://yenpress.com/titles/9781975388959-online-vol-2-the-haunted-school-and-the-knight-s-riddle)|2|Yen Press|🖥️📖|
 Mar 19|[Orc Eroica](https://yenpress.com/titles/9781975391485-orc-eroica-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
