@@ -159,7 +159,7 @@ Jan 22|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/se
 Jan 23|[Astrea Record, Vol. 1 Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379889-astrea-record-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes)|1|Yen Press|🖥️📖|
 Jan 23|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1)|1|Yen Press|🖥️📖|
 Jan 23|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975367640-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-10-light-novel)|10|Yen Press|🖥️📖|
-Jan 23|[Goblin Slayer Side Story II: Dai Katana](https://yenpress.com/titles/9781975376994-goblin-slayer-side-story-ii-dai-katana-vol-3-light-novel)|3|Yen Press|🖥️📖|
+Jan 23|[Goblin Slayer Side Story II: Dai Katana](https://yenpress.com/titles/9781975376994-goblin-slayer-side-story-ii-dai-katana-vol-3-light-novel-the-singing-death)|3|Yen Press|🖥️📖|
 Jan 23|[Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin](https://yenpress.com/titles/9781975371159-hazure-skill-the-guild-member-with-a-worthless-skill-is-actually-a-legendary-assassin-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Jan 23|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369484-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Jan 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975340575-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-14)|14|Yen Press|🖥️📖|
@@ -202,20 +202,21 @@ Feb 14|[I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtin
 Feb 15|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 19|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 19|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel-a-discussion-of-curses-and-blessings)|3|Yen Press|🖥️📖|
+Feb 19|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel-a-tale-of-curses-and-blessings)|3|Yen Press|🖥️📖|
 Feb 20|[Date A Live](https://yenpress.com/titles/9781975350345-date-a-live-vol-11-light-novel)|11|Yen Press|🖥️📖|
 Feb 20|[Days with My Stepsister](https://yenpress.com/titles/9781975372057-days-with-my-stepsister-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Feb 20|[Horror Collector](https://yenpress.com/titles/9781975378240-horror-collector-vol-2-the-cursed-game-of-tag)|2|Yen Press|🖥️📖|
 Feb 20|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9781975379070-if-the-villainess-and-villain-met-and-fell-in-love-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Feb 20|[Liar, Liar](https://yenpress.com/titles/9781975370633-liar-liar-vol-3)|3|Yen Press|🖥️📖|
 Feb 20|[Magical Girl Raising Project](https://yenpress.com/titles/9781975378899-magical-girl-raising-project-vol-17-light-novel-episodes-s)|17|Yen Press|🖥️📖|
-Feb 20|[Miss Savage Fang](https://yenpress.com/titles/9781975371098-miss-savage-fang-vol-1)|1|Yen Press|🖥️📖|
+Feb 20|[Miss Savage Fang](https://yenpress.com/titles/9781975371098-miss-savage-fang-vol-1-the-strongest-mercenary-in-history-is-reincarnated-as-an-unstoppable-noblewoman)|1|Yen Press|🖥️📖|
 Feb 20|[My Happy Marriage](https://yenpress.com/titles/9781975375294-my-happy-marriage-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Feb 20|[Phantom Thief Red](https://yenpress.com/titles/9781975378127-phantom-thief-red-vol-2-the-junior-high-detective)|2|Yen Press|🖥️📖|
-Feb 20|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351038-sugar-apple-fairy-tale-vol-5-light-novel)|5|Yen Press|🖥️📖|
+Feb 20|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351038-sugar-apple-fairy-tale-vol-5-light-novel-the-silver-sugar-master-and-the-purple-promise)|5|Yen Press|🖥️📖|
 Feb 20|[The Greatest Demon Lord Is Reborn as a Typical Nobody](https://yenpress.com/titles/9781975370138-the-greatest-demon-lord-is-reborn-as-a-typical-nobody-vol-9-light-novel-dream-of-the-evil-god)|9|Yen Press|🖥️📖|
 Feb 20|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9781975374990-the-kept-man-of-the-princess-knight-vol-1)|1|Yen Press|🖥️📖|
-Feb 20|[The Other World's Books Depend on the Bean Counter](https://yenpress.com/titles/9781975364342-the-other-world-s-books-depend-on-the-bean-counter-vol-1-light-novel)|1|Yen Press|🖥️📖|
+Feb 20|[The Other World's Books Depend on the Bean Counter](https://yenpress.com/titles/9781975364342-the-other-world-s-books-depend-on-the-bean-counter-vol-1-light-novel-holy-maiden-summoning-improvement-plan)|1|Yen Press|🖥️📖|
 Feb 20|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371173-the-unimplemented-overlords-have-joined-the-party-vol-1)|1|Yen Press|🖥️📖|
 Feb 20|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379643-the-vexations-of-a-shut-in-vampire-princess-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Feb 20|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
@@ -228,6 +229,7 @@ Feb 28|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are A
 Feb 29|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-4.html)|4|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 29|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-4.html)|4|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 29|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-3.html)|3|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Feb 29|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
 ### March
 
@@ -243,16 +245,16 @@ Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-ag
 Mar 19|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367619-alya-sometimes-hides-her-feelings-in-russian-vol-4-5)|4.5|Yen Press|🖥️📖|
 Mar 19|[Amalgam Hound](https://yenpress.com/titles/9781975374143-amalgam-hound-vol-1-investigation-bureau-criminal-division-special-unit)|1|Yen Press|🖥️📖|
 Mar 19|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371074-a-misanthrope-teaches-a-class-for-demi-humans-vol-2)|2|Yen Press|🖥️📖|
-Mar 19|[Canine Detective Chris](https://yenpress.com/titles/9781975390969-canine-detective-chris-vol-2)|2|Yen Press|🖥️📖|
+Mar 19|[Canine Detective Chris](https://yenpress.com/titles/9781975390969-canine-detective-chris-vol-2-the-shiba-inu-detective-investigates-a-haunted-mansion)|2|Yen Press|🖥️📖|
 Mar 19|[Classroom for Heroes](https://yenpress.com/titles/9781975378684-classroom-for-heroes-vol-1)|1|Yen Press|🖥️📖|
 Mar 19|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350147-high-school-prodigies-have-it-easy-even-in-another-world-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Mar 19|[Ishura](https://yenpress.com/titles/9781975369446-ishura-vol-6)|6|Yen Press|🖥️📖|
 Mar 19|[King's Proposal](https://yenpress.com/titles/9781975380519-king-s-proposal-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Mar 19|[Online!](https://yenpress.com/titles/9781975388959-online-vol-2-the-haunted-school-and-the-knight-s-riddle)|2|Yen Press|🖥️📖|
-Mar 19|[Orc Eroica](https://yenpress.com/titles/9781975391485-orc-eroica-vol-4-light-novel)|4|Yen Press|🖥️📖|
+Mar 19|[Orc Eroica](https://yenpress.com/titles/9781975391485-orc-eroica-vol-4-light-novel-conjecture-chronicles)|4|Yen Press|🖥️📖|
 Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335397-re-starting-life-in-another-world-vol-24-light-novel)|24|Yen Press|🖥️📖|
-Mar 19|[Sasaki and Peeps](https://yenpress.com/titles/9781975378400-sasaki-and-peeps-vol-6-light-novel)|6|Yen Press|🖥️📖|
+Mar 19|[Sasaki and Peeps](https://yenpress.com/titles/9781975378400-sasaki-and-peeps-vol-6-light-novel-an-unidentified-flying-object-from-outer-space-arrives-and-earth-is-under-attack-the-extraterrestrial-lifeform-that-came-to-announce-mankind-s-end-appears-to-be-dangerously-sensitive)|6|Yen Press|🖥️📖|
 Mar 19|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975392000-the-contract-between-a-specter-and-a-servant-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Mar 19|[The Detective Is Already Dead](https://yenpress.com/titles/9781975379568-the-detective-is-already-dead-vol-7)|7|Yen Press|🖥️📖|
 Mar 19|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363918-the-ephemeral-scenes-of-setsuna-s-journey-vol-3-light-novel)|3|Yen Press|🖥️📖|
@@ -323,6 +325,7 @@ Date|Series|Volume|Publisher|Type|
 Jul 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jul 09|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Jul 23|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 
 ### September
