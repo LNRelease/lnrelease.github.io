@@ -28,7 +28,6 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Dec 07|[I'm in Love with the Villainess (Audiobook)](https://sevenseasentertainment.com/audio/im-in-love-with-the-villainess-audiobook-vol-2/)|2|Seven Seas Entertainment|🔊|
 Dec 12|[86--EIGHTY-SIX (Audiobook)](https://yenpress.com/titles/9781975369736-86-eighty-six-vol-7-mist)|7|Yen Press|🔊|
-Dec 12|[I've Been Killing Slimes for 300 Years and Maxed Out My Level (Audiobook)](https://yenpress.com/titles/9781975388256-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-1)|1|Yen Press|🔊|
 Dec 12|[Konosuba: God's Blessing on This Wonderful World! (Audiobook)](https://yenpress.com/titles/9781975369699-konosuba-god-s-blessing-on-this-wonderful-world-vol-3-you-re-being-summoned-darkness)|3|Yen Press|🔊|
 Dec 12|[Rascal Does Not Dream of His First Love (Audiobook)](https://yenpress.com/titles/9781975370855-rascal-does-not-dream-of-his-first-love)|7|Yen Press|🔊|
 Dec 12|[The Executioner and Her Way of Life (Audiobook)](https://yenpress.com/titles/9781975388294-the-executioner-and-her-way-of-life-vol-1-thus-she-is-reborn)|1|Yen Press|🔊|
@@ -50,6 +49,7 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Feb 13|[Goblin Slayer (Audiobook)](https://yenpress.com/titles/9781975388225-goblin-slayer-vol-2)|2|Yen Press|🔊|
 Feb 13|[Is It Wrong to Try to Pick Up Girls in a Dungeon? (Audiobook)](https://yenpress.com/titles/9781975388188-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-2)|2|Yen Press|🔊|
+Feb 13|[I've Been Killing Slimes for 300 Years and Maxed Out My Level (Audiobook)](https://yenpress.com/titles/9781975388256-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-1)|1|Yen Press|🔊|
 Feb 13|[So I'm a Spider, So What? (Audiobook)](https://yenpress.com/titles/9781975375881-so-i-m-a-spider-so-what-vol-8)|8|Yen Press|🔊|
 Feb 13|[Sword Art Online (Audiobook)](https://yenpress.com/titles/9781975371302-sword-art-online-12-alicization-rising)|12|Yen Press|🔊|
 

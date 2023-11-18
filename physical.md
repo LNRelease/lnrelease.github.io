@@ -69,7 +69,6 @@ Dec 12|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/978
 Dec 12|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975372644-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Dec 12|[Vampire Hunter D](https://www.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-4_2)|10-12|Dark Horse|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 19|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975373917-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-vol-4-light-novel)|4|Kodansha|🖥️📖|
 Dec 19|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -102,6 +101,7 @@ Jan 23|[Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Lege
 Jan 23|[Hell Mode](https://yenpress.com/titles/9781975368517-hell-mode-vol-3-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369484-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Jan 23|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jan 23|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975373917-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Jan 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975340575-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-14)|14|Yen Press|🖥️📖|
 Jan 23|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975376581-kunon-the-sorcerer-can-see-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Jan 23|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
@@ -262,6 +262,7 @@ Jul 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance
 Jul 08|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-4)|4-6|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 09|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jul 16|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Jul 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/745919/saving-80000-gold-in-another-world-for-my-retirement-5-light-novel-by-funa/9781647293314)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jul 23|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
