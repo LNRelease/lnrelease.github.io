@@ -338,6 +338,7 @@ Jul 16|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!]
 Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Jul 23|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
+Jul 30|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 
 ### September
 
