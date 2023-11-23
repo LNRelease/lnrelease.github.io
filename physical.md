@@ -163,7 +163,7 @@ Mar 12|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/7
 Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
 Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
 Mar 12|[Yes, No, or Maybe?](https://sevenseasentertainment.com/books/yes-no-or-maybe-light-novel-2-center-of-the-world/)|2|Seven Seas Entertainment|🖥️📖|
-Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-agents-of-the-four-seasons-vol-2)|2|Yen Press|🖥️📖|
+Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-agents-of-the-four-seasons-vol-2-dance-of-spring-part-ii)|2|Yen Press|🖥️📖|
 Mar 19|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367619-alya-sometimes-hides-her-feelings-in-russian-vol-4-5)|4.5|Yen Press|🖥️📖|
 Mar 19|[Amalgam Hound](https://yenpress.com/titles/9781975374143-amalgam-hound-vol-1-investigation-bureau-criminal-division-special-unit)|1|Yen Press|🖥️📖|
 Mar 19|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371074-a-misanthrope-teaches-a-class-for-demi-humans-vol-2)|2|Yen Press|🖥️📖|

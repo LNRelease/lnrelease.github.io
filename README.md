@@ -285,6 +285,7 @@ Feb 29|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/ser
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Mar 04|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-23)|23|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Mar 04|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 05|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Mar 05|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Mar 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-23)|2|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -298,8 +299,9 @@ Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.co
 Mar 12|[Yes, No, or Maybe?](https://sevenseasentertainment.com/books/yes-no-or-maybe-light-novel-2-center-of-the-world/)|2|Seven Seas Entertainment|🖥️📖|
 Mar 14|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 15|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-7)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Mar 18|[Full Clearing Another World under a Goddess with Zero Believers](https://j-novel.club/series/full-clearing-another-world-under-a-goddess-with-zero-believers#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 18|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-agents-of-the-four-seasons-vol-2)|2|Yen Press|🖥️📖|
+Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-agents-of-the-four-seasons-vol-2-dance-of-spring-part-ii)|2|Yen Press|🖥️📖|
 Mar 19|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367619-alya-sometimes-hides-her-feelings-in-russian-vol-4-5)|4.5|Yen Press|🖥️📖|
 Mar 19|[Amalgam Hound](https://yenpress.com/titles/9781975374143-amalgam-hound-vol-1-investigation-bureau-criminal-division-special-unit)|1|Yen Press|🖥️📖|
 Mar 19|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371074-a-misanthrope-teaches-a-class-for-demi-humans-vol-2)|2|Yen Press|🖥️📖|
