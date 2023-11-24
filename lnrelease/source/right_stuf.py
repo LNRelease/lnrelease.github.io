@@ -66,7 +66,7 @@ def get_publisher(pub: str) -> str:
 
 def parse(jsn: dict) -> tuple[Series, Info] | None:
     series_title = jsn['custitem_rs_series']
-    link = urljoin('https://www.rightstufanime.com/', jsn['urlcomponent'])
+    link = urljoin('https://legacy.rightstufanime.com/', jsn['urlcomponent'])
 
     publisher = get_publisher(jsn['custitem_rs_publisher'])
     isbn = jsn['itemid']
@@ -104,7 +104,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                   'fieldset': 'details',
                   'limit': '100',
                   'sort': 'custitem_rs_release_date:desc'}
-        link = f'https://www.rightstufanime.com/api/items?{urlencode(params)}'
+        link = f'https://legacy.rightstufanime.com/api/items?{urlencode(params)}'
         while link:
             page = session.get(link)
 
