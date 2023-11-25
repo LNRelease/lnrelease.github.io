@@ -63,7 +63,7 @@ DELAYS = {
     'www.kobo.com': (10, 30),
     'api.kodansha.us': (30, 60),
     'www.penguinrandomhouse.ca': (30, 600),
-    'www.rightstufanime.com': (30, 300),
+    'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
     'www.viz.com': (30, 120),
     'yenpress.com': (1, 2),

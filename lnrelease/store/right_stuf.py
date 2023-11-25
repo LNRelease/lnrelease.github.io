@@ -24,4 +24,4 @@ def normalise(session: session.Session, link: str) -> str | None:
         path = match.group('path')
     else:
         return None
-    return urlunparse(('https', 'www.rightstufanime.com', path, '', '', ''))
+    return urlunparse(('https', 'legacy.rightstufanime.com', path, '', '', ''))

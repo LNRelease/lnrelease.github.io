@@ -31,6 +31,7 @@ PROCESSED = {
     'kodansha.us': _default,
     'www.penguinrandomhouse.com': prh,
     'j-novel.club': _default,
+    'legacy.rightstufanime.com': right_stuf,
     'www.rightstufanime.com': right_stuf,
     'sevenseasentertainment.com': _default,
     'www.viz.com': viz,
