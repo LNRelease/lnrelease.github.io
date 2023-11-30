@@ -231,9 +231,29 @@ May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseas
 May 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-24)|3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-2/)|2|Seven Seas Entertainment|🖥️📖|
 May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+May 21|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388355-a-certain-magical-index-nt-vol-2-light-novel)|2|Yen Press|🖥️📖|
+May 21|[Astrea Record, Vol. 2 Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379902-astrea-record-vol-2-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes)|2|Yen Press|🖥️📖|
+May 21|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975393427-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-11-light-novel)|11|Yen Press|🖥️📖|
+May 21|[Brunhild the Dragonslayer](https://yenpress.com/titles/9781975378929-brunhild-the-dragonslayer)|1|Yen Press|🖥️📖|
+May 21|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975344016-death-march-to-the-parallel-world-rhapsody-vol-21-light-novel)|21|Yen Press|🖥️📖|
+May 21|[Durarara!! Side Story?!](https://yenpress.com/titles/9781975391188-durarara-side-story-light-novel)|1|Yen Press|🖥️📖|
+May 21|[Guillotine Bride](https://yenpress.com/titles/9781975392390-guillotine-bride-vol-1)|1|Yen Press|🖥️📖|
+May 21|[Hell Mode](https://yenpress.com/titles/9781975368524-hell-mode-vol-4-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing)|4|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+May 21|[Horror Collector](https://yenpress.com/titles/9781975378264-horror-collector-vol-3)|3|Yen Press|🖥️📖|
+May 21|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390341-kunon-the-sorcerer-can-see-vol-3-light-novel)|3|Yen Press|🖥️📖|
 May 21|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-2/)|2|Seven Seas Entertainment|🖥️📖|
+May 21|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368333-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-4-light-novel)|4|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 21|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745918/my-unique-skill-makes-me-op-even-at-level-1-vol-5-light-novel-by-miki-nazuna/9781647293345)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+May 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378141-phantom-thief-red-vol-3)|3|Yen Press|🖥️📖|
+May 21|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975376673-reign-of-the-seven-spellblades-vol-11-light-novel)|11|Yen Press|🖥️📖|
 May 21|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/)|14|Seven Seas Entertainment|🖥️📖|
+May 21|[Spy Classroom](https://yenpress.com/titles/9781975367497-spy-classroom-vol-7-light-novel)|7|Yen Press|🖥️📖|
+May 21|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975369644-the-demon-sword-master-of-excalibur-academy-vol-10-light-novel)|10|Yen Press|🖥️📖|
+May 21|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975379841-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-6-light-novel)|6|Yen Press|🖥️📖|
+May 21|[The God of Nishi-Yuigahama Station](https://yenpress.com/titles/9781975392024-the-god-of-nishi-yuigahama-station)|1|Yen Press|🖥️📖|
+May 21|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345204-the-irregular-at-magic-high-school-vol-22-light-novel)|22|Yen Press|🖥️📖|
+May 21|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975388454-the-princess-of-convenient-plot-devices-vol-5-light-novel)|5|Yen Press|🖥️📖|
+May 21|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975369583-wolf-parchment-new-theory-spice-wolf-vol-8-light-novel)|8|Yen Press|🖥️📖|
 May 28|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-18/)|18|Seven Seas Entertainment|🖥️📖|
 May 28|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 
@@ -248,7 +268,7 @@ Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series
 Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13)|13-15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jun 11|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/745908/the-dawn-of-the-witch-6-light-novel-by-kakeru-kobashiri/9781647293482)|6|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Jun 11|[True Love Fades Away When the Contract Ends](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jun 11|[True Love Fades Away When the Contract Ends – One Star in the Night Sky](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jun 18|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Jun 18|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jun 25|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/745909/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-5-light-novel-by-miraijin-a/9781647293499)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|

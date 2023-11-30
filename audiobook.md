@@ -68,3 +68,11 @@ Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Apr 16|[Ishura (Audiobook)](https://yenpress.com/titles/9781975388133-ishura-vol-3)|3|Yen Press|🔊|
 Apr 16|[Overlord (Audiobook)](https://yenpress.com/titles/9781975370206-overlord-vol-12-the-paladin-of-the-sacred-kingdom-part-i)|12|Yen Press|🔊|
+
+### May
+
+Date|Series|Volume|Publisher|Type|
+:---:|:---|:---:|:---|:---:|
+May 14|[Baccano! (Audiobook)](https://yenpress.com/titles/9781975394127-baccano-vol-1-the-rolling-bootlegs)|1|Yen Press|🔊|
+May 14|[Is It Wrong to Try to Pick Up Girls in a Dungeon? (Audiobook)](https://yenpress.com/titles/9781975388195-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-3)|3|Yen Press|🔊|
+May 14|[Reign of the Seven Spellblades (Audiobook)](https://yenpress.com/titles/9781975394165-reign-of-the-seven-spellblades-vol-1)|1|Yen Press|🔊|
