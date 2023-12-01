@@ -282,6 +282,7 @@ Mar 19|[The Magical Revolution of the Reincarnated Princess and the Genius Young
 Mar 22|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 25|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 29|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-6.html)|6|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Mar 29|[A Young Lady Finds Her True Calling Living with the Enemy](https://crossinfworld.com/A-Young-Lady-Finds-Her-True-Calling-Living-with-the-Enemy-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
 ### April
 
@@ -325,7 +326,7 @@ May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainm
 May 21|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388355-a-certain-magical-index-nt-vol-2-light-novel)|2|Yen Press|🖥️📖|
 May 21|[Astrea Record, Vol. 2 Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379902-astrea-record-vol-2-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes)|2|Yen Press|🖥️📖|
 May 21|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975393427-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-11-light-novel)|11|Yen Press|🖥️📖|
-May 21|[Brunhild the Dragonslayer](https://yenpress.com/titles/9781975378929-brunhild-the-dragonslayer)|1|Yen Press|🖥️📖|
+May 21|[Brunhild the Dragonslayer](https://yenpress.com/titles/9781975378929-brunhild-the-dragonslayer-vol-1)|1|Yen Press|🖥️📖|
 May 21|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975344016-death-march-to-the-parallel-world-rhapsody-vol-21-light-novel)|21|Yen Press|🖥️📖|
 May 21|[Durarara!! Side Story?!](https://yenpress.com/titles/9781975391188-durarara-side-story-light-novel)|1|Yen Press|🖥️📖|
 May 21|[Guillotine Bride](https://yenpress.com/titles/9781975392390-guillotine-bride-vol-1)|1|Yen Press|🖥️📖|

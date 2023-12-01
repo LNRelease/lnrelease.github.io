@@ -10,6 +10,7 @@
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Nov 02|[The Saint's Magic Power is Omnipotent (Audiobook)](https://sevenseasentertainment.com/audio/the-saints-magic-power-audiobook-vol-4/)|4|Seven Seas Entertainment|🔊|
+Nov 07|[Reincarnated as the Last of My Kind (Audiobook)](https://crossinfworld.com/Reincarnated-as-the-Last-of-My-Kind-Volume-5.html)|5|Cross Infinite World|🔊|
 Nov 09|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Audiobook)](https://sevenseasentertainment.com/audio/reborn-as-a-space-mercenary-audiobook-vol-4/)|4|Seven Seas Entertainment|🔊|
 Nov 14|[So I'm a Spider, So What? (Audiobook)](https://yenpress.com/titles/9781975375874-so-i-m-a-spider-so-what-vol-7)|7|Yen Press|🔊|
 Nov 14|[Sword Art Online (Audiobook)](https://yenpress.com/titles/9781975371296-sword-art-online-11-alicization-turning)|11|Yen Press|🔊|
