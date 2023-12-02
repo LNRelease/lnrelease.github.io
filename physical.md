@@ -111,7 +111,7 @@ Jan 23|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-senten
 Jan 23|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975379056-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-14-light-novel)|14|Yen Press|🖥️📖|
 Jan 23|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975372583-the-angel-next-door-spoils-me-rotten-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Jan 23|[The Deer King](https://yenpress.com/titles/9781975352356-the-deer-king-vol-2-novel-returners)|2|Yen Press|🖥️📖|
-Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
+Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345181-the-irregular-at-magic-high-school-vol-21-light-novel-upheaval-prologue-arc-i)|21|Yen Press|🖥️📖|
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Jan 23|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
@@ -161,7 +161,7 @@ Mar 11|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-th
 Mar 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://j-novel.club/series/the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap#volume-7)|7|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 12|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734082/am-i-actually-the-strongest-5-light-novel-by-sai-sumimori/9781647292034)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
-Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
+Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 12|[Yes, No, or Maybe?](https://sevenseasentertainment.com/books/yes-no-or-maybe-light-novel-2-center-of-the-world/)|2|Seven Seas Entertainment|🖥️📖|
 Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-agents-of-the-four-seasons-vol-2-dance-of-spring-part-ii)|2|Yen Press|🖥️📖|
 Mar 19|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367619-alya-sometimes-hides-her-feelings-in-russian-vol-4-5)|4.5|Yen Press|🖥️📖|
@@ -189,7 +189,7 @@ Mar 19|[The Magical Revolution of the Reincarnated Princess and the Genius Young
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
-Apr 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Apr 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Apr 02|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-16)|16|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
@@ -246,7 +246,7 @@ May 21|[My Instant Death Ability Is So Overpowered, No One in This Other World S
 May 21|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745918/my-unique-skill-makes-me-op-even-at-level-1-vol-5-light-novel-by-miki-nazuna/9781647293345)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378141-phantom-thief-red-vol-3)|3|Yen Press|🖥️📖|
 May 21|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975376673-reign-of-the-seven-spellblades-vol-11-light-novel)|11|Yen Press|🖥️📖|
-May 21|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/)|14|Seven Seas Entertainment|🖥️📖|
+May 21|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/)|14|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 21|[Spy Classroom](https://yenpress.com/titles/9781975367497-spy-classroom-vol-7-light-novel)|7|Yen Press|🖥️📖|
 May 21|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975369644-the-demon-sword-master-of-excalibur-academy-vol-10-light-novel)|10|Yen Press|🖥️📖|
 May 21|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975379841-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-6-light-novel)|6|Yen Press|🖥️📖|

@@ -103,6 +103,7 @@ Dec 12|[The Magician Who Rose From Failure](https://j-novel.club/series/the-magi
 Dec 13|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 14|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 14|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 14|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 15|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-12)|12|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 15|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 15|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://j-novel.club/series/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me#volume-14)|14|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -143,6 +144,7 @@ Jan 08|[The Springtime Chime of Marielle Clarac](https://j-novel.club/series/the
 Jan 09|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 10|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-29)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 11|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Jan 11|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 12|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-22)|22|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 12|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12)|12|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 12|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -171,7 +173,6 @@ Jan 23|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-senten
 Jan 23|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975379056-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-14-light-novel)|14|Yen Press|🖥️📖|
 Jan 23|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975372583-the-angel-next-door-spoils-me-rotten-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Jan 23|[The Deer King](https://yenpress.com/titles/9781975352356-the-deer-king-vol-2-novel-returners)|2|Yen Press|🖥️📖|
-Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345181-the-irregular-at-magic-high-school-vol-21-light-novel-upheaval-prologue-arc-i)|21|Yen Press|🖥️📖|
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Jan 23|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
@@ -179,6 +180,7 @@ Jan 24|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/i
 Jan 24|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-9)|9|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 24|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 25|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Jan 25|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/)|14|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 26|[D-Genesis](https://j-novel.club/series/d-genesis#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 30|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 Jan 31|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-45)|43|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -191,6 +193,7 @@ Jan 31|[The Abandoned Heiress Gets Rich with Alchemy and Scores an Enemy General
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Feb 01|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-9)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Feb 01|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 02|[Fake It to Break It! I Faked Amnesia to Break Off My Engagement and Now He's All Lovey-Dovey?!](https://j-novel.club/series/fake-it-to-break-it-i-faked-amnesia-to-break-off-my-engagement-and-now-he-s-all-lovey-dovey#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 02|[You Like Me, Not My Daughter?!](https://j-novel.club/series/you-like-me-not-my-daughter#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 05|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -254,8 +257,8 @@ Mar 05|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/bo
 Mar 11|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 11|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
-Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/)|26|Seven Seas Entertainment|🖥️📖|
 Mar 12|[Yes, No, or Maybe?](https://sevenseasentertainment.com/books/yes-no-or-maybe-light-novel-2-center-of-the-world/)|2|Seven Seas Entertainment|🖥️📖|
+Mar 13|[Monster Tamer](https://j-novel.club/series/monster-tamer#volume-16)|16|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 14|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 15|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-7)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 18|[Full Clearing Another World under a Goddess with Zero Believers](https://j-novel.club/series/full-clearing-another-world-under-a-goddess-with-zero-believers#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -279,16 +282,17 @@ Mar 19|[The Detective Is Already Dead](https://yenpress.com/titles/9781975379568
 Mar 19|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363918-the-ephemeral-scenes-of-setsuna-s-journey-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Mar 19|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975380632-the-executioner-and-her-way-of-life-vol-7)|7|Yen Press|🖥️📖|
 Mar 19|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975380496-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-6-novel)|6|Yen Press|🖥️📖|
+Mar 20|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 22|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 25|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 29|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-6.html)|6|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 29|[A Young Lady Finds Her True Calling Living with the Enemy](https://crossinfworld.com/A-Young-Lady-Finds-Her-True-Calling-Living-with-the-Enemy-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Mar 29|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-13)|13|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
 ### April
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
-Apr 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
 Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Apr 09|[I'm in Love with the Villainess: She's so Cheeky for a Commoner](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-light-novel-vol-2/)|2|Seven Seas Entertainment|🖥️📖|
 Apr 09|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
@@ -335,7 +339,6 @@ May 21|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390341-ku
 May 21|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-2/)|2|Seven Seas Entertainment|🖥️📖|
 May 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378141-phantom-thief-red-vol-3)|3|Yen Press|🖥️📖|
 May 21|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975376673-reign-of-the-seven-spellblades-vol-11-light-novel)|11|Yen Press|🖥️📖|
-May 21|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/)|14|Seven Seas Entertainment|🖥️📖|
 May 21|[Spy Classroom](https://yenpress.com/titles/9781975367497-spy-classroom-vol-7-light-novel)|7|Yen Press|🖥️📖|
 May 21|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975369644-the-demon-sword-master-of-excalibur-academy-vol-10-light-novel)|10|Yen Press|🖥️📖|
 May 21|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975379841-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-6-light-novel)|6|Yen Press|🖥️📖|
