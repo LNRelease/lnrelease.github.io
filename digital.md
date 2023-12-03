@@ -138,6 +138,7 @@ Dec 29|[The Drab Princess, the Black Cat, and the Satisfying Break-up](https://c
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Jan 02|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-17/)|17|Seven Seas Entertainment|🖥️📖|
+Jan 04|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 05|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 05|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 08|[The Springtime Chime of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -198,7 +199,6 @@ Feb 02|[Fake It to Break It! I Faked Amnesia to Break Off My Engagement and Now 
 Feb 02|[You Like Me, Not My Daughter?!](https://j-novel.club/series/you-like-me-not-my-daughter#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 05|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of-gluttony-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
-Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Feb 07|[RVing My Way into Exile with My Beloved Cat: This Villainess Is Trippin'](https://j-novel.club/series/rving-my-way-into-exile-with-my-beloved-cat-this-villainess-is-trippin#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 07|[Seventh](https://j-novel.club/series/seventh#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 07|[The Exiled Noble Rises as the Holy King: Befriending Fluffy Beasts and a Holy Maiden with My Ultimate Cheat Skill!](https://j-novel.club/series/the-exiled-noble-rises-as-the-holy-king-befriending-fluffy-beasts-and-a-holy-maiden-with-my-ultimate-cheat-skill#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|

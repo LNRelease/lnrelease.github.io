@@ -123,7 +123,7 @@ Jan 30|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainm
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Feb 06|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of-gluttony-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
-Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+Feb 06|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317)|5|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 13|[The Death Mage](https://legacy.rightstufanime.com/The-Death-Mage-Novel-Volume-4)|4|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353018-associate-professor-akira-takatsuki-s-conjecture-vol-3-light-novel-a-tale-of-curses-and-blessings)|3|Yen Press|🖥️📖|
