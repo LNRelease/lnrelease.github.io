@@ -47,12 +47,15 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
         if a := panel.find('a', recursive=False):
             link = urljoin('https://crossinfworld.com/', a.get('href'))
         title = panel.find('div', class_='panel-heading').strong.text
-        body = panel.find('div', class_='panel-body')
 
         links: defaultdict[str, dict[str, str]] = defaultdict(dict)
-        for a in body.find_all('a'):
-            format = get_format(a.find_previous('p').text)
+        for a in panel.find_all('a'):
             url = a.get('href').strip()
+            u = urlparse(url)
+            if not u.scheme or u.netloc == 'crossinfworld.com':
+                continue
+
+            format = get_format(a.find_previous('p').text)
             norm = store.normalise(session, url, resolve=True)
             if norm is None:
                 warnings.warn(f'{url} normalise failed')
@@ -78,7 +81,6 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
                     alts.append(norm)
                     force = False
 
-            alts.sort()
             info.add(Info(series.key, link, NAME, NAME, title, index, format, '', None, alts))
 
     return series, info

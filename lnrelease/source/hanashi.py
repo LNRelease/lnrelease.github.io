@@ -78,7 +78,6 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
                 alts.append(norm)
                 force = False
 
-        alts.sort()
         isbn = ISBN.fullmatch(isbn).group('isbn')
         info.add(Info(series.key, u.geturl(), NAME, NAME, title, index, 'Digital', isbn, None, alts))
 

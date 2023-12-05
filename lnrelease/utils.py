@@ -194,7 +194,7 @@ class Info:
         yield self.format
         yield self.isbn
         yield self.date
-        for alt in self.alts:
+        for alt in sorted(self.alts):
             yield alt
 
 
