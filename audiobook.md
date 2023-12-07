@@ -40,6 +40,7 @@ Dec 12|[The Executioner and Her Way of Life (Audiobook)](https://yenpress.com/ti
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Jan 16|[Ishura (Audiobook)](https://yenpress.com/titles/9781975388126-ishura-vol-2-the-particle-storm-in-the-realm-of-slaughter)|2|Yen Press|🔊|
 Jan 16|[Overlord (Audiobook)](https://yenpress.com/titles/9781975370190-overlord-vol-11-the-dwarven-crafter)|11|Yen Press|🔊|
 Jan 16|[Spice and Wolf (Audiobook)](https://yenpress.com/titles/9781975371340-spice-and-wolf-vol-8-the-town-of-strife-i)|8|Yen Press|🔊|
 Jan 16|[The Saga of Tanya the Evil (Audiobook)](https://yenpress.com/titles/9781975389819-the-saga-of-tanya-the-evil-vol-9-omnes-una-manet-nox)|9|Yen Press|🔊|

@@ -81,7 +81,7 @@ Dec 04|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series
 Dec 07|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 07|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 08|[Butareba -The Story of a Man Turned into a Pig- First Bite](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Dec 08|[You Were Experienced, I Was Not: Our Dating Story 1st Date](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 08|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-1)|1st|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 11|[Full Clearing Another World under a Goddess with Zero Believers](https://j-novel.club/series/full-clearing-another-world-under-a-goddess-with-zero-believers#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 12|[A Certain Magical Index NT](https://yenpress.com/titles/9781975380656-a-certain-magical-index-nt-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Dec 12|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367701-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-11-light-novel)|11|Yen Press|🖥️📖|
@@ -235,7 +235,7 @@ Feb 20|[You Are My Regret](https://yenpress.com/titles/9781975378806-you-are-my-
 Feb 22|[I'm Not the Hero!](https://j-novel.club/series/i-m-not-the-hero#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 22|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-11)|11|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 22|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Feb 22|[You Were Experienced, I Was Not: Our Dating Story 2nd Date](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Feb 22|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-2)|2nd|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 23|[Butareba -The Story of a Man Turned into a Pig- Second Bite](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 26|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 27|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
@@ -288,6 +288,7 @@ Mar 19|[The Magical Revolution of the Reincarnated Princess and the Genius Young
 Mar 20|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 22|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 25|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Mar 26|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 29|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-6.html)|6|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 29|[A Young Lady Finds Her True Calling Living with the Enemy](https://crossinfworld.com/A-Young-Lady-Finds-Her-True-Calling-Living-with-the-Enemy-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 29|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-13)|13|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -320,7 +321,6 @@ Apr 16|[You Can't See the Snow](https://yenpress.com/titles/9781975379582-you-ca
 Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Apr 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Apr 30|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
-Apr 30|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 
 ### May
 
@@ -362,7 +362,7 @@ Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into t
 Jun 18|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Jun 18|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
 Jun 25|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Jun 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
+Jun 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️📖|
 
 ### July
 
@@ -380,6 +380,7 @@ Jul 30|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in 
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Sep 03|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Sep 03|[The World's Fastest Level Up](https://sevenseasentertainment.com/books/the-worlds-fastest-level-up-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Sep 10|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 
