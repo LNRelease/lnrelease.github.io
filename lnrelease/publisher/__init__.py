@@ -20,12 +20,17 @@ URL = re.compile(r'-volume-(?P<volume>\d+)')
 
 # number converter for volume parsing
 NUM_DICT = {
-    re.compile(r'\bzero\b', flags=re.IGNORECASE): '0',
-    re.compile(r'\b(first|one|i)\b', flags=re.IGNORECASE): '1',
-    re.compile(r'\b(second|two|ii)\b', flags=re.IGNORECASE): '2',
-    re.compile(r'\b(third|three|iii)\b', flags=re.IGNORECASE): '3',
-    re.compile(r'\b(fourth|four|iv)\b', flags=re.IGNORECASE): '4',
-    re.compile(r'\b(fifth|five|v)\b', flags=re.IGNORECASE): '5',
+    re.compile(r'\b(0th|zeroth|zero)\b', flags=re.IGNORECASE): '0',
+    re.compile(r'\b(1st|first|one|i)\b', flags=re.IGNORECASE): '1',
+    re.compile(r'\b(2nd|second|two|ii)\b', flags=re.IGNORECASE): '2',
+    re.compile(r'\b(3rd|third|three|iii)\b', flags=re.IGNORECASE): '3',
+    re.compile(r'\b(4th|fourth|four|iv)\b', flags=re.IGNORECASE): '4',
+    re.compile(r'\b(5th|fifth|five|v)\b', flags=re.IGNORECASE): '5',
+    re.compile(r'\b(6th|sixth|six|vi)\b', flags=re.IGNORECASE): '6',
+    re.compile(r'\b(7th|seventh|seven|vii)\b', flags=re.IGNORECASE): '7',
+    re.compile(r'\b(8th|eigth|eight|viii)\b', flags=re.IGNORECASE): '8',
+    re.compile(r'\b(9th|ninth|nine|ix)\b', flags=re.IGNORECASE): '9',
+    re.compile(r'\b(10th|tenth|ten|x)\b', flags=re.IGNORECASE): '10',
 }
 
 
@@ -49,20 +54,19 @@ def diff_list(titles: list[str]) -> list[str]:
 
 def dates(info: dict[str, list[Info]], links: dict[str, list[Info]]) -> bool:
     changed = False
-    for lst in info.values():
-        for inf in lst:
-            if inf.date != EPOCH:
-                continue
+    for inf in chain.from_iterable(info.values()):
+        if inf.date != EPOCH:
+            continue
 
-            dates: Counter[str] = Counter()
-            for link in inf.alts:
-                for alt in links.get(link, ()):
-                    dates[alt.date] += 1
-            if date := dates.most_common(1):
-                inf.date = date[0][0]
-                changed = True
-            else:
-                warnings.warn(f'No dates found for {inf.title} ({inf.format})', RuntimeWarning)
+        dates: Counter[str] = Counter()
+        for link in inf.alts:
+            for alt in links.get(link, ()):
+                dates[alt.date] += 1
+        if date := dates.most_common(1):
+            inf.date = date[0][0]
+            changed = True
+        else:
+            warnings.warn(f'No dates found for {inf.title} ({inf.format})', RuntimeWarning)
     return changed
 
 
@@ -265,14 +269,16 @@ def secondary(series: Series, info: dict[str, list[Info]],
     for value in info.values():
         diff = diff_list([i.title for i in value])
         for dif, inf in zip(diff, value):
-            if inf.index == 0:
-                indices: Counter[int] = Counter()
-                for source, pos in poss.items():
-                    if ((close := get_close_matches(dif, pos, n=1, cutoff=0.01))
-                            and (p := pos[close[0]]) and p.index != 0):
-                        indices[p.index] += 1 + (inf.format == p.format) + (inf.publisher == p.publisher)
-                if index := indices.most_common(1):
-                    inf.index = index[0][0]
+            if inf.index:
+                continue
+            indices: Counter[int] = Counter()
+            for pos in poss.values():
+                if ((close := get_close_matches(dif, pos, n=1, cutoff=0.01))
+                        and (p := pos[close[0]]) and p.index):
+                    indices[p.index] += 1 + (inf.format == p.format) + (inf.publisher == p.publisher)
+            indices.pop(0, None)
+            if index := indices.most_common(1):
+                inf.index = index[0][0]
 
         # trust index if old series and multiple with same date
         if (len({inf.date for inf in value}) != len(value)
@@ -288,41 +294,41 @@ def secondary(series: Series, info: dict[str, list[Info]],
 
     for i, (dif, inf) in enumerate(zip(diff, main_info)):
         volumes: Counter[str] = Counter()
-        for source, pos in poss.items():
+        if match := SOURCE.fullmatch(sub_nums(dif)):
+            vol = match.group('volume')
+            volumes[vol] += 5
+        for pos in poss.values():
             if ((close := get_close_matches(dif, pos, n=1, cutoff=0.01))
-                    and (match := SOURCE.fullmatch(close[0]))):
+                    and (match := SOURCE.fullmatch(sub_nums(close[0])))):
                 p = pos[close[0]]
                 vol = match.group('volume')
                 volumes[vol] += 1 + (inf.format == p.format) + (inf.publisher == p.publisher)
+        volumes.pop('', None)
         if volume := volumes.most_common(1):
             name = series.title
             vol = volume[0][0]
             main_books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
             changed = True
-    dupes(main_books)
 
+    dupes(main_books)
     return changed
 
 
 def dupes(books: list[Book]) -> bool:
     # assume consecutive dupes are multipart
     changed = False
-    start = 0
-    end = 1
-    while end < len(books):
-        end += 1
-        dupe = False
-        while end < len(books) and books[start] == books[end]:
-            end += 1
-            if books[start] is not None:
-                dupe = True
-                changed = True
-        if dupe:
-            part = 0
-            for i in range(start, end):
-                part += 1
-                books[i].volume += f'.{part}'
-        start = end
+    itr = iter(books)
+    book = next(itr, None)
+    while book:
+        dupe = [book]
+        while ((book := next(itr, None)) and dupe[0]
+               and book.volume == dupe[0].volume
+               and book.name == dupe[0].name):
+            dupe.append(book)
+        if len(dupe) > 1:
+            changed = True
+            for i, b in enumerate(dupe, start=1):
+                b.volume += f'.{i}'
     return changed
 
 
@@ -331,8 +337,7 @@ def check(series: Series, info: dict[str, list[Info]], books: dict[str, list[Boo
     for key, lst in books.items():
         if _guess(series, info[key], lst):
             warnings.warn(f'None volume found: {series.title}', RuntimeWarning)
-        if len(set(lst)) != len(lst):
-            dupes(lst)
+        if dupes(lst):
             warnings.warn(f'Duplicate volume found: {series.title}', RuntimeWarning)
     return books
 
