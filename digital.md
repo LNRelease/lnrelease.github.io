@@ -5,70 +5,6 @@
 
 ## 2023
 
-### November
-
-Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
-Nov 02|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-16/)|16|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 02|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 02|[The Troubles of Miss Nicola the Exorcist](https://j-novel.club/series/the-troubles-of-miss-nicola-the-exorcist#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 06|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 07|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Nov 09|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 09|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 09|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 09|[Marriage, Divorce, and Beyond: The White Mage and Black Knight's Romance Reignited](https://j-novel.club/series/marriage-divorce-and-beyond-the-white-mage-and-black-knight-s-romance-reignited#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 09|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 10|[A Royal Rebound: Forget My Ex-Fiancé, I'm Being Pampered by the Prince!](https://j-novel.club/series/a-royal-rebound#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 10|[The Greatest Magician's Ultimate Quest: I Woke from a 300 Year Slumber to a World of Disappointment](https://j-novel.club/series/the-greatest-magician-s-ultimate-quest-i-woke-from-a-300-year-slumber-to-a-world-of-disappointment#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 10|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-6)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 11|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 13|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-8)|8|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 14|[I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://j-novel.club/series/i-m-giving-the-disgraced-noble-lady-i-rescued-a-crash-course-in-naughtiness#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 15|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-28)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 15|[Housekeeping Mage from Another World: Making Your Adventures Feel Like Home!](https://j-novel.club/series/housekeeping-mage-from-another-world-making-your-adventures-feel-like-home#volume-7)|7|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 16|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 16|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 16|[Jeanette the Genius: Defying My Evil Stepmother by Starting a Business with My Ride-or-Die Fiancé!](https://j-novel.club/series/jeanette-the-genius-defying-my-evil-stepmother-by-starting-a-business-with-my-ride-or-die-fianc#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 20|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-vol-12-light-novel-holy-blue-bullet)|12|Yen Press|🖥️📖|
-Nov 21|[Am I Actually the Strongest?](https://kodansha.us/product/am-i-actually-the-strongest-novel-4)|4|Kodansha|🖥️📖|
-Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
-Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
-Nov 21|[High School DxD](https://yenpress.com/titles/9781975350383-high-school-dxd-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Horror Collector](https://yenpress.com/titles/9781975378226-horror-collector-vol-1-the-faceless-kid)|1|Yen Press|🖥️📖|
-Nov 21|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975350260-our-last-crusade-or-the-rise-of-a-new-world-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378103-phantom-thief-red-vol-1-a-brand-new-heist-for-a-brand-new-red)|1|Yen Press|🖥️📖|
-Nov 21|[Rascal Does Not Dream of His Student](https://yenpress.com/titles/9781975375270-rascal-does-not-dream-of-his-student-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel-miraculous-final-cut)|6|Yen Press|🖥️📖|
-Nov 21|[Sword Art Online Alternative Gun Gale Online](https://yenpress.com/titles/9781975375232-sword-art-online-alternative-gun-gale-online-vol-13-light-novel-5th-squad-jam-finish)|13|Yen Press|🖥️📖|
-Nov 21|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975352202-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-11-light-novel)|11|Yen Press|🖥️📖|
-Nov 21|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368654-wandering-witch-the-journey-of-elaina-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[You Can Have My Back](https://yenpress.com/titles/9781975363956-you-can-have-my-back-vol-2-light-novel)|2|Yen Press|🖥️📖|
-Nov 22|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 22|[I'm Not the Hero!](https://j-novel.club/series/i-m-not-the-hero#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 22|[I Want to Escape from Princess Lessons](https://j-novel.club/series/i-want-to-escape-from-princess-lessons#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 22|[Reincarnated Mage with Inferior Eyes: Breezing through the Future as an Oppressed Ex-Hero](https://j-novel.club/series/reincarnated-mage-with-inferior-eyes#volume-5)|4.5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 23|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 23|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-1/)|1|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 23|[The Ideal Sponger Life](https://j-novel.club/series/the-ideal-sponger-life#volume-14)|14|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 24|[Fake It to Break It! I Faked Amnesia to Break Off My Engagement and Now He's All Lovey-Dovey?!](https://j-novel.club/series/fake-it-to-break-it-i-faked-amnesia-to-break-off-my-engagement-and-now-he-s-all-lovey-dovey#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 24|[The Retired Demon of the Maxed-Out Village](https://j-novel.club/series/the-retired-demon-of-the-maxed-out-village#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 24|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 28|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373177-agents-of-the-four-seasons-vol-1-dance-of-spring-part-i)|1|Yen Press|🖥️📖|
-Nov 28|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
-Nov 28|[Liar, Liar](https://yenpress.com/titles/9781975370619-liar-liar-vol-2-the-lying-transfer-student-is-targeted-by-the-little-devil)|2|Yen Press|🖥️📖|
-Nov 28|[Moon Blossom Asura: The Ruthless Reincarnated Mercenary Forms the Ultimate Army](https://j-novel.club/series/moon-blossom-asura#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 28|[Saving 80,000 Gold in Another World for my Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-3-light-novel)|3|Kodansha|🖥️📖|
-Nov 28|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975352264-wolf-parchment-new-theory-spice-wolf-vol-7-light-novel)|7|Yen Press|🖥️📖|
-Nov 29|[How a Realist Hero Rebuilt the Kingdom](https://j-novel.club/series/how-a-realist-hero-rebuilt-the-kingdom#volume-18)|18|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 29|[The Fruit of Evolution](https://hanashi.media/the-fruit-of-evolution/#:~:text=Volume%2007)|7|Hanashi Media|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 30|[A Young Lady Finds Her True Calling Living with the Enemy](https://crossinfworld.com/A-Young-Lady-Finds-Her-True-Calling-Living-with-the-Enemy-Volume-1.html)|1|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 30|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 30|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 30|[So You Want to Live the Slow Life? A Guide to Life in the Beastly Wilds](https://crossinfworld.com/So-You-Want-to-Live-the-Slow-Life-A-Guide-to-Life-in-the-Beastly-Wilds-Volume-3.html)|3|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Nov 30|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-
 ### December
 
 Date|Series|Volume|Publisher|Type|
@@ -80,8 +16,8 @@ Dec 04|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophol
 Dec 04|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 07|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 07|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-9/)|9|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Dec 07|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-1)|1st|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 08|[Butareba -The Story of a Man Turned into a Pig- First Bite](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
-Dec 08|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-1)|1st|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 11|[Full Clearing Another World under a Goddess with Zero Believers](https://j-novel.club/series/full-clearing-another-world-under-a-goddess-with-zero-believers#volume-10)|10|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Dec 12|[A Certain Magical Index NT](https://yenpress.com/titles/9781975380656-a-certain-magical-index-nt-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Dec 12|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367701-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-11-light-novel)|11|Yen Press|🖥️📖|
@@ -173,7 +109,6 @@ Jan 23|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Ti
 Jan 23|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975373917-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Jan 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975340575-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-14)|14|Yen Press|🖥️📖|
 Jan 23|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975376581-kunon-the-sorcerer-can-see-vol-2-light-novel)|2|Yen Press|🖥️📖|
-Jan 23|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
 Jan 23|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975369569-reign-of-the-seven-spellblades-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Jan 23|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
 Jan 23|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975379056-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-14-light-novel)|14|Yen Press|🖥️📖|
@@ -188,6 +123,7 @@ Jan 24|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-n
 Jan 25|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 25|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/)|14|Seven Seas Entertainment|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 26|[D-Genesis](https://j-novel.club/series/d-genesis#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Jan 30|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
 Jan 31|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-45)|43|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 31|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 31|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-12)|12|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -268,7 +204,7 @@ Mar 18|[Full Clearing Another World under a Goddess with Zero Believers](https:/
 Mar 18|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-agents-of-the-four-seasons-vol-2-dance-of-spring-part-ii)|2|Yen Press|🖥️📖|
 Mar 19|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367619-alya-sometimes-hides-her-feelings-in-russian-vol-4-5)|4.5|Yen Press|🖥️📖|
-Mar 19|[Amalgam Hound](https://yenpress.com/titles/9781975374143-amalgam-hound-vol-1-investigation-bureau-criminal-division-special-unit)|1|Yen Press|🖥️📖|
+Mar 19|[Amalgam Hound](https://yenpress.com/titles/9781975374143-amalgam-hound-vol-1-criminal-investigation-bureau-special-investigation-unit)|1|Yen Press|🖥️📖|
 Mar 19|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371074-a-misanthrope-teaches-a-class-for-demi-humans-vol-2)|2|Yen Press|🖥️📖|
 Mar 19|[Canine Detective Chris](https://yenpress.com/titles/9781975390969-canine-detective-chris-vol-2-the-shiba-inu-detective-investigates-a-haunted-mansion)|2|Yen Press|🖥️📖|
 Mar 19|[Classroom for Heroes](https://yenpress.com/titles/9781975378684-classroom-for-heroes-vol-1)|1|Yen Press|🖥️📖|

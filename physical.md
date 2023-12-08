@@ -5,40 +5,6 @@
 
 ## 2023
 
-### November
-
-Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
-Nov 07|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
-Nov 07|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 13|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-15)|15|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 13|[Ascendance of a Bookworm: Part 4](https://j-novel.club/series/ascendance-of-a-bookworm#volume-21)|9|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 13|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-8)|8|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 14|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-11/)|11|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 14|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-13/)|13|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 21|[86--EIGHTY-SIX](https://yenpress.com/titles/9781975373474-86-eighty-six-vol-12-light-novel-holy-blue-bullet)|12|Yen Press|🖥️📖|
-Nov 21|[Am I Actually the Strongest?](https://kodansha.us/product/am-i-actually-the-strongest-novel-4)|4|Kodansha|🖥️📖|
-Nov 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347956-chitose-is-in-the-ramune-bottle-vol-5)|5|Yen Press|🖥️📖|
-Nov 21|[Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway](https://yenpress.com/titles/9781975344276-higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-vol-5-light-novel)|5|Yen Press|🖥️📖|
-Nov 21|[High School DxD](https://yenpress.com/titles/9781975350383-high-school-dxd-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Horror Collector](https://yenpress.com/titles/9781975378226-horror-collector-vol-1-the-faceless-kid)|1|Yen Press|🖥️📖|
-Nov 21|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975350260-our-last-crusade-or-the-rise-of-a-new-world-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378103-phantom-thief-red-vol-1-a-brand-new-heist-for-a-brand-new-red)|1|Yen Press|🖥️📖|
-Nov 21|[Rascal Does Not Dream of His Student](https://yenpress.com/titles/9781975375270-rascal-does-not-dream-of-his-student-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[Sabikui Bisco](https://yenpress.com/titles/9781975336912-sabikui-bisco-vol-6-light-novel-miraculous-final-cut)|6|Yen Press|🖥️📖|
-Nov 21|[Sword Art Online Alternative Gun Gale Online](https://yenpress.com/titles/9781975375232-sword-art-online-alternative-gun-gale-online-vol-13-light-novel-5th-squad-jam-finish)|13|Yen Press|🖥️📖|
-Nov 21|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975352202-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-11-light-novel)|11|Yen Press|🖥️📖|
-Nov 21|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374044-the-misfit-of-demon-king-academy-vol-2-light-novel)|2|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 21|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368654-wandering-witch-the-journey-of-elaina-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Nov 21|[You Can Have My Back](https://yenpress.com/titles/9781975363956-you-can-have-my-back-vol-2-light-novel)|2|Yen Press|🖥️📖|
-Nov 28|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373177-agents-of-the-four-seasons-vol-1-dance-of-spring-part-i)|1|Yen Press|🖥️📖|
-Nov 28|[Goblin Slayer](https://yenpress.com/titles/9781975376970-goblin-slayer-vol-16-light-novel)|16|Yen Press|🖥️📖|
-Nov 28|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-17/)|17|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 28|[Liar, Liar](https://yenpress.com/titles/9781975370619-liar-liar-vol-2-the-lying-transfer-student-is-targeted-by-the-little-devil)|2|Yen Press|🖥️📖|
-Nov 28|[Saving 80,000 Gold in Another World for my Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-3-light-novel)|3|Kodansha|🖥️📖|
-Nov 28|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Nov 28|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975352264-wolf-parchment-new-theory-spice-wolf-vol-7-light-novel)|7|Yen Press|🖥️📖|
-
 ### December
 
 Date|Series|Volume|Publisher|Type|
@@ -98,13 +64,11 @@ Jan 23|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1)|1|Yen Pres
 Jan 23|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975367640-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Jan 23|[Goblin Slayer Side Story II: Dai Katana](https://yenpress.com/titles/9781975376994-goblin-slayer-side-story-ii-dai-katana-vol-3-light-novel-the-singing-death)|3|Yen Press|🖥️📖|
 Jan 23|[Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin](https://yenpress.com/titles/9781975371159-hazure-skill-the-guild-member-with-a-worthless-skill-is-actually-a-legendary-assassin-vol-7-light-novel)|7|Yen Press|🖥️📖|
-Jan 23|[Hell Mode](https://yenpress.com/titles/9781975368517-hell-mode-vol-3-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369484-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Jan 23|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975373917-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Jan 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975340575-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-14)|14|Yen Press|🖥️📖|
 Jan 23|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975376581-kunon-the-sorcerer-can-see-vol-2-light-novel)|2|Yen Press|🖥️📖|
-Jan 23|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
 Jan 23|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368326-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-3-light-novel)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975369569-reign-of-the-seven-spellblades-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Jan 23|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
@@ -115,7 +79,9 @@ Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevens
 Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345181-the-irregular-at-magic-high-school-vol-21-light-novel-upheaval-prologue-arc-i)|21|Yen Press|🖥️📖|
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Jan 23|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
+Jan 30|[Hell Mode](https://yenpress.com/titles/9781975368517-hell-mode-vol-3-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 30|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jan 30|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
 Jan 30|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
 ### February
@@ -165,7 +131,7 @@ Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.co
 Mar 12|[Yes, No, or Maybe?](https://sevenseasentertainment.com/books/yes-no-or-maybe-light-novel-2-center-of-the-world/)|2|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-agents-of-the-four-seasons-vol-2-dance-of-spring-part-ii)|2|Yen Press|🖥️📖|
 Mar 19|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367619-alya-sometimes-hides-her-feelings-in-russian-vol-4-5)|4.5|Yen Press|🖥️📖|
-Mar 19|[Amalgam Hound](https://yenpress.com/titles/9781975374143-amalgam-hound-vol-1-investigation-bureau-criminal-division-special-unit)|1|Yen Press|🖥️📖|
+Mar 19|[Amalgam Hound](https://yenpress.com/titles/9781975374143-amalgam-hound-vol-1-criminal-investigation-bureau-special-investigation-unit)|1|Yen Press|🖥️📖|
 Mar 19|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371074-a-misanthrope-teaches-a-class-for-demi-humans-vol-2)|2|Yen Press|🖥️📖|
 Mar 19|[Canine Detective Chris](https://yenpress.com/titles/9781975390969-canine-detective-chris-vol-2-the-shiba-inu-detective-investigates-a-haunted-mansion)|2|Yen Press|🖥️📖|
 Mar 19|[Classroom for Heroes](https://yenpress.com/titles/9781975378684-classroom-for-heroes-vol-1)|1|Yen Press|🖥️📖|
