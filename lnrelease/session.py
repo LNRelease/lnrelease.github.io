@@ -54,7 +54,7 @@ DELAYS = {
     'www.barnesandnoble.com': (10, 30),
     'www.bing.com': (30, 40),
     'cc.bingj.com': (30, 40),
-    'global.bookwalker.jp': (1, 2),
+    'global.bookwalker.jp': (1, 3),
     'crossinfworld.com': (10, 30),
     'play.google.com': (10, 30),
     'webcache.googleusercontent.com': (30, 40),
@@ -65,8 +65,8 @@ DELAYS = {
     'www.penguinrandomhouse.ca': (30, 600),
     'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
-    'www.viz.com': (30, 120),
-    'yenpress.com': (1, 2),
+    'www.viz.com': (30, 300),
+    'yenpress.com': (1, 3),
 }
 LAST_REQUEST: dict[str, float] = {}
 LIMITERS: dict[str, Limiter] = {}

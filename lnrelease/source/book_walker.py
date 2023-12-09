@@ -37,7 +37,7 @@ def get_publisher(pub: str) -> str:
         return None
 
 
-def parse(session: Session, link: str) -> tuple[Series, Info] | None:
+def parse(session: Session, link: str, links: dict[str, Info]) -> tuple[Series, Info] | None:
     page = session.get(link)
     soup = BeautifulSoup(page.content, 'lxml')
 
@@ -55,9 +55,13 @@ def parse(session: Session, link: str) -> tuple[Series, Info] | None:
         return None
 
     index = 0
-    for index, vol in enumerate(soup.select('h3:-soup-contains("Read all volumes") + div a'), start=1):
+    for i, vol in enumerate(soup.select('h3:-soup-contains("Read all volumes") + div a'), start=1):
+        l = vol.get('href')
         if link == vol.get('href'):
-            break
+            index = i
+        elif inf := links.get(l, None):
+            inf.index = i
+
     isbn = jsn['isbn']
     date = datetime.datetime.strptime(jsn['productionDate'], '%B %d, %Y (%I:%M %p) JST').date()
 
@@ -72,6 +76,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
     cutoff = today.replace(year=today.year - 1)
     # no date = not light novel
     skip = {row.key for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
+    links = {i.link: i for i in info}
 
     with Session() as session:
         session.cookies.set('glSafeSearch', '1')
@@ -94,7 +99,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                     continue
 
                 try:
-                    res = parse(session, link)
+                    res = parse(session, link, links)
                     if res:
                         series.add(res[0])
                         info.discard(res[1])
