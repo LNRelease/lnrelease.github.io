@@ -27,6 +27,7 @@ Jan 16|[Ishura (Audiobook)](https://yenpress.com/titles/9781975388126-ishura-vol
 Jan 16|[Overlord (Audiobook)](https://yenpress.com/titles/9781975370190-overlord-vol-11-the-dwarven-crafter)|11|Yen Press|🔊|
 Jan 16|[Spice and Wolf (Audiobook)](https://yenpress.com/titles/9781975371340-spice-and-wolf-vol-8-the-town-of-strife-i)|8|Yen Press|🔊|
 Jan 16|[The Saga of Tanya the Evil (Audiobook)](https://yenpress.com/titles/9781975389819-the-saga-of-tanya-the-evil-vol-9-omnes-una-manet-nox)|9|Yen Press|🔊|
+Jan 18|[The World's Fastest Level Up (Audiobook)](https://sevenseasentertainment.com/audio/the-worlds-fastest-level-up-audiobook-vol-1/)|1|Seven Seas Entertainment|🔊|
 
 ### February
 
