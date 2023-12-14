@@ -11,7 +11,7 @@ NAME = 'Right Stuf'
 
 ISBN = re.compile(r'\d{13}')
 NOVEL = re.compile(r'(?<!\bThe) Novel\b')
-FORMAT = re.compile(f'(?P<title>.+) \((?P<format>{"|".join(FORMATS)})\)')
+FORMAT = re.compile(rf'(?P<title>.+) \((?P<format>{"|".join(FORMATS)})\)')
 OMNIBUS = re.compile(r'(?:contains|collects)(?: novel)? volumes (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)')
 START = re.compile(r'(?P<start>.+?)(?: (?:Omnibus)?Volume \d+)?')
 

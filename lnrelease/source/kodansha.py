@@ -7,7 +7,7 @@ from utils import FORMATS, Info, Series
 
 NAME = 'Kodansha'
 
-FORMAT = re.compile(f'(?P<title>.+) \((?P<format>{"|".join(FORMATS)})\)')
+FORMAT = re.compile(rf'(?P<title>.+) \((?P<format>{"|".join(FORMATS)})\)')
 
 
 def parse(session: Session, series: Series, link: str, format: str = '') -> set[Info]:
