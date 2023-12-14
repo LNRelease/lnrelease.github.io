@@ -15,6 +15,8 @@ Dec 12|[Konosuba: God's Blessing on This Wonderful World! (Audiobook)](https://y
 Dec 12|[Rascal Does Not Dream of His First Love (Audiobook)](https://yenpress.com/titles/9781975370855-rascal-does-not-dream-of-his-first-love)|7|Yen Press|🔊|
 Dec 12|[The Executioner and Her Way of Life (Audiobook)](https://yenpress.com/titles/9781975388294-the-executioner-and-her-way-of-life-vol-1-thus-she-is-reborn)|1|Yen Press|🔊|
 Dec 14|[Neon Genesis Evangelion: ANIMA (Audiobook)](https://sevenseasentertainment.com/audio/neon-genesis-evangelion-anima-audiobook-vol-1/)|1|Seven Seas Entertainment|🔊|
+Dec 21|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasentertainment.com/audio/mushoku-tensei-jobless-reincarnation-audiobook-vol-6/)|6|Seven Seas Entertainment|🔊|
+Dec 21|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasentertainment.com/audio/mushoku-tensei-jobless-reincarnation-audiobook-vol-7/)|7|Seven Seas Entertainment|🔊|
 
 
 ## 2024

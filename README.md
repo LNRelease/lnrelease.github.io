@@ -273,6 +273,7 @@ Mar 20|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/youn
 Mar 22|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 25|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-5)|5|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 26|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-3)|3|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Mar 28|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-6)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 29|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-6.html)|6|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 29|[A Young Lady Finds Her True Calling Living with the Enemy](https://crossinfworld.com/A-Young-Lady-Finds-Her-True-Calling-Living-with-the-Enemy-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 29|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-13)|13|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
@@ -292,6 +293,7 @@ Apr 16|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpr
 Apr 16|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367725-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Apr 16|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347970-chitose-is-in-the-ramune-bottle-vol-6)|6|Yen Press|🖥️📖|
 Apr 16|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Apr 16|[Goblin Slayer Side Story: Year One](https://yenpress.com/titles/9781975306274-goblin-slayer-side-story-year-one-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Apr 16|[High School DxD](https://yenpress.com/titles/9781975350406-high-school-dxd-vol-13-light-novel)|13|Yen Press|🖥️📖|
 Apr 16|[Hollow Regalia](https://yenpress.com/titles/9781975387778-hollow-regalia-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Apr 16|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343224-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-7-light-novel)|7|Yen Press|🖥️📖|

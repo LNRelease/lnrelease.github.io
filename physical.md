@@ -166,6 +166,7 @@ Apr 16|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpr
 Apr 16|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367725-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-12-light-novel)|12|Yen Press|🖥️📖|
 Apr 16|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347970-chitose-is-in-the-ramune-bottle-vol-6)|6|Yen Press|🖥️📖|
 Apr 16|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Apr 16|[Goblin Slayer Side Story: Year One](https://yenpress.com/titles/9781975306274-goblin-slayer-side-story-year-one-vol-3-light-novel)|3|Yen Press|🖥️📖|
 Apr 16|[High School DxD](https://yenpress.com/titles/9781975350406-high-school-dxd-vol-13-light-novel)|13|Yen Press|🖥️📖|
 Apr 16|[Hollow Regalia](https://yenpress.com/titles/9781975387778-hollow-regalia-vol-4-light-novel)|4|Yen Press|🖥️📖|
 Apr 16|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343224-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-7-light-novel)|7|Yen Press|🖥️📖|
