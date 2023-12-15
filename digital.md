@@ -181,6 +181,7 @@ Feb 29|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-
 Feb 29|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-4.html)|4|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 29|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-4.html)|4|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 29|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-3.html)|3|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
+Feb 29|[Reincarnated Mage with Inferior Eyes: Breezing through the Future as an Oppressed Ex-Hero](https://j-novel.club/series/reincarnated-mage-with-inferior-eyes#volume-7)|6|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Feb 29|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 
 ### March
