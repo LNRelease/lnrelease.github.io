@@ -24,6 +24,8 @@ DATE_FORMATS = {
     r'%d %B %Y',
     r'%b %d %Y',
     r'%B %d %Y',
+    r'%Y%B %d',
+    r'%d %B%Y',
 }
 
 
