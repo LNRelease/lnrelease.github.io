@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.4'}
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.5'}
 
 SHORTENERS = {
     'amzn.to',
@@ -63,9 +63,9 @@ DELAYS = {
     'www.kobo.com': (10, 30),
     'api.kodansha.us': (30, 60),
     'www.penguinrandomhouse.ca': (30, 600),
-    'legacy.rightstufanime.com': (30, 150),
+    'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
-    'www.viz.com': (30, 300),
+    'www.viz.com': (30, 180),
     'yenpress.com': (1, 3),
 }
 LAST_REQUEST: dict[str, float] = {}
@@ -181,7 +181,6 @@ class Session(requests.Session):
 
     def get(self, url: str, web_cache: bool = False, **kwargs) -> requests.Response:
         kwargs.setdefault('timeout', 100)
-        netloc = urlparse(url).netloc
         if not web_cache:
             page = self.try_get(url, retries=5, **kwargs)
             if not page or page.status_code == 403:  # cloudflare
