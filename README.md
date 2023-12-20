@@ -309,6 +309,7 @@ Apr 16|[Secrets of the Silent Witch, Vol. 4.5 -after-](https://yenpress.com/titl
 Apr 16|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375553-that-time-i-got-reincarnated-as-a-slime-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Apr 16|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374051-the-misfit-of-demon-king-academy-vol-3-light-novel)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
+Apr 16|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-5)|13-15|Dark Horse|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 16|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368678-wandering-witch-the-journey-of-elaina-vol-13-light-novel)|13|Yen Press|🖥️📖|
 Apr 16|[You Can't See the Snow](https://yenpress.com/titles/9781975379582-you-can-t-see-the-snow)|1|Yen Press|🖥️📖|
 Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
