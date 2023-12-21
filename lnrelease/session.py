@@ -14,6 +14,7 @@ from urllib3.util.retry import Retry
 HEADERS = {'User-Agent': 'lnrelease.github.io/1.5'}
 
 SHORTENERS = {
+    'a.co',
     'amzn.to',
     'apple.co',
     'bit.ly',
@@ -63,7 +64,7 @@ DELAYS = {
     'www.kobo.com': (10, 30),
     'api.kodansha.us': (30, 60),
     'www.penguinrandomhouse.ca': (30, 600),
-    'legacy.rightstufanime.com': (30, 300),
+    'legacy.rightstufanime.com': (30, 180),
     'sevenseasentertainment.com': (10, 30),
     'www.viz.com': (30, 180),
     'yenpress.com': (1, 3),

@@ -12,8 +12,8 @@ NAME = 'Hanashi Media'
 
 LINK = re.compile(r"\s*Visit series' website\s*")
 TITLE = re.compile(r'(?P<title>.+) – Hanashi Media')
-STORE = re.compile(r'Get at .+')
-ISBN = re.compile(r'.*ISBN: (?P<isbn>[\d-]{13,})')
+STORE = re.compile(r'[Gg]et at .+')
+ISBN = re.compile(r'.*ISBN: (?:(?P<isbn>[\d-]{13,})|Not Yet)')
 VOLUME = re.compile(r'Volume (?P<volume>\d+(?:\.\d)?)')
 
 
@@ -33,7 +33,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             continue
 
         url = a.get('href')
-        if not url:
+        if not url or '://' not in url:
             continue
         url = url.strip()
 
@@ -78,7 +78,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
                 alts.append(norm)
                 force = False
 
-        isbn = ISBN.fullmatch(isbn).group('isbn')
+        isbn = ISBN.fullmatch(isbn).group('isbn') or ''
         info.add(Info(series.key, u.geturl(), NAME, NAME, title, index, 'Digital', isbn, None, alts))
 
     return series, info

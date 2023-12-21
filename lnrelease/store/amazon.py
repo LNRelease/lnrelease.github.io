@@ -84,7 +84,9 @@ def parse(session: session.Session, link: str, norm: str, *,
           ) -> tuple[utils.Series, set[utils.Info]] | None:
     page = session.get(link, web_cache=True)
     if page.status_code == 404:
-        return None
+        page = session.get(norm, web_cache=True)
+        if page.status_code == 404:
+            return None
     soup = BeautifulSoup(page.content, 'lxml')
 
     if not series:
