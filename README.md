@@ -152,7 +152,9 @@ Jan 30|[Hell Mode](https://yenpress.com/titles/9781975368517-hell-mode-vol-3-the
 Jan 30|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369484-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Jan 30|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 30|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
+Jan 30|[My Pet is a Saintess](https://hanashi.media/my-pet-is-a-saintess/)|1|Hanashi Media|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 30|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jan 30|[The Dark Guildmaster's Smile Would Fit Best](https://hanashi.media/the-dark-guildmasters-smile-would-fit-best/)|1|Hanashi Media|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 31|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-45)|43|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 31|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Jan 31|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-12)|12|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
