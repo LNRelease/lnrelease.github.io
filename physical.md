@@ -34,6 +34,7 @@ Dec 12|[Suzume](https://yenpress.com/titles/9781975373061-suzume)|1|Yen Press|�
 Dec 12|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375539-that-time-i-got-reincarnated-as-a-slime-vol-17-light-novel)|17|Yen Press|🖥️📖|
 Dec 12|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975372644-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-5-light-novel)|5|Yen Press|🖥️📖|
 Dec 12|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-4_2)|10-12|Dark Horse|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Dec 13|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-3.html)|3|Cross Infinite World|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Dec 19|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-vol-4-light-novel)|4|Kodansha|🖥️📖|

@@ -27,6 +27,7 @@ Dec 28|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Jan 02|[The Dragon's Soulmate is a Mushroom Princess! (Audiobook)](https://crossinfworld.com/The-Dragons-Soulmate-is-a-Mushroom-Princess-Volume-3.html)|3|Cross Infinite World|🔊|
 Jan 16|[Ishura (Audiobook)](https://yenpress.com/titles/9781975388126-ishura-vol-2-the-particle-storm-in-the-realm-of-slaughter)|2|Yen Press|🔊|
 Jan 16|[Overlord (Audiobook)](https://yenpress.com/titles/9781975370190-overlord-vol-11-the-dwarven-crafter)|11|Yen Press|🔊|
 Jan 16|[Spice and Wolf (Audiobook)](https://yenpress.com/titles/9781975371340-spice-and-wolf-vol-8-the-town-of-strife-i)|8|Yen Press|🔊|
