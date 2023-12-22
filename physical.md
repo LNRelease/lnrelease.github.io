@@ -74,16 +74,15 @@ Jan 23|[Reign of the Seven Spellblades](https://yenpress.com/titles/978197536956
 Jan 23|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
 Jan 23|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975379056-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-14-light-novel)|14|Yen Press|🖥️📖|
 Jan 23|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975372583-the-angel-next-door-spoils-me-rotten-vol-6-light-novel)|6|Yen Press|🖥️📖|
-Jan 23|[The Deer King](https://yenpress.com/titles/9781975352356-the-deer-king-vol-2-novel-returners)|2|Yen Press|🖥️📖|
 Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345181-the-irregular-at-magic-high-school-vol-21-light-novel-upheaval-prologue-arc-i)|21|Yen Press|🖥️📖|
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
-Jan 23|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
 Jan 30|[Hell Mode](https://yenpress.com/titles/9781975368517-hell-mode-vol-3-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 30|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369484-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Jan 30|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 30|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
 Jan 30|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jan 30|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
 
 ### February
 
@@ -107,6 +106,7 @@ Feb 20|[My Happy Marriage](https://yenpress.com/titles/9781975375294-my-happy-ma
 Feb 20|[Phantom Thief Red](https://yenpress.com/titles/9781975378127-phantom-thief-red-vol-2-the-junior-high-detective)|2|Yen Press|🖥️📖|
 Feb 20|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377922-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-2-light-novel)|2|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Feb 20|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351038-sugar-apple-fairy-tale-vol-5-light-novel-the-silver-sugar-master-and-the-purple-promise)|5|Yen Press|🖥️📖|
+Feb 20|[The Deer King](https://yenpress.com/titles/9781975352356-the-deer-king-vol-2-novel-returners)|2|Yen Press|🖥️📖|
 Feb 20|[The Greatest Demon Lord Is Reborn as a Typical Nobody](https://yenpress.com/titles/9781975370138-the-greatest-demon-lord-is-reborn-as-a-typical-nobody-vol-9-light-novel-dream-of-the-evil-god)|9|Yen Press|🖥️📖|
 Feb 20|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9781975374990-the-kept-man-of-the-princess-knight-vol-1)|1|Yen Press|🖥️📖|
 Feb 20|[The Other World's Books Depend on the Bean Counter](https://yenpress.com/titles/9781975364342-the-other-world-s-books-depend-on-the-bean-counter-vol-1-light-novel-holy-maiden-summoning-improvement-plan)|1|Yen Press|🖥️📖|
@@ -138,7 +138,7 @@ Mar 19|[Canine Detective Chris](https://yenpress.com/titles/9781975390969-canine
 Mar 19|[Classroom for Heroes](https://yenpress.com/titles/9781975378684-classroom-for-heroes-vol-1)|1|Yen Press|🖥️📖|
 Mar 19|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350147-high-school-prodigies-have-it-easy-even-in-another-world-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Mar 19|[Ishura](https://yenpress.com/titles/9781975369446-ishura-vol-6)|6|Yen Press|🖥️📖|
-Mar 19|[King's Proposal](https://yenpress.com/titles/9781975380519-king-s-proposal-vol-4-light-novel)|4|Yen Press|🖥️📖|
+Mar 19|[King's Proposal](https://yenpress.com/titles/9781975380519-king-s-proposal-vol-4-light-novel-the-golden-maiden)|4|Yen Press|🖥️📖|
 Mar 19|[NieR Replicant ver.1.22474487139... Project Gestalt Recollections File 2](https://legacy.rightstufanime.com/NieR-Replicant-ver122474487139-Project-Gestalt-Recollections-File-2-Novel-Hardcover)|1|Square Enix Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 19|[Online!](https://yenpress.com/titles/9781975388959-online-vol-2-the-haunted-school-and-the-knight-s-riddle)|2|Yen Press|🖥️📖|
 Mar 19|[Orc Eroica](https://yenpress.com/titles/9781975391485-orc-eroica-vol-4-light-novel-conjecture-chronicles)|4|Yen Press|🖥️📖|
@@ -148,7 +148,7 @@ Mar 19|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/97
 Mar 19|[Sasaki and Peeps](https://yenpress.com/titles/9781975378400-sasaki-and-peeps-vol-6-light-novel-an-unidentified-flying-object-from-outer-space-arrives-and-earth-is-under-attack-the-extraterrestrial-lifeform-that-came-to-announce-mankind-s-end-appears-to-be-dangerously-sensitive)|6|Yen Press|🖥️📖|
 Mar 19|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975392000-the-contract-between-a-specter-and-a-servant-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Mar 19|[The Detective Is Already Dead](https://yenpress.com/titles/9781975379568-the-detective-is-already-dead-vol-7)|7|Yen Press|🖥️📖|
-Mar 19|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363918-the-ephemeral-scenes-of-setsuna-s-journey-vol-3-light-novel)|3|Yen Press|🖥️📖|
+Mar 19|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363918-the-ephemeral-scenes-of-setsuna-s-journey-vol-3-light-novel-the-bonds-of-the-dragon-and-the-kingdom-in-crisis)|3|Yen Press|🖥️📖|
 Mar 19|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975380632-the-executioner-and-her-way-of-life-vol-7)|7|Yen Press|🖥️📖|
 Mar 19|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975380496-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-6-novel)|6|Yen Press|🖥️📖|
 
@@ -177,7 +177,7 @@ Apr 16|[Once Upon a Witch's Death: The Tale of the One Thousand Tears of Joy](ht
 Apr 16|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975344313-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Apr 16|[Riviere and the Land of Prayer](https://yenpress.com/titles/9781975379780-riviere-and-the-land-of-prayer-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Apr 16|[Sabikui Bisco](https://yenpress.com/titles/9781975367923-sabikui-bisco-vol-7-light-novel)|7|Yen Press|🖥️📖|
-Apr 16|[Secrets of the Silent Witch, Vol. 4.5 -after-](https://yenpress.com/titles/9781975393687-secrets-of-the-silent-witch-vol-4-5-after)|1|Yen Press|🖥️📖|
+Apr 16|[Secrets of the Silent Witch, Vol. 4.5 -after-: Casebook of the Silent Witch](https://yenpress.com/titles/9781975393687-secrets-of-the-silent-witch-vol-4-5-after-casebook-of-the-silent-witch)|1|Yen Press|🖥️📖|
 Apr 16|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375553-that-time-i-got-reincarnated-as-a-slime-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Apr 16|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374051-the-misfit-of-demon-king-academy-vol-3-light-novel)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
