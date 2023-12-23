@@ -60,28 +60,28 @@ Jan 09|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.co
 Jan 16|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-1/)|1|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 16|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Jan 23|[Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379889-astrea-record-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes)|1|Yen Press|🖥️📖|
 Jan 23|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1)|1|Yen Press|🖥️📖|
 Jan 23|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975367640-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-10-light-novel)|10|Yen Press|🖥️📖|
-Jan 23|[Goblin Slayer Side Story II: Dai Katana](https://yenpress.com/titles/9781975376994-goblin-slayer-side-story-ii-dai-katana-vol-3-light-novel-the-singing-death)|3|Yen Press|🖥️📖|
 Jan 23|[Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin](https://yenpress.com/titles/9781975371159-hazure-skill-the-guild-member-with-a-worthless-skill-is-actually-a-legendary-assassin-vol-7-light-novel)|7|Yen Press|🖥️📖|
 Jan 23|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975373917-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-18-light-novel)|18|Yen Press|🖥️📖|
-Jan 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975340575-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-14)|14|Yen Press|🖥️📖|
 Jan 23|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975376581-kunon-the-sorcerer-can-see-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Jan 23|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368326-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-3-light-novel)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975369569-reign-of-the-seven-spellblades-vol-10-light-novel)|10|Yen Press|🖥️📖|
 Jan 23|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975368289-sentenced-to-be-a-hero-vol-2-light-novel-the-prison-records-of-penal-hero-unit-9004)|2|Yen Press|🖥️📖|
-Jan 23|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975379056-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-14-light-novel)|14|Yen Press|🖥️📖|
-Jan 23|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975372583-the-angel-next-door-spoils-me-rotten-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Jan 23|[The Haunted Bookstore – Gateway to a Parallel Universe](https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 23|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345181-the-irregular-at-magic-high-school-vol-21-light-novel-upheaval-prologue-arc-i)|21|Yen Press|🖥️📖|
 Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975373498-the-princess-of-convenient-plot-devices-vol-4-light-novel)|4|Yen Press|🖥️📖|
+Jan 30|[Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379889-astrea-record-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes)|1|Yen Press|🖥️📖|
+Jan 30|[Goblin Slayer Side Story II: Dai Katana](https://yenpress.com/titles/9781975376994-goblin-slayer-side-story-ii-dai-katana-vol-3-light-novel-the-singing-death)|3|Yen Press|🖥️📖|
 Jan 30|[Hell Mode](https://yenpress.com/titles/9781975368517-hell-mode-vol-3-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Jan 30|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369484-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Jan 30|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jan 30|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975340575-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-14)|14|Yen Press|🖥️📖|
 Jan 30|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2)|2|Yen Press|🖥️📖|
 Jan 30|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/)|9|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
+Jan 30|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975379056-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-14-light-novel)|14|Yen Press|🖥️📖|
+Jan 30|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975372583-the-angel-next-door-spoils-me-rotten-vol-6-light-novel)|6|Yen Press|🖥️📖|
 Jan 30|[Your Forma](https://yenpress.com/titles/9781975373993-your-forma-vol-5-electronic-investigator-echika-and-the-farasha-island)|5|Yen Press|🖥️📖|
 
 ### February
@@ -177,7 +177,7 @@ Apr 16|[Once Upon a Witch's Death: The Tale of the One Thousand Tears of Joy](ht
 Apr 16|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975344313-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-2-light-novel)|2|Yen Press|🖥️📖|
 Apr 16|[Riviere and the Land of Prayer](https://yenpress.com/titles/9781975379780-riviere-and-the-land-of-prayer-vol-1-light-novel)|1|Yen Press|🖥️📖|
 Apr 16|[Sabikui Bisco](https://yenpress.com/titles/9781975367923-sabikui-bisco-vol-7-light-novel)|7|Yen Press|🖥️📖|
-Apr 16|[Secrets of the Silent Witch, Vol. 4.5 -after-: Casebook of the Silent Witch](https://yenpress.com/titles/9781975393687-secrets-of-the-silent-witch-vol-4-5-after-casebook-of-the-silent-witch)|1|Yen Press|🖥️📖|
+Apr 16|[Secrets of the Silent Witch](https://yenpress.com/titles/9781975393687-secrets-of-the-silent-witch-vol-4-5-after-casebook-of-the-silent-witch)|4.5|Yen Press|🖥️📖|
 Apr 16|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375553-that-time-i-got-reincarnated-as-a-slime-vol-18-light-novel)|18|Yen Press|🖥️📖|
 Apr 16|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374051-the-misfit-of-demon-king-academy-vol-3-light-novel)|3|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Apr 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-6/)|6|Seven Seas Entertainment|🖥️📖|
