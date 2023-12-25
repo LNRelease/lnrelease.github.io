@@ -414,6 +414,7 @@ Date|Series|Volume|Publisher|Type|
 Sep 03|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/)|10|Seven Seas Entertainment|🖥️📖|
 Sep 03|[The World's Fastest Level Up](https://sevenseasentertainment.com/books/the-worlds-fastest-level-up-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
 Sep 10|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
+Sep 24|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767833/my-unique-skill-makes-me-op-even-at-level-1-vol-7-light-novel-by-miki-nazuna/9781647293796)|7|Kodansha|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 
 ### November
 
