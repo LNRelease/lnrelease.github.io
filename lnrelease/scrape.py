@@ -1,8 +1,10 @@
 import importlib
 import warnings
 from collections import defaultdict
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import Future, as_completed
+from faulthandler import dump_traceback
 from pathlib import Path
+from threading import Thread
 from time import time
 
 from utils import SOURCES, Info, Series, Table
@@ -13,6 +15,15 @@ SERIES = Path('series.csv')
 INFO = Path('info.csv')
 
 
+def worker(future: Future, fn, *args) -> None:
+    try:
+        result = fn(*args)
+    except BaseException as exc:
+        future.set_exception(exc)
+    else:
+        future.set_result(result)
+
+
 def main() -> None:
     series = Table(SERIES, Series)
     info = Table(INFO, Info)
@@ -20,10 +31,23 @@ def main() -> None:
     for inf in info:
         sources[inf.source].add(inf)
 
-    with ThreadPoolExecutor(max_workers=len(MODULES)) as executor:
-        start = time()
-        futures = {executor.submit(s.scrape_full, series.copy(), sources[s.NAME].copy()): s.NAME for s in MODULES}
-        for future in as_completed(futures):
+    start = time()
+    futures: dict[Future[tuple[set[Series], set[Info]]], str] = {}
+    for module in MODULES:
+        future = Future()
+        name: str = module.NAME
+        futures[future] = name
+        Thread(target=worker,
+               name=f'Thread-{name.replace(" ", "-")}',
+               args=(future,
+                     module.scrape_full,
+                     series.copy(),
+                     sources[name].copy()),
+               daemon=True,
+               ).start()
+
+    try:
+        for future in as_completed(futures, timeout=60*60*4):
             try:
                 serie, inf = future.result()
                 series |= serie
@@ -36,6 +60,8 @@ def main() -> None:
                 warnings.warn(f'Error scraping {futures[future]}: {e}', RuntimeWarning)
             else:
                 print(f'{futures[future]} done ({time() - start:.2f}s)')
+    except TimeoutError:
+        dump_traceback()
 
     series -= series - {Series(i.serieskey, '') for i in info}
     series.save()

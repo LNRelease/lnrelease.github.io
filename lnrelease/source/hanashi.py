@@ -33,14 +33,13 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             continue
 
         url = a.get('href')
-        if not url or '://' not in url:
+        if not url or not urlparse(url).scheme:
             continue
-        url = url.strip()
+        url = session.resolve(url.strip())
 
         norm = store.normalise(session, url, resolve=True)
         if norm is None:
             warnings.warn(f'{url} normalise failed', RuntimeWarning)
-            continue
         elif norm:
             isbns[isbn][url] = norm
 

@@ -54,6 +54,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             u = urlparse(url)
             if not u.scheme or u.netloc == 'crossinfworld.com':
                 continue
+            url = session.resolve(url)
 
             format = get_format(a.find_previous('p').text)
             norm = store.normalise(session, url, resolve=True)

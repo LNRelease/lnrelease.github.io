@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.5'}
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.6'}
 
 SHORTENERS = {
     'a.co',
@@ -38,7 +38,7 @@ class Limiter:
     def __exit__(self, exc_type, exc_value, exc_tb) -> bool:
         LAST_REQUEST[self.netloc] = time()
         self.lock.release()
-        return exc_type == requests.ConnectionError
+        return isinstance(exc_value, requests.exceptions.RequestException)
 
 
 RATE_LIMITER = Lock()
@@ -172,12 +172,9 @@ class Session(requests.Session):
     def try_get(self, url: str, retries: int, **kwargs) -> requests.Response | None:
         netloc = urlparse(url).netloc
         for _ in range(retries):
-            try:
-                with limiter(netloc):
-                    page = super().get(url, **kwargs)
-                    return page
-            except requests.exceptions.RequestException:
-                pass
+            with limiter(netloc):
+                page = super().get(url, **kwargs)
+                return page
         return None
 
     def get(self, url: str, web_cache: bool = False, **kwargs) -> requests.Response:

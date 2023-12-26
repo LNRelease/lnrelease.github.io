@@ -82,11 +82,12 @@ def parse(session: session.Session, link: str, norm: str, *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
+    link = urlparse(link)._replace(params='', query='', fragment='').geturl()
     page = session.get(link, web_cache=True)
-    if page.status_code == 404:
+    if page.status_code == 404 and link != norm:
         page = session.get(norm, web_cache=True)
-        if page.status_code == 404:
-            return None
+    if page.status_code == 404:
+        return None
     soup = BeautifulSoup(page.content, 'lxml')
 
     if not series:
