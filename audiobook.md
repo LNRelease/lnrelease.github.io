@@ -28,16 +28,19 @@ Dec 28|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Jan 02|[The Dragon's Soulmate is a Mushroom Princess! (Audiobook)](https://crossinfworld.com/The-Dragons-Soulmate-is-a-Mushroom-Princess-Volume-3.html)|3|Cross Infinite World|🔊|
+Jan 11|[I'm in Love with the Villainess (Audiobook)](https://sevenseasentertainment.com/audio/im-in-love-with-the-villainess-audiobook-vol-3/)|3|Seven Seas Entertainment|🔊|
 Jan 16|[Ishura (Audiobook)](https://yenpress.com/titles/9781975388126-ishura-vol-2-the-particle-storm-in-the-realm-of-slaughter)|2|Yen Press|🔊|
 Jan 16|[Overlord (Audiobook)](https://yenpress.com/titles/9781975370190-overlord-vol-11-the-dwarven-crafter)|11|Yen Press|🔊|
 Jan 16|[Spice and Wolf (Audiobook)](https://yenpress.com/titles/9781975371340-spice-and-wolf-vol-8-the-town-of-strife-i)|8|Yen Press|🔊|
 Jan 16|[The Saga of Tanya the Evil (Audiobook)](https://yenpress.com/titles/9781975389819-the-saga-of-tanya-the-evil-vol-9-omnes-una-manet-nox)|9|Yen Press|🔊|
+Jan 18|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Audiobook)](https://sevenseasentertainment.com/audio/reborn-as-a-space-mercenary-audiobook-vol-6/)|6|Seven Seas Entertainment|🔊|
 Jan 18|[The World's Fastest Level Up (Audiobook)](https://sevenseasentertainment.com/audio/the-worlds-fastest-level-up-audiobook-vol-1/)|1|Seven Seas Entertainment|🔊|
 
 ### February
 
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
+Feb 08|[I'm in Love with the Villainess (Audiobook)](https://sevenseasentertainment.com/audio/im-in-love-with-the-villainess-audiobook-vol-4/)|4|Seven Seas Entertainment|🔊|
 Feb 13|[Goblin Slayer (Audiobook)](https://yenpress.com/titles/9781975388225-goblin-slayer-vol-2)|2|Yen Press|🔊|
 Feb 13|[Is It Wrong to Try to Pick Up Girls in a Dungeon? (Audiobook)](https://yenpress.com/titles/9781975388188-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-2)|2|Yen Press|🔊|
 Feb 13|[I've Been Killing Slimes for 300 Years and Maxed Out My Level (Audiobook)](https://yenpress.com/titles/9781975388256-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-1)|1|Yen Press|🔊|
