@@ -235,6 +235,7 @@ Mar 04|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s
 Mar 04|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-2)|2|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 05|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-8/)|8|Seven Seas Entertainment|🖥️📖|
 Mar 05|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
+Mar 06|[Holmes of Kyoto](https://j-novel.club/series/holmes-of-kyoto#volume-17)|17|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 Mar 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-23)|2|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 11|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-12)|12|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 Mar 11|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-1)|1|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
