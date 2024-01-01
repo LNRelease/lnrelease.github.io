@@ -354,3 +354,19 @@ Nov 26|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-an
 Date|Series|Volume|Publisher|Type|
 :---:|:---|:---:|:---|:---:|
 Dec 31|[The Invincible Shovel](https://sevenseasentertainment.com/books/the-invincible-shovel-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+
+
+## 2025
+
+### January
+
+Date|Series|Volume|Publisher|Type|
+:---:|:---|:---:|:---|:---:|
+Jan 07|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+Jan 28|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/)|5|Seven Seas Entertainment|🖥️📖|
+
+### April
+
+Date|Series|Volume|Publisher|Type|
+:---:|:---|:---:|:---|:---:|
+Apr 22|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/)|11|Seven Seas Entertainment|🖥️📖|
