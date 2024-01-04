@@ -18,17 +18,17 @@
     line-height: 1.2;
 }
 
-.markdown-body table {
-    display: table;
-}
-
 .container-lg {
     max-width: 1280px;
 }
 
-.markdown-body table th,
-.markdown-body table td {
+.markdown-body table th {
     padding: 0px 4px 2px 4px;
+    text-align: left;
+}
+
+.markdown-body table td {
+    padding: 0px 4px 2px 4px
 }
 
 .spacer {
@@ -47,6 +47,11 @@
     .spacer {
         display: inline;
     }
+}
+
+.markdown-body table th:nth-child(odd),
+.markdown-body table td:nth-child(odd) {
+    text-align: center;
 }
 
 .markdown-body table td:nth-child(2) {

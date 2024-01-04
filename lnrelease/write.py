@@ -15,22 +15,22 @@ AUDIOBOOK = Path('audiobook.md')
 YEAR = Path('year')
 
 
-def write_page(releases: Iterable[Release], output: Path) -> None:
+def write_page(releases: Iterable[Release], output: Path, title: str) -> None:
     with open(output, 'w', encoding='utf-8') as file:
         month = 0
         year = 0
-        file.write('# Licensed Light Novel Releases\n\n')
-        file.write('- Table of contents, visible at https://lnrelease.github.io\n{:toc}')
+        file.write(title)
+        file.write('\n\n- Table of contents, visible at https://lnrelease.github.io\n{:toc}')
         for release in releases:
             if year != release.date.year:
                 year = release.date.year
                 month = 0
-                file.write(f'\n\n## {year}\n')
+                file.write(f'\n\n## [{year}](/year/{year}.md)\n')
             if month != release.date.month:
                 month = release.date.month
                 file.write(f'\n### {release.date.strftime("%B")}\n\n')
                 file.write('Date|Series|Volume|Publisher|Type|\n')
-                file.write(':---:|:---|:---:|:---|:---:|\n')
+                file.write('---|---|---|---|---|\n')
 
             name = f'[{release.name}]({release.link})' if release.link else release.name
             file.write(f'{release.date.strftime("%b %d")}|{name}|{release.volume}|{release.publisher}|{release.format}|\n')
@@ -59,10 +59,15 @@ def main() -> None:
     end = bisect_right(releases, end_date, key=attrgetter('date'), lo=start)
     cur_releases = releases[start:end]
 
-    write_page((b for b in cur_releases if b.format != Format.AUDIOBOOK), OUT)
-    write_page((b for b in cur_releases if b.format.is_digital()), DIGITAL)
-    write_page((b for b in cur_releases if b.format.is_physical()), PHYSICAL)
-    write_page((b for b in cur_releases if b.format == Format.AUDIOBOOK), AUDIOBOOK)
+    title = 'Light Novel Releases'
+    write_page((b for b in cur_releases if b.format != Format.AUDIOBOOK),
+                OUT, f'# Licensed {title}')
+    write_page((b for b in cur_releases if b.format.is_digital()),
+                DIGITAL, f'# Digital {title}')
+    write_page((b for b in cur_releases if b.format.is_physical()),
+                PHYSICAL, f'# Physical {title}')
+    write_page((b for b in cur_releases if b.format == Format.AUDIOBOOK),
+                AUDIOBOOK, f'# Audiobook {title}')
 
     YEAR.mkdir(exist_ok=True)
     for file in YEAR.iterdir():
@@ -72,7 +77,7 @@ def main() -> None:
         year = releases[start].date.year
         end_date = datetime.datetime(year, 12, 31).date()
         end = bisect_right(releases, end_date, key=attrgetter('date'), lo=start)
-        write_page(releases[start:end], YEAR/f'{year}.md')
+        write_page(releases[start:end], YEAR/f'{year}.md', f'# {year} {title}')
         start = end
 
 
