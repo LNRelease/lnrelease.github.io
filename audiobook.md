@@ -1,14 +1,14 @@
-# Licensed Light Novel Releases
+# Audiobook Light Novel Releases
 
 - Table of contents, visible at https://lnrelease.github.io
 {:toc}
 
-## 2023
+## [2023](/year/2023.md)
 
 ### December
 
 Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
+---|---|---|---|---|
 Dec 07|[I'm in Love with the Villainess (Audiobook)](https://sevenseasentertainment.com/audio/im-in-love-with-the-villainess-audiobook-vol-2/)|2|Seven Seas Entertainment|🔊|
 Dec 12|[86--EIGHTY-SIX (Audiobook)](https://yenpress.com/titles/9781975369736-86-eighty-six-vol-7-mist)|7|Yen Press|🔊|
 Dec 12|[Konosuba: God's Blessing on This Wonderful World! (Audiobook)](https://yenpress.com/titles/9781975369699-konosuba-god-s-blessing-on-this-wonderful-world-vol-3-you-re-being-summoned-darkness)|3|Yen Press|🔊|
@@ -21,12 +21,12 @@ Dec 21|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasente
 Dec 28|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Audiobook)](https://sevenseasentertainment.com/audio/reborn-as-a-space-mercenary-audiobook-vol-5/)|5|Seven Seas Entertainment|🔊|
 
 
-## 2024
+## [2024](/year/2024.md)
 
 ### January
 
 Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
+---|---|---|---|---|
 Jan 02|[The Dragon's Soulmate is a Mushroom Princess! (Audiobook)](https://crossinfworld.com/The-Dragons-Soulmate-is-a-Mushroom-Princess-Volume-3.html)|3|Cross Infinite World|🔊|
 Jan 04|[Classroom of the Elite (Audiobook)](https://sevenseasentertainment.com/audio/classroom-of-the-elite-audiobook-vol-5/)|5|Seven Seas Entertainment|🔊|
 Jan 04|[Classroom of the Elite (Audiobook)](https://sevenseasentertainment.com/audio/classroom-of-the-elite-audiobook-vol-6/)|6|Seven Seas Entertainment|🔊|
@@ -44,7 +44,7 @@ Jan 25|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasente
 ### February
 
 Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
+---|---|---|---|---|
 Feb 01|[Classroom of the Elite (Audiobook)](https://sevenseasentertainment.com/audio/classroom-of-the-elite-audiobook-vol-7/)|7|Seven Seas Entertainment|🔊|
 Feb 08|[I'm in Love with the Villainess (Audiobook)](https://sevenseasentertainment.com/audio/im-in-love-with-the-villainess-audiobook-vol-4/)|4|Seven Seas Entertainment|🔊|
 Feb 13|[Goblin Slayer (Audiobook)](https://yenpress.com/titles/9781975388225-goblin-slayer-vol-2)|2|Yen Press|🔊|
@@ -57,7 +57,7 @@ Feb 15|[The Saint's Magic Power is Omnipotent (Audiobook)](https://sevenseasente
 ### March
 
 Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
+---|---|---|---|---|
 Mar 12|[86--EIGHTY-SIX (Audiobook)](https://yenpress.com/titles/9781975369743-86-eighty-six-vol-8-gun-smoke-on-the-water)|8|Yen Press|🔊|
 Mar 12|[Konosuba: God's Blessing on This Wonderful World! (Audiobook)](https://yenpress.com/titles/9781975369705-konosuba-god-s-blessing-on-this-wonderful-world-vol-4-you-good-for-nothing-quartet)|4|Yen Press|🔊|
 Mar 12|[Rascal Does Not Dream of a Sister Venturing Out (Audiobook)](https://yenpress.com/titles/9781975370862-rascal-does-not-dream-of-a-sister-venturing-out)|8|Yen Press|🔊|
@@ -66,14 +66,14 @@ Mar 12|[The Executioner and Her Way of Life (Audiobook)](https://yenpress.com/ti
 ### April
 
 Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
+---|---|---|---|---|
 Apr 16|[Ishura (Audiobook)](https://yenpress.com/titles/9781975388133-ishura-vol-3)|3|Yen Press|🔊|
 Apr 16|[Overlord (Audiobook)](https://yenpress.com/titles/9781975370206-overlord-vol-12-the-paladin-of-the-sacred-kingdom-part-i)|12|Yen Press|🔊|
 
 ### May
 
 Date|Series|Volume|Publisher|Type|
-:---:|:---|:---:|:---|:---:|
+---|---|---|---|---|
 May 14|[Baccano! (Audiobook)](https://yenpress.com/titles/9781975394127-baccano-vol-1-the-rolling-bootlegs)|1|Yen Press|🔊|
 May 14|[Is It Wrong to Try to Pick Up Girls in a Dungeon? (Audiobook)](https://yenpress.com/titles/9781975388195-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-3)|3|Yen Press|🔊|
 May 14|[Reign of the Seven Spellblades (Audiobook)](https://yenpress.com/titles/9781975394165-reign-of-the-seven-spellblades-vol-1)|1|Yen Press|🔊|
