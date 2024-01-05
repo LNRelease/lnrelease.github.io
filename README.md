@@ -339,6 +339,7 @@ Date|Series|Volume|Publisher|Type|
 ---|---|---|---|---|
 May 07|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/)|7|Seven Seas Entertainment|🖥️📖|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/)|4|Seven Seas Entertainment|🖥️📖|
+May 07|[The Wrong Way to Use Healing Magic](https://legacy.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-4)|4|One Peace Books|<input class="spacer" alt="🖥️" type="image" disabled>📖|
 May 10|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-4)|4|J-Novel Club|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 May 12|[I Guess This Dragon Who Lost Her Egg to Disaster Is My Mom Now](https://crossinfworld.com/I-Guess-This-Dragon-Who-Lost-Her-Egg-to-Disaster-Is-My-Mom-Now-Volume-2.html)|2|Cross Infinite World|🖥️<input class="spacer" alt="📖" type="image" disabled>|
 May 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-24)|3|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
