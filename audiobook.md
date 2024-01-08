@@ -3,24 +3,6 @@
 - Table of contents, visible at https://lnrelease.github.io
 {:toc}
 
-## [2023](/year/2023.md)
-
-### December
-
-Date|Series|Volume|Publisher|Type|
----|---|---|---|---|
-Dec 07|[I'm in Love with the Villainess (Audiobook)](https://sevenseasentertainment.com/audio/im-in-love-with-the-villainess-audiobook-vol-2/)|2|Seven Seas Entertainment|🔊|
-Dec 12|[86--EIGHTY-SIX (Audiobook)](https://yenpress.com/titles/9781975369736-86-eighty-six-vol-7-mist)|7|Yen Press|🔊|
-Dec 12|[Konosuba: God's Blessing on This Wonderful World! (Audiobook)](https://yenpress.com/titles/9781975369699-konosuba-god-s-blessing-on-this-wonderful-world-vol-3-you-re-being-summoned-darkness)|3|Yen Press|🔊|
-Dec 12|[Rascal Does Not Dream of His First Love (Audiobook)](https://yenpress.com/titles/9781975370855-rascal-does-not-dream-of-his-first-love)|7|Yen Press|🔊|
-Dec 12|[The Executioner and Her Way of Life (Audiobook)](https://yenpress.com/titles/9781975388294-the-executioner-and-her-way-of-life-vol-1-thus-she-is-reborn)|1|Yen Press|🔊|
-Dec 14|[Neon Genesis Evangelion: ANIMA (Audiobook)](https://sevenseasentertainment.com/audio/neon-genesis-evangelion-anima-audiobook-vol-1/)|1|Seven Seas Entertainment|🔊|
-Dec 14|[The Saint's Magic Power is Omnipotent (Audiobook)](https://sevenseasentertainment.com/audio/the-saints-magic-power-audiobook-vol-5/)|5|Seven Seas Entertainment|🔊|
-Dec 21|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasentertainment.com/audio/mushoku-tensei-jobless-reincarnation-audiobook-vol-6/)|6|Seven Seas Entertainment|🔊|
-Dec 21|[Mushoku Tensei: Jobless Reincarnation (Audiobook)](https://sevenseasentertainment.com/audio/mushoku-tensei-jobless-reincarnation-audiobook-vol-7/)|7|Seven Seas Entertainment|🔊|
-Dec 28|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Audiobook)](https://sevenseasentertainment.com/audio/reborn-as-a-space-mercenary-audiobook-vol-5/)|5|Seven Seas Entertainment|🔊|
-
-
 ## [2024](/year/2024.md)
 
 ### January

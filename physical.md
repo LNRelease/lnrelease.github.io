@@ -3,49 +3,6 @@
 - Table of contents, visible at https://lnrelease.github.io
 {:toc}
 
-## [2023](/year/2023.md)
-
-### December
-
-Date|Series|Volume|Publisher|Type|
----|---|---|---|---|
-Dec 05|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-7/)|7|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 05|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-16/)|16|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 05|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 05|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-3/)|3|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 11|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-19)|19|J-Novel Club|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 12|[A Certain Magical Index NT](https://yenpress.com/titles/9781975380656-a-certain-magical-index-nt-vol-1-light-novel)|1|Yen Press|🖥️📖|
-Dec 12|[Blade & Bastard](https://yenpress.com/titles/9781975389758-blade-bastard-vol-1-light-novel-warm-ash-dusky-dungeon)|1|Yen Press|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 12|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367701-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-11-light-novel)|11|Yen Press|🖥️📖|
-Dec 12|[Anime Bungo Stray Dogs: Novel Version](https://yenpress.com/titles/9781975379520-anime-bungo-stray-dogs-novel-version)|1|Yen Press|🖥️📖|
-Dec 12|[Canine Detective Chris](https://yenpress.com/titles/9781975378646-canine-detective-chris-vol-1-the-shiba-inu-detective-tracks-down-the-stolen-jewels)|1|Yen Press|🖥️📖|
-Dec 12|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975343996-death-march-to-the-parallel-world-rhapsody-vol-20-light-novel)|20|Yen Press|🖥️📖|
-Dec 12|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-6/)|6|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 12|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 12|[Hollow Regalia](https://yenpress.com/titles/9781975372620-hollow-regalia-vol-3-light-novel-all-hell-breaks-loose)|3|Yen Press|🖥️📖|
-Dec 12|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9781975333997-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-4-light-novel)|4|Yen Press|🖥️📖|
-Dec 12|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334178-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-7-light-novel)|7|Yen Press|🖥️📖|
-Dec 12|[Ishura](https://yenpress.com/titles/9781975363079-ishura-vol-5)|5|Yen Press|🖥️📖|
-Dec 12|[Magical Explorer](https://yenpress.com/titles/9781975367558-magical-explorer-vol-6-light-novel-reborn-as-a-side-character-in-a-fantasy-dating-sim)|6|Yen Press|🖥️📖|
-Dec 12|[No Game No Life](https://yenpress.com/titles/9781975370350-no-game-no-life-vol-12-light-novel)|12|Yen Press|🖥️📖|
-Dec 12|[Online!](https://yenpress.com/titles/9781975378622-online-vol-1-the-devil-s-unbeatable-game)|1|Yen Press|🖥️📖|
-Dec 12|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975364984-spy-classroom-short-story-collection-vol-2-light-novel-the-spy-teacher-who-loved-me)|2|Yen Press|🖥️📖|
-Dec 12|[Suzume](https://yenpress.com/titles/9781975373061-suzume)|1|Yen Press|🖥️📖|
-Dec 12|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375539-that-time-i-got-reincarnated-as-a-slime-vol-17-light-novel)|17|Yen Press|🖥️📖|
-Dec 12|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975372644-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-5-light-novel)|5|Yen Press|🖥️📖|
-Dec 12|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-4_2)|10-12|Dark Horse|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 13|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-3.html)|3|Cross Infinite World|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 19|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 19|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-vol-4-light-novel)|4|Kodansha|🖥️📖|
-Dec 19|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-4/)|4|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 19|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 26|[Loyal Soldier, Lustful Beast](https://sevenseasentertainment.com/books/loyal-soldier-lustful-beast-light-novel/)|1|Seven Seas Entertainment|🖥️📖|
-Dec 26|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-25/)|25|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-Dec 26|[Spy x Family: Family Portrait](https://www.viz.com/read/novel/spy-x-family-novels/product/7681/paperback)|1|VIZ Media|🖥️📖|
-Dec 26|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-5/)|5|Seven Seas Entertainment|<input class="spacer" alt="🖥️" type="image" disabled>📖|
-
-
 ## [2024](/year/2024.md)
 
 ### January
