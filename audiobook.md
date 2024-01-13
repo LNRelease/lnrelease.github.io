@@ -59,3 +59,16 @@ Date|Series|Volume|Publisher|Type|
 May 14|[Baccano! (Audiobook)](https://yenpress.com/titles/9781975394127-baccano-vol-1-the-rolling-bootlegs)|1|Yen Press|🔊|
 May 14|[Is It Wrong to Try to Pick Up Girls in a Dungeon? (Audiobook)](https://yenpress.com/titles/9781975388195-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-3)|3|Yen Press|🔊|
 May 14|[Reign of the Seven Spellblades (Audiobook)](https://yenpress.com/titles/9781975394165-reign-of-the-seven-spellblades-vol-1)|1|Yen Press|🔊|
+
+### June
+
+Date|Series|Volume|Publisher|Type|
+---|---|---|---|---|
+Jun 11|[86--EIGHTY-SIX (Audiobook)](https://yenpress.com/titles/9781975399627-86-eighty-six-vol-9-valkyrie-has-landed)|9|Yen Press|🔊|
+Jun 11|[Bungo Stray Dogs (Audiobook)](https://yenpress.com/titles/9781975393892-bungo-stray-dogs-vol-1-osamu-dazai-s-entrance-exam)|1|Yen Press|🔊|
+Jun 11|[I've Been Killing Slimes for 300 Years and Maxed Out My Level (Audiobook)](https://yenpress.com/titles/9781975388270-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-3)|3|Yen Press|🔊|
+Jun 11|[Konosuba: God's Blessing on This Wonderful World! (Audiobook)](https://yenpress.com/titles/9781975398033-konosuba-god-s-blessing-on-this-wonderful-world-vol-5-crimson-magic-clan-let-s-go)|5|Yen Press|🔊|
+Jun 11|[Rascal Does Not Dream of a Knapsack Kid (Audiobook)](https://yenpress.com/titles/9781975398118-rascal-does-not-dream-of-a-knapsack-kid)|9|Yen Press|🔊|
+Jun 11|[So I'm a Spider, So What? (Audiobook)](https://yenpress.com/titles/9781975398156-so-i-m-a-spider-so-what-vol-9)|9|Yen Press|🔊|
+Jun 11|[Sword Art Online (Audiobook)](https://yenpress.com/titles/9781975398071-sword-art-online-13-alicization-dividing)|13|Yen Press|🔊|
+Jun 11|[The Executioner and Her Way of Life (Audiobook)](https://yenpress.com/titles/9781975388317-the-executioner-and-her-way-of-life-vol-3-the-cage-of-iron-sand)|3|Yen Press|🔊|
