@@ -4,9 +4,10 @@ title: Light Novel Releases
 description: Automated light novel release calendar.
 ---
 
+<link rel="preload" href="{{ '/data.json' | relative_url }}" as="fetch" type="application/json" crossorigin>
 <noscript>
-  <meta http-equiv="refresh" content="0;URL=/html">
-  <h3>Redirecting to the <a href="/html">non-JavaScript site</a></h3>
+  <meta http-equiv="refresh" content="0;URL={{ '/html' | relative_url }}">
+  <h3>Redirecting to the <a href="{{ '/html' | relative_url }}">non-JavaScript site</a></h3>
 </noscript>
 <div class="length">Showing <span id="shown">0</span> of <span id="total">0</span></div>
 <label class="search">Search:<input id="search" type="search"></label>
