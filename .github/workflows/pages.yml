@@ -1,4 +1,4 @@
-name: Build and deploy Pages
+name: pages
 
 on:
   push:
@@ -46,6 +46,14 @@ jobs:
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
+
+      - name: Setup compression
+        run : sudo apt-get install -y zopfli brotli
+
+      - name: Precompress files
+        run: >-
+          find _site/ -type f -iregex '.+\.\(html\|css\|js\|json\)'
+          -exec sudo zopfli {} \; -exec sudo brotli {} \;
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
