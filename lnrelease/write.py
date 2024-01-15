@@ -9,18 +9,25 @@ from parse import BOOKS
 from utils import FORMATS, Book, Format, Release, Table
 
 OUT = Path('README.md')
-DIGITAL = Path('digital.md')
-PHYSICAL = Path('physical.md')
-AUDIOBOOK = Path('audiobook.md')
-YEAR = Path('year')
 
 
-def write_page(releases: Iterable[Release], output: Path, title: str) -> None:
+def get_format(format: Format, github: bool) -> str:
+    if github:
+        return str(format)
+    elif format == Format.DIGITAL:
+        return f'{format}<span class="hidden">{Format.PHYSICAL}</span>'
+    elif format == Format.PHYSICAL:
+        return f'<span class="hidden">{Format.DIGITAL}</span>{format}'
+    return str(format)
+
+
+def write_page(releases: Iterable[Release], output: Path, title: str, github: bool = False) -> None:
     with open(output, 'w', encoding='utf-8') as file:
         month = 0
         year = 0
         file.write(title)
-        file.write('\n\n- Table of contents, visible at https://lnrelease.github.io\n{:toc}')
+        if not github:
+            file.write('\n\n- toc\n{:toc}')
         for release in releases:
             if year != release.date.year:
                 year = release.date.year
@@ -32,11 +39,13 @@ def write_page(releases: Iterable[Release], output: Path, title: str) -> None:
                 file.write('Date|Series|Volume|Publisher|Type|\n')
                 file.write('---|---|---|---|---|\n')
 
-            name = f'[{release.name}]({release.link})' if release.link else release.name
-            file.write(f'{release.date.strftime("%b %d")}|{name}|{release.volume}|{release.publisher}|{release.format}|\n')
+            date = release.date.strftime('%b %d')
+            name = f'[{release.name}]({release.link} "{release.publisher}")'
+            format = get_format(release.format, github)
+            file.write(f'{date}|{name}|{release.volume}|{release.publisher}|{format}|\n')
 
 
-def main() -> None:
+def get_releases() -> list[Release]:
     dic: defaultdict[Release, list[Book]] = defaultdict(list)
     for book in sorted(Table(BOOKS, Book)):
         dic[Release(*book)].append(book)
@@ -44,41 +53,26 @@ def main() -> None:
         books.sort(key=lambda b: FORMATS.get(b.format, 0))
         formats = {Format.from_str(b.format) for b in books}
         release.format = formats.pop() if len(formats) == 1 else Format.PHYSICAL_DIGITAL
-        if release.format == Format.AUDIOBOOK:
-            release.name += ' (Audiobook)'
-        book = books[0]
-        release.link = book.link
-        release.isbn = book.isbn
-    releases: list[Release] = sorted(dic)
+        release.link = books[0].link
+        release.isbn = books[0].isbn
+    return sorted(dic)
 
+
+def get_current(releases: list[Release]) -> tuple[int, int]:
     today = datetime.datetime.today()
     start_date = today - datetime.timedelta(days=7)
     start_date = start_date.replace(day=1).date()
     end_date = today.replace(year=today.year+1, month=12, day=31).date()
     start = bisect_left(releases, start_date, key=attrgetter('date'))
     end = bisect_right(releases, end_date, key=attrgetter('date'), lo=start)
-    cur_releases = releases[start:end]
+    return releases[start:end]
 
-    title = 'Light Novel Releases'
-    write_page((b for b in cur_releases if b.format != Format.AUDIOBOOK),
-                OUT, f'# Licensed {title}')
-    write_page((b for b in cur_releases if b.format.is_digital()),
-                DIGITAL, f'# Digital {title}')
-    write_page((b for b in cur_releases if b.format.is_physical()),
-                PHYSICAL, f'# Physical {title}')
-    write_page((b for b in cur_releases if b.format == Format.AUDIOBOOK),
-                AUDIOBOOK, f'# Audiobook {title}')
 
-    YEAR.mkdir(exist_ok=True)
-    for file in YEAR.iterdir():
-        file.unlink()
-    start = 0
-    while start < len(releases):
-        year = releases[start].date.year
-        end_date = datetime.datetime(year, 12, 31).date()
-        end = bisect_right(releases, end_date, key=attrgetter('date'), lo=start)
-        write_page(releases[start:end], YEAR/f'{year}.md', f'# {year} {title}')
-        start = end
+def main() -> None:
+    releases = get_releases()
+    current = get_current(releases)
+    write_page((b for b in current if b.format != Format.AUDIOBOOK),
+               OUT, f'# Licensed Light Novel Releases', True)
 
 
 if __name__ == '__main__':

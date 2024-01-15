@@ -1,0 +1,36 @@
+:root {
+    --color-background: #fff;
+    --color-primary: #fff;
+    --color-secondary: #f6f8fa;
+    --color-font: #24292e;
+    --color-link: #0366d6;
+    --color-border: #dfe2e5;
+    --color-rule: #eaecef;
+    --color-shadow: #24292e30;
+}
+
+// Sampled from light with hue-rotate(180deg) invert(92%)
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-background: #000;
+        --color-primary: #141414;
+        --color-secondary: #191b1c;
+        --color-font: #c5c9ce;
+        --color-link: #58abeb;
+        --color-border: #2b2d30;
+        --color-rule: #232527;
+        --color-shadow: #c5c9ce30;
+    }
+}
+
+$color-background: var(--color-background);
+$color-primary: var(--color-primary);
+$color-secondary: var(--color-secondary);
+$color-font: var(--color-font);
+$color-link: var(--color-link);
+$color-border: var(--color-border);
+$color-rule: var(--color-rule);
+$color-shadow: var(--color-shadow);
+
+$font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$font-weight-bold: 600 !default;

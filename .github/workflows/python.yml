@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit and push
         run: |
-          git add -A
+          git add -u
           if git diff --staged --quiet; then
             echo "Finished, no changes"
           else

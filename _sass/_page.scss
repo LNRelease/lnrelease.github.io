@@ -1,0 +1,87 @@
+html {
+    font-family: $font-family;
+    line-height: 1.2;
+    background-color: $color-background;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 32px auto;
+    padding: 0 16px;
+    max-width: 1280px;
+    color: $color-font;
+    font-size: 16px;
+}
+
+a {
+    color: $color-link;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: $font-weight-bold;
+}
+
+@mixin header-rule {
+    padding-bottom: .3em;
+    border-bottom: 1px solid $color-rule;
+}
+
+h1 {
+    @include header-rule;
+    font-size: 2em;
+}
+
+h2 {
+    @include header-rule;
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h5 {
+    font-size: .875em;
+}
+
+h6 {
+    font-size: .85em;
+}
+
+ul, ol {
+    padding-left: 2em;
+}
+
+li {
+    margin-top: .25em;
+}
+
+:focus-visible {
+    outline: 1px solid var(--color-font);
+}
+
+input {
+    margin: 0;
+    color: inherit;
+    line-height: 1.15;
+    font-family: inherit;
+    font-size: inherit;
+    background-color: inherit;
+    border: 1px solid var(--color-border);
+    border-radius: .2em;
+}
+
+.hidden {
+    visibility: hidden;
+}

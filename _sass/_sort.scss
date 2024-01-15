@@ -1,0 +1,235 @@
+.length,
+.search {
+    display: table-cell;
+    padding: 0 2px 6px;
+    white-space: nowrap;
+}
+
+.search {
+    width: 100%;
+    text-align: right;
+}
+
+#search {
+    margin-left: 4px;
+    width: 80%;
+    max-width: 24em;
+}
+
+thead th.sort,
+tbody th {
+    position: sticky;
+    background-clip: padding-box;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+thead th.sort {
+    top: 0;
+    height: 2em;
+    cursor: pointer;
+    background-color: $color-primary;
+}
+
+tbody th {
+    top: 2em;
+    scroll-margin-top: 2em;
+    background-color: $color-secondary;
+}
+
+th.sort::before,
+tbody th::before,
+tbody th::after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid $color-border;
+}
+
+th.sort::before,
+tbody th::before {
+    top: -1px;
+}
+
+tbody th::after {
+    bottom: -1px;
+}
+
+.sort-btn {
+    display: none;
+}
+
+@media (min-width: 544px) {
+    thead th.sort {
+        padding-right: 1.1em;
+        text-align: left;
+    }
+
+    @media (hover: hover) {
+        .sort-btn {
+            display: block;
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            margin: auto;
+            height: 80%;
+            width: 1em;
+            cursor: default;
+            opacity: .2;
+            transition: opacity .2s ease;
+        }
+    }
+}
+
+.sort-icon,
+.sort-icon::before,
+.sort-icon::after {
+    position: absolute;
+    height: 2px;
+    width: .8em;
+    border-radius: 2px;
+    background-color: $color-font;
+    transition: width .1s ease;
+}
+
+.sort-icon {
+    top: 0;
+    bottom: 0;
+    left: 10%;
+    margin: auto;
+}
+
+.sort-icon::before {
+    content: '';
+    bottom: 4px;
+}
+
+.sort-icon::after {
+    content: '';
+    top: 4px;
+}
+
+.sort:hover .sort-btn {
+    opacity: .6;
+}
+
+.sort-asc .sort-icon,
+.sort-desc .sort-icon {
+    width: .6em;
+}
+
+.sort-asc .sort-icon::before,
+.sort-desc .sort-icon::after {
+    width: .4em;
+}
+
+.filter .sort-icon {
+    width: .4em;
+}
+
+.menu-active {
+    z-index: 1;
+}
+
+.menu-active .sort-menu {
+    display: block;
+}
+
+.sort-menu {
+    display: none;
+    position: absolute;
+    padding: .4em;
+    cursor: default;
+    white-space: nowrap;
+    background-color: $color-background;
+    border: 1px solid $color-border;
+    box-shadow: 0 .1em .25em .1em $color-shadow;
+}
+
+.sort-list label {
+    display: flex;
+    padding: .25em 0;
+    width: 100%;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.sort-list input {
+    margin-right: .25em;
+    height: 1.25em;
+    width: 1.25em;
+}
+
+.sort-input {
+    padding-right: .2em;
+}
+
+.sort-input input {
+    display: inline;
+}
+
+#menu-title input {
+    width: 24em;
+}
+
+#menu-vol input {
+    width: 2em;
+}
+
+#menu-vol input:first-child {
+    text-align: right;
+}
+
+.list-menu {
+    display: flex;
+    margin-bottom: .4em;
+    padding-bottom: .4em;
+    justify-content: space-evenly;
+    border-bottom: 1px solid $color-rule;
+}
+
+.menu-btn {
+    display: inline-block;
+    height: 1.2em;
+    width: 1.2em;
+    cursor: pointer;
+    text-align: center;
+    font-size: 1.2em;
+    border-radius: 20%;
+    transition: background-color 0.2s;
+}
+
+.menu-btn:hover {
+    opacity: .8;
+}
+
+.menu-btn:active {
+    background-color: $color-rule;
+    opacity: 1;
+}
+
+#loading {
+    z-index: -1;
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 4em;
+    width: 4em;
+    margin: auto;
+    border-radius: 50%;
+    border-top: .2em solid $color-font;
+    border-right: .2em solid transparent;
+    animation: rotate 1s linear infinite;
+}
+
+@keyframes rotate {
+    to {
+        transform: rotate(360deg);
+    }
+}

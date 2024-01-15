@@ -60,10 +60,9 @@ def volume_lt(a: str, b: str) -> bool:
 
 
 class Format(StrEnum):
-    # spacer to align text, github yeets input tag
     NONE = ''
-    PHYSICAL = '<input class="spacer" alt="🖥️" type="image" disabled>📖'
-    DIGITAL = '🖥️<input class="spacer" alt="📖" type="image" disabled>'
+    PHYSICAL = '📖'
+    DIGITAL = '🖥️'
     PHYSICAL_DIGITAL = '🖥️📖'
     AUDIOBOOK = '🔊'
 
