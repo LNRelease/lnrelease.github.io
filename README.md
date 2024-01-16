@@ -368,6 +368,7 @@ Sep 24|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomho
 Date|Series|Volume|Publisher|Type|
 ---|---|---|---|---|
 Oct 08|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/745913/am-i-actually-the-strongest-6-ln-by-sai-sumimori/9781647293567 "Kodansha")|6|Kodansha|📖|
+Oct 15|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/767838/saving-80000-gold-in-another-world-for-my-retirement-6-light-novel-by-funa/9781647293659 "Kodansha")|6|Kodansha|📖|
 Oct 29|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
 ### November
