@@ -88,7 +88,7 @@ Feb 08|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](ht
 Feb 09|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Feb 09|[Sword Saint Adel's Second Chance](https://j-novel.club/series/sword-saint-adel-s-second-chance#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Feb 12|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-Feb 13|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/734080/the-dawn-of-the-witch-5-light-novel-by-kakeru-kobashiri/9781647292317 "Kodansha")|5|Kodansha|📖|
+Feb 13|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-novel-5 "Kodansha")|5|Kodansha|🖥️📖|
 Feb 13|[The Death Mage](https://legacy.rightstufanime.com/The-Death-Mage-Novel-Volume-4 "One Peace Books")|4|One Peace Books|📖|
 Feb 14|[I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://j-novel.club/series/i-m-giving-the-disgraced-noble-lady-i-rescued-a-crash-course-in-naughtiness#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 Feb 15|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
@@ -126,7 +126,7 @@ Feb 22|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord
 Feb 22|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 Feb 23|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 Feb 26|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
-Feb 27|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/734067/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-4-light-novel-by-miraijina/9781647293123 "Kodansha")|4|Kodansha|📖|
+Feb 27|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://kodansha.us/product/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-novel-4 "Kodansha")|4|Kodansha|🖥️📖|
 Feb 27|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 Feb 27|[The Other World's Books Depend on the Bean Counter](https://yenpress.com/titles/9781975364342-the-other-world-s-books-depend-on-the-bean-counter-vol-1-light-novel-holy-maiden-summoning-improvement-plan "Yen Press")|1|Yen Press|🖥️📖|
 Feb 28|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -210,6 +210,7 @@ Apr 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/rave
 Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 Apr 02|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 Apr 05|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+Apr 05|[You Like Me, Not My Daughter?!](https://j-novel.club/series/you-like-me-not-my-daughter#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 Apr 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
 Apr 08|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
 Apr 09|[I'm in Love with the Villainess: She's so Cheeky for a Commoner](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
@@ -255,6 +256,7 @@ Date|Series|Volume|Publisher|Type|
 ---|---|---|---|---|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 May 07|[The Wrong Way to Use Healing Magic](https://legacy.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-4 "One Peace Books")|4|One Peace Books|📖|
+May 08|[Seventh](https://j-novel.club/series/seventh#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 May 08|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 May 10|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 May 10|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-7 "J-Novel Club")|4|J-Novel Club|🖥️|
