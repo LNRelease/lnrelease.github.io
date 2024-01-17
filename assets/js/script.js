@@ -17,7 +17,7 @@ const SEARCH = document.getElementById('search');
 const HEADERS = TABLE.querySelectorAll('.sort');
 const LOADING = document.getElementById('loading');
 const STAR = document.getElementById('star');
-const SERIES = document.getElementById('menu-title');
+const STARS = document.getElementById('stars');
 
 const COLLATOR = new Intl.Collator();
 const VOL_COMPARATOR = (a, b) => {
@@ -447,7 +447,7 @@ function createStar(novels, serieskey, series) {
             break;
         }
     }
-    next ? SERIES.insertBefore(div, next) : SERIES.appendChild(div);
+    next ? STARS.insertBefore(div, next) : STARS.appendChild(div);
     novels.stars.set(serieskey, div);
 }
 
@@ -898,8 +898,7 @@ function initFilter(novels) {
 
     TBODY.addEventListener('click', e => {
         const target = e.target;
-        if (target.style.opacity
-            && target.classList.contains('star'))
+        if (target.classList.contains('star'))
             toggleStar(e.target);
     });
     TBODY.addEventListener('contextmenu', e => {

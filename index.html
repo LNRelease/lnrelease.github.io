@@ -4,7 +4,6 @@ title: Light Novel Releases
 description: Automated light novel release calendar.
 ---
 
-<link rel="preload" href="{{ '/data.json' | relative_url }}" as="fetch" type="application/json" crossorigin>
 <noscript>
   <meta http-equiv="refresh" content="0;URL={{ '/html' | relative_url }}">
   <h3>Redirecting to the <a href="{{ '/html' | relative_url }}">non-JavaScript site</a></h3>
@@ -37,6 +36,7 @@ description: Automated light novel release calendar.
             <datalist id="series"></datalist>
             <span id="star-add" class="menu-btn disabled">🞢</span>
           </div>
+          <div id="stars"></div>
         </div>
       </th>
       <th class="sort">
@@ -81,3 +81,4 @@ description: Automated light novel release calendar.
 </table>
 <span id="loading"></span>
 <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+<link rel="preload" href="{{ '/data.json' | relative_url }}" as="fetch" type="application/json" crossorigin>
