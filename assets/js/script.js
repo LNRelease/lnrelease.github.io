@@ -54,6 +54,7 @@ const storage = (() => {
 })();
 const settings = JSON.parse(storage?.getItem('settings')) || {};
 // Set defaults
+settings.order ??= 0;
 settings.star ??= false;
 settings.series ??= [];
 settings.publisher ??= [];
@@ -75,7 +76,7 @@ function norm(s) {
 
 
 class Novels extends Array {
-    constructor({ data, series, publishers }) {
+    constructor({ series, publishers, data }) {
         super();
         this.filters = {
             date: dateFilter(),
@@ -99,13 +100,14 @@ class Novels extends Array {
                 book.show = true;
             }
         }
-        this.order = 0;
-        this.grouped = this.order % COLUMNS === 0;
+        // Set the opposite
+        this.order = (settings.order + COLUMNS) % (COLUMNS * 2);
+        this.grouped = true;
         this.updater = undefined;
         this.publishers = publishers;
         this.series = new Map(series);
         this.stars = new Map();
-        rebuildTable(this, this.grouped);
+        sortTable(this, this.order % COLUMNS);
         document.getElementById('total').textContent = this.length;
     }
 
@@ -888,26 +890,30 @@ function initFilter(novels) {
     initMenus();
 
     function toggleStar(target) {
-        const classes = target.classList;
-        if (!classes.contains('star'))
-            return;
-
         const serieskey = target.dataset.series;
-        classes.contains('star-active') ?
+        target.classList.contains('star-active') ?
             unstarSeries(novels, serieskey, novels.stars.get(serieskey))
             : starSeries(novels, serieskey, novels.series.get(serieskey));
     }
 
-    TBODY.addEventListener('click', e => toggleStar(e.target));
+    TBODY.addEventListener('click', e => {
+        const target = e.target;
+        if (target.style.opacity
+            && target.classList.contains('star'))
+            toggleStar(e.target);
+    });
     TBODY.addEventListener('contextmenu', e => {
-        const target = e.target.querySelector('.star') || e.target;
-        toggleStar(target);
-        e.preventDefault();
+        const target = e.target.closest('tr').querySelector('.star');
+        if (target) {
+            toggleStar(target);
+            e.preventDefault();
+        }
     });
     if (storage) { // Save on exit
         document.addEventListener('visibilitychange', () => {
             if (document.visibilityState === 'hidden') {
                 Object.keys(settings).forEach(key => delete settings[key]);
+                settings.order = novels.order;
                 settings.star = STAR.checked;
                 settings.series = Array.from(novels.filters.star).sort();
                 settings.publisher = novels.publishers.filter(item =>

@@ -10,6 +10,7 @@ on:
       - 'assets/**'
       - '_*/**'
 
+  workflow_call:
   workflow_dispatch:
 
 permissions:
