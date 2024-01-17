@@ -12,6 +12,7 @@ tr:nth-child(2n) {
 }
 
 th {
+    z-index: 1;
     padding: 4px;
     box-sizing: border-box;
     border: 1px solid $color-border;
@@ -33,6 +34,7 @@ td:nth-child(odd) {
 
 th:nth-child(2),
 td:nth-child(2) {
+    position: relative;
     width: 100%;
     white-space: normal;
 }

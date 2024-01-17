@@ -14,7 +14,7 @@ description: Automated light novel release calendar.
 <table id="table">
   <thead>
     <tr>
-      <th class="sort sort-desc filter">
+      <th class="sort sort-desc">
         Date
         <div class="sort-btn"><span class="sort-icon"></span></div>
         <div class="sort-menu sort-input" id="menu-date">
@@ -27,10 +27,16 @@ description: Automated light novel release calendar.
       <th class="sort">
         Title
         <div class="sort-btn"><span class="sort-icon"></span></div>
-        <div class="sort-menu sort-input" id="menu-title">
-          <input id="filter-search" type="search" list="series">
-          <datalist id="series"></datalist>
-          <span id="title-reset" class="menu-btn">⭮</span>
+        <div class="sort-menu sort-list" id="menu-title">
+          <div class="list-row">
+            <label><input id="star" type="checkbox">⭐Filter Starred</label>
+            <span id="title-reset" class="menu-btn">⭮</span>
+          </div>
+          <div class="list-row list-border">
+            <input id="filter-search" type="search" list="series">
+            <datalist id="series"></datalist>
+            <span id="star-add" class="menu-btn disabled">🞢</span>
+          </div>
         </div>
       </th>
       <th class="sort">
@@ -47,17 +53,17 @@ description: Automated light novel release calendar.
         Publisher
         <div class="sort-btn"><span class="sort-icon"></span></div>
         <div class="sort-menu sort-list" id="menu-pub">
-          <div class="list-menu">
+          <div class="list-row list-border">
             <span id="pub-select" class="menu-btn">🗹</span>
             <span id="pub-reset" class="menu-btn">⭮</span>
           </div>
         </div>
       </th>
-      <th class="sort filter">
+      <th class="sort">
         Type
         <div class="sort-btn"><span class="sort-icon"></span></div>
         <div class="sort-menu sort-list" id="menu-format">
-          <div class="list-menu">
+          <div class="list-row list-border">
             <span id="format-select" class="menu-btn">🗹</span>
             <span id="format-reset" class="menu-btn">⭮</span>
           </div>

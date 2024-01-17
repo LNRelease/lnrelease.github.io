@@ -39,11 +39,10 @@ def main() -> None:
         write_page(releases[start:end], YEAR/f'{year}.md', f'# {year} {title}')
         start = end
 
-    series = {x.key: x.title for x in Table(SERIES, Series)}
+    series = {x.key: (i, x.title) for i, x in enumerate(sorted(Table(SERIES, Series)))}
     publishers = {x: i for i, x in enumerate(sorted(set(x.publisher for x in releases)))}
     formats = {x: i for i, x in enumerate(Format)}
-    jsn = {'publishers': list(publishers),
-           'data': [[series[x.serieskey],
+    jsn = {'data': [[series[x.serieskey][0],
                      x.link,
                      publishers[x.publisher],
                      x.name,
@@ -51,7 +50,9 @@ def main() -> None:
                      formats[x.format],
                      x.isbn,
                      str(x.date),
-                     ] for x in releases]}
+                     ] for x in releases],
+           'series': [[key, title] for key, (_, title) in series.items()],
+           'publishers': list(publishers)}
     with open(DATA, 'w') as file:
         json.dump(jsn, file, separators=(',', ':'))
 
