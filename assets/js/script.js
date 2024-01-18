@@ -400,7 +400,7 @@ function filterTable(novels) {
 }
 
 function sortTable(novels, index) {
-    const newOrder = novels.order === index ? index : index + 5;
+    const newOrder = novels.order === index ? index + COLUMNS : index;
     novels.sort(COMPARATORS[newOrder]);
     rebuildTable(novels, index === 0);
 
