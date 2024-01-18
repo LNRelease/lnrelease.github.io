@@ -6,12 +6,14 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     outputs:
       deploy: ${{ steps.commit.outputs.deploy }}

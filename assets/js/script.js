@@ -1,5 +1,5 @@
 const COLUMNS = 5;
-const CHUNK_SIZE = 256;
+const CHUNK_SIZE = 128;
 const GROUP_THRESHOLD = 40;
 const YEAR_THRESHOLD = 24;
 const SEARCH_THRESHOLD = 800;
@@ -39,8 +39,10 @@ const COMPARATORS = [
     (a, b) => b.format - a.format,
 ];
 
-// Scroll when novels loaded
-let hashFragment = window.location.hash.substring(1) || null;
+const GROUP_FORMAT = new Intl.DateTimeFormat(undefined, {
+    year: 'numeric',
+    month: 'long',
+});
 
 const storage = (() => {
     try {
@@ -60,6 +62,9 @@ settings.series ??= [];
 settings.publisher ??= [];
 settings.format ??= [PHYSICAL, DIGITAL, PHYSICAL_DIGITAL];
 storage?.setItem('settings', JSON.stringify(settings));
+
+// Scroll when novels loaded
+let hashFragment = window.location.hash.substring(1) || null;
 
 function dateFilter() {
     const now = new Date();
@@ -86,14 +91,9 @@ class Novels extends Array {
                 !settings.publisher.includes(item))),
             format: new Set(settings.format),
         };
-
-        const groupFormat = new Intl.DateTimeFormat(undefined, {
-            year: 'numeric',
-            month: 'long',
-        });
         this.shown = 0;
         for (const item of data) {
-            const book = new Book(item, series, publishers, groupFormat, this.filters);
+            const book = new Book(item, series, publishers, this.filters);
             this.push(book);
             if (book.filter) {
                 this.shown++;
@@ -115,7 +115,7 @@ class Novels extends Array {
 }
 
 class Book {
-    constructor(item, series, publishers, groupFormat, filters) {
+    constructor(item, series, publishers, filters) {
         [this.serieskey, this.series] = series[item[0]];
         this.link = item[1];
         this.publisher = publishers[item[2]];
@@ -126,7 +126,7 @@ class Book {
         this.date = item[7];
         const date = new Date(this.date);
         this.time = date.getTime();
-        this.group = groupFormat.format(date);
+        this.group = GROUP_FORMAT.format(date);
         this.year = this.date.substring(0, 4);
         this.id = this.date.substring(0, 7);
         this.show = false;
@@ -400,21 +400,21 @@ function filterTable(novels) {
 }
 
 function sortTable(novels, index) {
-    const group = index === 0;
+    const newOrder = novels.order === index ? index : index + 5;
+    novels.sort(COMPARATORS[newOrder]);
+    rebuildTable(novels, index === 0);
+
     HEADERS[novels.order % COLUMNS].classList.remove('sort-desc', 'sort-asc');
-    const newClasses = HEADERS[index].classList;
-    if (novels.order === index) {
-        newClasses.remove('sort-desc');
-        newClasses.add('sort-asc');
-        index += COLUMNS;
-    } else {
+    const newClasses = HEADERS[index % COLUMNS].classList;
+    if (newOrder < COLUMNS) {
         newClasses.remove('sort-asc');
         newClasses.add('sort-desc');
+    } else {
+        newClasses.remove('sort-desc');
+        newClasses.add('sort-asc');
     }
-    novels.order = index;
+    novels.order = newOrder;
 
-    novels.sort(COMPARATORS[index]);
-    rebuildTable(novels, group);
 }
 
 function initSort(novels) {
@@ -933,7 +933,8 @@ fetch('data.json')
     .then(response => response.json())
     .then(data => {
         const novels = new Novels(data);
-        return new Promise(resolve => setTimeout(() => resolve(novels)));
+        return new Promise(resolve =>
+            setTimeout(() => resolve(novels)));
     })
     .then(novels => {
         for (const book of novels) book.norm();
