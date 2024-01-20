@@ -175,6 +175,7 @@ Mar 14|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magicia
 Mar 15|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 Mar 15|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-7 "J-Novel Club")|6|J-Novel Club|🖥️|
 Mar 18|[Full Clearing Another World under a Goddess with Zero Believers](https://j-novel.club/series/full-clearing-another-world-under-a-goddess-with-zero-believers#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+Mar 18|[I Don't Want to Be the Dragon Duke's Maid! Serving My Ex-Fiancé from My Past Life](https://j-novel.club/series/i-don-t-want-to-be-the-dragon-duke-s-maid-serving-my-ex-fianc-from-my-past-life#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Mar 18|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Mar 19|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373191-agents-of-the-four-seasons-vol-2-dance-of-spring-part-ii "Yen Press")|2|Yen Press|🖥️📖|
 Mar 19|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975367619-alya-sometimes-hides-her-feelings-in-russian-vol-4-5 "Yen Press")|4.5|Yen Press|🖥️📖|
@@ -202,9 +203,11 @@ Mar 20|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance
 Mar 20|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 Mar 20|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 Mar 22|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+Mar 25|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Mar 25|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 Mar 26|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 Mar 28|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+Mar 29|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Mar 29|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 Mar 29|[A Young Lady Finds Her True Calling Living with the Enemy](https://crossinfworld.com/A-Young-Lady-Finds-Her-True-Calling-Living-with-the-Enemy-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 Mar 29|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
@@ -218,6 +221,7 @@ Date|Series|Volume|Publisher|Type|
 Apr 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 Apr 02|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+Apr 04|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Apr 05|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 Apr 05|[You Like Me, Not My Daughter?!](https://j-novel.club/series/you-like-me-not-my-daughter#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 Apr 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
@@ -250,7 +254,9 @@ Apr 23|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainm
 Apr 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 Apr 23|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 Apr 24|[The Exiled Noble Rises as the Holy King: Befriending Fluffy Beasts and a Holy Maiden with My Ultimate Cheat Skill!](https://j-novel.club/series/the-exiled-noble-rises-as-the-holy-king-befriending-fluffy-beasts-and-a-holy-maiden-with-my-ultimate-cheat-skill#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+Apr 26|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Apr 26|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+Apr 26|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Apr 29|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 Apr 29|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 Apr 29|[Only the Villainous Lord Wields the Power to Level Up](https://j-novel.club/series/only-the-villainous-lord-wields-the-power-to-level-up#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -374,6 +380,7 @@ Date|Series|Volume|Publisher|Type|
 ---|---|---|---|---|
 Sep 03|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 Sep 03|[The World's Fastest Level Up](https://sevenseasentertainment.com/books/the-worlds-fastest-level-up-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
+Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745904/my-unique-skill-makes-me-op-even-at-level-1-vol-6-light-novel-by-miki-nazuna/9781647293420 "Kodansha")|6|Kodansha|📖|
 Sep 24|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767833/my-unique-skill-makes-me-op-even-at-level-1-vol-7-light-novel-by-miki-nazuna/9781647293796 "Kodansha")|7|Kodansha|📖|
 
 ### October
