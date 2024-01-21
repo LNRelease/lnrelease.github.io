@@ -45,7 +45,7 @@ tbody th::after {
     position: absolute;
     left: 0;
     width: 100%;
-    border-top: 1px solid $color-border;
+    border-top: 1.8px solid $color-border;
 }
 
 th.sort::before,
@@ -226,8 +226,6 @@ tbody th::after {
     height: 1.2em;
     width: 1.2em;
     cursor: pointer;
-    text-align: center;
-    font-size: 1.2em;
     border-radius: 20%;
     transition: background-color 0.2s;
 }
@@ -246,22 +244,21 @@ tbody th::after {
     opacity: .2;
 }
 
-.star {
-    display: flex;
+.star-btn {
     visibility: hidden;
     position: absolute;
     top: 0;
     right: 0;
-    bottom: 2px;
-    align-items: center;
+    bottom: 0;
+    margin: auto;
+    height: 1.4em;
+    width: 1.4em;
     cursor: pointer;
-    -webkit-user-select: none;
-    user-select: none;
     opacity: 0;
     transition: all .2s;
 }
 
-td:hover .star {
+td:hover .star-btn {
     visibility: visible;
     opacity: .1;
 }

@@ -236,12 +236,10 @@ function createRow(book) {
     a.href = book.link;
     a.textContent = book.title;
     const span = document.createElement('span');
-    span.textContent = '⭐';
     span.title = '';
     span.dataset.series = book.serieskey;
-    span.classList.add('star');
-    if (book.filters.star)
-        span.classList.add('star-active');
+    span.classList.add('star', 'star-btn',
+        book.filters.star ? 'star-active' : null);
     cell1.append(a, span);
 
     const cell2 = book.row.insertCell(2);
@@ -334,6 +332,7 @@ function rebuildTable(novels, group = null) {
     novels.grouped = group;
     group &= novels.shown > GROUP_THRESHOLD;
 
+    novels.shown = 0;
     for (const book of novels) {
         if (!book.show)
             continue;
@@ -350,6 +349,7 @@ function rebuildTable(novels, group = null) {
             rows.set(i++, createGroup(book.group, book.id));
         }
         rows.set(i++, book);
+        novels.shown++;
     }
     checkGroups(rows, groups, i - groupStart, year);
     redrawTable(novels, rows);
@@ -369,7 +369,6 @@ function searchBook(book, include, exclude) {
 
 function filterTable(novels) {
     const search = SEARCH.value;
-    novels.shown = 0;
     if (search) {
         const include = [];
         const exclude = [];
@@ -378,23 +377,17 @@ function filterTable(novels) {
             if (normWord)
                 (word[0][0] === '-' ? exclude : include).push(normWord);
         }
-        for (const book of novels) {
+        for (const book of novels)
             book.show = searchBook(book, include, exclude);
-            if (book.show) novels.shown++;
-        }
         if (novels.shown > SEARCH_THRESHOLD) {
             for (const book of novels) {
-                if (book.show && !book.filter) {
+                if (book.show && !book.filter)
                     book.show = false;
-                    novels.shown--;
-                }
             }
         }
     } else {
-        for (const book of novels) {
+        for (const book of novels)
             book.show = book.filter;
-            if (book.show) novels.shown++;
-        }
     }
     rebuildTable(novels);
 }
@@ -414,7 +407,6 @@ function sortTable(novels, index) {
         newClasses.add('sort-asc');
     }
     novels.order = newOrder;
-
 }
 
 function initSort(novels) {
@@ -433,8 +425,7 @@ function createStar(novels, serieskey, series) {
     text.textContent = series;
     text.classList.add('row-text');
     const btn = document.createElement('span');
-    btn.textContent = '⨉';
-    btn.classList.add('menu-btn');
+    btn.classList.add('menu-btn', 'cross');
     btn.addEventListener('click', e => {
         e.stopPropagation();
         unstarSeries(novels, serieskey, div);
@@ -457,7 +448,8 @@ function starSeries(novels, serieskey, series) {
         if (book.serieskey === serieskey) {
             book.filters.star = true;
             if (settings.star) book.filter = book.getFilter();
-            book.row?.querySelector('.star').classList.add('star-active');
+            book.row?.querySelector('.star-btn')
+                .classList.add('star-active');
         }
     }
     if (settings.star) filterTable(novels);
@@ -471,7 +463,8 @@ function unstarSeries(novels, serieskey, div) {
         if (book.serieskey === serieskey) {
             book.filters.star = false;
             if (settings.star) book.filter = false;
-            book.row?.querySelector('.star').classList.remove('star-active');
+            book.row?.querySelector('.star-btn')
+                .classList.remove('star-active');
         }
     }
     if (settings.star) filterTable(novels);
@@ -515,7 +508,7 @@ function initDate(novels) {
         for (const book of novels)
             book.filterDate(filter);
         filterTable(novels);
-        filter.start || filter.end ? th.add('filter') : th.remove('filter');
+        th.toggle('filter', filter.start || filter.end);
     }
 
     start.addEventListener('input', filter);
@@ -525,14 +518,14 @@ function initDate(novels) {
 function initTitle(novels) {
     const th = HEADERS[1].classList;
     document.getElementById('series')
-        .append(...Array.prototype.map.call(novels.series.values(),
+        .append(...Array.from(novels.series.values(),
             series => {
                 const option = document.createElement('option');
                 option.value = series;
                 return option;
             }));
     const search = document.getElementById('filter-search');
-    const add = document.getElementById('star-add');
+    const plus = document.getElementById('star-add');
     if (search.value || settings.star) th.add('filter');
 
     const series = new Map(novels.map(book => [book.normSeries, book.serieskey]));
@@ -541,7 +534,6 @@ function initTitle(novels) {
         const normValue = norm(value);
         const key = series.get(normValue);
         if (key) {
-            add.classList.remove('disabled');
             for (const book of novels) {
                 const old = book.filters.title;
                 book.filters.title = key === book.serieskey;
@@ -549,7 +541,6 @@ function initTitle(novels) {
                     book.filter = !old && book.getFilter();
             }
         } else {
-            add.classList.add('disabled');
             let regex;
             try {
                 regex = new RegExp(value, 'i');
@@ -568,9 +559,10 @@ function initTitle(novels) {
             }
         }
         filterTable(novels);
-        value ? th.add('filter') : th.remove('filter');
+        plus.classList.toggle('disabled', !key);
+        th.toggle('filter', value);
     });
-    add.addEventListener('click', () => {
+    plus.addEventListener('click', () => {
         const key = series.get(norm(search.value));
         if (key) starSeries(novels, key, novels.series.get(key));
     });
@@ -582,7 +574,7 @@ function initTitle(novels) {
             book.filter = !settings.star ? book.getFilter()
                 : book.filter && book.filters.star;
         filterTable(novels);
-        settings.star ? th.add('filter') : th.remove('filter');
+        th.toggle('filter', settings.star);
     });
     for (const key of settings.series) {
         const series = novels.series.get(key);
@@ -602,7 +594,7 @@ function initTitle(novels) {
                     book.filters.title = true;
                     book.filters.star = false;
                     book.filter = book.getFilter();
-                    book.row?.querySelector('.star')
+                    book.row?.querySelector('.star-btn')
                         .classList.remove('star-active');
                 }
             }
@@ -639,7 +631,7 @@ function initVolume(novels) {
         for (const book of novels)
             book.filterVolume(filter);
         filterTable(novels);
-        filter.start || filter.end ? th.add('filter') : th.remove('filter');
+        th.toggle('filter', filter.start || filter.end);
     }
     start.addEventListener('input', filter);
     end.addEventListener('input', filter);
@@ -647,7 +639,7 @@ function initVolume(novels) {
 
 function initPublisher(novels) {
     const th = HEADERS[3].classList;
-    const select = document.getElementById('pub-select')
+    const select = document.getElementById('pub-select').classList;
     const menu = document.getElementById('menu-pub');
 
     let checked = false;
@@ -667,7 +659,6 @@ function initPublisher(novels) {
         label.append(checkbox, publisher);
         menu.appendChild(label);
         checkbox.addEventListener('change', e => {
-            select.textContent = boxes.every(box => !box.checked) ? '☐' : '🗹';
             const checked = e.target.checked;
             checked ? novels.filters.publisher.add(publisher)
                 : novels.filters.publisher.delete(publisher);
@@ -679,18 +670,17 @@ function initPublisher(novels) {
                 }
             }
             filterTable(novels);
-            boxes.some(box => !box.checked) ? th.add('filter')
-                : th.remove('filter');
+            select.toggle('check', boxes.some(box => box.checked));
+            th.toggle('filter', boxes.some(box => !box.checked));
         });
         return checkbox;
     });
 
     if (filter) th.add('filter');
-    select.textContent = checked ? '🗹' : '☐';
+    if (checked) select.add('check');
     document.getElementById('pub-select')
         .addEventListener('click', () => {
-            const b = select.textContent === '☐'
-            select.textContent = b ? '🗹' : '☐';
+            const b = !select.contains('check');
             for (const box of boxes)
                 box.checked = b;
             b ? novels.filters.publisher = new Set(novels.publishers)
@@ -702,13 +692,13 @@ function initPublisher(novels) {
                 }
             }
             filterTable(novels);
-            b ? th.remove('filter') : th.add('filter');
+            select.toggle('check');
+            th.toggle('filter', !b);
         });
     document.getElementById('pub-reset')
         .addEventListener('click', () => {
             for (const box of boxes)
                 box.checked = true;
-            select.textContent = '🗹';
             novels.filters.publisher = new Set(novels.publishers);
             for (const book of novels) {
                 if (!book.filters.publisher) {
@@ -717,6 +707,7 @@ function initPublisher(novels) {
                 }
             }
             filterTable(novels);
+            select.add('check');
             th.remove('filter');
         });
 }
@@ -724,7 +715,7 @@ function initPublisher(novels) {
 function initFormat(novels) {
     const th = HEADERS[4].classList;
     const menu = document.getElementById('menu-format');
-    const select = document.getElementById('format-select');
+    const select = document.getElementById('format-select').classList;
 
     let checked = false;
     let filter = false;
@@ -751,7 +742,6 @@ function initFormat(novels) {
             box.checked = check;
 
             box.addEventListener('change', e => {
-                select.textContent = boxes.every(box => !box[0].checked) ? '☐' : '🗹';
                 const checked = e.target.checked;
                 checked ? novels.filters.format.add(format)
                     : novels.filters.format.delete(format);
@@ -763,18 +753,17 @@ function initFormat(novels) {
                     }
                 }
                 filterTable(novels);
-                boxes.some(box => !box[0].checked) ? th.add('filter')
-                    : th.remove('filter');
+                select.toggle('check', boxes.some(box => box[0].checked));
+                th.toggle('filter', boxes.some(box => !box[0].checked));
             });
             return [box, format];
         });
 
     if (filter) th.add('filter');
-    select.textContent = checked ? '🗹' : '☐';
+    if (checked) select.add('check');
     document.getElementById('format-select')
         .addEventListener('click', () => {
-            const b = select.textContent === '☐'
-            select.textContent = b ? '🗹' : '☐';
+            const b = !select.contains('check');
             for (const [box, _] of boxes)
                 box.checked = b;
             b ? novels.filters.format = new Set(boxes.map(a => a[1]))
@@ -786,7 +775,8 @@ function initFormat(novels) {
                 }
             }
             filterTable(novels);
-            b ? th.remove('filter') : th.add('filter');
+            select.toggle('check');
+            th.toggle('filter', !b);
         });
     document.getElementById('format-reset')
         .addEventListener('click', () => {
@@ -798,12 +788,11 @@ function initFormat(novels) {
                 box.checked = b;
                 b ? filter.add(format) : filter.delete(format);
             }
-            select.textContent = tick ? '🗹' : '☐';
             for (const book of novels)
                 book.filterFormat(filter);
             filterTable(novels);
-            boxes.some(box => !box[0].checked) ? th.add('filter')
-                : th.remove('filter');
+            select.toggle('check', filter);
+            th.toggle('filter', boxes.some(box => !box[0].checked));
         });
 }
 
@@ -898,11 +887,11 @@ function initFilter(novels) {
 
     TBODY.addEventListener('click', e => {
         const target = e.target;
-        if (target.classList.contains('star'))
+        if (target.classList.contains('star-btn'))
             toggleStar(e.target);
     });
     TBODY.addEventListener('contextmenu', e => {
-        const target = e.target.closest('tr').querySelector('.star');
+        const target = e.target.closest('tr').querySelector('.star-btn');
         if (target) {
             toggleStar(target);
             e.preventDefault();

@@ -20,7 +20,7 @@ description: Automated light novel release calendar.
           <input type="date" id="date-start" name="start" min="0001-01-01" max="9999-12-31">
           -
           <input type="date" id="date-end" name="end" min="0001-01-01" max="9999-12-31">
-          <span id="date-reset" class="menu-btn">⭮</span>
+          <span id="date-reset" class="menu-btn reset"></span>
         </div>
       </th>
       <th class="sort">
@@ -28,13 +28,13 @@ description: Automated light novel release calendar.
         <div class="sort-btn"><span class="sort-icon"></span></div>
         <div class="sort-menu sort-list" id="menu-title">
           <div class="list-row">
-            <label><input id="star" type="checkbox">⭐Filter Starred</label>
-            <span id="title-reset" class="menu-btn">⭮</span>
+            <label><input id="star" type="checkbox"><span class="star"></span>Filter Starred</label>
+            <span id="title-reset" class="menu-btn reset"></span>
           </div>
           <div class="list-row list-border">
             <input id="filter-search" type="search" list="series">
             <datalist id="series"></datalist>
-            <span id="star-add" class="menu-btn disabled">🞢</span>
+            <span id="star-add" class="menu-btn plus disabled"></span>
           </div>
           <div id="stars"></div>
         </div>
@@ -46,7 +46,7 @@ description: Automated light novel release calendar.
           <input type="text" id="vol-start" name="start" placeholder="0">
           -
           <input type="text" id="vol-end" name="end" placeholder="Z">
-          <span id="vol-reset" class="menu-btn">⭮</span>
+          <span id="vol-reset" class="menu-btn reset"></span>
         </div>
       </th>
       <th class="sort">
@@ -54,8 +54,8 @@ description: Automated light novel release calendar.
         <div class="sort-btn"><span class="sort-icon"></span></div>
         <div class="sort-menu sort-list" id="menu-pub">
           <div class="list-row list-border">
-            <span id="pub-select" class="menu-btn">🗹</span>
-            <span id="pub-reset" class="menu-btn">⭮</span>
+            <span id="pub-select" class="menu-btn box check"></span>
+            <span id="pub-reset" class="menu-btn reset"></span>
           </div>
         </div>
       </th>
@@ -64,8 +64,8 @@ description: Automated light novel release calendar.
         <div class="sort-btn"><span class="sort-icon"></span></div>
         <div class="sort-menu sort-list" id="menu-format">
           <div class="list-row list-border">
-            <span id="format-select" class="menu-btn">🗹</span>
-            <span id="format-reset" class="menu-btn">⭮</span>
+            <span id="format-select" class="menu-btn box check"></span>
+            <span id="format-reset" class="menu-btn reset"></span>
           </div>
           <label><input type="checkbox" name="format" value="physical" checked>📖</label>
           <label><input type="checkbox" name="format" value="digital" checked>🖥️</label>

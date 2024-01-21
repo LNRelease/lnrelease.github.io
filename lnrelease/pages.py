@@ -40,13 +40,13 @@ def main() -> None:
         start = end
 
     releases.sort(key=lambda x: x.serieskey)
-    series = {x.key: (i, x.title) for i, x in enumerate(sorted(Table(SERIES, Series)))}
-    publishers = {x: i for i, x in enumerate(sorted(set(x.publisher for x in releases)))}
+    table = {x.key: x.title for x in Table(SERIES, Series)}
+    series = {x: i for i, x in enumerate(sorted({x.serieskey for x in releases}))}
+    publishers = {x: i for i, x in enumerate(sorted({x.publisher for x in releases}))}
     formats = {x: i for i, x in enumerate(Format)}
-    jsn = {
-           'series': [[key, title] for key, (_, title) in series.items()],
+    jsn = {'series': [[key, table[key]] for key in series],
            'publishers': list(publishers),
-           'data': [[series[x.serieskey][0],
+           'data': [[series[x.serieskey],
                      x.link,
                      publishers[x.publisher],
                      x.name,
