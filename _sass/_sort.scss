@@ -1,17 +1,18 @@
 .length,
 .search {
     display: table-cell;
-    padding: 0 2px 6px;
+    padding-bottom: .4em;
     white-space: nowrap;
 }
 
 .search {
+    padding-left: 2em;
     width: 100%;
     text-align: right;
 }
 
 #search {
-    margin-left: 4px;
+    margin-left: .25em;
     width: 80%;
     max-width: 24em;
 }
@@ -177,6 +178,11 @@ tbody th::after {
 #menu-title {
     width: 32em;
     max-width: 100%;
+}
+
+#menu-title .star {
+    height: 1.4em;
+    width: 1.4em;
 }
 
 #menu-title>.list-border>input {

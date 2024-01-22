@@ -48,13 +48,19 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
 
-      - name: Setup compression
-        run : sudo apt-get install -y zopfli brotli
-
-      - name: Precompress files
+      - name: Minify
         run: >-
-          find _site/ -type f -iregex '.+\.\(html\|css\|js\|json\)'
-          -exec sudo zopfli {} \; -exec sudo brotli {} \;
+          npm install terser html-minifier-terser -g;
+          sudo chown -R $USER _site/;
+          terser _site/assets/js/script.js
+          -o _site/assets/js/script.js -c -m --module;
+          html-minifier-terser
+          --collapse-whitespace
+          --remove-comments
+          --remove-redundant-attributes
+          --file-ext html
+          --input-dir _site/
+          --output-dir _site/;
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -5,12 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
-<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}">
 </head>
 <body>
 {% if site.title and site.title != page.title %}
-<h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+<h1><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
 {% endif %}
 {{ content }}
 </body>
