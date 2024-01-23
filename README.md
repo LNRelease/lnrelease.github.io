@@ -59,7 +59,6 @@ Jan 30|[Hell Mode](https://yenpress.com/titles/9781975368517-hell-mode-vol-3-the
 Jan 30|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369484-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 Jan 30|[Irina: The Vampire Cosmonaut](https://sevenseasentertainment.com/books/irina-the-vampire-cosmonaut-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 Jan 30|[Looks Are All You Need](https://yenpress.com/titles/9781975388935-looks-are-all-you-need-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-Jan 30|[My Pet is a Saintess](https://hanashi.media/my-pet-is-a-saintess/ "Hanashi Media")|1|Hanashi Media|🖥️|
 Jan 30|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
 Jan 30|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975372583-the-angel-next-door-spoils-me-rotten-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 Jan 30|[The Dark Guildmaster's Smile Would Fit Best](https://hanashi.media/the-dark-guildmasters-smile-would-fit-best/ "Hanashi Media")|1|Hanashi Media|🖥️|
@@ -92,9 +91,10 @@ Feb 09|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston
 Feb 09|[Sword Saint Adel's Second Chance](https://j-novel.club/series/sword-saint-adel-s-second-chance#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Feb 12|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Feb 13|[The Dawn of the Witch](https://kodansha.us/product/the-dawn-of-the-witch-novel-5 "Kodansha")|5|Kodansha|🖥️📖|
-Feb 13|[The Death Mage](https://legacy.rightstufanime.com/The-Death-Mage-Novel-Volume-4 "One Peace Books")|4|One Peace Books|📖|
+Feb 13|[The Death Mage](https://legacy.rightstufanime.com/The-Death-Mage-Novel-Volume-4 "One Peace Books")|4|One Peace Books|🖥️📖|
 Feb 14|[I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness](https://j-novel.club/series/i-m-giving-the-disgraced-noble-lady-i-rescued-a-crash-course-in-naughtiness#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 Feb 15|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+Feb 15|[My Pet is a Saintess](https://hanashi.media/my-pet-is-a-saintess/ "Hanashi Media")|1|Hanashi Media|🖥️|
 Feb 15|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️|
 Feb 16|[BLADE & BASTARD: Return of The Hrathnir](https://j-novel.club/series/blade-bastard#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 Feb 19|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -271,6 +271,7 @@ Apr 30|[Rising from Ashes: My Dear Emperor, You're Putty in My Hands!](https://c
 
 Date|Series|Volume|Publisher|Type|
 ---|---|---|---|---|
+May 02|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 May 07|[The Wrong Way to Use Healing Magic](https://legacy.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-4 "One Peace Books")|4|One Peace Books|📖|
 May 08|[Seventh](https://j-novel.club/series/seventh#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
