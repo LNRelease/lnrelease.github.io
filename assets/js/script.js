@@ -13,6 +13,7 @@ const BODY = document.body;
 const TABLE = document.getElementById('table');
 const TBODY = TABLE.querySelector('tbody');
 const SHOWN = document.getElementById('shown');
+const TOTAL = document.getElementById('total');
 const SEARCH = document.getElementById('search');
 const HEADERS = TABLE.querySelectorAll('.sort');
 const LOADING = document.getElementById('loading');
@@ -81,7 +82,7 @@ function norm(s) {
 
 
 class Novels extends Array {
-    constructor({ series, publishers, data }) {
+    constructor(series, publishers) {
         super();
         this.filters = {
             date: dateFilter(),
@@ -92,6 +93,16 @@ class Novels extends Array {
             format: new Set(settings.format),
         };
         this.shown = 0;
+        this.order = settings.order;
+        this.grouped = this.order % COLUMNS === 0;
+        this.publishers = publishers;
+        this.series = new Map(series);
+        this.normSeries = undefined;
+        this.stars = new Map();
+        this.updater = undefined;
+    }
+
+    pushYear(data, series, publishers) {
         for (const item of data) {
             const book = new Book(item, series, publishers, this.filters);
             this.push(book);
@@ -100,15 +111,6 @@ class Novels extends Array {
                 book.show = true;
             }
         }
-        // Set the opposite
-        this.order = (settings.order + COLUMNS) % (COLUMNS * 2);
-        this.grouped = true;
-        this.updater = undefined;
-        this.publishers = publishers;
-        this.series = new Map(series);
-        this.stars = new Map();
-        sortTable(this, this.order % COLUMNS);
-        document.getElementById('total').textContent = this.length;
     }
 
     static get [Symbol.species]() { return Array; }
@@ -150,8 +152,8 @@ class Book {
         this.search = undefined;
     }
 
-    norm() { // Takes a little time
-        this.normSeries = norm(this.series);
+    norm(series) { // Takes a little time
+        this.normSeries = series.get(this.serieskey);
         this.normTitle = norm(this.title);
         let format;
         switch (this.format) {
@@ -165,7 +167,7 @@ class Book {
                 format = 'physical|digital';
                 break;
             case AUDIOBOOK:
-                format = 'audiobook'
+                format = 'audiobook';
                 break;
         }
         this.search = `${this.normTitle}|${this.normSeries}|${this.volume}|${format}`;
@@ -235,12 +237,12 @@ function createRow(book) {
     const a = document.createElement('a');
     a.href = book.link;
     a.textContent = book.title;
-    const span = document.createElement('span');
-    span.title = '';
-    span.dataset.series = book.serieskey;
-    span.classList.add('star', 'star-btn',
+    const star = document.createElement('span');
+    star.title = '';
+    star.dataset.series = book.serieskey;
+    star.classList.add('star', 'star-btn',
         book.filters.star ? 'star-active' : null);
-    cell1.append(a, span);
+    cell1.append(a, star);
 
     const cell2 = book.row.insertCell(2);
     cell2.textContent = book.volume;
@@ -324,7 +326,7 @@ async function redrawTable(novels, rows) {
     }
 }
 
-function rebuildTable(novels, group = null) {
+async function rebuildTable(novels, group = null) {
     let i = 0;
     let groupStart, groupName, groups, year;
     const rows = new Map();
@@ -352,7 +354,7 @@ function rebuildTable(novels, group = null) {
         novels.shown++;
     }
     checkGroups(rows, groups, i - groupStart, year);
-    redrawTable(novels, rows);
+    await redrawTable(novels, rows);
 }
 
 function searchBook(book, include, exclude) {
@@ -398,7 +400,7 @@ function sortTable(novels, index) {
     rebuildTable(novels, index === 0);
 
     HEADERS[novels.order % COLUMNS].classList.remove('sort-desc', 'sort-asc');
-    const newClasses = HEADERS[index % COLUMNS].classList;
+    const newClasses = HEADERS[index].classList;
     if (newOrder < COLUMNS) {
         newClasses.remove('sort-asc');
         newClasses.add('sort-desc');
@@ -432,7 +434,7 @@ function createStar(novels, serieskey, series) {
     });
     div.append(text, btn);
     let next;
-    for (const [key, value] of novels.stars.entries()) {
+    for (const [key, value] of novels.stars) {
         if (serieskey < key) {
             next = value;
             break;
@@ -528,11 +530,10 @@ function initTitle(novels) {
     const plus = document.getElementById('star-add');
     if (search.value || settings.star) th.add('filter');
 
-    const series = new Map(novels.map(book => [book.normSeries, book.serieskey]));
     search.addEventListener('input', () => {
         const value = search.value;
         const normValue = norm(value);
-        const key = series.get(normValue);
+        const key = novels.normSeries.get(normValue);
         if (key) {
             for (const book of novels) {
                 const old = book.filters.title;
@@ -563,7 +564,7 @@ function initTitle(novels) {
         th.toggle('filter', value);
     });
     plus.addEventListener('click', () => {
-        const key = series.get(norm(search.value));
+        const key = novels.normSeries.get(norm(search.value));
         if (key) starSeries(novels, key, novels.series.get(key));
     });
 
@@ -918,23 +919,48 @@ function initSearch(novels) {
         filterTable(novels));
 }
 
-fetch('data.json')
-    .then(response => response.json())
-    .then(data => {
-        const novels = new Novels(data);
-        return new Promise(resolve =>
-            setTimeout(() => resolve(novels)));
-    })
-    .then(novels => {
-        for (const book of novels) book.norm();
-        initSort(novels);
-        initFilter(novels);
-        initSearch(novels);
-    })
-    .catch(error => {
-        console.log(error);
-        const row = TBODY.insertRow();
-        const cell = row.insertCell();
-        cell.textContent = `Error loading light novels: ${error}`;
-        cell.colSpan = COLUMNS;
-    });
+async function init() {
+    const response = await fetch('data.json');
+    const { total, series, publishers, years } = await response.json();
+
+    const novels = new Novels(series, publishers);
+    const filter = novels.filters.date;
+    const todo = [];
+    for (const year of Object.keys(years)) {
+        const start = Date.UTC(year);
+        const end = Date.UTC(year, 11, 31);
+        (filter.start > end || start > filter.end) ? todo.push(year)
+            : novels.pushYear(years[year], series, publishers);
+    }
+    novels.sort(COMPARATORS[novels.order]);
+    HEADERS[novels.order % COLUMNS].classList.add(
+        novels.order < COLUMNS ? 'sort-desc' : 'sort-asc');
+    TOTAL.textContent = total;
+    await rebuildTable(novels);
+    await new Promise(resolve => setTimeout(resolve));
+
+    for (const year of todo)
+        novels.pushYear(years[year], series, publishers);
+    novels.sort(COMPARATORS[novels.order]);
+    await new Promise(resolve => setTimeout(resolve));
+
+    const map = new Map();
+    for (const [key, name] of novels.series)
+        map.set(norm(name), key);
+    for (const book of novels)
+        book.norm(map);
+    novels.normSeries = new Map();
+    for (const [key, name] of map)
+        novels.normSeries.set(key, name);
+    initSort(novels);
+    initFilter(novels);
+    initSearch(novels);
+}
+
+init().catch (error => {
+    console.log(error);
+    const row = TBODY.insertRow();
+    const cell = row.insertCell();
+    cell.textContent = `Error loading light novels: ${error}`;
+    cell.colSpan = COLUMNS;
+});

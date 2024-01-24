@@ -1,6 +1,7 @@
 import datetime
 import json
 from bisect import bisect_right
+from itertools import groupby
 from operator import attrgetter
 from pathlib import Path
 
@@ -39,23 +40,25 @@ def main() -> None:
         write_page(releases[start:end], YEAR/f'{year}.md', f'# {year} {title}')
         start = end
 
-    releases.sort(key=lambda x: x.serieskey)
+    releases.sort(key=lambda x: (x.date.year, x.serieskey))
     table = {x.key: x.title for x in Table(SERIES, Series)}
     series = {x: i for i, x in enumerate(sorted({x.serieskey for x in releases}))}
     publishers = {x: i for i, x in enumerate(sorted({x.publisher for x in releases}))}
     formats = {x: i for i, x in enumerate(Format)}
-    jsn = {'series': [[key, table[key]] for key in series],
+    jsn = {'total': len(releases),
+           'series': [[key, table[key]] for key in series],
            'publishers': list(publishers),
-           'data': [[series[x.serieskey],
-                     x.link,
-                     publishers[x.publisher],
-                     x.name,
-                     x.volume,
-                     formats[x.format],
-                     x.isbn,
-                     str(x.date),
-                     ] for x in releases],
-           }
+           'years': {year: [
+               [series[x.serieskey],
+                x.link,
+                publishers[x.publisher],
+                x.name,
+                x.volume,
+                formats[x.format],
+                x.isbn,
+                str(x.date),
+                ] for x in g
+           ] for year, g in groupby(releases, key=lambda x: x.date.year)}}
     with open(DATA, 'w') as file:
         json.dump(jsn, file, separators=(',', ':'))
 
