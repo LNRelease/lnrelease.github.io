@@ -54,6 +54,7 @@ Jan 24|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-n
 Jan 25|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 Jan 25|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
 Jan 26|[D-Genesis](https://j-novel.club/series/d-genesis#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+Jan 29|[The Fruit of Evolution](https://hanashi.media/the-fruit-of-evolution/#:~:text=Volume%2008 "Hanashi Media")|8|Hanashi Media|🖥️|
 Jan 30|[Goblin Slayer Side Story II: Dai Katana](https://yenpress.com/titles/9781975376994-goblin-slayer-side-story-ii-dai-katana-vol-3-light-novel-the-singing-death "Yen Press")|3|Yen Press|🖥️📖|
 Jan 30|[Hell Mode](https://yenpress.com/titles/9781975368517-hell-mode-vol-3-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing "Yen Press")|3|Yen Press|📖|
 Jan 30|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369484-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
@@ -272,6 +273,7 @@ Apr 30|[Rising from Ashes: My Dear Emperor, You're Putty in My Hands!](https://c
 Date|Series|Volume|Publisher|Type|
 ---|---|---|---|---|
 May 02|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+May 03|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 May 07|[The Wrong Way to Use Healing Magic](https://legacy.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-4 "One Peace Books")|4|One Peace Books|📖|
 May 08|[Seventh](https://j-novel.club/series/seventh#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
