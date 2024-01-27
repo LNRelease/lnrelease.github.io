@@ -361,13 +361,34 @@ Date|Series|Volume|Publisher|Type|
 Jul 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 Jul 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-25 "J-Novel Club")|4|J-Novel Club|📖|
 Jul 08|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-4 "J-Novel Club")|4-6|J-Novel Club|📖|
+Jul 09|[Ascendance of a Bookworm: Part 5](https://yenpress.com/titles/9781718356252-ascendance-of-a-bookworm-part-5-volume-4 "Yen Press")|4|Yen Press|📖|
+Jul 09|[Full Metal Panic! Short Stories: Collector's Edition 2](https://yenpress.com/titles/9781718350816-full-metal-panic-short-stories-collector-s-edition-2 "Yen Press")|1|Yen Press|📖|
 Jul 09|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
+Jul 09|[Otherside Picnic: Omnibus 4](https://yenpress.com/titles/9781718360815-otherside-picnic-omnibus-4 "Yen Press")|1|Yen Press|📖|
 Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 Jul 16|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
+Jul 23|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373214-agents-of-the-four-seasons-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+Jul 23|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353032-associate-professor-akira-takatsuki-s-conjecture-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+Jul 23|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367749-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
+Jul 23|[Bride of the Barrier Master](https://yenpress.com/titles/9781975389116-bride-of-the-barrier-master-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+Jul 23|[Classroom for Heroes](https://yenpress.com/titles/9781975378707-classroom-for-heroes-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+Jul 23|[Ishura](https://yenpress.com/titles/9781975376697-ishura-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+Jul 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975361938-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
+Jul 23|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975370053-our-last-crusade-or-the-rise-of-a-new-world-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
+Jul 23|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378424-re-starting-life-in-another-world-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
 Jul 23|[Riku Can't Be a Goddess](https://sevenseasentertainment.com/books/riku-cant-be-a-goddess-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+Jul 23|[Sasaki and Peeps](https://yenpress.com/titles/9781975392727-sasaki-and-peeps-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 Jul 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/745919/saving-80000-gold-in-another-world-for-my-retirement-5-light-novel-by-funa/9781647293314 "Kodansha")|5|Kodansha|📖|
+Jul 23|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975389031-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
+Jul 23|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975392574-the-contract-between-a-specter-and-a-servant-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+Jul 23|[The Detective Is Already Dead](https://yenpress.com/titles/9781975388713-the-detective-is-already-dead-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
+Jul 23|[The Eminence in Shadow](https://yenpress.com/titles/9781975375256-the-eminence-in-shadow-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
+Jul 23|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975388331-the-executioner-and-her-way-of-life-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
+Jul 23|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975370817-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
+Jul 23|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975392451-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-7-novel "Yen Press")|7|Yen Press|🖥️📖|
 Jul 23|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+Jul 23|[The Trials of Chiyodaku](https://yenpress.com/titles/9781975392437-the-trials-of-chiyodaku-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 Jul 30|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 Jul 30|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
