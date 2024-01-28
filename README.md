@@ -372,6 +372,7 @@ Jul 23|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373214-ag
 Jul 23|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353032-associate-professor-akira-takatsuki-s-conjecture-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 Jul 23|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367749-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 Jul 23|[Bride of the Barrier Master](https://yenpress.com/titles/9781975389116-bride-of-the-barrier-master-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+Jul 23|[Bungo Stray Dogs Side Story: Yukito Ayatsuji vs. Natsuhiko Kyogoku: Yukito Ayatsuji vs. Natsuhiko Kyogoku](https://yenpress.com/titles/9781975390945-bungo-stray-dogs-side-story-yukito-ayatsuji-vs-natsuhiko-kyogoku-light-novel-yukito-ayatsuji-vs-natsuhiko-kyogoku "Yen Press")|1|Yen Press|📖|
 Jul 23|[Classroom for Heroes](https://yenpress.com/titles/9781975378707-classroom-for-heroes-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 Jul 23|[Ishura](https://yenpress.com/titles/9781975376697-ishura-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 Jul 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975361938-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
