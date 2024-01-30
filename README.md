@@ -51,9 +51,11 @@ Jan 23|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/978
 Jan 24|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 Jan 24|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 Jan 24|[My Daughter Left the Nest and Returned an S-Rank Adventurer](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+Jan 24|[Revolutionary Reprise of the Blue Rose Princess](https://crossinfworld.com/Revolutionary-Reprise-of-the-Blue-Rose-Princess-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|📖|
 Jan 25|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 Jan 25|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
 Jan 26|[D-Genesis](https://j-novel.club/series/d-genesis#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+Jan 27|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|📖|
 Jan 29|[The Fruit of Evolution](https://hanashi.media/the-fruit-of-evolution/#:~:text=Volume%2008 "Hanashi Media")|8|Hanashi Media|🖥️|
 Jan 30|[Goblin Slayer Side Story II: Dai Katana](https://yenpress.com/titles/9781975376994-goblin-slayer-side-story-ii-dai-katana-vol-3-light-novel-the-singing-death "Yen Press")|3|Yen Press|🖥️📖|
 Jan 30|[Hell Mode](https://yenpress.com/titles/9781975368517-hell-mode-vol-3-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing "Yen Press")|3|Yen Press|📖|
@@ -267,6 +269,7 @@ Apr 30|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Wors
 Apr 30|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 Apr 30|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|📖|
 Apr 30|[I Reincarnated As Evil Alice, So the Only Thing I'm Courting Is Death!](https://crossinfworld.com/I-Reincarnated-As-Evil-Alice-So-the-Only-Thing-Im-Courting-Is-Death-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
+Apr 30|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 Apr 30|[Rising from Ashes: My Dear Emperor, You're Putty in My Hands!](https://crossinfworld.com/Rising-from-Ashes-My-Dear-Emperor-You-are-Putty-in-My-Hands-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 
 ### May
@@ -274,6 +277,7 @@ Apr 30|[Rising from Ashes: My Dear Emperor, You're Putty in My Hands!](https://c
 Date|Series|Volume|Publisher|Type|
 ---|---|---|---|---|
 May 02|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+May 02|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 May 03|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 May 06|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
@@ -284,6 +288,7 @@ May 10|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grie
 May 10|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-7 "J-Novel Club")|4|J-Novel Club|🖥️|
 May 12|[I Guess This Dragon Who Lost Her Egg to Disaster Is My Mom Now](https://crossinfworld.com/I-Guess-This-Dragon-Who-Lost-Her-Egg-to-Disaster-Is-My-Mom-Now-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 May 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-24 "J-Novel Club")|3|J-Novel Club|📖|
+May 13|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 May 13|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
