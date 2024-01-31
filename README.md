@@ -70,6 +70,7 @@ Jan 31|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the
 Jan 31|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 Jan 31|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 Jan 31|[The Abandoned Heiress Gets Rich with Alchemy and Scores an Enemy General!](https://crossinfworld.com/The-Abandoned-Heiress-Gets-Rich-with-Alchemy-and-Scores-an-Enemy-General-Vol-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
+Jan 31|[The Wrong Way to Use Healing Magic](https://global.bookwalker.jp/de3b5c3073-35b5-4b9e-a1d0-dc3c28c25d45/ "One Peace Books")|3|One Peace Books|🖥️|
 
 ### February
 
@@ -249,6 +250,7 @@ Apr 16|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374
 Apr 16|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-5 "Dark Horse")|13-15|Dark Horse|📖|
 Apr 16|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368678-wandering-witch-the-journey-of-elaina-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 Apr 16|[You Can't See the Snow](https://yenpress.com/titles/9781975379582-you-can-t-see-the-snow "Yen Press")|1|Yen Press|🖥️📖|
+Apr 19|[Safe & Sound in the Arms of an Elite Knight](https://j-novel.club/series/safe-sound-in-the-arms-of-an-elite-knight#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 Apr 19|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 Apr 22|[Jeanette the Genius: Defying My Evil Stepmother by Starting a Business with My Ride-or-Die Fiancé!](https://j-novel.club/series/jeanette-the-genius-defying-my-evil-stepmother-by-starting-a-business-with-my-ride-or-die-fianc#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 Apr 23|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347970-chitose-is-in-the-ramune-bottle-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
@@ -278,6 +280,7 @@ Date|Series|Volume|Publisher|Type|
 ---|---|---|---|---|
 May 02|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 May 02|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+May 03|[Marriage, Divorce, and Beyond: The White Mage and Black Knight's Romance Reignited](https://j-novel.club/series/marriage-divorce-and-beyond-the-white-mage-and-black-knight-s-romance-reignited#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 May 03|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 May 06|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
@@ -331,6 +334,7 @@ Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13 "J-Novel Club")|1
 Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 Jun 11|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/745908/the-dawn-of-the-witch-6-light-novel-by-kakeru-kobashiri/9781647293482 "Kodansha")|6|Kodansha|📖|
 Jun 11|[True Love Fades Away When the Contract Ends – One Star in the Night Sky](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+Jun 17|[D-Genesis](https://j-novel.club/series/d-genesis#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 Jun 18|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 Jun 18|[Black Summoner](https://yenpress.com/titles/9781975392215-black-summoner-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
 Jun 18|[Canine Detective Chris](https://yenpress.com/titles/9781975390983-canine-detective-chris-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
