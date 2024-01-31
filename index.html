@@ -10,75 +10,80 @@ description: Automated light novel release calendar.
 </noscript>
 <div class="length">Showing <span id="shown">0</span> of <span id="total">0</span></div>
 <label class="search">Search:<input id="search" type="search"></label>
-<table id="table">
-  <thead>
-    <tr>
-      <th class="sort">
-        Date
-        <div class="sort-btn"><span class="sort-icon"></span></div>
-        <div class="sort-menu sort-input" id="menu-date">
-          <input type="date" id="date-start" name="start" min="0001-01-01" max="9999-12-31">
-          -
-          <input type="date" id="date-end" name="end" min="0001-01-01" max="9999-12-31">
-          <span id="date-reset" class="menu-btn reset"></span>
+<div id="table">
+  <div id="headers" class="sticky">
+    <div class="sort">
+      Date
+      <div class="sort-btn"><span class="sort-icon"></span></div>
+      <div class="sort-menu sort-input" id="menu-date">
+        <input type="date" id="date-start" name="start" min="0001-01-01" max="9999-12-31">
+        -
+        <input type="date" id="date-end" name="end" min="0001-01-01" max="9999-12-31">
+        <span id="date-reset" class="menu-btn reset"></span>
+      </div>
+    </div>
+    <div class="sort">
+      Title
+      <div class="sort-btn"><span class="sort-icon"></span></div>
+      <div class="sort-menu sort-list" id="menu-title">
+        <div class="list-row">
+          <label><input id="star" type="checkbox"><span class="star"></span>Filter Starred</label>
+          <span id="title-reset" class="menu-btn reset"></span>
         </div>
-      </th>
-      <th class="sort">
-        Title
-        <div class="sort-btn"><span class="sort-icon"></span></div>
-        <div class="sort-menu sort-list" id="menu-title">
-          <div class="list-row">
-            <label><input id="star" type="checkbox"><span class="star"></span>Filter Starred</label>
-            <span id="title-reset" class="menu-btn reset"></span>
-          </div>
-          <div class="list-row list-border">
-            <input id="filter-search" type="search" list="series">
-            <datalist id="series"></datalist>
-            <span id="star-add" class="menu-btn plus disabled"></span>
-          </div>
-          <div id="stars"></div>
+        <div class="list-row list-border">
+          <input id="filter-search" type="search" list="series">
+          <datalist id="series"></datalist>
+          <span id="star-add" class="menu-btn plus disabled"></span>
         </div>
-      </th>
-      <th class="sort">
-        Vol
-        <div class="sort-btn"><span class="sort-icon"></span></div>
-        <div class="sort-menu sort-input" id="menu-vol">
-          <input type="text" id="vol-start" name="start" placeholder="0">
-          -
-          <input type="text" id="vol-end" name="end" placeholder="Z">
-          <span id="vol-reset" class="menu-btn reset"></span>
+        <div id="stars"></div>
+      </div>
+    </div>
+    <div class="sort">
+      Vol
+      <div class="sort-btn"><span class="sort-icon"></span></div>
+      <div class="sort-menu sort-input" id="menu-vol">
+        <input type="text" id="vol-start" name="start" placeholder="0">
+        -
+        <input type="text" id="vol-end" name="end" placeholder="Z">
+        <span id="vol-reset" class="menu-btn reset"></span>
+      </div>
+    </div>
+    <div class="sort">
+      Publisher
+      <div class="sort-btn"><span class="sort-icon"></span></div>
+      <div class="sort-menu sort-list" id="menu-pub">
+        <div class="list-row list-border">
+          <span id="pub-select" class="menu-btn box check"></span>
+          <span id="pub-reset" class="menu-btn reset"></span>
         </div>
-      </th>
-      <th class="sort">
-        Publisher
-        <div class="sort-btn"><span class="sort-icon"></span></div>
-        <div class="sort-menu sort-list" id="menu-pub">
-          <div class="list-row list-border">
-            <span id="pub-select" class="menu-btn box check"></span>
-            <span id="pub-reset" class="menu-btn reset"></span>
-          </div>
+      </div>
+    </div>
+    <div class="sort">
+      Type
+      <div class="sort-btn"><span class="sort-icon"></span></div>
+      <div class="sort-menu sort-list" id="menu-format">
+        <div class="list-row list-border">
+          <span id="format-select" class="menu-btn box check"></span>
+          <span id="format-reset" class="menu-btn reset"></span>
         </div>
-      </th>
-      <th class="sort">
-        Type
-        <div class="sort-btn"><span class="sort-icon"></span></div>
-        <div class="sort-menu sort-list" id="menu-format">
-          <div class="list-row list-border">
-            <span id="format-select" class="menu-btn box check"></span>
-            <span id="format-reset" class="menu-btn reset"></span>
-          </div>
-          <label><input type="checkbox" name="format" value="physical" checked>📖</label>
-          <label><input type="checkbox" name="format" value="digital" checked>🖥️</label>
-          <label><input type="checkbox" name="format" value="physical-digital" checked>🖥️📖</label>
-          <label><input type="checkbox" name="format" value="audiobook">🔊</label>
-        </div>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Table populated dynamically -->
-  </tbody>
-</table>
+        <label><input type="checkbox" name="format" value="physical" checked>📖</label>
+        <label><input type="checkbox" name="format" value="digital" checked>🖥️</label>
+        <label><input type="checkbox" name="format" value="physical-digital" checked>🖥️📖</label>
+        <label><input type="checkbox" name="format" value="audiobook">🔊</label>
+      </div>
+    </div>
+  </div>
+  <div id="rows">
+    <div id="pad">
+      <div></div>
+      <div id="calc"></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+    <!-- Rows populated dynamically -->
+  </div>
+</div>
 <span id="loading"></span>
 <link rel="preload" href="{{ '/data.json' | relative_url }}" as="fetch" type="application/json" crossorigin>
 <script src="{{ '/assets/js/script.js' | relative_url }}"></script>

@@ -50,10 +50,10 @@ jobs:
 
       - name: Minify
         run: >-
-          npm install terser html-minifier-terser -g;
+          npm install terser html-minifier-terser -g -q;
           sudo chown -R $USER _site/;
           terser _site/assets/js/script.js
-          -o _site/assets/js/script.js -c -m --module;
+          -o _site/assets/js/script.js -m --toplevel;
           html-minifier-terser
           --collapse-whitespace
           --remove-comments

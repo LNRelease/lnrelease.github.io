@@ -1,6 +1,7 @@
 table {
     position: relative;
     margin: 0 -16px;
+    width: 100%;
     border-collapse: collapse;
 }
 
@@ -20,8 +21,8 @@ tr:nth-child(2n) {
 
 th {
     z-index: 1;
-    padding: 4px;
     box-sizing: border-box;
+    padding: 4px;
     border: 1px solid $color-border;
     font-weight: $font-weight-bold;
     text-align: left;

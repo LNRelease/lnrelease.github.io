@@ -1,21 +1,25 @@
 const COLUMNS = 5;
-const CHUNK_SIZE = 128;
+const CHUNK_SIZE = 512;
 const GROUP_THRESHOLD = 40;
 const YEAR_THRESHOLD = 24;
 const SEARCH_THRESHOLD = 800;
+
+const HEADER_HEIGHT = 32;
+const GROUP_HEIGHT = 28;
 
 const PHYSICAL = 1;
 const DIGITAL = 2;
 const PHYSICAL_DIGITAL = 3;
 const AUDIOBOOK = 4;
 
-const BODY = document.body;
-const TABLE = document.getElementById('table');
-const TBODY = TABLE.querySelector('tbody');
 const SHOWN = document.getElementById('shown');
 const TOTAL = document.getElementById('total');
 const SEARCH = document.getElementById('search');
-const HEADERS = TABLE.querySelectorAll('.sort');
+const TABLE = document.getElementById('table');
+const HEADERS = Array.from(document.getElementById('headers').children);
+const ROWS = document.getElementById('rows');
+const PAD = document.getElementById('pad');
+const CALC = document.getElementById('calc');
 const LOADING = document.getElementById('loading');
 const STAR = document.getElementById('star');
 const STARS = document.getElementById('stars');
@@ -80,6 +84,10 @@ function norm(s) {
     return s.normalize('NFKD').replace(/[^\w\s]/g, '').toLowerCase();
 }
 
+function yieldTask() {
+    return new Promise(resolve => setTimeout(resolve));
+}
+
 
 class Novels extends Array {
     constructor(series, publishers) {
@@ -99,17 +107,22 @@ class Novels extends Array {
         this.series = new Map(series);
         this.normSeries = undefined;
         this.stars = new Map();
+
+        this.widths = undefined;
         this.updater = undefined;
+        this.rows = undefined;
+        this.groups = undefined;
+        this.heights = undefined;
+        this.rowStart = -1;
+        this.rowEnd = -1;
     }
 
-    pushYear(data, series, publishers) {
-        for (const item of data) {
-            const book = new Book(item, series, publishers, this.filters);
-            this.push(book);
-            if (book.filter) {
-                this.shown++;
-                book.show = true;
-            }
+    add(item, series, publishers) {
+        const book = new Book(item, series, publishers, this.filters);
+        this.push(book);
+        if (book.filter) {
+            this.shown++;
+            book.show = true;
         }
     }
 
@@ -147,6 +160,8 @@ class Book {
         this.filterPublisher(filters.publisher);
         this.filterFormat(filters.format);
         this.row = undefined;
+        this.pad = undefined;
+        this.dark = false;
         this.normSeries = undefined;
         this.normTitle = undefined;
         this.search = undefined;
@@ -223,17 +238,110 @@ class Book {
     }
 }
 
-function createRow(book) {
-    if (book.row)
+function setWidths(volumes, publishers) {
+    const rows = [];
+    const len = Math.max(volumes.length, publishers.length);
+    for (let i = 0; i < len; i++) {
+        const volume = volumes[i];
+        const publisher = publishers[i];
+
+        const row = document.createElement('div');
+        row.classList.add('row');
+        const date = document.createElement('div');
+        date.textContent = '0000-00-00';
+        const title = document.createElement('div');
+        title.style.width = '100%';
+        const vol = document.createElement('div');
+        vol.textContent = volume;
+        const pub = document.createElement('div');
+        pub.textContent = publisher;
+        pub.style.display = 'table-cell';
+        const format = document.createElement('div');
+        format.textContent = '🖥️📖';
+        row.append(date, title, vol, pub, format);
+        rows.push(row);
+    }
+    ROWS.append(...rows);
+    HEADERS[1].style.width = '100%';
+
+    const widths = [];
+    for (let i = 0; i < COLUMNS; i++) {
+        if (i === 1) {
+            widths.push(null);
+            continue;
+        }
+        const rect = HEADERS[i].getBoundingClientRect();
+        let width = rect.right - rect.left;
+        for (const row of rows) {
+            const r = row.children[i].getBoundingClientRect();
+            width = Math.max(width, r.right - r.left);
+        }
+        widths.push(width + 'px');
+    }
+
+    const pad = PAD.children;
+    for (const [i, width] of widths.entries()) {
+        HEADERS[i].style.width = width;
+        pad[i].style.width = width;
+    }
+    return widths;
+}
+
+function initNovels(series, publishers, data) {
+    const novels = new Novels(series, publishers);
+    const start = new Date(novels.filters.date.start)
+        .toISOString().substring(0, 10);
+    const end = new Date(novels.filters.date.end)
+        .toISOString().substring(0, 10);
+    const todo = [];
+    const volWidths = [];
+    for (const [i, item] of data.entries()) {
+        const vol = item[4];
+        const len = vol.length;
+        const big = volWidths[0]?.length || 0;
+        if (len > big) {
+            volWidths[0] = vol;
+            volWidths.length = 1;
+        } else if (len == big) {
+            volWidths.push(vol);
+        }
+
+        const date = item[7];
+        (start > date || date > end) ? todo.push(i)
+            : novels.add(item, series, publishers);
+    }
+    const pubWidths = [];
+    for (const pub of publishers) {
+        const len = pub.length;
+        const big = pubWidths[0]?.length || 0;
+        if (len > big) {
+            pubWidths[0] = pub;
+            pubWidths.length = 1;
+        } else if (len == big) {
+            pubWidths.push(pub);
+        }
+    }
+    novels.widths = setWidths(volWidths, pubWidths);
+    novels.sort(COMPARATORS[novels.order]);
+    HEADERS[novels.order % COLUMNS].classList.add(
+        novels.order < COLUMNS ? 'sort-desc' : 'sort-asc');
+    TOTAL.textContent = data.length;
+
+    return [novels, todo];
+}
+
+function getRow(book, widths) {
+    if (book.row) {
+        book.row.classList.toggle('row-dark', book.dark);
         return book.row;
+    }
 
-    book.row = document.createElement('tr');
+    const date = document.createElement('div');
+    date.style.width = widths[0];
+    date.textContent = book.date;
 
-    const cell0 = book.row.insertCell(0);
-    cell0.textContent = book.date;
-
-    const cell1 = book.row.insertCell(1);
-    cell1.title = book.publisher;
+    const title = document.createElement('div');
+    title.title = book.publisher;
     const a = document.createElement('a');
     a.href = book.link;
     a.textContent = book.title;
@@ -242,87 +350,238 @@ function createRow(book) {
     star.dataset.series = book.serieskey;
     star.classList.add('star', 'star-btn',
         book.filters.star ? 'star-active' : null);
-    cell1.append(a, star);
+    title.append(a, star);
 
-    const cell2 = book.row.insertCell(2);
-    cell2.textContent = book.volume;
+    const volume = document.createElement('div');
+    volume.style.width = widths[2];
+    volume.textContent = book.volume;
 
-    const cell3 = book.row.insertCell(3);
-    cell3.textContent = book.publisher;
+    const publisher = document.createElement('div');
+    publisher.style.width = widths[3];
+    publisher.textContent = book.publisher;
 
-    const cell4 = book.row.insertCell(4);
-    cell4.title = book.isbn;
+    const format = document.createElement('div');
+    format.style.width = widths[4];
+    format.title = book.isbn;
     switch (book.format) {
         case PHYSICAL: {
             const span = document.createElement('span');
             span.className = 'hidden';
             span.textContent = '🖥️';
-            cell4.append(span, '📖');
+            format.append(span, '📖');
             break;
         } case DIGITAL: {
             const span = document.createElement('span');
             span.className = 'hidden';
             span.textContent = '📖';
-            cell4.append('🖥️', span);
+            format.append('🖥️', span);
             break;
         } case PHYSICAL_DIGITAL: {
-            cell4.textContent = '🖥️📖';
+            format.textContent = '🖥️📖';
             break;
         } case AUDIOBOOK: {
-            cell4.textContent = '🔊';
+            format.textContent = '🔊';
             break;
         }
     }
+
+    book.row = document.createElement('div');
+    book.row.classList.add('row');
+    book.row.classList.toggle('row-dark', book.dark);
+    book.row.append(date, title, volume, publisher, format);
     return book.row;
 }
 
-function createGroup(month, id) {
-    const row = document.createElement('tr');
-    const cell = document.createElement('th');
-    cell.textContent = month;
-    cell.colSpan = COLUMNS;
-    cell.id = id;
-    row.appendChild(cell);
+function getPad(book) {
+    if (book.pad)
+        return book.pad;
+
+    book.pad = document.createElement('div');
+    book.pad.classList.add('pad-row');
+    book.pad.textContent = book.title;
+    return book.pad;
+}
+
+function getGroup(month, id) {
+    const row = document.createElement('div');
+    row.classList.add('row', 'sticky', 'group');
+    row.id = id;
+    const div = document.createElement('div');
+    div.textContent = month;
+    row.append(div);
     return row;
+}
+
+function findRow(heights, target, start = 0, end = heights.length, mod = 0) {
+    let low = start;
+    let high = end - 1;
+
+    while (low < high) {
+        const mid = (low + high) >> 1;
+        if (heights[mid] > target)
+            high = mid;
+        else
+            low = mid + 1;
+    }
+    return Math.min(Math.max(low + mod, 0), heights.length - 1);
+}
+
+function findGroup(groups, target) {
+    let low = 0;
+    let high = groups.length - 1;
+
+    while (low < high) {
+        const mid = (low + high) >> 1;
+        const val = groups[mid];
+        if (val === target)
+            return undefined;
+        else if (val < target)
+            low = mid + 1;
+        else
+            high = mid;
+    }
+    return groups[low - 1];
+}
+
+function drawTable(novels) {
+    if (novels.updater)
+        return;
+
+    const rows = novels.rows;
+    const groups = novels.groups;
+    const heights = novels.heights;
+    const widths = novels.widths;
+
+    const scrollTop = window.scrollY;
+    const clientHeight = document.documentElement.clientHeight;
+    const scrollBottom = scrollTop + clientHeight;
+    const rowsTop = ROWS.offsetTop;
+
+    const rowStart = findRow(heights, scrollTop - rowsTop, 0, rows.length, -1);
+    const rowEnd = findRow(heights, scrollBottom - rowsTop, rowStart, rows.length, 1);
+
+    if (rowStart > novels.rowEnd || novels.rowStart > rowEnd) {
+        const group = rows[findGroup(groups, rowStart)];
+        ROWS.replaceChildren(PAD);
+        if (group) ROWS.prepend(group);
+
+        for (let i = rowStart; i < rowEnd; i++) {
+            const row = rows[i];
+            ROWS.append(row instanceof Book ? getRow(row, widths) : row);
+        }
+    } else {
+        const startChange = rowStart - novels.rowStart;
+        const endChange = rowEnd - novels.rowEnd;
+
+        if (startChange > 0) {
+            let group;
+            for (let i = novels.rowStart; i < rowStart; i++) {
+                const row = rows[i];
+                if (row instanceof Book) {
+                    getRow(row, widths).remove();
+                } else {
+                    row.remove();
+                    group = row;
+                }
+            }
+            if (group) {
+                const first = ROWS.firstChild;
+                first !== PAD ? first.replaceWith(group)
+                    : ROWS.prepend(group);
+            }
+        } else if (startChange < 0) {
+            let makeGroup = false;
+            for (let i = novels.rowStart; i > rowStart;) {
+                const row = rows[--i];
+                if (row instanceof Book) {
+                    PAD.after(getRow(row, widths));
+                } else {
+                    PAD.after(row);
+                    makeGroup = true;
+                }
+            }
+            if (makeGroup) {
+                const group = rows[findGroup(groups, rowStart - 1)];
+                if (group) ROWS.prepend(group);
+            }
+        }
+
+        if (endChange > 0) {
+            for (let i = novels.rowEnd; i < rowEnd; i++) {
+                const row = rows[i];
+                ROWS.append(row instanceof Book ? getRow(row, widths) : row);
+            }
+        } else if (endChange < 0) {
+            for (let i = novels.rowEnd; i > rowEnd;) {
+                const row = rows[--i];
+                (row instanceof Book ? getRow(row, widths) : row).remove();
+            }
+        }
+    }
+    const groupHeight = ROWS.firstChild === PAD ? 0 : GROUP_HEIGHT;
+    PAD.style.height = heights[rowStart] - groupHeight + 'px';
+    novels.rowStart = rowStart;
+    novels.rowEnd = rowEnd;
+}
+
+async function redrawTable(novels) {
+    const updater = {};
+    novels.updater = updater;
+
+    PAD.style.minHeight = null;
+    LOADING.style.display = 'block';
+    SHOWN.textContent = novels.shown;
+    ROWS.replaceChildren(PAD);
+
+    novels.rowStart = -1;
+    novels.rowEnd = -1;
+    novels.heights = [0];
+    let height = 0;
+    const children = [];
+    for (const [i, row] of novels.rows.entries()) {
+        if (i && i % CHUNK_SIZE === 0) {
+            CALC.replaceChildren(...children);
+            for (const child of children)
+                novels.heights.push(height += child.offsetHeight);
+            children.length = 0;
+            CALC.replaceChildren();
+            await yieldTask();
+            if (novels.updater !== updater)
+                return;
+        }
+        children.push(row instanceof Book ? getPad(row) : row);
+    }
+    CALC.replaceChildren(...children);
+    for (const child of children)
+        novels.heights.push(height += child.offsetHeight);
+    novels.updater = undefined;
+
+    drawTable(novels);
+    CALC.replaceChildren();
+    LOADING.style.display = null;
+    TABLE.style.height = height + HEADER_HEIGHT + 'px';
+}
+
+function initListeners(novels) {
+    document.addEventListener('scroll', () => drawTable(novels));
+    let width = TABLE.offsetWidth;
+    window.addEventListener('resize', () => {
+        const newWidth = TABLE.offsetWidth;
+        if (newWidth !== width) {
+            redrawTable(novels);
+            width = newWidth;
+        } else {
+            drawTable(novels);
+        }
+    });
 }
 
 function checkGroups(rows, groups, count, year) {
     if (count <= YEAR_THRESHOLD && groups.length) {
         for (const [i, group] of groups.entries()) {
             i ? rows.delete(group)
-                : rows.get(group).firstElementChild.textContent = year;
+                : rows.get(group).firstChild.textContent = year;
         }
-    }
-}
-
-async function redrawTable(novels, rows) {
-    const updater = {};
-    novels.updater = updater;
-    SHOWN.textContent = novels.shown;
-    const children = [];
-    let i = 0;
-    BODY.style.minHeight = BODY.scrollHeight + 'px';
-    LOADING.style.display = 'block';
-    for (const row of rows.values()) {
-        i++;
-        children.push(row instanceof Book ? createRow(row) : row);
-        if (i % CHUNK_SIZE === 0) {
-            i === CHUNK_SIZE ? TBODY.replaceChildren(...children)
-                : TBODY.append(...children);
-            children.length = 0;
-            TBODY.offsetWidth; // Force reflow
-            await new Promise(resolve => setTimeout(resolve));
-            if (novels.updater !== updater)
-                return;
-        }
-    }
-    i < CHUNK_SIZE ? TBODY.replaceChildren(...children)
-        : TBODY.append(...children);
-    BODY.style.minHeight = null;
-    LOADING.style.display = null;
-    if (hashFragment) {
-        document.getElementById(hashFragment)?.scrollIntoView();
-        hashFragment = null;
     }
 }
 
@@ -348,13 +607,53 @@ async function rebuildTable(novels, group = null) {
             }
             groupName = book.group;
             groups.push(i);
-            rows.set(i++, createGroup(book.group, book.id));
+            rows.set(i++, getGroup(book.group, book.id));
         }
         rows.set(i++, book);
         novels.shown++;
     }
     checkGroups(rows, groups, i - groupStart, year);
-    await redrawTable(novels, rows);
+
+    novels.rows = [];
+    novels.groups = [];
+    let dark = false;
+    for (const row of rows.values()) {
+        if (row instanceof Book) {
+            row.dark = dark;
+            dark = !dark;
+        } else {
+            novels.groups.push(novels.rows.length);
+            dark = false;
+        }
+        novels.rows.push(row);
+    }
+    await redrawTable(novels);
+}
+
+function sortTable(novels, index) {
+    const newOrder = novels.order === index ? index + COLUMNS : index;
+    novels.sort(COMPARATORS[newOrder]);
+    rebuildTable(novels, index === 0);
+
+    HEADERS[novels.order % COLUMNS].classList.remove('sort-desc', 'sort-asc');
+    const newClasses = HEADERS[index].classList;
+    if (newOrder < COLUMNS) {
+        newClasses.remove('sort-asc');
+        newClasses.add('sort-desc');
+    } else {
+        newClasses.remove('sort-desc');
+        newClasses.add('sort-asc');
+    }
+    novels.order = newOrder;
+}
+
+function initSort(novels) {
+    for (const [i, th] of HEADERS.entries()) {
+        th.addEventListener('click', e => {
+            if (e.target === th)
+                sortTable(novels, i);
+        });
+    }
 }
 
 function searchBook(book, include, exclude) {
@@ -394,32 +693,6 @@ function filterTable(novels) {
     rebuildTable(novels);
 }
 
-function sortTable(novels, index) {
-    const newOrder = novels.order === index ? index + COLUMNS : index;
-    novels.sort(COMPARATORS[newOrder]);
-    rebuildTable(novels, index === 0);
-
-    HEADERS[novels.order % COLUMNS].classList.remove('sort-desc', 'sort-asc');
-    const newClasses = HEADERS[index].classList;
-    if (newOrder < COLUMNS) {
-        newClasses.remove('sort-asc');
-        newClasses.add('sort-desc');
-    } else {
-        newClasses.remove('sort-desc');
-        newClasses.add('sort-asc');
-    }
-    novels.order = newOrder;
-}
-
-function initSort(novels) {
-    for (const [i, th] of HEADERS.entries()) {
-        th.addEventListener('click', e => {
-            if (e.target === th)
-                sortTable(novels, i);
-        });
-    }
-}
-
 function createStar(novels, serieskey, series) {
     const div = document.createElement('div');
     div.classList.add('list-row');
@@ -440,7 +713,7 @@ function createStar(novels, serieskey, series) {
             break;
         }
     }
-    next ? STARS.insertBefore(div, next) : STARS.appendChild(div);
+    next ? STARS.insertBefore(div, next) : STARS.append(div);
     novels.stars.set(serieskey, div);
 }
 
@@ -474,19 +747,19 @@ function unstarSeries(novels, serieskey, div) {
 }
 
 function initDate(novels) {
-    const th = HEADERS[0].classList;
+    const header = HEADERS[0].classList;
     const start = document.getElementById('date-start');
     const end = document.getElementById('date-end');
     const dates = novels.filters.date;
     if (dates.start) {
         start.value = new Date(dates.start)
             .toISOString().substring(0, 10);
-        th.add('filter');
+        header.add('filter');
     }
     if (dates.end) {
         end.value = new Date(dates.end)
             .toISOString().substring(0, 10);
-        th.add('filter');
+        header.add('filter');
     }
 
     document.getElementById('date-reset')
@@ -500,7 +773,7 @@ function initDate(novels) {
             for (const book of novels)
                 book.filterDate(filter);
             filterTable(novels);
-            th.add('filter');
+            header.add('filter');
         });
 
     function filter(event) {
@@ -510,7 +783,7 @@ function initDate(novels) {
         for (const book of novels)
             book.filterDate(filter);
         filterTable(novels);
-        th.toggle('filter', filter.start || filter.end);
+        header.toggle('filter', filter.start || filter.end);
     }
 
     start.addEventListener('input', filter);
@@ -518,17 +791,14 @@ function initDate(novels) {
 }
 
 function initTitle(novels) {
-    const th = HEADERS[1].classList;
-    document.getElementById('series')
-        .append(...Array.from(novels.series.values(),
-            series => {
-                const option = document.createElement('option');
-                option.value = series;
-                return option;
-            }));
+    HEADERS[1].querySelector('.sort-btn').addEventListener('click',
+        () => document.getElementById('series')
+            .replaceChildren(...Array.from(novels.series.values(),
+                series => new Option(series))), { once: true });
+    const header = HEADERS[1].classList;
     const search = document.getElementById('filter-search');
     const plus = document.getElementById('star-add');
-    if (search.value || settings.star) th.add('filter');
+    if (search.value || settings.star) header.add('filter');
 
     search.addEventListener('input', () => {
         const value = search.value;
@@ -561,7 +831,7 @@ function initTitle(novels) {
         }
         filterTable(novels);
         plus.classList.toggle('disabled', !key);
-        th.toggle('filter', value);
+        header.toggle('filter', value);
     });
     plus.addEventListener('click', () => {
         const key = novels.normSeries.get(norm(search.value));
@@ -575,7 +845,7 @@ function initTitle(novels) {
             book.filter = !settings.star ? book.getFilter()
                 : book.filter && book.filters.star;
         filterTable(novels);
-        th.toggle('filter', settings.star);
+        header.toggle('filter', settings.star);
     });
     for (const key of settings.series) {
         const series = novels.series.get(key);
@@ -600,7 +870,7 @@ function initTitle(novels) {
                 }
             }
             filterTable(novels);
-            th.remove('filter');
+            header.remove('filter');
             for (const row of novels.stars.values())
                 row.remove();
             novels.filters.star.clear();
@@ -609,10 +879,10 @@ function initTitle(novels) {
 }
 
 function initVolume(novels) {
-    const th = HEADERS[2].classList;
+    const header = HEADERS[2].classList;
     const start = document.getElementById('vol-start');
     const end = document.getElementById('vol-end');
-    if (start.value || end.value) th.add('filter');
+    if (start.value || end.value) header.add('filter');
     document.getElementById('vol-reset')
         .addEventListener('click', () => {
             start.value = '';
@@ -623,7 +893,7 @@ function initVolume(novels) {
             for (const book of novels)
                 book.filterVolume(filter);
             filterTable(novels);
-            th.remove('filter');
+            header.remove('filter');
         });
     function filter(event) {
         const filter = novels.filters.volume;
@@ -632,14 +902,14 @@ function initVolume(novels) {
         for (const book of novels)
             book.filterVolume(filter);
         filterTable(novels);
-        th.toggle('filter', filter.start || filter.end);
+        header.toggle('filter', filter.start || filter.end);
     }
     start.addEventListener('input', filter);
     end.addEventListener('input', filter);
 }
 
 function initPublisher(novels) {
-    const th = HEADERS[3].classList;
+    const header = HEADERS[3].classList;
     const select = document.getElementById('pub-select').classList;
     const menu = document.getElementById('menu-pub');
 
@@ -658,7 +928,7 @@ function initPublisher(novels) {
         filter |= !check;
         checkbox.checked = check;
         label.append(checkbox, publisher);
-        menu.appendChild(label);
+        menu.append(label);
         checkbox.addEventListener('change', e => {
             const checked = e.target.checked;
             checked ? novels.filters.publisher.add(publisher)
@@ -672,12 +942,12 @@ function initPublisher(novels) {
             }
             filterTable(novels);
             select.toggle('check', boxes.some(box => box.checked));
-            th.toggle('filter', boxes.some(box => !box.checked));
+            header.toggle('filter', boxes.some(box => !box.checked));
         });
         return checkbox;
     });
 
-    if (filter) th.add('filter');
+    if (filter) header.add('filter');
     if (checked) select.add('check');
     document.getElementById('pub-select')
         .addEventListener('click', () => {
@@ -694,7 +964,7 @@ function initPublisher(novels) {
             }
             filterTable(novels);
             select.toggle('check');
-            th.toggle('filter', !b);
+            header.toggle('filter', !b);
         });
     document.getElementById('pub-reset')
         .addEventListener('click', () => {
@@ -709,12 +979,12 @@ function initPublisher(novels) {
             }
             filterTable(novels);
             select.add('check');
-            th.remove('filter');
+            header.remove('filter');
         });
 }
 
 function initFormat(novels) {
-    const th = HEADERS[4].classList;
+    const header = HEADERS[4].classList;
     const menu = document.getElementById('menu-format');
     const select = document.getElementById('format-select').classList;
 
@@ -755,12 +1025,12 @@ function initFormat(novels) {
                 }
                 filterTable(novels);
                 select.toggle('check', boxes.some(box => box[0].checked));
-                th.toggle('filter', boxes.some(box => !box[0].checked));
+                header.toggle('filter', boxes.some(box => !box[0].checked));
             });
             return [box, format];
         });
 
-    if (filter) th.add('filter');
+    if (filter) header.add('filter');
     if (checked) select.add('check');
     document.getElementById('format-select')
         .addEventListener('click', () => {
@@ -777,7 +1047,7 @@ function initFormat(novels) {
             }
             filterTable(novels);
             select.toggle('check');
-            th.toggle('filter', !b);
+            header.toggle('filter', !b);
         });
     document.getElementById('format-reset')
         .addEventListener('click', () => {
@@ -793,7 +1063,7 @@ function initFormat(novels) {
                 book.filterFormat(filter);
             filterTable(novels);
             select.toggle('check', filter);
-            th.toggle('filter', boxes.some(box => !box[0].checked));
+            header.toggle('filter', boxes.some(box => !box[0].checked));
         });
 }
 
@@ -886,15 +1156,18 @@ function initFilter(novels) {
             : starSeries(novels, serieskey, novels.series.get(serieskey));
     }
 
-    TBODY.addEventListener('click', e => {
+    ROWS.addEventListener('click', e => {
         const target = e.target;
         if (target.classList.contains('star-btn'))
             toggleStar(e.target);
     });
-    TBODY.addEventListener('contextmenu', e => {
-        const target = e.target.closest('tr').querySelector('.star-btn');
-        if (target) {
-            toggleStar(target);
+    ROWS.addEventListener('contextmenu', e => {
+        const target = e.target;
+        if (target.parentNode.firstChild === target)
+            return;
+        const star = target.closest('.row').querySelector('.star-btn');
+        if (star) {
+            toggleStar(star);
             e.preventDefault();
         }
     });
@@ -921,46 +1194,33 @@ function initSearch(novels) {
 
 async function init() {
     const response = await fetch('data.json');
-    const { total, series, publishers, years } = await response.json();
+    const { series, publishers, data } = await response.json();
 
-    const novels = new Novels(series, publishers);
-    const filter = novels.filters.date;
-    const todo = [];
-    for (const year of Object.keys(years)) {
-        const start = Date.UTC(year);
-        const end = Date.UTC(year, 11, 31);
-        (filter.start > end || start > filter.end) ? todo.push(year)
-            : novels.pushYear(years[year], series, publishers);
-    }
-    novels.sort(COMPARATORS[novels.order]);
-    HEADERS[novels.order % COLUMNS].classList.add(
-        novels.order < COLUMNS ? 'sort-desc' : 'sort-asc');
-    TOTAL.textContent = total;
+    const [novels, todo] = initNovels(series, publishers, data);
+    initListeners(novels);
     await rebuildTable(novels);
-    await new Promise(resolve => setTimeout(resolve));
+    await yieldTask();
 
-    for (const year of todo)
-        novels.pushYear(years[year], series, publishers);
+    for (const i of todo)
+        novels.add(data[i], series, publishers);
     novels.sort(COMPARATORS[novels.order]);
-    await new Promise(resolve => setTimeout(resolve));
+    await yieldTask();
 
     const map = new Map();
     for (const [key, name] of novels.series)
-        map.set(norm(name), key);
+        map.set(key, norm(name));
     for (const book of novels)
         book.norm(map);
     novels.normSeries = new Map();
     for (const [key, name] of map)
-        novels.normSeries.set(key, name);
+        novels.normSeries.set(name, key);
     initSort(novels);
     initFilter(novels);
     initSearch(novels);
 }
 
-init().catch (error => {
+init().catch(error => {
     console.log(error);
-    const row = TBODY.insertRow();
-    const cell = row.insertCell();
-    cell.textContent = `Error loading light novels: ${error}`;
-    cell.colSpan = COLUMNS;
+    const s = `Error loading light novels: ${error}`;
+    ROWS.prepend(getGroup(s, 'error'));
 });

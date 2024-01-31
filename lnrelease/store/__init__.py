@@ -49,6 +49,7 @@ IGNORE = {
     'books.google.com',
     'gum.co',
     'gumroad.com',
+    'store.hanashi.media',
     'www.indiebound.org',
     'www.powells.com',
     'www.walmart.com',
