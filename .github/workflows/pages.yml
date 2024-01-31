@@ -50,7 +50,7 @@ jobs:
 
       - name: Minify
         run: >-
-          npm install terser html-minifier-terser -g -q;
+          npm install terser html-minifier-terser -g -s;
           sudo chown -R $USER _site/;
           terser _site/assets/js/script.js
           -o _site/assets/js/script.js -m --toplevel;

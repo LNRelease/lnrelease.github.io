@@ -1,14 +1,7 @@
 table {
     position: relative;
-    margin: 0 -16px;
     width: 100%;
     border-collapse: collapse;
-}
-
-@media (min-width: 544px) {
-    table {
-        margin: 0;
-    }
 }
 
 tr {

@@ -238,98 +238,6 @@ class Book {
     }
 }
 
-function setWidths(volumes, publishers) {
-    const rows = [];
-    const len = Math.max(volumes.length, publishers.length);
-    for (let i = 0; i < len; i++) {
-        const volume = volumes[i];
-        const publisher = publishers[i];
-
-        const row = document.createElement('div');
-        row.classList.add('row');
-        const date = document.createElement('div');
-        date.textContent = '0000-00-00';
-        const title = document.createElement('div');
-        title.style.width = '100%';
-        const vol = document.createElement('div');
-        vol.textContent = volume;
-        const pub = document.createElement('div');
-        pub.textContent = publisher;
-        pub.style.display = 'table-cell';
-        const format = document.createElement('div');
-        format.textContent = '🖥️📖';
-        row.append(date, title, vol, pub, format);
-        rows.push(row);
-    }
-    ROWS.append(...rows);
-    HEADERS[1].style.width = '100%';
-
-    const widths = [];
-    for (let i = 0; i < COLUMNS; i++) {
-        if (i === 1) {
-            widths.push(null);
-            continue;
-        }
-        const rect = HEADERS[i].getBoundingClientRect();
-        let width = rect.right - rect.left;
-        for (const row of rows) {
-            const r = row.children[i].getBoundingClientRect();
-            width = Math.max(width, r.right - r.left);
-        }
-        widths.push(width + 'px');
-    }
-
-    const pad = PAD.children;
-    for (const [i, width] of widths.entries()) {
-        HEADERS[i].style.width = width;
-        pad[i].style.width = width;
-    }
-    return widths;
-}
-
-function initNovels(series, publishers, data) {
-    const novels = new Novels(series, publishers);
-    const start = new Date(novels.filters.date.start)
-        .toISOString().substring(0, 10);
-    const end = new Date(novels.filters.date.end)
-        .toISOString().substring(0, 10);
-    const todo = [];
-    const volWidths = [];
-    for (const [i, item] of data.entries()) {
-        const vol = item[4];
-        const len = vol.length;
-        const big = volWidths[0]?.length || 0;
-        if (len > big) {
-            volWidths[0] = vol;
-            volWidths.length = 1;
-        } else if (len == big) {
-            volWidths.push(vol);
-        }
-
-        const date = item[7];
-        (start > date || date > end) ? todo.push(i)
-            : novels.add(item, series, publishers);
-    }
-    const pubWidths = [];
-    for (const pub of publishers) {
-        const len = pub.length;
-        const big = pubWidths[0]?.length || 0;
-        if (len > big) {
-            pubWidths[0] = pub;
-            pubWidths.length = 1;
-        } else if (len == big) {
-            pubWidths.push(pub);
-        }
-    }
-    novels.widths = setWidths(volWidths, pubWidths);
-    novels.sort(COMPARATORS[novels.order]);
-    HEADERS[novels.order % COLUMNS].classList.add(
-        novels.order < COLUMNS ? 'sort-desc' : 'sort-asc');
-    TOTAL.textContent = data.length;
-
-    return [novels, todo];
-}
-
 function getRow(book, widths) {
     if (book.row) {
         book.row.classList.toggle('row-dark', book.dark);
@@ -562,18 +470,123 @@ async function redrawTable(novels) {
     TABLE.style.height = height + HEADER_HEIGHT + 'px';
 }
 
-function initListeners(novels) {
+function setWidths(volumes, publishers) {
+    const rows = [];
+    const len = Math.max(volumes.length, publishers.length);
+    for (let i = 0; i < len; i++) {
+        const volume = volumes[i];
+        const publisher = publishers[i];
+
+        const row = document.createElement('div');
+        row.classList.add('row');
+        const date = document.createElement('div');
+        date.textContent = '0000-00-00';
+        const title = document.createElement('div');
+        title.style.width = '100%';
+        const vol = document.createElement('div');
+        vol.textContent = volume;
+        const pub = document.createElement('div');
+        pub.textContent = publisher;
+        pub.style.display = 'table-cell';
+        const format = document.createElement('div');
+        format.textContent = '🖥️📖';
+        row.append(date, title, vol, pub, format);
+        rows.push(row);
+    }
+    ROWS.replaceChildren(...rows);
+    for (const [i, header] of HEADERS.entries())
+        header.style.width = i === 1 ? '100%' : null;
+
+    const widths = [];
+    for (const [i, header] of HEADERS.entries()) {
+        if (i === 1) {
+            widths.push(null);
+            continue;
+        }
+        const rect = header.getBoundingClientRect();
+        let width = rect.right - rect.left;
+        for (const row of rows) {
+            const r = row.children[i].getBoundingClientRect();
+            width = Math.max(width, r.right - r.left);
+        }
+        widths.push(width + 'px');
+    }
+
+    const pad = PAD.children;
+    for (const [i, width] of widths.entries()) {
+        HEADERS[i].style.width = width;
+        pad[i].style.width = width;
+    }
+    return widths;
+}
+
+function initNovels(series, publishers, data) {
+    const novels = new Novels(series, publishers);
+    const start = new Date(novels.filters.date.start)
+        .toISOString().substring(0, 10);
+    const end = new Date(novels.filters.date.end)
+        .toISOString().substring(0, 10);
+    const todo = [];
+    const volWidths = [];
+    for (const [i, item] of data.entries()) {
+        const vol = item[4];
+        const len = vol.length;
+        const big = volWidths[0]?.length || 0;
+        if (len > big) {
+            volWidths[0] = vol;
+            volWidths.length = 1;
+        } else if (len == big) {
+            volWidths.push(vol);
+        }
+
+        const date = item[7];
+        (start > date || date > end) ? todo.push(i)
+            : novels.add(item, series, publishers);
+    }
+    const pubWidths = [];
+    for (const pub of publishers) {
+        const len = pub.length;
+        const big = pubWidths[0]?.length || 0;
+        if (len > big) {
+            pubWidths[0] = pub;
+            pubWidths.length = 1;
+        } else if (len == big) {
+            pubWidths.push(pub);
+        }
+    }
+    novels.widths = setWidths(volWidths, pubWidths);
+    novels.sort(COMPARATORS[novels.order]);
+    HEADERS[novels.order % COLUMNS].classList.add(
+        novels.order < COLUMNS ? 'sort-desc' : 'sort-asc');
+    TOTAL.textContent = data.length;
+
     document.addEventListener('scroll', () => drawTable(novels));
     let width = TABLE.offsetWidth;
+    let wide = document.body.offsetWidth === width;
     window.addEventListener('resize', () => {
         const newWidth = TABLE.offsetWidth;
         if (newWidth !== width) {
+            const newWide = document.body.offsetWidth === width;
+            if (newWide !== wide) {
+                novels.widths = setWidths(volWidths, pubWidths);
+                for (const book of novels) {
+                    const children = book.row?.children;
+                    if (!children) continue;
+
+                    children[0].style.width = novels.widths[0];
+                    children[2].style.width = novels.widths[2];
+                    children[3].style.width = novels.widths[3];
+                    children[4].style.width = novels.widths[4];
+                }
+                wide = newWide;
+            }
             redrawTable(novels);
             width = newWidth;
         } else {
             drawTable(novels);
         }
     });
+    return [novels, todo];
 }
 
 function checkGroups(rows, groups, count, year) {
@@ -593,7 +606,6 @@ async function rebuildTable(novels, group = null) {
     novels.grouped = group;
     group &= novels.shown > GROUP_THRESHOLD;
 
-    novels.shown = 0;
     for (const book of novels) {
         if (!book.show)
             continue;
@@ -610,7 +622,6 @@ async function rebuildTable(novels, group = null) {
             rows.set(i++, getGroup(book.group, book.id));
         }
         rows.set(i++, book);
-        novels.shown++;
     }
     checkGroups(rows, groups, i - groupStart, year);
 
@@ -670,6 +681,7 @@ function searchBook(book, include, exclude) {
 
 function filterTable(novels) {
     const search = SEARCH.value;
+    novels.shown = 0;
     if (search) {
         const include = [];
         const exclude = [];
@@ -678,17 +690,25 @@ function filterTable(novels) {
             if (normWord)
                 (word[0][0] === '-' ? exclude : include).push(normWord);
         }
-        for (const book of novels)
-            book.show = searchBook(book, include, exclude);
+        for (const book of novels) {
+            book.show = searchBook(book, include, exclude)
+                && book.filters.publisher
+                && book.filters.format;
+            if (book.show) novels.shown++;
+        }
         if (novels.shown > SEARCH_THRESHOLD) {
             for (const book of novels) {
-                if (book.show && !book.filter)
+                if (book.show && !book.filter) {
                     book.show = false;
+                    novels.shown--;
+                }
             }
         }
     } else {
-        for (const book of novels)
+        for (const book of novels) {
             book.show = book.filter;
+            if (book.show) novels.shown++;
+        }
     }
     rebuildTable(novels);
 }
@@ -1188,6 +1208,22 @@ function initFilter(novels) {
 }
 
 function initSearch(novels) {
+    document.addEventListener('keydown', e => {
+        if ((e.key === 'f' || e.key === 'F')
+            && e.ctrlKey !== e.metaKey
+            && !e.shiftKey
+            && !e.altKey) {
+            SEARCH.focus();
+            e.preventDefault();
+        }
+    });
+    SEARCH.addEventListener('keydown', e => {
+        if (e.key === 'Escape') {
+            SEARCH.blur();
+            SEARCH.value = '';
+            filterTable(novels);
+        }
+    });
     SEARCH.addEventListener('input', () =>
         filterTable(novels));
 }
@@ -1197,7 +1233,6 @@ async function init() {
     const { series, publishers, data } = await response.json();
 
     const [novels, todo] = initNovels(series, publishers, data);
-    initListeners(novels);
     await rebuildTable(novels);
     await yieldTask();
 
