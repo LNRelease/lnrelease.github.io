@@ -167,7 +167,7 @@ Mar 11|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-th
 Mar 11|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Mar 11|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 Mar 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://j-novel.club/series/the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap#volume-7 "J-Novel Club")|7|J-Novel Club|📖|
-Mar 12|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/734082/am-i-actually-the-strongest-5-light-novel-by-sai-sumimori/9781647292034 "Kodansha")|5|Kodansha|📖|
+Mar 12|[Am I Actually the Strongest?](https://kodansha.us/product/am-i-actually-the-strongest-novel-5 "Kodansha")|5|Kodansha|🖥️📖|
 Mar 12|[Black Summoner](https://j-novel.club/series/black-summoner#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
 Mar 12|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|📖|
 Mar 12|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-light-novel-vol-26/ "Seven Seas Entertainment")|26|Seven Seas Entertainment|📖|
@@ -299,6 +299,7 @@ May 13|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/i
 May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 May 14|[The Apothecary Diaries](https://legacy.rightstufanime.com/The-Apothecary-Diaries-Novel-Volume-1 "Square Enix Books")|1|Square Enix Books|📖|
+May 16|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 May 20|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 May 21|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388355-a-certain-magical-index-nt-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 May 21|[Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379902-astrea-record-vol-2-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|2|Yen Press|🖥️📖|
