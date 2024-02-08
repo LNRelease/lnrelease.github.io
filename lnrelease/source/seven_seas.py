@@ -9,6 +9,8 @@ from utils import Info, Series
 NAME = 'Seven Seas Entertainment'
 
 PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
+NON_FORMATS = ('Manga',)
+FORMATS = ('Light Novel', 'Novel', 'Reference Guide')
 
 
 def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[Info]]:
@@ -21,8 +23,13 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
     for index, release in enumerate(soup.find_all(class_='series-volume'), start=1):
         header = release.find_previous_sibling('h3').text
         format = release.find('b', string='Format:')
-        if (format and 'Light Novel' not in format.next_sibling):
-            continue
+        if format:
+            format = format.next_sibling.strip()
+            if format in NON_FORMATS:
+                continue
+            if format not in FORMATS:
+                warnings.warn(f'Unknown SS format: {format}', RuntimeWarning)
+                continue
 
         a = release.h3.a
         volume_link = a.get('href')
@@ -38,7 +45,7 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
         isbn = ''
         if header == 'VOLUMES':
             isbn = release.find('b', string='ISBN:').next_sibling.strip()
-            if isbn == '(digital-only single)':
+            if 'digital' in isbn:
                 digital_date = physical_date
                 physical_date = None
                 isbn = ''
@@ -65,11 +72,11 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     a = serie.h3.a
                     link = a.get('href')
                     title = a.text
-                    res = parse(session, link, title)
-                    if len(res[1]) > 0:
-                        series.add(res[0])
-                        info -= res[1]
-                        info |= res[1]
+                    serie, inf = parse(session, link, title)
+                    if len(inf) > 0:
+                        series.add(serie)
+                        info -= {i for i in info if i.serieskey == serie.key}
+                        info |= inf
                 except Exception as e:
                     warnings.warn(f'{link}: {e}', RuntimeWarning)
 

@@ -7,7 +7,9 @@ html {
 body {
     box-sizing: border-box;
     margin: 32px auto;
+    min-width: 320px;
     max-width: 1280px;
+    padding: 0 1em;
     color: $color-font;
     font-size: 16px;
 }
@@ -22,7 +24,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 24px 16px 16px;
+    margin: 1.5em 0 1em;
     font-weight: $font-weight-bold;
 }
 
@@ -84,12 +86,12 @@ input {
     visibility: hidden;
 }
 
-@media (min-width: 544px) {
+@media (width < 544px) {
     body {
-        padding: 0 16px;
+        padding: 0;
     }
 
     h1, h2, h3, h4, h5, h6 {
-        margin: 24px 0 16px;
+        margin: 1.5em 1em 1em;
     }
 }

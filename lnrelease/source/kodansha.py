@@ -3,7 +3,7 @@ import re
 import warnings
 
 from session import Session
-from utils import FORMATS, Info, Series
+from utils import FORMATS, Info, Series, find_series
 
 NAME = 'Kodansha'
 
@@ -51,9 +51,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             if match := FORMAT.fullmatch(title):
                 title = match.group('title')
                 format = match.group('format')
-            serie = Series(None, title)
+            serie = find_series(title, series)
 
-            if serie in series:  # filter for light novels
+            if serie:
                 link = f'https://api.kodansha.us/product/{content["id"]}'
                 try:
                     for inf in parse(session, serie, link, format):

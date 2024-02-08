@@ -13,7 +13,7 @@
 
 #search {
     margin-left: .25em;
-    width: 75%;
+    width: calc(100% - 4em);
     max-width: 24em;
 }
 
@@ -51,6 +51,11 @@
     border-top: none;
 }
 
+.sort {
+    padding-right: 1.1em;
+    text-align: left;
+}
+
 #headers {
     z-index: 2;
     contain: layout style;
@@ -75,6 +80,7 @@
     display: table;
     visibility: hidden;
     width: 100%;
+    table-layout: fixed;
 }
 
 #pad>div {
@@ -82,11 +88,10 @@
 }
 
 .pad-row {
-    padding: 0 4px 2px;
+    padding: 0 5px 2px;
     line-height: 1.25;
 }
 
-.sort:nth-child(odd),
 .row>div:nth-child(odd) {
     text-align: center;
 }
@@ -95,17 +100,11 @@
     white-space: normal;
 }
 
-.sort:nth-child(4),
-#pad>div:nth-child(4),
-.row>div:nth-child(4) {
-    display: none;
-}
-
-@media (min-width: 768px) {
+@media (width < 768px) {
     .sort:nth-child(4),
     #pad>div:nth-child(4),
     .row>div:nth-child(4) {
-        display: table-cell;
+        display: none;
     }
 }
 
@@ -134,7 +133,6 @@
 }
 
 .sort-btn {
-    display: none;
     position: absolute;
     top: 0;
     right: 0;
@@ -335,13 +333,13 @@
     }
 }
 
-@media (min-width: 544px) and (hover: hover) {
+@media (width < 544px), (hover: none) {
     .sort {
-        padding-right: 1.1em;
-        text-align: left !important;
+        padding-right: 0;
+        text-align: center;
     }
 
     .sort-btn {
-        display: block;
+        display: none;
     }
 }

@@ -6,6 +6,7 @@ const SEARCH_THRESHOLD = 800;
 
 const HEADER_HEIGHT = 32;
 const GROUP_HEIGHT = 28;
+const EXTRA_HEIGHT = 24;
 
 const PHYSICAL = 1;
 const DIGITAL = 2;
@@ -340,10 +341,7 @@ function findGroup(groups, target) {
 
     while (low < high) {
         const mid = (low + high) >> 1;
-        const val = groups[mid];
-        if (val === target)
-            return undefined;
-        else if (val < target)
+        if (groups[mid] < target)
             low = mid + 1;
         else
             high = mid;
@@ -360,13 +358,11 @@ function drawTable(novels) {
     const heights = novels.heights;
     const widths = novels.widths;
 
-    const scrollTop = window.scrollY;
-    const clientHeight = document.documentElement.clientHeight;
-    const scrollBottom = scrollTop + clientHeight;
-    const rowsTop = ROWS.offsetTop;
+    const scrollTop = window.scrollY - ROWS.offsetTop + HEADER_HEIGHT;
+    const scrollBottom = scrollTop + window.innerHeight + EXTRA_HEIGHT;
 
-    const rowStart = findRow(heights, scrollTop - rowsTop, 0, rows.length, -1);
-    const rowEnd = findRow(heights, scrollBottom - rowsTop, rowStart, rows.length, 1);
+    const rowStart = findRow(heights, scrollTop, 0, heights.length, -1);
+    const rowEnd = findRow(heights, scrollBottom, rowStart);
 
     if (rowStart > novels.rowEnd || novels.rowStart > rowEnd) {
         const group = rows[findGroup(groups, rowStart)];
@@ -690,13 +686,20 @@ function filterTable(novels) {
             if (normWord)
                 (word[0][0] === '-' ? exclude : include).push(normWord);
         }
-        for (const book of novels) {
-            book.show = searchBook(book, include, exclude)
+        const matches = [];
+        for (const [i, book] of novels.entries()) {
+            const match = searchBook(book, include, exclude);
+            if (match) matches.push(i);
+            book.show = match
                 && book.filters.publisher
                 && book.filters.format;
             if (book.show) novels.shown++;
         }
-        if (novels.shown > SEARCH_THRESHOLD) {
+        if (novels.shown === 0 && matches.length <= SEARCH_THRESHOLD) {
+            novels.shown = matches.length;
+            for (const i of matches)
+                novels[i].show = true;
+        } else if (novels.shown > SEARCH_THRESHOLD) {
             for (const book of novels) {
                 if (book.show && !book.filter) {
                     book.show = false;
@@ -1214,6 +1217,7 @@ function initSearch(novels) {
             && !e.shiftKey
             && !e.altKey) {
             SEARCH.focus();
+            SEARCH.select();
             e.preventDefault();
         }
     });

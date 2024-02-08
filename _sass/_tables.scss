@@ -40,15 +40,9 @@ td:nth-child(2) {
     white-space: normal;
 }
 
-th:nth-child(4),
-td:nth-child(4) {
-    display: none;
-}
-
-@media (min-width: 768px) {
+@media (width < 768px) {
     th:nth-child(4),
     td:nth-child(4) {
-        display: table-cell;
-        max-width: 25vw;
+        display: none;
     }
 }

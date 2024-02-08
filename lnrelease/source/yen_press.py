@@ -14,6 +14,8 @@ PAGES = Path('yen_press.csv')
 
 TITLES = re.compile(r'https://yenpress\.com/titles/\d{13}-(?!.*(manga-vol|vol-\d+-manga|vol-\d+-comic|-chapter-\d+))[\w-]+')
 LINK = re.compile(r'(https://yenpress.com)?/titles/(?P<isbn>\d{13})-(?P<name>[\w-]+)')
+OMNIBUS = re.compile(r'contains the complete volumes (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)', flags=re.IGNORECASE)
+START = re.compile(r'(?P<start>.+?) (?:Omnibus |Collector\'s Edition |Volume )+\d+')
 
 
 def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Series, set[Info]]:
@@ -36,6 +38,10 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
         return None
 
     title = soup.find('h1', class_='heading').text
+    if ((desc := soup.select_one('.book-info > .content-heading-txt > p'))
+            and (vol := OMNIBUS.match(desc.text))
+            and (start := START.fullmatch(title))):  # rename omnibus volume
+        title = f'{start.group("start")} Volume {vol.group("volume")}'
     series = Series(None, series_title)
     info = set()
     for format, detail in zip(formats, details):
