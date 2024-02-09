@@ -215,6 +215,8 @@ May 02|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https:/
 May 03|[Marriage, Divorce, and Beyond: The White Mage and Black Knight's Romance Reignited](https://j-novel.club/series/marriage-divorce-and-beyond-the-white-mage-and-black-knight-s-romance-reignited#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 May 03|[Stuck in a Time Loop: When All Else Fails, Be a Villainess](https://j-novel.club/series/stuck-in-a-time-loop-when-all-else-fails-be-a-villainess#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 May 03|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+May 06|[Fiancée No More: The Forsaken Lady, the Prince, and Their Make-Believe Love](https://j-novel.club/series/fianc-e-no-more-the-forsaken-lady-the-prince-and-their-make-believe-love#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+May 06|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 May 06|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 May 07|[The Wrong Way to Use Healing Magic](https://legacy.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-4 "One Peace Books")|4|One Peace Books|📖|
@@ -258,6 +260,7 @@ May 21|[The Irregular at Magic High School](https://yenpress.com/titles/97819753
 May 21|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975388454-the-princess-of-convenient-plot-devices-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 May 21|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975369583-wolf-parchment-new-theory-spice-wolf-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 May 28|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
+May 29|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 May 30|[Mushoku Tensei: Jobless Reincarnation – Recollections](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-recollections-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 May 30|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 
