@@ -311,9 +311,9 @@ Jul 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/rave
 Jul 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-25 "J-Novel Club")|4|J-Novel Club|📖|
 Jul 08|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-4 "J-Novel Club")|4-6|J-Novel Club|📖|
 Jul 09|[Ascendance of a Bookworm: Part 5](https://yenpress.com/titles/9781718356252-ascendance-of-a-bookworm-part-5-volume-4 "Yen Press")|4|Yen Press|📖|
-Jul 09|[Full Metal Panic! Short Stories](https://yenpress.com/titles/9781718350816-full-metal-panic-short-stories-collector-s-edition-2 "Yen Press")|4|Yen Press|📖|
+Jul 09|[Full Metal Panic! Short Stories](https://yenpress.com/titles/9781718350816-full-metal-panic-short-stories-collector-s-edition-2 "Yen Press")|4-6|Yen Press|📖|
 Jul 09|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
-Jul 09|[Otherside Picnic](https://yenpress.com/titles/9781718360815-otherside-picnic-omnibus-4 "Yen Press")|7|Yen Press|📖|
+Jul 09|[Otherside Picnic](https://yenpress.com/titles/9781718360815-otherside-picnic-omnibus-4 "Yen Press")|7-8|Yen Press|📖|
 Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 Jul 16|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
@@ -350,7 +350,7 @@ Jul 30|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in 
 Date|Series|Volume|Publisher|Type|
 ---|---|---|---|---|
 Aug 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-21 "J-Novel Club")|21-22|J-Novel Club|📖|
-Aug 20|[Mushoku Tensei: Jobless Reincarnation – A Journey of Two Lifetimes [Special Book]](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-a-journey-of-two-lifetimes-special-book/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+Aug 20|[Mushoku Tensei: Jobless Reincarnation – A Journey of Two Lifetimes](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-a-journey-of-two-lifetimes-special-book/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### September
 

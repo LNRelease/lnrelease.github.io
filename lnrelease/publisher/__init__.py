@@ -11,7 +11,7 @@ from utils import EPOCH, SOURCES, Book, Info, Series
 NAME = 'misc'
 
 PARSE = re.compile(r'(?P<name>.+?)(?:,|:| -)? +(?:Vol\.|\(?Volume|\(Light Novel) *(?P<volume>\d+(?:\.\d)?)\)?(?:\s*[:–\-\(].+)?')
-OMNIBUS = re.compile(r'.+(?:Vol\.|\(?Volume) *(?P<volume>\d+-\d+)\)?')
+OMNIBUS = re.compile(r'.+(?:Vol\.|\(?Volume) *(?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)\)?')
 PART = re.compile(r'(?P<name>.+?):? Volume (?P<volume>\d+(?:\.5)?) (?P<part>.+)')
 NUMBER = re.compile(r'\b(?P<volume>\d+(?:\.\d)?)\b(?:: .+)?')
 SHORT = re.compile(r'\s*#?(?P<volume>\w{1,2})')
@@ -128,7 +128,7 @@ def standard(series: Series, info: dict[str, list[Info]], books: dict[str, list[
 
 
 def omnibus(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book]]) -> bool:
-    # omnibus voluems
+    # omnibus volumes
     changed = False
     for key, lst in info.items():
         for i, inf in enumerate(lst):

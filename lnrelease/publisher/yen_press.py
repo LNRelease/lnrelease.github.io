@@ -1,6 +1,6 @@
 from utils import Book, Info, Series
 
-from . import check, copy, guess, one, secondary, short, standard
+from . import check, copy, guess, omnibus, one, secondary, short, standard
 
 NAME = 'Yen Press'
 
@@ -23,6 +23,7 @@ def parse(series: Series, info: dict[str, list[Info]],
     size = len(main_info)
 
     standard(series, info, books)
+    omnibus(series, info, books)
     short(series, info, books)
     if main_books.count(None) < size - 1:
         one(series, info, books)

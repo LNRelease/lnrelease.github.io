@@ -9,8 +9,8 @@ from utils import Info, Series
 NAME = 'Seven Seas Entertainment'
 
 PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
-NON_FORMATS = ('Manga',)
-FORMATS = ('Light Novel', 'Novel', 'Reference Guide')
+NON_FORMATS = ('Manga', 'Novel')
+FORMATS = ('Light Novel', 'Reference Guide')
 
 
 def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[Info]]:
@@ -73,7 +73,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     link = a.get('href')
                     title = a.text
                     serie, inf = parse(session, link, title)
-                    if len(inf) > 0:
+                    if inf:
                         series.add(serie)
                         info -= {i for i in info if i.serieskey == serie.key}
                         info |= inf
