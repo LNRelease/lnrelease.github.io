@@ -30,6 +30,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date
         format = a.text
         url = f'{link}/{format.lower()}'
         info.add(Info(series.key, url, NAME, NAME, title, index, format, isbn, date))
+        isbn = ''
     return series, info, date
 
 

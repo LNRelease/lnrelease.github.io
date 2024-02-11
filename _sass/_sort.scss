@@ -237,7 +237,7 @@
 
 #menu-title {
     width: 32em;
-    max-width: 100%;
+    max-width: 80vw;
 }
 
 #menu-title .star {
@@ -335,7 +335,10 @@
 
 @media (width < 544px), (hover: none) {
     .sort {
-        padding-right: 0;
+        padding-right: 4px;
+    }
+
+    .sort:nth-child(odd) {
         text-align: center;
     }
 

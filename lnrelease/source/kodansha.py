@@ -61,4 +61,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                 except Exception as e:
                     warnings.warn(f'{link}: {e}', RuntimeWarning)
 
-    return series, set(isbns.values())
+    info = set()
+    for inf in isbns.values():
+        if inf in info:
+            warnings.warn(f'Kodansha duplicate: {inf}', RuntimeWarning)
+        info.add(inf)
+    return series, info

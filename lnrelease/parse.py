@@ -4,11 +4,11 @@ from collections import defaultdict
 from itertools import groupby
 from operator import attrgetter
 from pathlib import Path
+from typing import Callable
 
 import publisher
 from scrape import INFO, SERIES
-from utils import (FORMATS, PRIMARY, SECONDARY, SOURCES, Book, Info, Series,
-                   Table)
+from utils import FORMATS, PRIMARY, SECONDARY, SOURCES, Book, Format, Info, Series, Table
 
 PUBLISHERS = {}
 for file in Path('lnrelease/publisher').glob('*.py'):
@@ -18,7 +18,7 @@ for file in Path('lnrelease/publisher').glob('*.py'):
 BOOKS = Path('books.csv')
 
 
-def main():
+def main() -> None:
     series = {row.key: row for row in Table(SERIES, Series)}
     info = Table(INFO, Info)
     alts: set[Info] = {i for i in info if i.source in SECONDARY and i.publisher in PRIMARY}
@@ -46,6 +46,11 @@ def main():
         inf = dict(sorted(inf.items(), key=lambda x: FORMATS.get(x[0], 0)))
         for x in module.parse(serie, inf, links).values():
             books.update(x)
+
+    jnc_key: Callable[[Book], tuple] = lambda b: (b.name, b.volume, Format.from_str(b.format))
+    jnc = {jnc_key(b): b for b in books if b.publisher == 'J-Novel Club'}
+    books -= {b for b in books if b.publisher == 'Yen Press' and jnc.get(jnc_key(b))}
+
     books.save()
 
 

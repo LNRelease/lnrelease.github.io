@@ -3,7 +3,7 @@ import scrape
 import write
 
 
-def main():
+def main() -> None:
     scrape.main()
     parse.main()
     write.main()

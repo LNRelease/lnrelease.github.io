@@ -3,13 +3,13 @@ import re
 from collections import Counter
 from itertools import chain
 
-from utils import Book, Info, Series
+from utils import FORMATS, Book, Info, Series
 
 from . import check, copy
 
 NAME = 'Kodansha'
 
-PARSE = re.compile(r'(?P<name>.+?),? (?:[Vv]ol(?:ume)? |[Pp]art )?(?P<volume>\d+)(?:\s*[:–\-\(].+)?')
+PARSE = re.compile(rf'(?P<name>.+?),? (?:[Vv]ol(?:ume)? |[Pp]art |\((?:{"|".join(FORMATS)})\) )?(?P<volume>\d+)(?:\s*[:–\-\(].+)?')
 BRACKET = re.compile(r'(?P<name>.+?)(?: \(.+?\))?')
 
 
