@@ -220,6 +220,7 @@ May 06|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophol
 May 06|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 May 07|[The Wrong Way to Use Healing Magic](https://legacy.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-4 "One Peace Books")|4|One Peace Books|📖|
+May 08|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-24 "J-Novel Club")|24|J-Novel Club|🖥️|
 May 08|[Seventh](https://j-novel.club/series/seventh#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 May 08|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 May 09|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -234,6 +235,7 @@ May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Tur
 May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 May 14|[The Apothecary Diaries](https://legacy.rightstufanime.com/The-Apothecary-Diaries-Novel-Volume-1 "Square Enix Books")|1|Square Enix Books|📖|
 May 15|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+May 15|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-46 "J-Novel Club")|44|J-Novel Club|🖥️|
 May 16|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 May 20|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 May 20|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -264,6 +266,7 @@ May 21|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9
 May 28|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 May 28|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 May 29|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+May 30|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
 May 30|[Mushoku Tensei: Jobless Reincarnation – Recollections](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-recollections-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 May 30|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 
