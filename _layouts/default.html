@@ -9,9 +9,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}">
 </head>
 <body>
-{% if site.title and site.title != page.title %}
-<h1><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
-{% endif %}
 {{ content }}
 </body>
 </html>

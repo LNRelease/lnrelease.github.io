@@ -1,11 +1,11 @@
 import datetime
 import json
-from bisect import bisect_right
+from bisect import bisect_left, bisect_right
 from operator import attrgetter
 from pathlib import Path
 
 from scrape import SERIES
-from utils import Format, Series, Table
+from utils import Format, Release, Series, Table
 from write import get_current, get_releases, write_page
 
 HTML = Path('html.md')
@@ -14,12 +14,39 @@ PHYSICAL = Path('physical.md')
 AUDIOBOOK = Path('audiobook.md')
 YEAR = Path('year')
 DATA = Path('data.json')
+LEMMY = Path('lemmy.txt')
+
+ORD = ('th', 'st', 'nd', 'rd', 'th')
+
+
+def write_lemmy(releases: list[Release]) -> None:
+    date = datetime.datetime.today() + datetime.timedelta(days=6)
+    start_dt = date - datetime.timedelta(days=date.weekday())
+    end_dt = start_dt + datetime.timedelta(days=6)
+    start = bisect_left(releases, start_dt.date(), key=attrgetter('date'))
+    end = bisect_right(releases, end_dt.date(), key=attrgetter('date'), lo=start)
+    with open(LEMMY, 'w', encoding='utf-8') as file:
+        file.write('|Date|Title|Volume|Publisher|Format|\n')
+        file.write('|---:|:---|:---:|:---|:---:|\n')
+        day = 0
+        for release in releases[start:end]:
+            if release.format == Format.AUDIOBOOK:
+                continue
+            if day != release.date.day:
+                day = release.date.day
+                sf = 'th' if 4 <= day <= 20 else ORD[min(day % 10, 4)]
+                file.write(release.date.strftime(f'|%a {day}{sf}|'))
+            else:
+                file.write('||')
+            name = f'[{release.name}]({release.link})'
+            file.write(f'{name}|{release.volume}|{release.publisher}|{release.format}|\n')
 
 
 def main() -> None:
     releases = get_releases()
     current = get_current(releases)
 
+    write_lemmy(releases)
     title = 'Light Novel Releases'
     write_page((b for b in current if b.format != Format.AUDIOBOOK),
                HTML, f'# Licensed {title}')

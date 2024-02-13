@@ -36,13 +36,13 @@ def write_page(releases: Iterable[Release], output: Path, title: str, github: bo
             if month != release.date.month:
                 month = release.date.month
                 file.write(f'\n### {release.date.strftime("%B")}\n\n')
-                file.write('Date|Series|Volume|Publisher|Type|\n')
-                file.write('---|---|---|---|---|\n')
+                file.write('|Date|Series|Volume|Publisher|Type|\n')
+                file.write('|---|---|---|---|---|\n')
 
             date = release.date.strftime('%b %d')
             name = f'[{release.name}]({release.link} "{release.publisher}")'
             format = get_format(release.format, github)
-            file.write(f'{date}|{name}|{release.volume}|{release.publisher}|{format}|\n')
+            file.write(f'|{date}|{name}|{release.volume}|{release.publisher}|{format}|\n')
 
 
 def get_releases() -> list[Release]:
