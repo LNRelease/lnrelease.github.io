@@ -117,7 +117,6 @@
 |Mar 19|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371074-a-misanthrope-teaches-a-class-for-demi-humans-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 19|[Canine Detective Chris](https://yenpress.com/titles/9781975390969-canine-detective-chris-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 19|[Classroom for Heroes](https://yenpress.com/titles/9781975378684-classroom-for-heroes-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Mar 19|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350147-high-school-prodigies-have-it-easy-even-in-another-world-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Mar 19|[Ishura](https://yenpress.com/titles/9781975369446-ishura-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Mar 19|[King's Proposal](https://yenpress.com/titles/9781975380519-king-s-proposal-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Mar 19|[NieR Replicant ver.1.22474487139... Project Gestalt Recollections File 2](https://legacy.rightstufanime.com/NieR-Replicant-ver122474487139-Project-Gestalt-Recollections-File-2-Novel-Hardcover "Square Enix Books")|1|Square Enix Books|📖|
@@ -139,6 +138,7 @@
 |Mar 22|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 25|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 25|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Mar 26|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350147-high-school-prodigies-have-it-easy-even-in-another-world-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Mar 26|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Mar 28|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 29|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -231,6 +231,7 @@
 |May 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-24 "J-Novel Club")|3|J-Novel Club|📖|
 |May 13|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |May 13|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|May 13|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 14|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 14|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |May 14|[The Apothecary Diaries](https://legacy.rightstufanime.com/The-Apothecary-Diaries-Novel-Volume-1 "Square Enix Books")|1|Square Enix Books|📖|
@@ -238,14 +239,15 @@
 |May 15|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-46 "J-Novel Club")|44|J-Novel Club|🖥️|
 |May 16|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |May 20|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|May 20|[I Don't Want to Be the Dragon Duke's Maid! Serving My Ex-Fiancé from My Past Life](https://j-novel.club/series/i-don-t-want-to-be-the-dragon-duke-s-maid-serving-my-ex-fianc-from-my-past-life#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |May 20|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |May 20|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |May 21|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388355-a-certain-magical-index-nt-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |May 21|[Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379902-astrea-record-vol-2-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|2|Yen Press|🖥️📖|
 |May 21|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975393427-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
-|May 21|[Brunhild the Dragonslayer](https://yenpress.com/titles/9781975378929-brunhild-the-dragonslayer-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|May 21|[Brunhild the Dragonslayer](https://yenpress.com/titles/9781975378929-brunhild-the-dragonslayer "Yen Press")|1|Yen Press|🖥️📖|
 |May 21|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975344016-death-march-to-the-parallel-world-rhapsody-vol-21-light-novel "Yen Press")|21|Yen Press|🖥️📖|
-|May 21|[Durarara!! Side Story?!](https://yenpress.com/titles/9781975391188-durarara-side-story-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|May 21|[Durarara!! Side Stories?!](https://yenpress.com/titles/9781975391188-durarara-side-stories-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |May 21|[Guillotine Bride](https://yenpress.com/titles/9781975392390-guillotine-bride "Yen Press")|1|Yen Press|🖥️📖|
 |May 21|[Hell Mode](https://yenpress.com/titles/9781975368524-hell-mode-vol-4 "Yen Press")|4|Yen Press|📖|
 |May 21|[Horror Collector](https://yenpress.com/titles/9781975378264-horror-collector-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -307,6 +309,7 @@
 |Jun 18|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379667-the-vexations-of-a-shut-in-vampire-princess-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Jun 18|[You Are My Regret](https://yenpress.com/titles/9781975378820-you-are-my-regret-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 18|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Jun 21|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 25|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/745909/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-5-light-novel-by-miraijin-a/9781647293499 "Kodansha")|5|Kodansha|📖|
 |Jun 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Jun 27|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
