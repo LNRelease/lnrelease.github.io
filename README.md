@@ -117,11 +117,9 @@
 |Mar 19|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9781975371074-a-misanthrope-teaches-a-class-for-demi-humans-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 19|[Canine Detective Chris](https://yenpress.com/titles/9781975390969-canine-detective-chris-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 19|[Classroom for Heroes](https://yenpress.com/titles/9781975378684-classroom-for-heroes-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Mar 19|[Ishura](https://yenpress.com/titles/9781975369446-ishura-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Mar 19|[King's Proposal](https://yenpress.com/titles/9781975380519-king-s-proposal-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Mar 19|[NieR Replicant ver.1.22474487139... Project Gestalt Recollections File 2](https://legacy.rightstufanime.com/NieR-Replicant-ver122474487139-Project-Gestalt-Recollections-File-2-Novel-Hardcover "Square Enix Books")|1|Square Enix Books|📖|
 |Mar 19|[Online!](https://yenpress.com/titles/9781975388959-online-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Mar 19|[Orc Eroica](https://yenpress.com/titles/9781975391485-orc-eroica-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Mar 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Mar 19|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Mar 19|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975335397-re-starting-life-in-another-world-vol-24-light-novel "Yen Press")|24|Yen Press|🖥️📖|
@@ -130,7 +128,6 @@
 |Mar 19|[The Deer King](https://yenpress.com/titles/9781975352356-the-deer-king-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 19|[The Detective Is Already Dead](https://yenpress.com/titles/9781975379568-the-detective-is-already-dead-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Mar 19|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975363918-the-ephemeral-scenes-of-setsuna-s-journey-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
-|Mar 19|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975380632-the-executioner-and-her-way-of-life-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Mar 19|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975380496-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-6-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Mar 20|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-30 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 20|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -139,7 +136,10 @@
 |Mar 25|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 25|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Mar 26|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350147-high-school-prodigies-have-it-easy-even-in-another-world-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
+|Mar 26|[Ishura](https://yenpress.com/titles/9781975369446-ishura-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Mar 26|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Mar 26|[Orc Eroica](https://yenpress.com/titles/9781975391485-orc-eroica-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+|Mar 26|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975380632-the-executioner-and-her-way-of-life-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Mar 28|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 29|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 29|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
@@ -191,6 +191,7 @@
 |Apr 23|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Apr 24|[The Exiled Noble Rises as the Holy King: Befriending Fluffy Beasts and a Holy Maiden with My Ultimate Cheat Skill!](https://j-novel.club/series/the-exiled-noble-rises-as-the-holy-king-befriending-fluffy-beasts-and-a-holy-maiden-with-my-ultimate-cheat-skill#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 26|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Apr 26|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 26|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-21 "J-Novel Club")|21|J-Novel Club|🖥️|
 |Apr 26|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Apr 26|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -238,6 +239,7 @@
 |May 15|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 15|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-46 "J-Novel Club")|44|J-Novel Club|🖥️|
 |May 16|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|May 17|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 |May 20|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 20|[I Don't Want to Be the Dragon Duke's Maid! Serving My Ex-Fiancé from My Past Life](https://j-novel.club/series/i-don-t-want-to-be-the-dragon-duke-s-maid-serving-my-ex-fianc-from-my-past-life#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |May 20|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -346,7 +348,6 @@
 |Jul 23|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975388331-the-executioner-and-her-way-of-life-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Jul 23|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975370817-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
 |Jul 23|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975392451-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-7-novel "Yen Press")|7|Yen Press|🖥️📖|
-|Jul 23|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Jul 23|[The Trials of Chiyodaku](https://yenpress.com/titles/9781975392437-the-trials-of-chiyodaku-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jul 30|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -388,6 +389,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |---|---|---|---|---|
+|Dec 24|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Dec 31|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 |Dec 31|[The Invincible Shovel](https://sevenseasentertainment.com/books/the-invincible-shovel-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
