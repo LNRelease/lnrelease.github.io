@@ -157,6 +157,7 @@
 |Apr 02|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Apr 02|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Apr 04|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Apr 05|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀](https://j-novel.club/series/reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Apr 05|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Apr 05|[You Like Me, Not My Daughter?!](https://j-novel.club/series/you-like-me-not-my-daughter#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Apr 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
