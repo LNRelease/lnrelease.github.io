@@ -93,8 +93,10 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                 a = book.a
                 link = a.get('href')
                 title = a.get('title')
-                if (title.startswith('BOOK☆WALKER Exclusive: ')
-                    or title.endswith(' Bundle Set')
+                if (not title
+                    or title.startswith('BOOK☆WALKER Exclusive: ')
+                    or title.endswith(' [Bonus Item]')
+                    or ' Bundle Set]' in title
                         or link in skip):
                     continue
 

@@ -35,9 +35,9 @@ def write_page(releases: Iterable[Release], output: Path, title: str, github: bo
                 file.write(f'\n\n## [{year}](/year/{year}.md)\n')
             if month != release.date.month:
                 month = release.date.month
-                file.write(f'\n### {release.date.strftime("%B")}\n\n')
-                file.write('|Date|Series|Volume|Publisher|Type|\n')
-                file.write('|---|---|---|---|---|\n')
+                file.write(f'\n### {release.date.strftime("%B")}\n\n'
+                           '|Date|Series|Volume|Publisher|Type|\n'
+                           '|:---:|---|:---:|---|:---:|\n')
 
             date = release.date.strftime('%b %d')
             name = f'[{release.name}]({release.link} "{release.publisher}")'

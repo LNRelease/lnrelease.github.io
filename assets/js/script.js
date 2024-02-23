@@ -875,30 +875,54 @@ function initTitle(novels) {
         if (series) createStar(novels, key, series);
     }
 
-    document.getElementById('title-reset')
-        .addEventListener('click', () => {
-            if (!window.confirm('Reset all starred series?'))
-                return;
+    const reset = document.getElementById('title-reset');
+    reset.addEventListener('click', () => {
+        if (!window.confirm('Reset all starred series?'))
+            return;
 
-            search.value = '';
-            STAR.checked = false;
-            settings.star = false;
-            for (const book of novels) {
-                if (!book.filters.title || book.filters.star) {
-                    book.filters.title = true;
-                    book.filters.star = false;
-                    book.filter = book.getFilter();
-                    book.row?.querySelector('.star-btn')
-                        .classList.remove('star-active');
-                }
+        search.value = '';
+        STAR.checked = false;
+        settings.star = false;
+        for (const book of novels) {
+            if (!book.filters.title || book.filters.star) {
+                book.filters.title = true;
+                book.filters.star = false;
+                book.filter = book.getFilter();
+                book.row?.querySelector('.star-btn')
+                    .classList.remove('star-active');
             }
-            filterTable(novels);
-            header.remove('filter');
-            for (const row of novels.stars.values())
-                row.remove();
-            novels.filters.star.clear();
-            novels.stars.clear();
-        });
+        }
+        filterTable(novels);
+        header.remove('filter');
+        for (const row of novels.stars.values())
+            row.remove();
+        novels.filters.star.clear();
+        novels.stars.clear();
+    });
+    reset.addEventListener('contextmenu', e => {
+        e.preventDefault();
+        const stars = Array.from(novels.filters.star).sort().join();
+        const val = window.prompt('Save/Load stars', stars)
+        if (val === null || val === stars)
+            return;
+
+        settings.series = val.split(',')
+            .filter(s => novels.series.has(s)).sort();
+        for (const row of novels.stars.values())
+            row.remove();
+        novels.stars.clear();
+        for (const key of settings.series)
+            createStar(novels, key, novels.series.get(key));
+
+        novels.filters.star = new Set(settings.series);
+        const filter = novels.filters.star;
+        for (const book of novels) {
+            book.filterStar(filter);
+            book.row?.querySelector('.star-btn')
+                .classList.toggle('star-active', book.filters.star);
+        }
+        if (settings.star) filterTable(novels);
+    });
 }
 
 function initVolume(novels) {

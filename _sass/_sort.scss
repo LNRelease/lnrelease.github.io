@@ -245,7 +245,11 @@
     width: 1.4em;
 }
 
-#menu-title>.list-border>input {
+#menu-title input[type="checkbox"] {
+    padding-top: 0;
+}
+
+#menu-title input[type="search"] {
     margin-right: .25em;
     width: 100%;
 }

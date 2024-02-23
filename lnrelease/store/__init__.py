@@ -14,6 +14,12 @@ STORES = {
     'www.amazon.co.uk': amazon,
     'www.amazon.com': amazon,
     'www.amazon.com.au': amazon,
+    'www.audible.ca': audible,
+    'www.audible.co.jp': audible,
+    'www.audible.co.uk': audible,
+    'www.audible.com': audible,
+    'www.audible.com.au': audible,
+    'www.audible.de': audible,
     'books.apple.com': apple,
     'itunes.apple.com': apple,
     'geo.itunes.apple.com': apple,
@@ -55,6 +61,19 @@ IGNORE = {
     'www.walmart.com',
 }
 
+RESOLVE = {
+    'www.amazon.ca',
+    'www.amazon.co.uk',
+    'www.amazon.com',
+    'www.amazon.com.au',
+    'www.audible.ca',
+    'www.audible.co.jp',
+    'www.audible.co.uk',
+    'www.audible.com',
+    'www.audible.com.au',
+    'www.audible.de',
+}
+
 
 def equal(a: str, b: str) -> bool:
     if a == b:
@@ -63,9 +82,7 @@ def equal(a: str, b: str) -> bool:
     netloc = urlparse(a).netloc
 
     try:
-        if 'audible' in netloc:
-            return audible.equal(a, b)
-        elif netloc in STORES:
+        if netloc in STORES:
             return STORES[netloc].equal(a, b)
         elif netloc in PROCESSED:
             return PROCESSED[netloc].equal(a, b)
@@ -80,9 +97,7 @@ def hash_link(link: str) -> int:
     netloc = urlparse(link).netloc
 
     try:
-        if 'audible' in netloc:
-            return audible.hash_link(link)
-        elif netloc in STORES:
+        if netloc in STORES:
             return STORES[netloc].hash_link(link)
         elif netloc in PROCESSED:
             return PROCESSED[netloc].hash_link(link)
@@ -97,10 +112,9 @@ def normalise(session: session.Session, link: str, resolve: bool = False) -> str
     # normalise url, return None if failed
     netloc = urlparse(link).netloc
 
-    if 'audible' in netloc:
-        res = audible.normalise(session, link)
-    elif netloc in STORES:
+    if netloc in STORES:
         res = STORES[netloc].normalise(session, link)
+        resolve &= netloc in RESOLVE
     elif netloc in PROCESSED:
         res = PROCESSED[netloc].normalise(session, link)
     elif netloc in IGNORE:
@@ -121,9 +135,7 @@ def parse(session: session.Session, link: str, norm: str, force: bool = False, *
           ) -> tuple[utils.Series, set[utils.Info]] | None:
     netloc = urlparse(norm).netloc
 
-    if 'audible' in netloc:
-        store = audible
-    elif netloc in STORES:
+    if netloc in STORES:
         store = STORES[netloc]
     elif netloc in PROCESSED:
         return None

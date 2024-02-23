@@ -63,7 +63,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
         force = True  # leave amazon to last, force only if no other sources
         for url, norm in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
             netloc = urlparse(norm).netloc
-            if netloc in store.STORES or 'audible' in netloc:
+            if netloc in store.STORES:
                 res = store.parse(session, url, norm, force,
                                   series=series, publisher=NAME,
                                   title=title, index=index, format='Digital')

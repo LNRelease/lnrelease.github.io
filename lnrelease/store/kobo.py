@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 NAME = 'Kobo'
 
-PATH = re.compile(r'(?:/\w+/\w+)?/(?P<format>ebook|audiobook)/(?P<name>[^/]+)(?:/.+)?')
+PATH = re.compile(r'(?:/\w+/\w+)?/(?P<format>ebook|audiobook)/(?P<name>[^/]+)(?:/.*)?')
 INDEX = re.compile(r'Book (?P<index>\d+) - ')
 
 

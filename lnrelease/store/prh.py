@@ -23,8 +23,6 @@ def hash_link(link: str) -> int:
 
 def normalise(session: session.Session, link: str) -> str | None:
     u = urlparse(link)
-    if match := PATH.fullmatch(u.path):
-        path = match.group('path')
-    else:
+    if not PATH.fullmatch(u.path):
         return None
-    return urlunparse(('https', 'www.penguinrandomhouse.com', path, '', '', ''))
+    return urlunparse(('https', 'www.penguinrandomhouse.com', u.path, '', '', ''))
