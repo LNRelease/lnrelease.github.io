@@ -31,6 +31,7 @@
 |Feb 15|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 15|[My Pet is a Saintess](https://hanashi.media/my-pet-is-a-saintess/ "Hanashi Media")|1|Hanashi Media|🖥️|
 |Feb 15|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️|
+|Feb 15|[Reincarnated as the Last of My Kind](https://crossinfworld.com/Reincarnated-as-the-Last-of-My-Kind-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|📖|
 |Feb 16|[BLADE & BASTARD: Return of The Hrathnir](https://j-novel.club/series/blade-bastard#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 19|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Feb 19|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -269,6 +270,7 @@
 |May 21|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345204-the-irregular-at-magic-high-school-vol-22-light-novel "Yen Press")|22|Yen Press|🖥️📖|
 |May 21|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975388454-the-princess-of-convenient-plot-devices-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |May 21|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975369583-wolf-parchment-new-theory-spice-wolf-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|May 21|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |May 28|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |May 28|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 29|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
@@ -285,12 +287,14 @@
 |Jun 03|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-24 "J-Novel Club")|24|J-Novel Club|🖥️|
 |Jun 04|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |Jun 04|[Yes, No, or Maybe?](https://sevenseasentertainment.com/books/yes-no-or-maybe-light-novel-3-where-home-is/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Jun 05|[Black Summoner](https://j-novel.club/series/black-summoner#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
 |Jun 10|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/series/ascendance-of-a-bookworm-short-story-collection#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
 |Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13 "J-Novel Club")|13-15|J-Novel Club|📖|
 |Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Jun 11|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/745908/the-dawn-of-the-witch-6-light-novel-by-kakeru-kobashiri/9781647293482 "Kodansha")|6|Kodansha|📖|
 |Jun 11|[True Love Fades Away When the Contract Ends – One Star in the Night Sky](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Jun 14|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jun 17|[D-Genesis](https://j-novel.club/series/d-genesis#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 18|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 18|[Black Summoner](https://yenpress.com/titles/9781975392215-black-summoner-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
