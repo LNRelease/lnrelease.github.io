@@ -72,6 +72,7 @@
 |Feb 28|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 28|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 29|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Feb 29|[Another World Survival](https://hanashi.media/another-world-survival/#:~:text=Volume%2008 "Hanashi Media")|8|Hanashi Media|🖥️|
 |Feb 29|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 |Feb 29|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 |Feb 29|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
