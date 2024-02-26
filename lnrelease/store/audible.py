@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 NAME = 'Audible'
 
 PATH = re.compile(r'/pd/(?P<name>[^/]+)/(?P<asin>\w{10})(?:/.*)?')
-BOOK = re.compile(r',?\s*Book (?P<index>\d+)\s*')
+BOOK = re.compile(r',?\s*(?:Book|Titel) (?P<index>\d+)\s*')
 
 
 def equal(a: str, b: str) -> bool:
@@ -70,7 +70,8 @@ def parse(session: session.Session, link: str, norm: str, *,
     label = soup.find(class_='seriesLabel')
     if label:
         a = label.find_all('a')[-1]
-        index = index or BOOK.fullmatch(a.next_sibling.text).group('index')
+        if not index and (match := BOOK.fullmatch(a.next_sibling.text)):
+            index = int(match.group('index'))
         series_title = a.text
 
     series = series or utils.Series(None, series_title)
