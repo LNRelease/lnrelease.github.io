@@ -135,6 +135,8 @@
 |Mar 20|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-30 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 20|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 20|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Mar 21|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️|
+|Mar 21|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️|
 |Mar 22|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 25|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 25|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -143,6 +145,7 @@
 |Mar 26|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Mar 26|[Orc Eroica](https://yenpress.com/titles/9781975391485-orc-eroica-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Mar 26|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975380632-the-executioner-and-her-way-of-life-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Mar 28|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Mar 28|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 29|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 29|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
@@ -168,7 +171,7 @@
 |Apr 12|[Sword Saint Adel's Second Chance](https://j-novel.club/series/sword-saint-adel-s-second-chance#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 16|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpress.com/titles/9781975376895-apparently-disillusioned-adventurers-will-save-the-world-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Apr 16|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975367725-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
-|Apr 16|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
+|Apr 16|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Apr 16|[Goblin Slayer Side Story: Year One](https://yenpress.com/titles/9781975306274-goblin-slayer-side-story-year-one-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 16|[High School DxD](https://yenpress.com/titles/9781975350406-high-school-dxd-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Apr 16|[Hollow Regalia](https://yenpress.com/titles/9781975387778-hollow-regalia-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
@@ -188,7 +191,7 @@
 |Apr 19|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Apr 22|[Jeanette the Genius: Defying My Evil Stepmother by Starting a Business with My Ride-or-Die Fiancé!](https://j-novel.club/series/jeanette-the-genius-defying-my-evil-stepmother-by-starting-a-business-with-my-ride-or-die-fianc#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 23|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347970-chitose-is-in-the-ramune-bottle-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
+|Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Apr 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734068/saving-80000-gold-in-another-world-for-my-retirement-4-light-novel-by-funa/9781647293130 "Kodansha")|4|Kodansha|📖|
 |Apr 23|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Apr 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
@@ -203,7 +206,7 @@
 |Apr 29|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Apr 29|[Only the Villainous Lord Wields the Power to Level Up](https://j-novel.club/series/only-the-villainous-lord-wields-the-power-to-level-up#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Apr 29|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
-|Apr 30|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Apr 30|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Apr 30|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 |Apr 30|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|📖|
 |Apr 30|[I Reincarnated As Evil Alice, So the Only Thing I'm Courting Is Death!](https://crossinfworld.com/I-Reincarnated-As-Evil-Alice-So-the-Only-Thing-Im-Courting-Is-Death-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
@@ -291,6 +294,7 @@
 |Jun 04|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |Jun 04|[Yes, No, or Maybe?](https://sevenseasentertainment.com/books/yes-no-or-maybe-light-novel-3-where-home-is/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Jun 05|[Black Summoner](https://j-novel.club/series/black-summoner#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
+|Jun 07|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 10|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/series/ascendance-of-a-bookworm-short-story-collection#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
 |Jun 10|[Slayers](https://j-novel.club/series/slayers#volume-13 "J-Novel Club")|13-15|J-Novel Club|📖|
