@@ -61,7 +61,7 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     pages = Table(PAGES, Key)
     today = datetime.date.today()
-    cutoff = today.replace(year=today.year - 1)
+    cutoff = today - datetime.timedelta(days=365)
     # no date = not light novel
     skip = {row.key for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
 

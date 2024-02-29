@@ -263,7 +263,7 @@ def secondary(series: Series, info: dict[str, list[Info]],
         diff = diff_list([i.title for i in lst])
         poss[source] = {x: i for x, i in zip(diff, lst)}
     today = datetime.date.today()
-    cutoff = today.replace(year=today.year-5)
+    cutoff = today - datetime.timedelta(days=365*5)
 
     # replace index if unset
     for value in info.values():
