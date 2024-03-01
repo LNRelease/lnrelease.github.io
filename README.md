@@ -137,11 +137,13 @@
 |Mar 20|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Mar 21|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️|
 |Mar 21|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️|
+|Mar 21|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️|
 |Mar 22|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 25|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 25|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Mar 26|[High School Prodigies Have It Easy Even in Another World!](https://yenpress.com/titles/9781975350147-high-school-prodigies-have-it-easy-even-in-another-world-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Mar 26|[Ishura](https://yenpress.com/titles/9781975369446-ishura-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Mar 26|[Stitches](https://www.viz.com/read/novel/junji-ito/product/7786/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Mar 26|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Mar 26|[Orc Eroica](https://yenpress.com/titles/9781975391485-orc-eroica-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Mar 26|[The Executioner and Her Way of Life](https://yenpress.com/titles/9781975380632-the-executioner-and-her-way-of-life-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
@@ -194,7 +196,7 @@
 |Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Apr 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734068/saving-80000-gold-in-another-world-for-my-retirement-4-light-novel-by-funa/9781647293130 "Kodansha")|4|Kodansha|📖|
 |Apr 23|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
-|Apr 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
+|Apr 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Apr 23|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Apr 24|[The Exiled Noble Rises as the Holy King: Befriending Fluffy Beasts and a Holy Maiden with My Ultimate Cheat Skill!](https://j-novel.club/series/the-exiled-noble-rises-as-the-holy-king-befriending-fluffy-beasts-and-a-holy-maiden-with-my-ultimate-cheat-skill#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 26|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -266,7 +268,6 @@
 |May 21|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 21|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368333-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-4-light-novel "Yen Press")|4|Yen Press|📖|
 |May 21|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745918/my-unique-skill-makes-me-op-even-at-level-1-vol-5-light-novel-by-miki-nazuna/9781647293345 "Kodansha")|5|Kodansha|📖|
-|May 21|[Phantom Thief Red](https://yenpress.com/titles/9781975378141-phantom-thief-red-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |May 21|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975376673-reign-of-the-seven-spellblades-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |May 21|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |May 21|[Spy Classroom](https://yenpress.com/titles/9781975367497-spy-classroom-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
@@ -316,6 +317,7 @@
 |Jun 18|[Liar, Liar](https://yenpress.com/titles/9781975370657-liar-liar-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 18|[Miss Savage Fang](https://yenpress.com/titles/9781975371111-miss-savage-fang-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 18|[Online!](https://yenpress.com/titles/9781975388973-online-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Jun 18|[Phantom Thief Red](https://yenpress.com/titles/9781975378141-phantom-thief-red-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jun 18|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9781975392611-playing-death-games-to-put-food-on-the-table-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 18|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377939-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-3-light-novel "Yen Press")|3|Yen Press|📖|
 |Jun 18|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9781975351052-sugar-apple-fairy-tale-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
@@ -327,6 +329,7 @@
 |Jun 18|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379667-the-vexations-of-a-shut-in-vampire-princess-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Jun 18|[You Are My Regret](https://yenpress.com/titles/9781975378820-you-are-my-regret-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 18|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Jun 20|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 21|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 25|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/745909/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-5-light-novel-by-miraijin-a/9781647293499 "Kodansha")|5|Kodansha|📖|
 |Jun 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
@@ -337,6 +340,8 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jul 01|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-29 "J-Novel Club")|29|J-Novel Club|🖥️|
+|Jul 01|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jul 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-25 "J-Novel Club")|4|J-Novel Club|📖|
 |Jul 08|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-4 "J-Novel Club")|4-6|J-Novel Club|📖|
@@ -366,6 +371,7 @@
 |Jul 23|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975370817-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
 |Jul 23|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975392451-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-7-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Jul 23|[The Trials of Chiyodaku](https://yenpress.com/titles/9781975392437-the-trials-of-chiyodaku-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jul 26|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jul 30|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Jul 30|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
@@ -376,7 +382,33 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Aug 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-21 "J-Novel Club")|21-22|J-Novel Club|📖|
+|Aug 13|[By the Grace of the Gods](https://yenpress.com/titles/9781718353923-by-the-grace-of-the-gods-volume-13 "Yen Press")|13|Yen Press|📖|
+|Aug 13|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Aug 20|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975389505-alya-sometimes-hides-her-feelings-in-russian-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Aug 20|[Blade & Bastard](https://yenpress.com/titles/9781975392888-blade-bastard-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
+|Aug 20|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975379384-hell-is-dark-with-no-flowers-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Aug 20|[Hell Mode](https://yenpress.com/titles/9781975368531-hell-mode-vol-5 "Yen Press")|5|Yen Press|📖|
+|Aug 20|[High School DxD](https://yenpress.com/titles/9781975350420-high-school-dxd-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
+|Aug 20|[Horror Collector](https://yenpress.com/titles/9781975378288-horror-collector-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Aug 20|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975370091-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Aug 20|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975393403-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-19-light-novel "Yen Press")|19|Yen Press|🖥️📖|
+|Aug 20|[King's Proposal](https://yenpress.com/titles/9781975393243-king-s-proposal-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
+|Aug 20|[Magical Girl Raising Project](https://yenpress.com/titles/9781975398279-magical-girl-raising-project-vol-18-light-novel "Yen Press")|18|Yen Press|🖥️📖|
 |Aug 20|[Mushoku Tensei: Jobless Reincarnation – A Journey of Two Lifetimes](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-a-journey-of-two-lifetimes-special-book/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Aug 20|[My First Love's Kiss](https://yenpress.com/titles/9781975389468-my-first-love-s-kiss-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Aug 20|[My Happy Marriage](https://yenpress.com/titles/9781975391560-my-happy-marriage-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
+|Aug 20|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368340-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-5-light-novel "Yen Press")|5|Yen Press|📖|
+|Aug 20|[Rascal Does Not Dream of Santa Claus](https://yenpress.com/titles/9781975391607-rascal-does-not-dream-of-santa-claus-light-novel "Yen Press")|13|Yen Press|🖥️📖|
+|Aug 20|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975392512-re-starting-life-in-another-world-short-story-collection-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Aug 20|[Riviere and the Land of Prayer](https://yenpress.com/titles/9781975379803-riviere-and-the-land-of-prayer-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Aug 20|[Sabikui Bisco](https://yenpress.com/titles/9781975367947-sabikui-bisco-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Aug 20|[Sentenced to Be a Hero](https://yenpress.com/titles/9781975391348-sentenced-to-be-a-hero-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Aug 20|[Sword Art Online Alternative Clover's Regret](https://yenpress.com/titles/9781975390686-sword-art-online-alternative-clover-s-regret-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Aug 20|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375577-that-time-i-got-reincarnated-as-a-slime-vol-19-light-novel "Yen Press")|19|Yen Press|🖥️📖|
+|Aug 20|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975389055-the-ephemeral-scenes-of-setsuna-s-journey-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+|Aug 20|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975391942-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
+|Aug 20|[The Misfit of Demon King Academy, Vol. 4, Act 1](https://yenpress.com/titles/9781975389130-the-misfit-of-demon-king-academy-vol-4-act-1-light-novel "Yen Press")|1|Yen Press|📖|
+|Aug 20|[Your Forma](https://yenpress.com/titles/9781975393830-your-forma-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 
 ### September
 
@@ -391,6 +423,7 @@
 |:---:|---|:---:|---|:---:|
 |Oct 08|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/745913/am-i-actually-the-strongest-6-ln-by-sai-sumimori/9781647293567 "Kodansha")|6|Kodansha|📖|
 |Oct 08|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Oct 08|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 15|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/767838/saving-80000-gold-in-another-world-for-my-retirement-6-light-novel-by-funa/9781647293659 "Kodansha")|6|Kodansha|📖|
 |Oct 29|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
