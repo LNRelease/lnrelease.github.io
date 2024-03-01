@@ -10,7 +10,6 @@ from utils import Info, Series
 
 NAME = 'Hanashi Media'
 
-LINK = re.compile(r"\s*Visit series' website\s*")
 TITLE = re.compile(r'(?P<title>.+) – Hanashi Media')
 STORE = re.compile(r'[Gg]et at .+')
 ISBN = re.compile(r'.*ISBN: ?(?:(?P<isbn>[\d-]{13,})|Not Yet|)')
@@ -87,9 +86,11 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     with Session() as session:
         page = session.get(r'https://hanashi.media/')
         soup = BeautifulSoup(page.content, 'lxml')
-        for a in soup.find_all(class_='post__more', string=LINK):
+        links = (a.get('href') for a in soup
+                 .find(class_='menu-label', string='Light Novels')
+                 .find_parent('li').ul.find_all('a'))
+        for link in links:
             try:
-                link = a.get('href')
                 res = parse(session, link)
 
                 if len(res[1]) > 0:
