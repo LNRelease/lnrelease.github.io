@@ -155,6 +155,7 @@
 |Mar 29|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Mar 29|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Mar 29|[Reincarnated as the Last of My Kind](https://crossinfworld.com/Reincarnated-as-the-Last-of-My-Kind-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
+|Mar 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/tsukimichi-moonlit-fantasy/ "Hanashi Media")|1|Hanashi Media|🖥️|
 
 ### April
 
