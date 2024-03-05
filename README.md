@@ -281,6 +281,7 @@
 |May 21|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975388454-the-princess-of-convenient-plot-devices-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |May 21|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975369583-wolf-parchment-new-theory-spice-wolf-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |May 21|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|May 23|[Holmes of Kyoto](https://j-novel.club/series/holmes-of-kyoto#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |May 28|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |May 28|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 29|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
@@ -374,6 +375,7 @@
 |Jul 23|[The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)](https://yenpress.com/titles/9781975370817-the-genius-prince-s-guide-to-raising-a-nation-out-of-debt-hey-how-about-treason-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
 |Jul 23|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9781975392451-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-7-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Jul 23|[The Trials of Chiyodaku](https://yenpress.com/titles/9781975392437-the-trials-of-chiyodaku-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jul 23|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 26|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jul 30|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
