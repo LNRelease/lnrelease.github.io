@@ -336,7 +336,6 @@
 |Jun 20|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 21|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 25|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/745909/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-5-light-novel-by-miraijin-a/9781647293499 "Kodansha")|5|Kodansha|📖|
-|Jun 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Jun 27|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 30|[Lovestruck Prince! I'll Fight the Heroine for My Villainess Fiancée!](https://crossinfworld.com/Lovestruck-Prince-Ill-Fight-the-Heroine-for-My-Villainess-Fiancee-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 
@@ -411,13 +410,13 @@
 |Aug 20|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975389055-the-ephemeral-scenes-of-setsuna-s-journey-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Aug 20|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975391942-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Aug 20|[The Misfit of Demon King Academy, Vol. 4, Act 1](https://yenpress.com/titles/9781975389130-the-misfit-of-demon-king-academy-vol-4-act-1-light-novel "Yen Press")|1|Yen Press|📖|
+|Aug 20|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Aug 20|[Your Forma](https://yenpress.com/titles/9781975393830-your-forma-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 
 ### September
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Sep 03|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745904/my-unique-skill-makes-me-op-even-at-level-1-vol-6-light-novel-by-miki-nazuna/9781647293420 "Kodansha")|6|Kodansha|📖|
 
 ### October
@@ -430,6 +429,7 @@
 |Oct 08|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 15|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Oct 15|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/767838/saving-80000-gold-in-another-world-for-my-retirement-6-light-novel-by-funa/9781647293659 "Kodansha")|6|Kodansha|📖|
+|Oct 22|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 
 ### November
 
