@@ -117,7 +117,7 @@
 |Apr 22|[Jeanette the Genius: Defying My Evil Stepmother by Starting a Business with My Ride-or-Die Fiancé!](https://j-novel.club/series/jeanette-the-genius-defying-my-evil-stepmother-by-starting-a-business-with-my-ride-or-die-fianc#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 23|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347970-chitose-is-in-the-ramune-bottle-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
-|Apr 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/734068/saving-80000-gold-in-another-world-for-my-retirement-4-light-novel-by-funa/9781647293130 "Kodansha")|4|Kodansha|📖|
+|Apr 23|[Saving 80,000 Gold in Another World for my Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-4-light-novel "Kodansha")|4|Kodansha|🖥️📖|
 |Apr 23|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Apr 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Apr 23|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
@@ -273,6 +273,7 @@
 |Jul 09|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Jul 09|[Otherside Picnic](https://yenpress.com/titles/9781718360815-otherside-picnic-omnibus-4 "Yen Press")|7-8|Yen Press|📖|
 |Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jul 09|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Volume-30 "Dark Horse")|30|Dark Horse|📖|
 |Jul 16|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jul 23|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373214-agents-of-the-four-seasons-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
