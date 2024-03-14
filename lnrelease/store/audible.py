@@ -41,9 +41,9 @@ def normalise(session: session.Session, link: str) -> str | None:
     else:
         return None
     netloc = u.netloc
-    if not u.netloc.startswith('www'):
-        if netloc.split('.')[0] == 'audible':
-            netloc = 'www.' + netloc
+    if not netloc.startswith('www.'):
+        if netloc.startswith('audible.'):
+            netloc = f'www.{netloc}'
         else:
             return None
     return urlunparse(('https', netloc, path, '', '', ''))

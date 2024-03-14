@@ -19,6 +19,13 @@ PRODUCT = re.compile(r'^\s*Product (?:details|information)\s*$')
 PUBLISHER = re.compile(r'Publisher')
 DETAILS = re.compile(r'^[\s\W]*(?P<publisher>[\s\w]+?)(?:;[\s\w]+ edition)? \((?P<date>.+)\)\s*$')
 
+NETLOCS = {
+    'www.amazon.ca',
+    'www.amazon.co.uk',
+    'www.amazon.com',
+    'www.amazon.com.au',
+}
+
 DATE_FORMATS = {
     r'%d %b %Y',
     r'%d %B %Y',
@@ -54,7 +61,15 @@ def normalise(session: session.Session, link: str) -> str | None:
         path = '/dp/' + match.group('asin')
     else:
         return None
-    return urlunparse(('https', u.netloc, path, '', '', ''))
+    netloc = u.netloc
+    if not netloc.startswith('www.'):
+        if netloc.startswith('amazon.'):
+            netloc = f'www.{netloc}'
+        else:
+            return None
+    if u.netloc not in NETLOCS:
+        netloc = 'www.amazon.com'
+    return urlunparse(('https', netloc, path, '', '', ''))
 
 
 def get_attr(soup: BeautifulSoup, attr: str) -> str:
@@ -65,7 +80,6 @@ def get_attr(soup: BeautifulSoup, attr: str) -> str:
 
 
 def strpdate(link: str, s: str) -> datetime.date:
-    netloc = urlparse(link).netloc
     s = (s.replace('Sept.', 'September')
           .replace('.', '')
           .replace(',', ''))
@@ -82,7 +96,9 @@ def parse(session: session.Session, link: str, norm: str, *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    link = urlparse(link)._replace(params='', query='', fragment='').geturl()
+    u = urlparse(link)
+    link = (u._replace(params='', query='', fragment='').geturl()
+            if u.netloc in NETLOCS else norm)
     page = session.get(link, web_cache=True)
     if page.status_code == 404 and link != norm:
         page = session.get(norm, web_cache=True)

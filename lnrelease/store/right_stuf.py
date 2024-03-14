@@ -11,7 +11,10 @@ PATH = re.compile(r'(?P<path>/[^/]+)(?:/.*)?')
 
 
 def equal(a: str, b: str) -> bool:
-    return a == b
+    match_a = PATH.fullmatch(urlparse(a).path)
+    match_b = PATH.fullmatch(urlparse(b).path)
+    return (match_a and match_b
+            and match_a.group('path') == match_b.group('path'))
 
 
 def hash_link(link: str) -> int:

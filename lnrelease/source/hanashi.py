@@ -31,16 +31,18 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             warnings.warn(f'No ISBN found: {link}', RuntimeWarning)
             continue
 
-        url = a.get('href')
-        if not url or not urlparse(url).scheme:
+        url: str = a.get('href')
+        u = urlparse(url)
+        if not u.scheme:
             continue
         url = session.resolve(url.strip())
 
         norm = store.normalise(session, url, resolve=True)
         if norm is None:
             warnings.warn(f'{url} normalise failed', RuntimeWarning)
-        elif norm:
-            isbns[isbn][url] = norm
+        elif norm and (norm not in isbns[isbn]
+                       or u.netloc == urlparse(norm).netloc):
+            isbns[isbn][norm] = url
 
     u = urlparse(link)
     for index, (isbn, urls) in enumerate(isbns.items(), start=1):
@@ -62,7 +64,10 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
         force = True  # leave amazon to last, force only if no other sources
         for url, norm in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
             netloc = urlparse(norm).netloc
-            if netloc in store.STORES:
+            if netloc in store.PROCESSED:
+                alts.append(norm)
+                force = False
+            else:
                 res = store.parse(session, url, norm, force,
                                   series=series, publisher=NAME,
                                   title=title, index=index, format='Digital')
@@ -72,9 +77,6 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
                     alts.extend(inf.link for inf in res[1])
                 else:
                     alts.append(norm)
-            elif netloc in store.PROCESSED:
-                alts.append(norm)
-                force = False
 
         isbn = ISBN.fullmatch(isbn.parent.text).group('isbn') or ''
         info.add(Info(series.key, u.geturl(), NAME, NAME, title, index, 'Digital', isbn, None, alts))

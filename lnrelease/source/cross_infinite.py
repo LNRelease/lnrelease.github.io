@@ -50,7 +50,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
 
         links: defaultdict[str, dict[str, str]] = defaultdict(dict)
         for a in panel.find_all('a'):
-            url = a.get('href').strip()
+            url: str = a.get('href').strip()
             u = urlparse(url)
             if not u.scheme or u.netloc == 'crossinfworld.com':
                 continue
@@ -60,15 +60,19 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             norm = store.normalise(session, url, resolve=True)
             if norm is None:
                 warnings.warn(f'{url} normalise failed')
-            elif norm:
-                links[format][url] = norm
+            elif norm and (norm not in links[format]
+                           or u.netloc == urlparse(norm).netloc):
+                links[format][norm] = url
 
         for format, urls in links.items():
             alts = []
             force = True  # leave amazon to last, force only if no other sources
-            for url, norm in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
+            for norm, url in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
                 netloc = urlparse(norm).netloc
-                if netloc in store.STORES:
+                if netloc in store.PROCESSED:
+                    alts.append(norm)
+                    force = False
+                else:
                     res = store.parse(session, url, norm, force,
                                       series=series, publisher=NAME,
                                       title=title, index=index, format=format)
@@ -78,9 +82,6 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
                         alts.extend(inf.link for inf in res[1])
                     else:
                         alts.append(norm)
-                elif netloc in store.PROCESSED:
-                    alts.append(norm)
-                    force = False
 
             info.add(Info(series.key, link, NAME, NAME, title, index, format, '', None, alts))
 

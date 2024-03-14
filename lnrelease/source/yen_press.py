@@ -15,7 +15,7 @@ PAGES = Path('yen_press.csv')
 TITLES = re.compile(r'https://yenpress\.com/titles/\d{13}-(?!.*(manga-vol|vol-\d+-manga|vol-\d+-comic|-chapter-\d+))[\w-]+')
 LINK = re.compile(r'(https://yenpress.com)?/titles/(?P<isbn>\d{13})-(?P<name>[\w-]+)')
 OMNIBUS = re.compile(r'contains the complete volumes (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)', flags=re.IGNORECASE)
-START = re.compile(r'(?P<start>.+?) (?:Omnibus |Collector\'s Edition |Volume )+\d+')
+START = re.compile(r'(?P<start>.+?) (?:Omnibus |Collector\'s Edition |Volume )+\d+(?: \(light novel\))?')
 
 
 def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Series, set[Info]]:

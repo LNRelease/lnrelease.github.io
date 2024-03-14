@@ -218,7 +218,7 @@ def part(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
             vol = match.group('volume')
             part = sub_nums(match.group('part'))
             if match := NUMBER.search(part):
-                vol += f'.{match.group("volume")}'
+                vol = f'{vol}.{match.group("volume")}'
         else:
             name = inf.title
             vol = '1'
@@ -328,7 +328,7 @@ def dupes(books: list[Book]) -> bool:
         if len(dupe) > 1:
             changed = True
             for i, b in enumerate(dupe, start=1):
-                b.volume += f'.{i}'
+                b.volume = f'{b.volume}.{i}'
     return changed
 
 

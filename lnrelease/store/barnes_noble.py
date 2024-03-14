@@ -29,11 +29,10 @@ def equal(a: str, b: str) -> bool:
     ean_a = next((v for k, v in parse_qsl(ua.query) if k == 'ean'), '')
     ean_b = next((v for k, v in parse_qsl(ub.query) if k == 'ean'), '')
 
-    return (match_a and match_b
+    return (ean_a and ean_b and ean_a == ean_b
+            or match_a and match_b
             and match_a.group('id') == match_b.group('id')
-            and (ean_a == ean_b
-                 or (ean_a and not ean_b)
-                 or (not ean_a and ean_b)))
+            and not (ean_a and ean_b))
 
 
 def hash_link(link: str) -> int:

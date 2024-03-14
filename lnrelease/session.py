@@ -3,7 +3,7 @@ import warnings
 from threading import Lock
 from time import sleep, time
 from typing import Self
-from urllib.parse import urljoin, urlparse
+from urllib.parse import quote, urljoin, urlparse
 
 import requests
 import store
@@ -123,7 +123,7 @@ class Session(requests.Session):
         if self.skip_google:
             return None
 
-        url = 'https://webcache.googleusercontent.com/search?q=cache:' + url
+        url = f'https://webcache.googleusercontent.com/search?q=cache:{quote(url)}'
         page = self.try_get(url, retries=5, **kwargs)
 
         if page and page.status_code == 429:
@@ -132,7 +132,8 @@ class Session(requests.Session):
             return None
         return page
 
-    def _bing_cache(self, link: str, url: str, **kwargs) -> requests.Response | None:
+    def _bing_cache(self, query: str, url: str, **kwargs) -> requests.Response | None:
+        link = f'https://www.bing.com/search?q={quote(query)}&go=Search&qs=bs&form=QBRE'
         page = self.try_get(link, retries=5, **kwargs)
         if not page:
             return None
@@ -158,8 +159,8 @@ class Session(requests.Session):
         return page
 
     def bing_cache(self, url: str, **kwargs) -> requests.Response | None:
-        return (self._bing_cache(f'https://www.bing.com/search?q=url:{url}&go=Search&qs=bs&form=QBRE', url, **kwargs)
-                or self._bing_cache(f'https://www.bing.com/search?q={url}&go=Search&qs=bs&form=QBRE', url, **kwargs))
+        return (self._bing_cache(f'url:{url}', url, **kwargs)
+                or self._bing_cache(url.removeprefix('https://'), url, **kwargs))
 
     def get_cache(self, url: str, **kwargs) -> requests.Response | None:
         google = self.google_cache(url, **kwargs)
