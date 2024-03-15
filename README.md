@@ -229,6 +229,7 @@
 |Jun 11|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/745908/the-dawn-of-the-witch-6-light-novel-by-kakeru-kobashiri/9781647293482 "Kodansha")|6|Kodansha|📖|
 |Jun 11|[True Love Fades Away When the Contract Ends – One Star in the Night Sky](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Jun 14|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jun 14|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jun 17|[D-Genesis](https://j-novel.club/series/d-genesis#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 18|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 18|[Black Summoner](https://yenpress.com/titles/9781975392215-black-summoner-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
@@ -260,6 +261,7 @@
 |Jun 25|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/745909/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-5-light-novel-by-miraijin-a/9781647293499 "Kodansha")|5|Kodansha|📖|
 |Jun 27|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jun 27|[Back to the Battlefield: The Veteran Heroes Return to the Fray!](https://j-novel.club/series/back-to-the-battlefield-the-veteran-heroes-return-to-the-fray#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Jun 28|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 |Jun 30|[Lovestruck Prince! I'll Fight the Heroine for My Villainess Fiancée!](https://crossinfworld.com/Lovestruck-Prince-Ill-Fight-the-Heroine-for-My-Villainess-Fiancee-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 
 ### July
@@ -310,8 +312,10 @@
 |:---:|---|:---:|---|:---:|
 |Aug 06|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Aug 06|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Aug 09|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Aug 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-21 "J-Novel Club")|21-22|J-Novel Club|📖|
-|Aug 13|[By the Grace of the Gods](https://yenpress.com/titles/9781718353923-by-the-grace-of-the-gods-volume-13 "Yen Press")|13|Yen Press|📖|
+|Aug 13|[By the Grace of the Gods](https://yenpress.com/titles/9781718353923-by-the-grace-of-the-gods-volume-13-light-novel "Yen Press")|13|Yen Press|📖|
+|Aug 13|[Seirei Gensouki: Spirit Chronicles: Omnibus 11](https://yenpress.com/titles/9781718328907-seirei-gensouki-spirit-chronicles-omnibus-11-light-novel "Yen Press")|1|Yen Press|📖|
 |Aug 13|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Aug 13|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Aug 20|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975389505-alya-sometimes-hides-her-feelings-in-russian-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
