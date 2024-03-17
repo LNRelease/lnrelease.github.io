@@ -60,9 +60,10 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             title = f'{series_title} Volume {index}'
             u = u._replace(fragment=str(index))
 
+        isbn = ISBN.fullmatch(isbn.parent.text).group('isbn') or ''
         alts = []
         force = True  # leave amazon to last, force only if no other sources
-        for url, norm in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
+        for norm, url in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
             netloc = urlparse(norm).netloc
             if netloc in store.PROCESSED:
                 alts.append(norm)
@@ -70,15 +71,14 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             else:
                 res = store.parse(session, url, norm, force,
                                   series=series, publisher=NAME,
-                                  title=title, index=index, format='Digital')
+                                  title=title, index=index,
+                                  format='Digital', isbn=isbn)
                 if res and res[1]:
                     info |= res[1]
                     force = False
                     alts.extend(inf.link for inf in res[1])
                 else:
                     alts.append(norm)
-
-        isbn = ISBN.fullmatch(isbn.parent.text).group('isbn') or ''
         info.add(Info(series.key, u.geturl(), NAME, NAME, title, index, 'Digital', isbn, None, alts))
 
     return series, info

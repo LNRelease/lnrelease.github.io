@@ -31,7 +31,7 @@ def hash_link(link: str) -> int:
 def normalise(session: session.Session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
-        path = f'/us/en/{match.group("format")}/{match.group("name")}'
+        path = f'/ww/en/{match.group("format")}/{match.group("name")}'
     else:
         return None
     return urlunparse(('https', 'www.kobo.com', path, '', '', ''))

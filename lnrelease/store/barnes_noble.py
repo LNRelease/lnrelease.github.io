@@ -36,7 +36,10 @@ def equal(a: str, b: str) -> bool:
 
 
 def hash_link(link: str) -> int:
-    return hash(PATH.fullmatch(urlparse(link).path).group('id'))
+    u = urlparse(link)
+    ean = next((v for k, v in parse_qsl(u.query) if k == 'ean'), '')
+    match = PATH.fullmatch(u.path)
+    return hash(ean or match.group('id'))
 
 
 def normalise(session: session.Session, link: str) -> str | None:

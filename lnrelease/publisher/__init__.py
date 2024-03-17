@@ -6,7 +6,7 @@ from difflib import get_close_matches
 from itertools import chain
 from operator import attrgetter
 
-from utils import EPOCH, SOURCES, Book, Info, Series
+from utils import EPOCH, SOURCES, Book, Format, Info, Series
 
 NAME = 'misc'
 
@@ -58,10 +58,10 @@ def dates(info: dict[str, list[Info]], links: dict[str, list[Info]]) -> bool:
         if inf.date != EPOCH:
             continue
 
-        dates: Counter[str] = Counter()
-        for link in inf.alts:
-            for alt in links.get(link, ()):
-                dates[alt.date] += 1
+        format = Format.from_str(inf.format)
+        dates = Counter(alt.date for link in inf.alts
+                        for alt in links.get(link, ())
+                        if format == Format.from_str(alt.format))
         if date := dates.most_common(1):
             inf.date = date[0][0]
             changed = True
