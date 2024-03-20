@@ -210,7 +210,6 @@
 |May 21|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |May 23|[Holmes of Kyoto](https://j-novel.club/series/holmes-of-kyoto#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |May 28|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
-|May 28|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 29|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 30|[Mushoku Tensei: Jobless Reincarnation – Recollections](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-recollections-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |May 30|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -233,8 +232,10 @@
 |Jun 11|[Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!](https://sevenseasentertainment.com/books/disciple-of-the-lich-or-how-i-was-cursed-by-the-gods-and-dropped-into-the-abyss-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Jun 11|[The Dawn of the Witch](https://www.penguinrandomhouse.com/books/745908/the-dawn-of-the-witch-6-light-novel-by-kakeru-kobashiri/9781647293482 "Kodansha")|6|Kodansha|📖|
 |Jun 11|[True Love Fades Away When the Contract Ends – One Star in the Night Sky](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Jun 11|[You Like Me, Not My Daughter?!](https://j-novel.club/series/you-like-me-not-my-daughter#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 14|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jun 14|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Jun 14|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 17|[D-Genesis](https://j-novel.club/series/d-genesis#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 18|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 18|[Black Summoner](https://yenpress.com/titles/9781975392215-black-summoner-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
@@ -248,6 +249,7 @@
 |Jun 18|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390341-kunon-the-sorcerer-can-see-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Jun 18|[Liar, Liar](https://yenpress.com/titles/9781975370657-liar-liar-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 18|[Miss Savage Fang](https://yenpress.com/titles/9781975371111-miss-savage-fang-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Jun 18|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 18|[Online!](https://yenpress.com/titles/9781975388973-online-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jun 18|[Phantom Thief Red](https://yenpress.com/titles/9781975378158-phantom-thief-red-vol-3 "Yen Press")|3|Yen Press|🖥️|
 |Jun 18|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9781975392611-playing-death-games-to-put-food-on-the-table-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -261,7 +263,6 @@
 |Jun 18|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379667-the-vexations-of-a-shut-in-vampire-princess-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Jun 18|[You Are My Regret](https://yenpress.com/titles/9781975378820-you-are-my-regret-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 18|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
-|Jun 20|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 21|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 25|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/745909/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-5-light-novel-by-miraijin-a/9781647293499 "Kodansha")|5|Kodansha|📖|
 |Jun 27|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
