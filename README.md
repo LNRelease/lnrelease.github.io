@@ -213,6 +213,7 @@
 |May 29|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 30|[Mushoku Tensei: Jobless Reincarnation – Recollections](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-recollections-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |May 30|[Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord](https://j-novel.club/series/villainess-level-99#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|May 31|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 |May 31|[The Invisible Wallflower Marries an Upstart Aristocrat After Getting Dumped for Her Sister!](https://crossinfworld.com/The-Invisible-Wallflower-Marries-an-Upstart-Aristocrat-After-Getting-Dumped-for-Her-Sister-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |May 31|[Third Loop: The Nameless Princess and the Cruel Emperor](https://crossinfworld.com/Third-Loop-The-Nameless-Princess-and-the-Cruel-Emperor-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 
