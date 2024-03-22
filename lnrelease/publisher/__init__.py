@@ -6,7 +6,7 @@ from difflib import get_close_matches
 from itertools import chain
 from operator import attrgetter
 
-from utils import EPOCH, SOURCES, Book, Format, Info, Series
+from utils import EPOCH, SECONDARY, SOURCES, Book, Format, Info, Series
 
 NAME = 'misc'
 
@@ -252,7 +252,7 @@ def secondary(series: Series, info: dict[str, list[Info]],
     changed = False
     sources: defaultdict[str, list[Info]] = defaultdict(list)
     for inf in chain.from_iterable(links.values()):
-        if inf.serieskey == series.key:
+        if inf.source in SECONDARY and inf.serieskey == series.key:
             sources[inf.source].append(inf)
     if not sources:
         return False

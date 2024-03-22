@@ -21,17 +21,18 @@ BOOKS = Path('books.csv')
 def main() -> None:
     series = {row.key: row for row in Table(SERIES, Series)}
     info = Table(INFO, Info)
-    alts: set[Info] = {i for i in info if i.source in SECONDARY and i.publisher in PRIMARY}
-    info.difference_update(alts)
     links: defaultdict[str, list[Info]] = defaultdict(list)
-    for alt in alts:
-        links[alt.link].append(alt)
+    for i in info:
+        links[i.link].append(i)
     # sort by source then title
     links = dict(sorted(links.items(), key=lambda x: (SOURCES[x[1][0].source], x[1][0].title)))
 
     BOOKS.unlink(missing_ok=True)
     books = Table(BOOKS, Book)
-    for key, group in groupby(sorted(info), attrgetter('serieskey', 'publisher')):
+    info = [i for i in info if i.source not in SECONDARY or i.publisher not in PRIMARY]
+    info.sort()
+
+    for key, group in groupby(info, attrgetter('serieskey', 'publisher')):
         serieskey = key[0]
         serie = series[serieskey]
         pub = key[1]

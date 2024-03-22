@@ -13,7 +13,7 @@ ISBN = re.compile(r'\d{13}')
 NOVEL = re.compile(r'(?<!\bThe) Novel\b')
 FORMAT = re.compile(rf'(?P<title>.+) \((?P<format>{"|".join(FORMATS)})\)')
 OMNIBUS = re.compile(r'(?:contains|collects)(?: novel)? volumes (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)')
-START = re.compile(r'(?P<start>.+?) (?:Omnibus |Collector\'s Edition |Volume )+\d+')
+START = re.compile(r'(?P<start>.+?)(?: Omnibus\b| Collector\'s Edition\b| Volume\b)+(?: \d+)?')
 
 PUBLISHERS = {
     'ACONYTE': '',

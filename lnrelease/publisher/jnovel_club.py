@@ -1,7 +1,9 @@
 import datetime
 import re
+import warnings
 from collections import Counter, defaultdict
-from itertools import chain
+from itertools import chain, pairwise
+from math import prod
 
 from utils import Book, Info, Series
 
@@ -9,7 +11,7 @@ from . import check, copy, guess, one, part, secondary, short, standard
 
 NAME = 'J-Novel Club'
 
-OMNIBUS = re.compile(r'(?P<name>.+?) (?:Collector\'s Edition )?(?:Omnibus )?Volume (?P<start>\d+(?:\.\d)?)-(?P<end>\d+(?:\.\d)?)')
+OMNIBUS = re.compile(r'(?P<name>.+?)(?:Collector\'s Edition )?(?:Omnibus )?:? Volume (?P<start>\d+(?:\.\d)?)-(?P<end>\d+(?:\.\d)?)')
 
 
 def _parse(series: Series, info: dict[str, list[Info]],
@@ -39,6 +41,31 @@ def _parse(series: Series, info: dict[str, list[Info]],
     return books
 
 
+def geomean(dates: list[datetime.date]):
+    return prod(max((b - a).days, 0.1) for a, b in
+                pairwise(dates)) ** (1 / (len(dates) - 1))
+
+
+def individual(physicals: list[Book], matches: dict[re.Match, Info]) -> bool:
+    if len(matches) == 1:
+        match = list(matches)[0]
+        start = float(match.group('start'))
+        end = float(match.group('end'))
+        dates = [book.date for book in physicals
+                 if start <= float(book.volume) <= end]
+        return len(dates) <= 1 or geomean(dates) > 1
+
+    volumes = {match.group('start') for match in matches}
+    dates = [book.date for book in physicals if book.volume in volumes]
+    if len(dates) <= 1:
+        return True
+
+    avg = geomean([info.date for info in matches.values()])
+    single = geomean([book.date for book in physicals])
+    multi = geomean(dates)
+    return abs(avg - single) < abs(avg - multi)
+
+
 def volumes(digitals: dict[str, str], physicals: list[Book], matches: dict[re.Match, Info]) -> list[Book]:
     # set isbn/volume from matches
     for (match, inf), book in zip(matches.items(), physicals):
@@ -51,22 +78,32 @@ def volumes(digitals: dict[str, str], physicals: list[Book], matches: dict[re.Ma
     if len(matches) < len(physicals):  # extrapolate if some still remaining
         # get volumes per omnibus
         counter: Counter[int] = Counter()
-        itr = iter(digitals)
+        i = 0
+        volumes = list(digitals)
         for match in matches:
             start = float(match.group('start'))
             end = float(match.group('end'))
-            i = 0
-            for volume in itr:
-                if start <= float(volume) <= end:
+            count = 0
+            while i < len(volumes):
+                volume = float(volumes[i])
+                if start > volume:
+                    i += 1
+                elif start <= volume <= end:
+                    count += 1
                     i += 1
                 else:
                     break
-            counter[i] += 1
-        num = counter.most_common(1)[0]
+            counter[count] += 1
+        num = counter.most_common(1)[0][0]
 
         # apply to remaining
         for book in physicals[len(matches):]:
-            vols = [next(itr) for _ in range(num)]
+            vols = volumes[i:i + num]
+            i += num
+            if not vols:
+                warnings.warn(f'No volumes left: {book.name} {book.volume}', RuntimeWarning)
+                physicals.remove(book)
+                continue
             book.volume = f'{vols[0]}-{vols[-1]}'
             book.link = digitals[vols[0]]
     return physicals
@@ -144,11 +181,10 @@ def omnibus(series: Series, books: dict[str, list[Book]], links: dict[str, list[
         except ValueError:
             physicals[''].append(book)
 
-    # take omnibus from right stuf
+    # take omnibus from other sources
     matches: defaultdict[str, dict[re.Match, Info]] = defaultdict(dict)
     for inf in chain.from_iterable(links.values()):
         if (series.key.startswith(inf.serieskey)
-            and inf.source == 'Right Stuf'
                 and (match := OMNIBUS.fullmatch(inf.title))):
             name = match.group('name')
             matches[name][match] = inf
@@ -157,16 +193,17 @@ def omnibus(series: Series, books: dict[str, list[Book]], links: dict[str, list[
         if not name or len(lst) == 1:
             continue
 
-        match = matches[name] and dict(sorted(matches[name].items(),
-                                              key=lambda x: float(x[0].group('start'))))
+        match = sorted(matches.get(name, {}).items(),
+                       key=lambda x: float(x[0].group('start')))
+        match = dict({float(x[0].group('start')): x for x in match}.values())
         digitals = {b.volume: b.link for b in books['Digital'] if b.name == name}
-        lst.sort(key=lambda x: (float(x.volume)))
-        if match and len(match) * 1.8 > len(lst):
+        lst.sort(key=lambda x: float(x.volume))
+        if match and individual(lst, match):
             volumes(digitals, lst, match)
         elif match:
-            lst[:] = group_matches(digitals, lst, match)
+            group_matches(digitals, lst, match)
         elif should_group(lst):
-            lst[:] = group(lst)
+            group(lst)
 
     return [book for x in physicals.values() for book in x]
 
