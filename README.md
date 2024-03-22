@@ -6,6 +6,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Mar 01|[Reincarnated as the Last of my Kind](https://crossinfworld.com/Reincarnated-as-the-Last-of-My-Kind-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|📖|
 |Mar 04|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-23 "J-Novel Club")|23|J-Novel Club|🖥️|
 |Mar 04|[Fake Saint of the Year: You Wanted the Perfect Saint? Too Bad!](https://j-novel.club/series/fake-saint-of-the-year-you-wanted-the-perfect-saint-too-bad#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Mar 04|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s-daughter-is-my-ex#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
