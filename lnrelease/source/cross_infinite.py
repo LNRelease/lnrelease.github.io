@@ -38,12 +38,12 @@ def get_format(s: str) -> str:
 def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
     page = session.get(link)
     soup = BeautifulSoup(page.content, 'lxml')
-    box = soup.select_one('div.container > div.row + div.row > div.box')
-    series_title = box.h2.strong.text.removesuffix(' Volumes')
+    h2 = soup.select_one('div.container > div.row + div.row > div.box > h2 > strong')
+    series_title = h2.text.removesuffix(' Volumes')
     series = Series(None, series_title)
     info = set()
 
-    for index, panel in enumerate(box.find_all('div', class_='panel'), start=1):
+    for index, panel in enumerate(soup.find_all('div', class_='panel'), start=1):
         if a := panel.find('a', recursive=False):
             link = urljoin('https://crossinfworld.com/', a.get('href'))
         title = panel.find('div', class_='panel-heading').strong.text
