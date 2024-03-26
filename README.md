@@ -105,7 +105,6 @@
 |Apr 16|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343224-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Apr 16|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334192-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Apr 16|[Magical Explorer](https://yenpress.com/titles/9781975372545-magical-explorer-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️|
-|Apr 16|[Once Upon a Witch's Death: The Tale of the One Thousand Tears of Joy](https://yenpress.com/titles/9781975379988-once-upon-a-witch-s-death "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 16|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975344320-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️|
 |Apr 16|[Riviere and the Land of Prayer](https://yenpress.com/titles/9781975379797-riviere-and-the-land-of-prayer-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️|
 |Apr 16|[Sabikui Bisco](https://yenpress.com/titles/9781975367923-sabikui-bisco-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
@@ -141,6 +140,7 @@
 |Apr 30|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|📖|
 |Apr 30|[I Reincarnated As Evil Alice, So the Only Thing I'm Courting Is Death!](https://crossinfworld.com/I-Reincarnated-As-Evil-Alice-So-the-Only-Thing-Im-Courting-Is-Death-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 |Apr 30|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
+|Apr 30|[Once Upon a Witch's Death: The Tale of the One Thousand Tears of Joy](https://yenpress.com/titles/9781975379988-once-upon-a-witch-s-death "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 30|[Rising from Ashes: My Dear Emperor, You're Putty in My Hands!](https://crossinfworld.com/Rising-from-Ashes-My-Dear-Emperor-You-are-Putty-in-My-Hands-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Apr 30|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-5 "Dark Horse")|13-15|Dark Horse|📖|
 
@@ -192,7 +192,7 @@
 |May 21|[Brunhild the Dragonslayer](https://yenpress.com/titles/9781975378929-brunhild-the-dragonslayer "Yen Press")|1|Yen Press|🖥️📖|
 |May 21|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975344016-death-march-to-the-parallel-world-rhapsody-vol-21-light-novel "Yen Press")|21|Yen Press|🖥️📖|
 |May 21|[Durarara!! Side Stories?!](https://yenpress.com/titles/9781975391188-durarara-side-stories-light-novel "Yen Press")|1|Yen Press|🖥️📖|
-|May 21|[Guillotine Bride](https://yenpress.com/titles/9781975392390-guillotine-bride "Yen Press")|1|Yen Press|🖥️📖|
+|May 21|[Guillotine Bride: I'm just a dragon girl who'll destroy the world.](https://yenpress.com/titles/9781975392390-guillotine-bride "Yen Press")|1|Yen Press|🖥️📖|
 |May 21|[Hell Mode](https://yenpress.com/titles/9781975368524-hell-mode-vol-4 "Yen Press")|4|Yen Press|📖|
 |May 21|[Horror Collector](https://yenpress.com/titles/9781975378264-horror-collector-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |May 21|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
