@@ -170,6 +170,7 @@
 |May 08|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-24 "J-Novel Club")|24|J-Novel Club|🖥️|
 |May 08|[Seventh](https://j-novel.club/series/seventh#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |May 08|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|May 09|[True Love Fades Away When the Contract Ends – One Star in the Night Sky](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |May 09|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 10|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |May 10|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
