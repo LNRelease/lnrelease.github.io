@@ -326,6 +326,7 @@
 |Jul 26|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jul 30|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Jul 31|[The Abandoned Heiress Gets Rich with Alchemy and Scores an Enemy General!](https://crossinfworld.com/The-Abandoned-Heiress-Gets-Rich-with-Alchemy-and-Scores-an-Enemy-General-Vol-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 |Jul 31|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 
 ### August
