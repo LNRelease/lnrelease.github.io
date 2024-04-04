@@ -166,7 +166,7 @@
 |May 06|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |May 07|[Magical Explorer](https://yenpress.com/titles/9781975372538-magical-explorer-vol-7-light-novel "Yen Press")|7|Yen Press|📖|
 |May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
-|May 07|[The Wrong Way to Use Healing Magic](https://legacy.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-4 "One Peace Books")|4|One Peace Books|📖|
+|May 07|[The Wrong Way to Use Healing Magic](https://legacy.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-4 "One Peace Books")|4|One Peace Books|🖥️📖|
 |May 08|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-24 "J-Novel Club")|24|J-Novel Club|🖥️|
 |May 08|[Seventh](https://j-novel.club/series/seventh#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |May 08|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -289,6 +289,7 @@
 |:---:|---|:---:|---|:---:|
 |Jul 01|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-29 "J-Novel Club")|29|J-Novel Club|🖥️|
 |Jul 01|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jul 01|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Jul 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jul 05|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-25 "J-Novel Club")|4|J-Novel Club|📖|
@@ -342,6 +343,7 @@
 |Aug 13|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Aug 13|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Aug 13|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
+|Aug 13|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-6 "Dark Horse")|16-18|Dark Horse|📖|
 |Aug 20|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975389505-alya-sometimes-hides-her-feelings-in-russian-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 20|[Blade & Bastard](https://yenpress.com/titles/9781975392888-blade-bastard-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
 |Aug 20|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
