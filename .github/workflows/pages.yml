@@ -44,6 +44,9 @@ jobs:
       - name: Run Python
         run: python lnrelease/pages.py
 
+      - name: Move assets
+        run: find assets/ -type f -exec mv -nt ./ -- {} +
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
@@ -54,8 +57,7 @@ jobs:
         run: >-
           npm install terser html-minifier-terser -g -s;
           sudo chown -R $USER _site/;
-          terser _site/assets/js/script.js
-          -o _site/assets/js/script.js -m --toplevel;
+          terser _site/script.js -o _site/script.js -m --toplevel;
           html-minifier-terser
           --collapse-whitespace
           --remove-comments
