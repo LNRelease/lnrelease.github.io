@@ -57,7 +57,8 @@ jobs:
         run: >-
           npm install terser html-minifier-terser -g -s;
           sudo chown -R $USER _site/;
-          terser _site/script.js -o _site/script.js -m --toplevel;
+          find _site/ -type f -name "*.js"
+          -exec terser {} -o {} -m --toplevel \;;
           html-minifier-terser
           --collapse-whitespace
           --remove-comments

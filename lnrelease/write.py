@@ -32,7 +32,8 @@ def write_page(releases: Iterable[Release], output: Path, title: str, github: bo
             if year != release.date.year:
                 year = release.date.year
                 month = 0
-                file.write(f'\n\n## [{year}](/year/{year}.md)\n')
+                header = str(year) if github else f'[{year}](/year/{year})'
+                file.write(f'\n\n## {header}\n')
             if month != release.date.month:
                 month = release.date.month
                 file.write(f'\n### {release.date.strftime("%B")}\n\n'
