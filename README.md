@@ -1,6 +1,6 @@
 # Licensed Light Novel Releases
 
-## [2024](/year/2024.md)
+## 2024
 
 ### April
 
@@ -27,14 +27,10 @@
 |Apr 16|[Hollow Regalia](https://yenpress.com/titles/9781975387778-hollow-regalia-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Apr 16|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975343224-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Apr 16|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975334192-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
-|Apr 16|[Magical Explorer](https://yenpress.com/titles/9781975372545-magical-explorer-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️|
-|Apr 16|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975344320-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️|
-|Apr 16|[Riviere and the Land of Prayer](https://yenpress.com/titles/9781975379797-riviere-and-the-land-of-prayer-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️|
 |Apr 16|[Sabikui Bisco](https://yenpress.com/titles/9781975367923-sabikui-bisco-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Apr 16|[Secrets of the Silent Witch](https://yenpress.com/titles/9781975393687-secrets-of-the-silent-witch-vol-4-5-after "Yen Press")|4.5|Yen Press|🖥️📖|
 |Apr 16|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375553-that-time-i-got-reincarnated-as-a-slime-vol-18-light-novel "Yen Press")|18|Yen Press|🖥️📖|
 |Apr 16|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975374051-the-misfit-of-demon-king-academy-vol-3-light-novel "Yen Press")|3|Yen Press|📖|
-|Apr 16|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368685-wandering-witch-the-journey-of-elaina-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️|
 |Apr 16|[You Can't See the Snow](https://yenpress.com/titles/9781975379582-you-can-t-see-the-snow "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 18|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Apr 18|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
@@ -43,13 +39,13 @@
 |Apr 22|[Jeanette the Genius: Defying My Evil Stepmother by Starting a Business with My Ride-or-Die Fiancé!](https://j-novel.club/series/jeanette-the-genius-defying-my-evil-stepmother-by-starting-a-business-with-my-ride-or-die-fianc#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 23|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975347970-chitose-is-in-the-ramune-bottle-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Apr 23|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
-|Apr 23|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975344313-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
-|Apr 23|[Riviere and the Land of Prayer](https://yenpress.com/titles/9781975379780-riviere-and-the-land-of-prayer-vol-1-light-novel "Yen Press")|1|Yen Press|📖|
+|Apr 23|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975344313-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 23|[Riviere and the Land of Prayer](https://yenpress.com/titles/9781975379780-riviere-and-the-land-of-prayer-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 23|[Saving 80,000 Gold in Another World for my Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-4-light-novel "Kodansha")|4|Kodansha|🖥️📖|
 |Apr 23|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Apr 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Apr 23|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
-|Apr 23|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368678-wandering-witch-the-journey-of-elaina-vol-13-light-novel "Yen Press")|13|Yen Press|📖|
+|Apr 23|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368678-wandering-witch-the-journey-of-elaina-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Apr 24|[The Exiled Noble Rises as the Holy King: Befriending Fluffy Beasts and a Holy Maiden with My Ultimate Cheat Skill!](https://j-novel.club/series/the-exiled-noble-rises-as-the-holy-king-befriending-fluffy-beasts-and-a-holy-maiden-with-my-ultimate-cheat-skill#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 25|[Yes, No, or Maybe?](https://sevenseasentertainment.com/books/yes-no-or-maybe-light-novel-3-where-home-is/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Apr 26|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -84,7 +80,7 @@
 |May 06|[Fiancée No More: The Forsaken Lady, the Prince, and Their Make-Believe Love](https://j-novel.club/series/fianc-e-no-more-the-forsaken-lady-the-prince-and-their-make-believe-love#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |May 06|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |May 06|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|May 07|[Magical Explorer](https://yenpress.com/titles/9781975372538-magical-explorer-vol-7-light-novel "Yen Press")|7|Yen Press|📖|
+|May 07|[Magical Explorer](https://yenpress.com/titles/9781975372538-magical-explorer-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |May 07|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |May 07|[The Wrong Way to Use Healing Magic](https://legacy.rightstufanime.com/The-Wrong-Way-to-Use-Healing-Magic-Novel-Volume-4 "One Peace Books")|4|One Peace Books|🖥️📖|
 |May 08|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-24 "J-Novel Club")|24|J-Novel Club|🖥️|
@@ -197,7 +193,7 @@
 |Jun 18|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379667-the-vexations-of-a-shut-in-vampire-princess-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Jun 18|[You Are My Regret](https://yenpress.com/titles/9781975378820-you-are-my-regret-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 18|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
-|Jun 19|[RVing My Way into Exile with My Beloved Cat: This Villainess Is Trippin'](https://j-novel.club/series/rving-my-way-into-exile-with-my-beloved-cat-this-villainess-is-trippin#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jun 20|[RVing My Way into Exile with My Beloved Cat: This Villainess Is Trippin'](https://j-novel.club/series/rving-my-way-into-exile-with-my-beloved-cat-this-villainess-is-trippin#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jun 21|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 25|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/745909/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-5-light-novel-by-miraijin-a/9781647293499 "Kodansha")|5|Kodansha|📖|
 |Jun 27|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
@@ -226,7 +222,8 @@
 |Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jul 09|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Volume-30 "Dark Horse")|30|Dark Horse|📖|
 |Jul 10|[The Death of the Skeleton Swordsman: Dominating as a Cursed Saint](https://j-novel.club/series/the-death-of-the-skeleton-swordsman-dominating-as-a-cursed-saint#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Jul 11|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Jul 12|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jul 12|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 16|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jul 17|[The Conqueror from a Dying Kingdom](https://j-novel.club/series/the-conqueror-from-a-dying-kingdom#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
@@ -271,6 +268,7 @@
 |Aug 06|[The Apothecary Diaries](https://legacy.rightstufanime.com/The-Apothecary-Diaries-Novel-Volume-2 "Square Enix Books")|2|Square Enix Books|📖|
 |Aug 09|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Aug 09|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-10 "J-Novel Club")|9.1|J-Novel Club|🖥️|
+|Aug 09|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-21 "J-Novel Club")|21-22|J-Novel Club|📖|
 |Aug 13|[By the Grace of the Gods](https://yenpress.com/titles/9781718353923-by-the-grace-of-the-gods-volume-13-light-novel "Yen Press")|13|Yen Press|📖|
 |Aug 13|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -340,6 +338,7 @@
 |Sep 17|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368692-wandering-witch-the-journey-of-elaina-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Sep 17|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975394042-wolf-parchment-new-theory-spice-wolf-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745904/my-unique-skill-makes-me-op-even-at-level-1-vol-6-light-novel-by-miki-nazuna/9781647293420 "Kodansha")|6|Kodansha|📖|
+|Sep 24|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Sep 30|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 
 ### October
@@ -369,7 +368,7 @@
 |Dec 31|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 
 
-## [2025](/year/2025.md)
+## 2025
 
 ### January
 
