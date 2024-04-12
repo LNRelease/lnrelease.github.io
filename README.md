@@ -227,6 +227,7 @@
 |Jul 16|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jul 17|[The Conqueror from a Dying Kingdom](https://j-novel.club/series/the-conqueror-from-a-dying-kingdom#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Jul 22|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s-daughter-is-my-ex#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Jul 22|[The Troubles of Miss Nicola the Exorcist](https://j-novel.club/series/the-troubles-of-miss-nicola-the-exorcist#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 23|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373214-agents-of-the-four-seasons-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jul 23|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353032-associate-professor-akira-takatsuki-s-conjecture-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
@@ -252,6 +253,7 @@
 |Jul 23|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 26|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jul 26|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jul 29|[Moon Blossom Asura: The Ruthless Reincarnated Mercenary Forms the Ultimate Army](https://j-novel.club/series/moon-blossom-asura#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 30|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jul 30|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Jul 31|[Let's Get to Villainessin': Stratagems of a Former Commoner](https://crossinfworld.com/Lets-Get-to-Villainessin-Stratagems-of-a-Former Commoner-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
@@ -317,6 +319,7 @@
 |Sep 10|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Sep 10|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Sep 17|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
+|Sep 17|[86--EIGHTY-SIX Alter](https://yenpress.com/titles/9781975392703-86-eighty-six-alter-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 17|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388379-a-certain-magical-index-nt-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 17|[Amalgam Hound](https://yenpress.com/titles/9781975374167-amalgam-hound-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 17|[An Autumn in Amber, a Zero-Second Journey](https://sevenseasentertainment.com/books/an-autumn-in-amber-a-zero-second-journey-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
