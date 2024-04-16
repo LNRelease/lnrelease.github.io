@@ -223,6 +223,7 @@
 |Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jul 09|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Volume-30 "Dark Horse")|30|Dark Horse|📖|
 |Jul 10|[The Death of the Skeleton Swordsman: Dominating as a Cursed Saint](https://j-novel.club/series/the-death-of-the-skeleton-swordsman-dominating-as-a-cursed-saint#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Jul 11|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jul 12|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 12|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 16|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
@@ -273,12 +274,13 @@
 |Aug 09|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Aug 09|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-10 "J-Novel Club")|9.1|J-Novel Club|🖥️|
 |Aug 09|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Aug 12|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
 |Aug 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-21 "J-Novel Club")|21-22|J-Novel Club|📖|
-|Aug 13|[By the Grace of the Gods](https://yenpress.com/titles/9781718353923-by-the-grace-of-the-gods-volume-13-light-novel "Yen Press")|13|Yen Press|📖|
 |Aug 13|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Aug 13|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Aug 13|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Aug 13|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-6 "Dark Horse")|16-18|Dark Horse|📖|
+|Aug 15|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Aug 20|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975389505-alya-sometimes-hides-her-feelings-in-russian-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 20|[Blade & Bastard](https://yenpress.com/titles/9781975392888-blade-bastard-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
 |Aug 20|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -317,7 +319,8 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Sep 10|[Ascendance of a Bookworm: Part 5](https://yenpress.com/titles/9781718356269-ascendance-of-a-bookworm-part-5-volume-5-light-novel "Yen Press")|5|Yen Press|📖|
+|Sep 09|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-26 "J-Novel Club")|5|J-Novel Club|📖|
+|Sep 09|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28 "J-Novel Club")|28|J-Novel Club|📖|
 |Sep 10|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Sep 10|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Sep 17|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
@@ -355,6 +358,8 @@
 |Oct 01|[I Abandoned My Engagement Because My Sister is a Tragic Heroine, but Somehow I Became Entangled with a Righteous Prince](https://sevenseasentertainment.com/books/i-abandoned-my-engagement-because-my-sister-is-a-tragic-heroine-but-somehow-i-became-entangled-with-a-righteous-prince-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 01|[I'm in Love with the Villainess: She's so Cheeky for a Commoner](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Oct 01|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|Oct 07|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-20 "J-Novel Club")|20|J-Novel Club|📖|
+|Oct 07|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
 |Oct 08|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Oct 08|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 15|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
@@ -365,6 +370,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Nov 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-27 "J-Novel Club")|6|J-Novel Club|📖|
 |Nov 12|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Nov 19|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 
@@ -372,6 +378,8 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Dec 09|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
+|Dec 09|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
 |Dec 10|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/745913/am-i-actually-the-strongest-6-light-novel-by-sai-sumimori/9781647293567 "Kodansha")|6|Kodansha|📖|
 |Dec 24|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Dec 31|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
@@ -384,6 +392,9 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jan 07|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Jan 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-28 "J-Novel Club")|7|J-Novel Club|📖|
+|Jan 13|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
+|Jan 13|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
 |Jan 14|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Jan 28|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767833/my-unique-skill-makes-me-op-even-at-level-1-vol-7-light-novel-by-miki-nazuna/9781647293796 "Kodansha")|7|Kodansha|📖|
 |Jan 28|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
