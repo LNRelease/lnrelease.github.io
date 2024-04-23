@@ -222,9 +222,11 @@
 |Jul 09|[Otherside Picnic](https://yenpress.com/titles/9781718360815-otherside-picnic-omnibus-4 "Yen Press")|7-8|Yen Press|📖|
 |Jul 09|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jul 09|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Volume-30 "Dark Horse")|30|Dark Horse|📖|
+|Jul 10|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-32 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Jul 10|[The Death of the Skeleton Swordsman: Dominating as a Cursed Saint](https://j-novel.club/series/the-death-of-the-skeleton-swordsman-dominating-as-a-cursed-saint#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jul 11|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jul 12|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jul 12|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 12|[I Surrendered My Sword for a New Life as a Mage](https://j-novel.club/series/i-surrendered-my-sword-for-a-new-life-as-a-mage#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 16|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Jul 16|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
