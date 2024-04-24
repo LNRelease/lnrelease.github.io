@@ -88,7 +88,7 @@ def strpdate(link: str, s: str) -> datetime.date:
             return datetime.datetime.strptime(s, format).date()
         except ValueError:
             pass
-    warnings.warn(f'Error parsing date {s} ({link})')
+    warnings.warn(f'Error parsing date {s} ({link})', RuntimeWarning)
     return None
 
 

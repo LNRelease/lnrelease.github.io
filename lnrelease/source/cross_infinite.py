@@ -59,7 +59,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             format = get_format(a.find_previous('p').text)
             norm = store.normalise(session, url, resolve=True)
             if norm is None:
-                warnings.warn(f'{url} normalise failed')
+                warnings.warn(f'{url} normalise failed', RuntimeWarning)
             elif norm and (norm not in links[format]
                            or u.netloc == urlparse(norm).netloc):
                 links[format][norm] = url

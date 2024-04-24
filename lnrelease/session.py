@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.6'}
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.7'}
 
 SHORTENERS = {
     'a.co',
@@ -55,19 +55,19 @@ DELAYS = {
     'www.barnesandnoble.com': (10, 30),
     'www.bing.com': (30, 40),
     'cc.bingj.com': (30, 40),
-    'global.bookwalker.jp': (1, 3),
+    'global.bookwalker.jp': (1, 5),
     'crossinfworld.com': (10, 30),
     'play.google.com': (10, 30),
     'webcache.googleusercontent.com': (30, 40),
     'hanashi.media': (30, 600),
-    'labs.j-novel.club': (10, 20),
+    'labs.j-novel.club': (10, 30),
     'www.kobo.com': (10, 30),
     'api.kodansha.us': (30, 60),
     'www.penguinrandomhouse.ca': (30, 600),
-    'legacy.rightstufanime.com': (30, 180),
+    'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
-    'www.viz.com': (30, 180),
-    'yenpress.com': (1, 3),
+    'www.viz.com': (30, 300),
+    'yenpress.com': (1, 5),
 }
 LAST_REQUEST: dict[str, float] = {}
 LIMITERS: dict[str, Limiter] = {}
@@ -114,7 +114,7 @@ class Session(requests.Session):
             if page.status_code == 301:
                 link = urljoin(page.url, page.headers.get('Location'))
         except requests.exceptions.RequestException as e:
-            warnings.warn(f'Error resolving {link}: {e}')
+            warnings.warn(f'Error resolving {link}: {e}', RuntimeWarning)
         finally:
             self.set_retry()
         return link
@@ -139,17 +139,19 @@ class Session(requests.Session):
             return None
 
         soup = BeautifulSoup(page.content, 'lxml')
-        path = urlparse(store.normalise(self, url)).path
+        norm = urlparse(store.normalise(self, url))
+        module = store.get_store(norm.netloc)
         link = 'https://cc.bingj.com/cache.aspx'
 
         page = None
         for div in soup.select('ol#b_results > li.b_algo'):
-            div_url = urlparse(store.normalise(self, div.a['href']))
-            u = div.find('div', {'u': True})
-            if div_url.netloc not in store.STORES or path != div_url.path or not u:
+            attr = div.find('div', {'u': True})
+            u = urlparse(store.normalise(self, div.a['href']))
+            if not (attr and norm.path == u.path
+                    and module is store.get_store(u.netloc)):
                 continue
 
-            lst = u['u'].split('|')
+            lst = attr['u'].split('|')
             params = {'d': lst[2], 'w': lst[3]}
 
             page = self.try_get(link, retries=5, params=params, **kwargs)

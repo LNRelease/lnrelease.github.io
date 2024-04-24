@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import warnings
+from types import ModuleType
 from urllib.parse import urlparse
 
 import session
@@ -49,44 +50,39 @@ IGNORE = {
 }
 
 
+def get_store(netloc: str) -> ModuleType:
+    if 'amazon' in netloc:
+        return amazon
+    elif 'audible' in netloc:
+        return audible
+    elif netloc in STORES:
+        return STORES[netloc]
+    elif netloc in PROCESSED:
+        return PROCESSED[netloc]
+    elif netloc not in IGNORE:
+        warnings.warn(f'Unknown url: {netloc}', RuntimeWarning)
+    return None
+
+
 def equal(a: str, b: str) -> bool:
     if a == b:
         return True
 
-    netloc = urlparse(a).netloc
-
-    try:
-        if 'amazon' in netloc:
-            return amazon.equal(a, b)
-        elif 'audible' in netloc:
-            return audible.equal(a, b)
-        elif netloc in STORES:
-            return STORES[netloc].equal(a, b)
-        elif netloc in PROCESSED:
-            return PROCESSED[netloc].equal(a, b)
-
-        warnings.warn(f'equal on unknown url: {a}')
-    except Exception as e:
-        warnings.warn(f'{a}, {b} equal error: {e}')
+    if ((store := get_store(urlparse(a).netloc))
+            and store is get_store(urlparse(b).netloc)):
+        try:
+            return store.equal(a, b)
+        except Exception as e:
+            warnings.warn(f'{a}, {b} equal error: {e}', RuntimeWarning)
     return False
 
 
 def hash_link(link: str) -> int:
-    netloc = urlparse(link).netloc
-
-    try:
-        if 'amazon' in netloc:
-            return amazon.hash_link(link)
-        elif 'audible' in netloc:
-            return audible.hash_link(link)
-        elif netloc in STORES:
-            return STORES[netloc].hash_link(link)
-        elif netloc in PROCESSED:
-            return PROCESSED[netloc].hash_link(link)
-
-        warnings.warn(f'hash on unknown url: {link}')
-    except Exception as e:
-        warnings.warn(f'{link} hash error: {e}')
+    if store := get_store(urlparse(link).netloc):
+        try:
+            return store.hash_link(link)
+        except Exception as e:
+            warnings.warn(f'{link} hash error: {e}', RuntimeWarning)
     return 0
 
 
@@ -132,7 +128,7 @@ def parse(session: session.Session, link: str, norm: str, force: bool = False, *
     elif netloc in PROCESSED:
         return None
     elif netloc not in IGNORE:
-        warnings.warn(f'{netloc} parse not implemented')
+        warnings.warn(f'{netloc} parse not implemented', RuntimeWarning)
         return None
 
     try:

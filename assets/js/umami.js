@@ -1,5 +1,4 @@
-(window => {
-    const { document, location, navigator, screen } = window;
+(() => {
     if (!document.currentScript) return;
 
     let cache;
@@ -41,4 +40,4 @@
         }
     });
 
-})(window);
+})();

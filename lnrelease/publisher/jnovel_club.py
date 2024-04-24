@@ -41,7 +41,7 @@ def _parse(series: Series, info: dict[str, list[Info]],
     return books
 
 
-def geomean(dates: list[datetime.date]):
+def geomean(dates: list[datetime.date]) -> float:
     return prod(max((b - a).days, 0.1) for a, b in
                 pairwise(dates)) ** (1 / (len(dates) - 1))
 

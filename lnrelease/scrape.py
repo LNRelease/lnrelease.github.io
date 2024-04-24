@@ -59,7 +59,7 @@ def main() -> None:
             except Exception as e:
                 warnings.warn(f'Error scraping {futures[future]}: {e}', RuntimeWarning)
             else:
-                print(f'{futures[future]} done ({time() - start:.2f}s)')
+                print(f'{futures[future]} done ({time() - start:.2f}s)', flush=True)
     except TimeoutError:
         dump_traceback()
 
