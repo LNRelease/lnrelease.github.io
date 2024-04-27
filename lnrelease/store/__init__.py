@@ -51,7 +51,7 @@ IGNORE = {
 
 
 def get_store(netloc: str) -> ModuleType:
-    if 'amazon' in netloc:
+    if netloc in amazon.NETLOCS:
         return amazon
     elif 'audible' in netloc:
         return audible
@@ -59,8 +59,6 @@ def get_store(netloc: str) -> ModuleType:
         return STORES[netloc]
     elif netloc in PROCESSED:
         return PROCESSED[netloc]
-    elif netloc not in IGNORE:
-        warnings.warn(f'Unknown url: {netloc}', RuntimeWarning)
     return None
 
 
@@ -68,21 +66,28 @@ def equal(a: str, b: str) -> bool:
     if a == b:
         return True
 
-    if ((store := get_store(urlparse(a).netloc))
-            and store is get_store(urlparse(b).netloc)):
+    neta = urlparse(a).netloc
+    netb = urlparse(b).netloc
+    if ((store := get_store(neta))
+            and store is get_store(netb)):
         try:
             return store.equal(a, b)
         except Exception as e:
             warnings.warn(f'{a}, {b} equal error: {e}', RuntimeWarning)
+    elif neta not in IGNORE or netb not in IGNORE:
+        warnings.warn(f'equal on unknown urls: {a}, {b}', RuntimeWarning)
     return False
 
 
 def hash_link(link: str) -> int:
-    if store := get_store(urlparse(link).netloc):
+    netloc = urlparse(link).netloc
+    if store := get_store(netloc):
         try:
             return store.hash_link(link)
         except Exception as e:
             warnings.warn(f'{link} hash error: {e}', RuntimeWarning)
+    elif netloc not in IGNORE:
+        warnings.warn(f'hash on unknown url: {link}', RuntimeWarning)
     return 0
 
 

@@ -53,8 +53,8 @@ DELAYS = {
     'www.audible.co.jp': (10, 30),
     'www.audible.co.uk': (10, 30),
     'www.barnesandnoble.com': (10, 30),
-    'www.bing.com': (30, 40),
-    'cc.bingj.com': (30, 40),
+    'www.bing.com': (10, 30),
+    'cc.bingj.com': (10, 30),
     'global.bookwalker.jp': (1, 5),
     'crossinfworld.com': (10, 30),
     'play.google.com': (10, 30),
@@ -67,7 +67,7 @@ DELAYS = {
     'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
     'www.viz.com': (30, 300),
-    'yenpress.com': (1, 5),
+    'yenpress.com': (1, 3),
 }
 LAST_REQUEST: dict[str, float] = {}
 LIMITERS: dict[str, Limiter] = {}
@@ -161,8 +161,11 @@ class Session(requests.Session):
         return page
 
     def bing_cache(self, url: str, **kwargs) -> requests.Response | None:
+        netloc = urlparse(url).netloc
+        end = url.split(netloc)[-1]
         return (self._bing_cache(f'url:{url}', url, **kwargs)
-                or self._bing_cache(url.removeprefix('https://'), url, **kwargs))
+                or self._bing_cache(netloc + end, url, **kwargs)
+                or self._bing_cache(end, url, **kwargs))
 
     def get_cache(self, url: str, **kwargs) -> requests.Response | None:
         google = self.google_cache(url, **kwargs)

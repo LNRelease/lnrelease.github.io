@@ -19,20 +19,30 @@ PRODUCT = re.compile(r'^\s*Product (?:details|information)\s*$')
 PUBLISHER = re.compile(r'Publisher')
 DETAILS = re.compile(r'^[\s\W]*(?P<publisher>[\s\w]+?)(?:;[\s\w]+ edition)? \((?P<date>.+)\)\s*$')
 
+YEAR = re.compile(r'\d{4}')
+MONTH = re.compile(r'[^\W\d]+')
+DAY = re.compile(r'\d{1,2}')
+
+MONTHS = {
+    'jan': 1,
+    'feb': 2,
+    'mar': 3,
+    'apr': 4,
+    'may': 5,
+    'jun': 6,
+    'jul': 7,
+    'aug': 8,
+    'sep': 9,
+    'oct': 10,
+    'nov': 11,
+    'dec': 12,
+}
+
 NETLOCS = {
     'www.amazon.ca',
     'www.amazon.co.uk',
     'www.amazon.com',
     'www.amazon.com.au',
-}
-
-DATE_FORMATS = {
-    r'%d %b %Y',
-    r'%d %B %Y',
-    r'%b %d %Y',
-    r'%B %d %Y',
-    r'%Y%B %d',
-    r'%d %B%Y',
 }
 
 
@@ -80,16 +90,24 @@ def get_attr(soup: BeautifulSoup, attr: str) -> str:
 
 
 def strpdate(link: str, s: str) -> datetime.date:
-    s = (s.replace('Sept.', 'September')
-          .replace('.', '')
-          .replace(',', ''))
-    for format in DATE_FORMATS:
-        try:
-            return datetime.datetime.strptime(s, format).date()
-        except ValueError:
-            pass
-    warnings.warn(f'Error parsing date {s} ({link})', RuntimeWarning)
-    return None
+    try:
+        if match := YEAR.search(s):
+            year = match.group(0)
+            s = s.replace(year, '')
+            year = int(year)
+        if match := MONTH.search(s):
+            month = match.group(0)
+            s = s.replace(month, '')
+            month = MONTHS[month[:3].lower()]
+        if day := DAY.search(s):
+            day = match.group(0)
+            s = s.replace(day, '')
+            day = int(day)
+
+        return datetime.date(year, month, day)
+    except Exception as e:
+        warnings.warn(f'Error parsing date: {s} ({link})', RuntimeWarning)
+        return None
 
 
 def parse(session: session.Session, link: str, norm: str, *,
