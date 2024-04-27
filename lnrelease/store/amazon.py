@@ -99,14 +99,14 @@ def strpdate(link: str, s: str) -> datetime.date:
             month = match.group(0)
             s = s.replace(month, '')
             month = MONTHS[month[:3].lower()]
-        if day := DAY.search(s):
+        if match := DAY.search(s):
             day = match.group(0)
             s = s.replace(day, '')
             day = int(day)
 
         return datetime.date(year, month, day)
     except Exception as e:
-        warnings.warn(f'Error parsing date: {s} ({link})', RuntimeWarning)
+        warnings.warn(f'Error parsing date: {s} ({link}): {e}', RuntimeWarning)
         return None
 
 
