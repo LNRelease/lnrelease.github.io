@@ -15,7 +15,7 @@ PAGES = Path('viz.csv')
 
 def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date] | None:
     info = set()
-    page = session.get(link)
+    page = session.get(link, web_cache=True)
     soup = BeautifulSoup(page.content, 'lxml')
 
     series_title = soup.find('strong', string='Series').find_next('a').text
@@ -42,7 +42,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
     skip = {row.key for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
 
     with Session() as session:
-        site = r'https://www.viz.com/search/{}?search=Novel&category=Novel'
+        site = 'https://www.viz.com/search/{}?search=Novel&category=Novel'
         for i in range(1, limit + 1):
             page = session.get(site.format(i))
             soup = BeautifulSoup(page.content, 'lxml')

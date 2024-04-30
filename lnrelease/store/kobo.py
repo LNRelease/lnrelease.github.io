@@ -41,7 +41,7 @@ def parse(session: session.Session, link: str, norm: str, *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    page = session.get(norm)
+    page = session.get(norm, web_cache=True)
     soup = BeautifulSoup(page.content, 'lxml')
 
     about = soup.select_one('div.about > p.series > span.series')

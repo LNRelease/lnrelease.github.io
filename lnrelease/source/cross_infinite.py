@@ -91,7 +91,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     items = {(inf.link, inf.format): inf for inf in info}
     with Session() as session:
-        page = session.get(r'https://crossinfworld.com/series.html')
+        page = session.get('https://crossinfworld.com/series.html')
         soup = BeautifulSoup(page.content, 'lxml')
         for a in soup.select('div.row > div.box > div > a'):
             try:
@@ -110,7 +110,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             except Exception as e:
                 warnings.warn(f'{link}: {e}', RuntimeWarning)
 
-        page = session.get(r'https://crossinfworld.com/Calendar.html')
+        page = session.get('https://crossinfworld.com/Calendar.html')
         soup = BeautifulSoup(page.content, 'lxml')
         for book in soup.select('table#sort > tbody > tr'):
             format = get_format(book.find('td', {'data-table-header': 'Format'}).text)

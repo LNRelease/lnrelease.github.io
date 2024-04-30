@@ -19,7 +19,7 @@ START = re.compile(r'(?P<start>.+?) (?:omnibus |collector\'s edition |volume )+\
 
 
 def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Series, set[Info]]:
-    page = session.get(link)
+    page = session.get(link, web_cache=True)
     if page.status_code == 404:
         return None
     soup = BeautifulSoup(page.content, 'lxml')

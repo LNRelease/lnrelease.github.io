@@ -117,9 +117,9 @@ def parse(session: session.Session, link: str, norm: str, *,
     u = urlparse(link)
     link = (u._replace(params='', query='', fragment='').geturl()
             if u.netloc in NETLOCS else norm)
-    page = session.get(link, web_cache=True)
+    page = session.get(link, direct=False, web_cache=True)
     if page.status_code == 404 and link != norm:
-        page = session.get(norm, web_cache=True)
+        page = session.get(norm, direct=False, web_cache=True)
     if page.status_code == 404:
         return None
     soup = BeautifulSoup(page.content, 'lxml')

@@ -86,7 +86,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     with Session() as session:
-        page = session.get(r'https://hanashi.media/')
+        page = session.get('https://hanashi.media/')
         soup = BeautifulSoup(page.content, 'lxml')
         links = (a.get('href') for a in soup
                  .find(class_='menu-label', string='Light Novels')

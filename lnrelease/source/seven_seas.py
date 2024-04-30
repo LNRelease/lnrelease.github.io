@@ -17,7 +17,7 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
     series = Series(None, series_title)
     info = set()
 
-    page = session.get(link)
+    page = session.get(link, web_cache=True)
     soup = BeautifulSoup(page.content, 'lxml')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
     for index, release in enumerate(soup.find_all(class_='series-volume'), start=1):
@@ -60,11 +60,11 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     with Session() as session:
-        base = r'https://sevenseasentertainment.com/tag/light-novels/'
+        base = 'https://sevenseasentertainment.com/tag/light-novels/'
         path = 'page/{}/'
         for i in range(1, 100):
             url = base + ('' if i == 1 else path.format(i))
-            page = session.get(url)
+            page = session.get(url, web_cache=True)
             soup = BeautifulSoup(page.content, 'lxml')
 
             for serie in soup.find_all(id='series'):

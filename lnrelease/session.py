@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.7'}
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.8'}
 
 SHORTENERS = {
     'a.co',
@@ -144,10 +144,10 @@ class Session(requests.Session):
         link = 'https://cc.bingj.com/cache.aspx'
 
         page = None
-        for div in soup.select('ol#b_results > li.b_algo'):
-            attr = div.find('div', {'u': True})
-            u = urlparse(store.normalise(self, div.a['href']))
-            if not (attr and norm.path == u.path
+        for li in soup.select('ol#b_results > li.b_algo'):
+            attr = li.find('div', {'u': True})
+            u = urlparse(store.normalise(self, li.a['href']))
+            if not (attr and u and norm.path == u.path
                     and module is store.get_store(u.netloc)):
                 continue
 
@@ -183,18 +183,17 @@ class Session(requests.Session):
                 return page
         return None
 
-    def get(self, url: str, web_cache: bool = False, **kwargs) -> requests.Response:
+    def get(self, url: str, direct: bool = True, web_cache: bool = False,
+            **kwargs) -> requests.Response | None:
         kwargs.setdefault('timeout', 100)
-        if not web_cache:
-            page = self.try_get(url, retries=5, **kwargs)
-            if not page or page.status_code == 403:  # cloudflare
-                web_cache = True
 
-        if web_cache:
+        page = self.try_get(url, retries=5, **kwargs) if direct else None
+        if web_cache and (not page or page.status_code == 403):
             self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
             page = self.get_cache(url, **kwargs)
             self.set_retry()
-        if page.status_code not in (200, 404):
+
+        if page and page.status_code not in (200, 404):
             warnings.warn(f'Status code {page.status_code}: {url}', RuntimeWarning)
 
         return page

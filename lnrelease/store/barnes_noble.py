@@ -16,9 +16,7 @@ DATE = re.compile(r'^\s*Pub\. Date:\s*(?P<date>.+)$')
 
 FORMATS = 'https://www.barnesandnoble.com/cartridges/ProductDetailContent/ProductDetailTypes/includes/formatModal-ra.jsp'
 
-
-# 'github' banned
-HEADERS = {'User-Agent': ''}
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
 
 
 def equal(a: str, b: str) -> bool:
@@ -62,7 +60,6 @@ def parse(session: session.Session, link: str, norm: str, *,
     soup = BeautifulSoup(page.content, 'lxml')
 
     serieskey = series.key if series else ''
-    soup.find('')
     title = title or soup.find('h3', class_='all-formats-text').text
     info = set()
     for div in soup.find_all('div', role='tablist'):

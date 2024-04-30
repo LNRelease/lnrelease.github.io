@@ -15,7 +15,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                   'rows': limit,
                   'zoom': 'https://api.penguinrandomhouse.com/title/titles/definition',
                   'imprintCode': 'VT'}
-        page = session.get(r'https://www.penguinrandomhouse.ca/api/enhanced/works', params=params)
+        page = session.get('https://www.penguinrandomhouse.ca/api/enhanced/works', params=params)
 
         jsn = page.json()
         for book in jsn['data']:
