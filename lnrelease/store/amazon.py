@@ -24,18 +24,18 @@ MONTH = re.compile(r'[^\W\d]+')
 DAY = re.compile(r'\d{1,2}')
 
 MONTHS = {
-    'jan': 1,
-    'feb': 2,
-    'mar': 3,
-    'apr': 4,
-    'may': 5,
-    'jun': 6,
-    'jul': 7,
-    'aug': 8,
-    'sep': 9,
-    'oct': 10,
-    'nov': 11,
-    'dec': 12,
+    'eme': 1, 'gen': 1, 'jan': 1, 'sty': 1,
+    'feb': 2, 'fev': 2, 'lut': 2,
+    'maa': 3, 'mac': 3, 'mar': 3, 'mrt': 3,
+    'abr': 4, 'apr': 4, 'avr': 4, 'kwi': 4,
+    'mag': 5, 'mai': 5, 'maj': 5, 'may': 5, 'mei': 5,
+    'cze': 6, 'giu': 6, 'jun': 6,
+    'jul': 7, 'lip': 7, 'lug': 7,
+    'ago': 8, 'aou': 8, 'aug': 8, 'sie': 8,
+    'sep': 9, 'set': 9, 'wrz': 9,
+    'oct': 10, 'okt': 10, 'ott': 10, 'out': 10, 'paz': 10,
+    'lis': 11, 'nov': 11,
+    'dec': 12, 'des': 12, 'dez': 12, 'dic': 12, 'gru': 12,
 }
 
 NETLOCS = {
@@ -90,6 +90,10 @@ def get_attr(soup: BeautifulSoup, attr: str) -> str:
 
 
 def strpdate(link: str, s: str) -> datetime.date:
+    if not s:
+        warnings.warn(f'No date found: {link}', RuntimeWarning)
+        return None
+
     try:
         if match := YEAR.search(s):
             year = match.group(0)
@@ -98,7 +102,7 @@ def strpdate(link: str, s: str) -> datetime.date:
         if match := MONTH.search(s):
             month = match.group(0)
             s = s.replace(month, '')
-            month = MONTHS[month[:3].lower()]
+            month = MONTHS[utils.clean_str(month[:3])]
         if match := DAY.search(s):
             day = match.group(0)
             s = s.replace(day, '')
@@ -148,7 +152,7 @@ def parse(session: session.Session, link: str, norm: str, *,
         match = DETAILS.fullmatch(value.text)
         publisher = publisher or match.group('publisher')
         date = date or match.group('date')
-    date = strpdate(link, date)
+    date = strpdate(page.url, date)
     if not date:
         return None
 
