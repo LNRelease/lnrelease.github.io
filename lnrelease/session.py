@@ -43,10 +43,7 @@ class Limiter:
 
 RATE_LIMITER = Lock()
 DELAYS = {
-    'www.amazon.ca': (10, 30),
-    'www.amazon.co.uk': (10, 30),
     'www.amazon.com': (10, 30),
-    'www.amazon.com.au': (10, 30),
     'books.apple.com': (10, 30),
     'www.audible.com': (10, 30),
     'www.audible.de': (10, 30),
@@ -108,9 +105,12 @@ class Session(requests.Session):
             self.set_retry(status_forcelist={})
             kwargs.setdefault('timeout', 10)
             kwargs.setdefault('allow_redirects', False)
-            page = self.head(link, **kwargs)
-            if page.status_code not in (200, 301):
+            if kwargs.get('headers', {}).get('User-Agent'):
                 page = super().get(link, **kwargs)
+            else:
+                page = self.head(link, **kwargs)
+                if page.status_code not in (200, 301):
+                    page = super().get(link, **kwargs)
             if page.status_code == 301:
                 link = urljoin(page.url, page.headers.get('Location'))
         except requests.exceptions.RequestException as e:
@@ -155,7 +155,8 @@ class Session(requests.Session):
             params = {'d': lst[2], 'w': lst[3]}
 
             page = self.try_get(link, retries=5, params=params, **kwargs)
-            if page and page.status_code == 200:
+            if (page and page.status_code == 200
+                    and not page.content.endswith(b'<!-- Apologies:End -->')):
                 break
 
         return page
@@ -163,9 +164,8 @@ class Session(requests.Session):
     def bing_cache(self, url: str, **kwargs) -> requests.Response | None:
         netloc = urlparse(url).netloc
         end = url.split(netloc)[-1]
-        return (self._bing_cache(f'url:{url}', url, **kwargs)
-                or self._bing_cache(netloc + end, url, **kwargs)
-                or self._bing_cache(end, url, **kwargs))
+        return (self._bing_cache(end, url, **kwargs)
+                or self._bing_cache(netloc + end, url, **kwargs))
 
     def get_cache(self, url: str, **kwargs) -> requests.Response | None:
         google = self.google_cache(url, **kwargs)

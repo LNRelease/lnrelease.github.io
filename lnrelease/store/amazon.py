@@ -38,31 +38,16 @@ MONTHS = {
     'dec': 12, 'des': 12, 'dez': 12, 'dic': 12, 'gru': 12,
 }
 
-NETLOCS = {
-    'www.amazon.ca',
-    'www.amazon.co.uk',
-    'www.amazon.com',
-    'www.amazon.com.au',
-}
-
 
 def equal(a: str, b: str) -> bool:
-    ua = urlparse(a)
-    ub = urlparse(b)
-    if ua.netloc.removeprefix('www.') != ub.netloc.removeprefix('www.'):
-        return False
-
-    match_a = PATH.fullmatch(ua.path)
-    match_b = PATH.fullmatch(ub.path)
+    match_a = PATH.fullmatch(urlparse(a).path)
+    match_b = PATH.fullmatch(urlparse(b).path)
     return (match_a and match_b
             and match_a.group('asin') == match_b.group('asin'))
 
 
 def hash_link(link: str) -> int:
-    u = urlparse(link)
-    netloc = u.netloc.removeprefix('www.')
-    match = PATH.fullmatch(u.path)
-    return hash(netloc + match.group('asin'))
+    return hash(PATH.fullmatch(urlparse(link).path).group('asin'))
 
 
 def normalise(session: session.Session, link: str) -> str | None:
@@ -71,15 +56,7 @@ def normalise(session: session.Session, link: str) -> str | None:
         path = '/dp/' + match.group('asin')
     else:
         return None
-    netloc = u.netloc
-    if not netloc.startswith('www.'):
-        if netloc.startswith('amazon.'):
-            netloc = f'www.{netloc}'
-        else:
-            return None
-    if u.netloc not in NETLOCS:
-        netloc = 'www.amazon.com'
-    return urlunparse(('https', netloc, path, '', '', ''))
+    return urlunparse(('https', 'www.amazon.com', path, '', '', ''))
 
 
 def get_attr(soup: BeautifulSoup, attr: str) -> str:
@@ -93,6 +70,11 @@ def strpdate(link: str, s: str) -> datetime.date:
     if not s:
         warnings.warn(f'No date found: {link}', RuntimeWarning)
         return None
+
+    try:
+        return datetime.datetime.strptime(s, r'%Y/%m/%d').date()
+    except ValueError:
+        pass
 
     try:
         if match := YEAR.search(s):
@@ -114,17 +96,22 @@ def strpdate(link: str, s: str) -> datetime.date:
         return None
 
 
-def parse(session: session.Session, link: str, norm: str, *,
+def parse(session: session.Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    u = urlparse(link)
-    link = (u._replace(params='', query='', fragment='').geturl()
-            if u.netloc in NETLOCS else norm)
-    page = session.get(link, direct=False, web_cache=True)
-    if page.status_code == 404 and link != norm:
-        page = session.get(norm, direct=False, web_cache=True)
-    if page.status_code == 404:
+    session.set_retry(total=2, status_forcelist={500, 502, 503, 504})
+    for link in {urlparse(link)
+                 ._replace(params='', query='', fragment='')
+                 .geturl(): None for link in links[1:]}:
+        page = session.google_cache(link, timeout=10)
+        if page.status_code != 404:
+            break
+    else:
+        page = session.bing_cache(links[0], timeout=10)
+    session.set_retry()
+
+    if not page:
         return None
     soup = BeautifulSoup(page.content, 'lxml')
 
@@ -156,5 +143,5 @@ def parse(session: session.Session, link: str, norm: str, *,
     if not date:
         return None
 
-    info = utils.Info(series.key, norm, NAME, publisher, title, index, format, isbn, date)
+    info = utils.Info(series.key, links[0], NAME, publisher, title, index, format, isbn, date)
     return series, {info}

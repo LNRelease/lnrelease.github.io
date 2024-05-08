@@ -51,11 +51,11 @@ def normalise(session: session.Session, link: str) -> str | None:
     return urlunparse(('https', 'www.barnesandnoble.com', u.path, '', query, ''))
 
 
-def parse(session: session.Session, link: str, norm: str, *,
+def parse(session: session.Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    id = PATH.fullmatch(urlparse(norm).path).group('id')
+    id = PATH.fullmatch(urlparse(links[0]).path).group('id')
     page = session.get(FORMATS, params={'workId': id}, headers=HEADERS)
     soup = BeautifulSoup(page.content, 'lxml')
 

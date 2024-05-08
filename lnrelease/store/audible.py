@@ -49,11 +49,11 @@ def normalise(session: session.Session, link: str) -> str | None:
     return urlunparse(('https', netloc, path, '', '', ''))
 
 
-def parse(session: session.Session, link: str, norm: str, *,
+def parse(session: session.Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    page = session.get(norm, web_cache=True)
+    page = session.get(links[0], web_cache=True)
     soup = BeautifulSoup(page.content, 'lxml')
 
     script = soup.find(id='bottom-0').find('script', type='application/ld+json')
@@ -75,5 +75,5 @@ def parse(session: session.Session, link: str, norm: str, *,
         series_title = a.text
 
     series = series or utils.Series(None, series_title)
-    info = utils.Info(series.key, norm, NAME, publisher, title, index, format, isbn, date)
+    info = utils.Info(series.key, links[0], NAME, publisher, title, index, format, isbn, date)
     return series, {info}

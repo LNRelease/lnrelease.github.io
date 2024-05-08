@@ -51,9 +51,9 @@ IGNORE = {
 
 
 def get_store(netloc: str) -> ModuleType:
-    if netloc in amazon.NETLOCS:
+    if 'amazon.' in netloc:
         return amazon
-    elif 'audible' in netloc:
+    elif 'audible.' in netloc:
         return audible
     elif netloc in STORES:
         return STORES[netloc]
@@ -95,9 +95,9 @@ def normalise(session: session.Session, link: str, resolve: bool = False) -> str
     # normalise url, return None if failed
     netloc = urlparse(link).netloc
 
-    if 'amazon' in netloc:
+    if 'amazon.' in netloc:
         res = amazon.normalise(session, link)
-    elif 'audible' in netloc:
+    elif 'audible.' in netloc:
         res = audible.normalise(session, link)
     elif netloc in STORES:
         res = STORES[netloc].normalise(session, link)
@@ -116,17 +116,17 @@ def normalise(session: session.Session, link: str, resolve: bool = False) -> str
     return res
 
 
-def parse(session: session.Session, link: str, norm: str, force: bool = False, *,
+def parse(session: session.Session, links: list[str], force: bool = False, *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    netloc = urlparse(norm).netloc
+    netloc = urlparse(links[0]).netloc
 
-    if 'amazon' in netloc:
+    if 'amazon.' in netloc:
         if not force:
             return None
         store = amazon
-    elif 'audible' in netloc:
+    elif 'audible.' in netloc:
         store = audible
     elif netloc in STORES:
         store = STORES[netloc]
@@ -137,7 +137,7 @@ def parse(session: session.Session, link: str, norm: str, force: bool = False, *
         return None
 
     try:
-        return store.parse(session, link, norm,
+        return store.parse(session, links,
                            series=series,
                            publisher=publisher,
                            title=title,
@@ -145,5 +145,5 @@ def parse(session: session.Session, link: str, norm: str, force: bool = False, *
                            format=format,
                            isbn=isbn)
     except Exception as e:
-        warnings.warn(f'{link}: {e}', RuntimeWarning)
+        warnings.warn(f'{links}: {e}', RuntimeWarning)
     return None

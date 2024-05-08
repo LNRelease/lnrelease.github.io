@@ -20,16 +20,23 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
     page = session.get(link, web_cache=True)
     soup = BeautifulSoup(page.content, 'lxml')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
-    for index, release in enumerate(soup.find_all(class_='series-volume'), start=1):
+    audio = False
+    index = 0
+    for release in soup.find_all(class_='series-volume'):
+        index += 1
         header = release.find_previous_sibling('h3').text
-        format = release.find('b', string='Format:')
-        if format:
+        if format := release.find('b', string='Format:'):
             format = format.next_sibling.strip()
             if format in NON_FORMATS:
                 continue
             if format not in FORMATS:
                 warnings.warn(f'Unknown SS format: {format}', RuntimeWarning)
                 continue
+        elif not audio and header == 'AUDIOBOOKS':
+            if not info:
+                break
+            audio = True
+            index = 1
 
         a = release.h3.a
         volume_link = a.get('href')

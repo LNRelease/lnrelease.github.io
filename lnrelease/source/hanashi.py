@@ -22,7 +22,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
     series_title = TITLE.fullmatch(soup.title.text).group('title')
     series = Series(None, series_title)
     info = set()
-    isbns: defaultdict[element.NavigableString, dict[str, str]] = defaultdict(dict)
+    isbns: defaultdict[element.NavigableString, dict[str, list[str]]] = defaultdict(dict)
 
     for button in soup.find_all(string=STORE):
         a = button.find_parent('a')
@@ -37,12 +37,10 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             continue
         url = session.resolve(url.strip())
 
-        norm = store.normalise(session, url, resolve=True)
-        if norm is None:
+        if norm := store.normalise(session, url, resolve=True):
+            isbns[isbn].setdefault(norm, [norm]).append(url)
+        elif norm is None:
             warnings.warn(f'{url} normalise failed', RuntimeWarning)
-        elif norm and (norm not in isbns[isbn]
-                       or u.netloc == urlparse(norm).netloc):
-            isbns[isbn][norm] = url
 
     u = urlparse(link)
     for index, (isbn, urls) in enumerate(isbns.items(), start=1):
@@ -63,13 +61,11 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
         isbn = ISBN.fullmatch(isbn.parent.text).group('isbn') or ''
         alts = []
         force = True  # leave amazon to last, force only if no other sources
-        for norm, url in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
-            netloc = urlparse(norm).netloc
-            if netloc in store.PROCESSED:
-                alts.append(norm)
-                force = False
+        for links in sorted(urls.values(), key=lambda x: 'amazon.' in x[0]):
+            if urlparse(links[0]).netloc in store.PROCESSED:
+                alts.append(links[0])
             else:
-                res = store.parse(session, url, norm, force,
+                res = store.parse(session, links, force,
                                   series=series, publisher=NAME,
                                   title=title, index=index,
                                   format='Digital', isbn=isbn)
@@ -78,7 +74,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
                     force = False
                     alts.extend(inf.link for inf in res[1])
                 else:
-                    alts.append(norm)
+                    alts.append(links[0])
         info.add(Info(series.key, u.geturl(), NAME, NAME, title, index, 'Digital', isbn, None, alts))
 
     return series, info

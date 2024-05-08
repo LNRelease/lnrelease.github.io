@@ -34,11 +34,11 @@ def normalise(session: session.Session, link: str) -> str | None:
     return urlunparse(('https', 'books.apple.com', path, '', '', ''))
 
 
-def parse(session: session.Session, link: str, norm: str, *,
+def parse(session: session.Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    page = session.get(norm, web_cache=True)
+    page = session.get(links[0], web_cache=True)
     soup = BeautifulSoup(page.content, 'lxml')
 
     serieskey = series.key if series else ''
@@ -51,5 +51,5 @@ def parse(session: session.Session, link: str, norm: str, *,
     isbn = isbn or jsn.get('isbn', '')
     date = datetime.date.fromisoformat(jsn['datePublished'][:10])
 
-    info = utils.Info(serieskey, norm, NAME, publisher, title, index, format, isbn, date)
+    info = utils.Info(serieskey, links[0], NAME, publisher, title, index, format, isbn, date)
     return series, {info}

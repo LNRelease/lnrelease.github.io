@@ -48,7 +48,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             link = urljoin('https://crossinfworld.com/', a.get('href'))
         title = panel.find('div', class_='panel-heading').strong.text
 
-        links: defaultdict[str, dict[str, str]] = defaultdict(dict)
+        formats: defaultdict[str, dict[str, list[str]]] = defaultdict(dict)
         for a in panel.find_all('a'):
             url: str = a.get('href').strip()
             u = urlparse(url)
@@ -57,23 +57,19 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
             url = session.resolve(url)
 
             format = get_format(a.find_previous('p').text)
-            norm = store.normalise(session, url, resolve=True)
-            if norm is None:
+            if norm := store.normalise(session, url, resolve=True):
+                formats[format].setdefault(norm, [norm]).append(url)
+            elif norm is None:
                 warnings.warn(f'{url} normalise failed', RuntimeWarning)
-            elif norm and (norm not in links[format]
-                           or u.netloc == urlparse(norm).netloc):
-                links[format][norm] = url
 
-        for format, urls in links.items():
+        for format, urls in formats.items():
             alts = []
             force = True  # leave amazon to last, force only if no other sources
-            for norm, url in sorted(urls.items(), key=lambda x: 'amazon' in x[0]):
-                netloc = urlparse(norm).netloc
-                if netloc in store.PROCESSED:
-                    alts.append(norm)
-                    force = False
+            for links in sorted(urls.values(), key=lambda x: 'amazon.' in x[0]):
+                if urlparse(links[0]).netloc in store.PROCESSED:
+                    alts.append(links[0])
                 else:
-                    res = store.parse(session, url, norm, force,
+                    res = store.parse(session, links, force,
                                       series=series, publisher=NAME,
                                       title=title, index=index, format=format)
                     if res and res[1]:
@@ -81,7 +77,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
                         force = False
                         alts.extend(inf.link for inf in res[1])
                     else:
-                        alts.append(norm)
+                        alts.append(links[0])
 
             info.add(Info(series.key, link, NAME, NAME, title, index, format, '', None, alts))
 

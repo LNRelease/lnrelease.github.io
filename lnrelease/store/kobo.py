@@ -37,11 +37,11 @@ def normalise(session: session.Session, link: str) -> str | None:
     return urlunparse(('https', 'www.kobo.com', path, '', '', ''))
 
 
-def parse(session: session.Session, link: str, norm: str, *,
+def parse(session: session.Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    page = session.get(norm, web_cache=True)
+    page = session.get(links[0], web_cache=True)
     soup = BeautifulSoup(page.content, 'lxml')
 
     about = soup.select_one('div.about > p.series > span.series')
@@ -59,5 +59,5 @@ def parse(session: session.Session, link: str, norm: str, *,
     isbn = isbn or work.get('isbn', '')
     date = datetime.date.fromisoformat(work['datePublished'][:10])
 
-    info = utils.Info(series.key, norm, NAME, publisher, title, index, format, isbn, date)
+    info = utils.Info(series.key, links[0], NAME, publisher, title, index, format, isbn, date)
     return series, {info}

@@ -42,8 +42,8 @@ def sub_nums(s: str) -> str:
 
 def diff_list(titles: list[str]) -> list[str]:
     # returns list from when strings start to differ
-    s1 = min(titles)
-    s2 = max(titles)
+    s1 = min(t.lower() for t in titles)
+    s2 = max(t.lower() for t in titles)
     for i in range(len(s1)):
         if s1[i] != s2[i]:
             break
@@ -78,6 +78,7 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
     main_diff = diff_list([i.title for i in main_info])
     poss = {d: b for d, b in zip(main_diff, main_books) if b}
     titles = {inf.title: book for inf, book in zip(main_info, main_books)}
+    isbns = {inf.isbn: book for inf, book in zip(main_info, main_books)}
 
     for key, lst in books.items():
         # single volume
@@ -94,6 +95,8 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
 
             if inf.title in titles:
                 book = titles[inf.title]
+            elif inf.isbn in isbns:
+                book = isbns[inf.isbn]
             elif match := get_close_matches(diff[i], poss, n=1, cutoff=0.95):
                 book = poss[match[0]]
             else:
