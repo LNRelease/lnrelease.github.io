@@ -93,6 +93,7 @@
 |Jun 04|[Yes, No, or Maybe?](https://sevenseasentertainment.com/books/yes-no-or-maybe-light-novel-3-where-home-is/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Jun 05|[Black Summoner](https://j-novel.club/series/black-summoner#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
 |Jun 05|[The Invincible Summoner Who Crawled Up from Level 1: Wrecking Reincarnators with My Hidden Dungeon](https://j-novel.club/series/the-invincible-summoner-who-crawled-up-from-level-1-wrecking-reincarnators-with-my-hidden-dungeon-volume-1#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Jun 06|[Riku Can't Be a Goddess](https://sevenseasentertainment.com/books/riku-cant-be-a-goddess-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jun 07|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 10|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/series/ascendance-of-a-bookworm-short-story-collection#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Jun 10|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
@@ -187,7 +188,6 @@
 |Jul 23|[Bungo Stray Dogs: Another Story: Yukito Ayatsuji vs. Natsuhiko Kyougoku](https://yenpress.com/titles/9781975390945-bungo-stray-dogs-another-story-light-novel "Yen Press")|1|Yen Press|📖|
 |Jul 23|[Classroom for Heroes](https://yenpress.com/titles/9781975378707-classroom-for-heroes-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jul 23|[Ishura](https://yenpress.com/titles/9781975376697-ishura-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
-|Jul 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975361938-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Jul 23|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975370053-our-last-crusade-or-the-rise-of-a-new-world-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Jul 23|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378424-re-starting-life-in-another-world-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
 |Jul 23|[Riku Can't Be a Goddess](https://sevenseasentertainment.com/books/riku-cant-be-a-goddess-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -234,6 +234,7 @@
 |Aug 09|[Welcome to Japan, Ms. Elf!](https://j-novel.club/series/welcome-to-japan-ms-elf#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Aug 09|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 12|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
+|Aug 12|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Aug 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-21 "J-Novel Club")|21-22|J-Novel Club|📖|
 |Aug 13|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Aug 13|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -330,6 +331,7 @@
 |Oct 07|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-20 "J-Novel Club")|20|J-Novel Club|📖|
 |Oct 07|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
 |Oct 08|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Oct 08|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Oct 08|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 15|[Babel](https://yenpress.com/titles/9781975375058-babel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 15|[Black Summoner](https://yenpress.com/titles/9781975392291-black-summoner-vol-3-light-novel "Yen Press")|3|Yen Press|📖|
@@ -337,6 +339,7 @@
 |Oct 15|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975344030-death-march-to-the-parallel-world-rhapsody-vol-22-light-novel "Yen Press")|22|Yen Press|🖥️📖|
 |Oct 15|[Demon Lord 2099](https://yenpress.com/titles/9798855403114-demon-lord-2099-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 15|[Demons' Crest](https://yenpress.com/titles/9781975398903-demons-crest-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Oct 15|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Oct 15|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9781975334031-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Oct 15|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369521-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 15|[In My Seventh Life, I Met a Monster Princess](https://yenpress.com/titles/9781975397951-in-my-seventh-life-i-met-a-monster-princess "Yen Press")|1|Yen Press|🖥️📖|
@@ -344,6 +347,7 @@
 |Oct 15|[Love Is Dark](https://yenpress.com/titles/9781975397791-love-is-dark-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 15|[Orc Eroica](https://yenpress.com/titles/9781975393786-orc-eroica-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 15|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855400878-playing-death-games-to-put-food-on-the-table-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Oct 15|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Oct 15|[Reign of the Seven Spellblades: Side of Fire](https://yenpress.com/titles/9781975393922-reign-of-the-seven-spellblades-side-of-fire "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 15|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Oct 15|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/767838/saving-80000-gold-in-another-world-for-my-retirement-6-light-novel-by-funa/9781647293659 "Kodansha")|6|Kodansha|📖|
@@ -360,6 +364,7 @@
 |:---:|---|:---:|---|:---:|
 |Nov 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-27 "J-Novel Club")|6|J-Novel Club|📖|
 |Nov 12|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
+|Nov 19|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975361938-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Nov 19|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 
 ### December
@@ -391,6 +396,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Feb 04|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 25|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
 ### April
