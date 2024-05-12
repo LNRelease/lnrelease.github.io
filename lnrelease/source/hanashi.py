@@ -1,14 +1,19 @@
+import datetime
 import re
 import warnings
 from collections import defaultdict
+from pathlib import Path
+from random import random
 from urllib.parse import quote, urlparse
 
 import store
 from bs4 import BeautifulSoup, element
 from session import Session
-from utils import Info, Series
+from utils import Info, Key, Series, Table
 
 NAME = 'Hanashi Media'
+
+PAGES = Path('hanashi.csv')
 
 TITLE = re.compile(r'(?P<title>.+) – Hanashi Media')
 STORE = re.compile(r'[Gg]et at .+')
@@ -16,7 +21,7 @@ ISBN = re.compile(r'^.*ISBN:\s*(?:(?P<isbn>[\d-]{13,})|Not Yet|)$')
 VOLUME = re.compile(r'Volume (?P<volume>\d+(?:\.\d)?)')
 
 
-def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
+def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info]]:
     page = session.get(link)
     soup = BeautifulSoup(page.content, 'lxml')
     series_title = TITLE.fullmatch(soup.title.text).group('title')
@@ -60,12 +65,12 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
 
         isbn = ISBN.fullmatch(isbn.parent.text).group('isbn') or ''
         alts = []
-        force = True  # leave amazon to last, force only if no other sources
-        for links in sorted(urls.values(), key=lambda x: 'amazon.' in x[0]):
-            if urlparse(links[0]).netloc in store.PROCESSED:
-                alts.append(links[0])
+        force = True
+        for norm, links in sorted(urls.items(), key=lambda x: 'amazon.' in x[0]):
+            if urlparse(norm).netloc in store.PROCESSED:
+                alts.append(norm)
             else:
-                res = store.parse(session, links, force,
+                res = store.parse(session, links, force and norm not in skip,
                                   series=series, publisher=NAME,
                                   title=title, index=index,
                                   format='Digital', isbn=isbn)
@@ -74,13 +79,19 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
                     force = False
                     alts.extend(inf.link for inf in res[1])
                 else:
-                    alts.append(links[0])
+                    alts.append(norm)
+
         info.add(Info(series.key, u.geturl(), NAME, NAME, title, index, 'Digital', isbn, None, alts))
 
     return series, info
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
+    pages = Table(PAGES, Key)
+    today = datetime.date.today()
+    cutoff = today - datetime.timedelta(days=365)
+    skip = {row.key for row in pages if random() > 0.1 and row.date < cutoff}
+
     with Session() as session:
         page = session.get('https://hanashi.media/')
         soup = BeautifulSoup(page.content, 'lxml')
@@ -89,13 +100,20 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                  .find_parent('li').ul.find_all('a'))
         for link in links:
             try:
-                res = parse(session, link)
+                res = parse(session, link, skip)
 
                 if len(res[1]) > 0:
                     series.add(res[0])
                     info -= res[1]
                     info |= res[1]
+                    for inf in res[1]:
+                        if inf.source == NAME:
+                            continue
+                        l = Key(inf.link, inf.date)
+                        pages.discard(l)
+                        pages.add(l)
             except Exception as e:
                 warnings.warn(f'{link}: {e}', RuntimeWarning)
 
+    pages.save()
     return series, info

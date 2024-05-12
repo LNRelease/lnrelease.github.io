@@ -1,14 +1,18 @@
 import datetime
 import warnings
 from collections import defaultdict
+from pathlib import Path
+from random import random
 from urllib.parse import urljoin, urlparse
 
 import store
 from bs4 import BeautifulSoup
 from session import Session
-from utils import Info, Series, find_series
+from utils import Info, Key, Series, Table, find_series
 
 NAME = 'Cross Infinite World'
+
+PAGES = Path('cross_infinite.csv')
 
 
 def get_format(s: str) -> str:
@@ -35,7 +39,7 @@ def get_format(s: str) -> str:
             return 'Digital'
 
 
-def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
+def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info]]:
     page = session.get(link)
     soup = BeautifulSoup(page.content, 'lxml')
     h2 = soup.select_one('div.container > div.row + div.row > div.box > h2 > strong')
@@ -64,12 +68,12 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
 
         for format, urls in formats.items():
             alts = []
-            force = True  # leave amazon to last, force only if no other sources
-            for links in sorted(urls.values(), key=lambda x: 'amazon.' in x[0]):
-                if urlparse(links[0]).netloc in store.PROCESSED:
-                    alts.append(links[0])
+            force = True
+            for norm, links in sorted(urls.items(), key=lambda x: 'amazon.' in x[0]):
+                if urlparse(norm).netloc in store.PROCESSED:
+                    alts.append(norm)
                 else:
-                    res = store.parse(session, links, force,
+                    res = store.parse(session, links, force and norm not in skip,
                                       series=series, publisher=NAME,
                                       title=title, index=index, format=format)
                     if res and res[1]:
@@ -77,7 +81,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
                         force = False
                         alts.extend(inf.link for inf in res[1])
                     else:
-                        alts.append(links[0])
+                        alts.append(norm)
 
             info.add(Info(series.key, link, NAME, NAME, title, index, format, '', None, alts))
 
@@ -85,20 +89,29 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]]:
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
+    pages = Table(PAGES, Key)
+    today = datetime.date.today()
+    cutoff = today - datetime.timedelta(days=365)
+    skip = {row.key for row in pages if random() > 0.1 and row.date < cutoff}
     items = {(inf.link, inf.format): inf for inf in info}
+
     with Session() as session:
         page = session.get('https://crossinfworld.com/series.html')
         soup = BeautifulSoup(page.content, 'lxml')
         for a in soup.select('div.row > div.box > div > a'):
             try:
                 link = urljoin('https://crossinfworld.com/', a.get('href'))
-                res = parse(session, link)
+                res = parse(session, link, skip)
 
                 if len(res[1]) > 0:
                     series.add(res[0])
                     for inf in res[1]:
                         key = inf.link, inf.format
-                        if inf.source == NAME and key in items:
+                        if inf.source != NAME:
+                            l = Key(inf.link, inf.date)
+                            pages.discard(l)
+                            pages.add(l)
+                        elif key in items:
                             inf.isbn = items[key].isbn
                             inf.date = items[key].date
                         items[key] = inf
@@ -127,4 +140,5 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                 series.add(serie)
                 items[key] = Info(serie.key, link, NAME, NAME, title, 0, format, isbn, date)
 
+    pages.save()
     return series, set(items.values())
