@@ -38,7 +38,7 @@
 |May 15|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-31 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 15|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 15|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-46 "J-Novel Club")|44|J-Novel Club|🖥️|
-|May 15|[My Pet is a Saintess](https://hanashi.media/my-pet-is-a-saintess/#2 "Hanashi Media")|2|Hanashi Media|🖥️|
+|May 15|[My Pet is a Saintess](https://hanashi.media/my-pet-is-a-saintess/#Volume%2002 "Hanashi Media")|2|Hanashi Media|🖥️|
 |May 16|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️|
 |May 16|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |May 17|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
@@ -58,9 +58,7 @@
 |May 21|[Horror Collector](https://yenpress.com/titles/9781975378264-horror-collector-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |May 21|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |May 21|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368333-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-4-light-novel "Yen Press")|4|Yen Press|📖|
-|May 21|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-novel-5 "Kodansha")|5|Kodansha|📖|
-|May 21|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-novel-5 "Kodansha")|5.1|Kodansha|🖥️|
-|May 21|[My Unique Skill Makes Me OP Even at Level 1](https://global.bookwalker.jp/de41afa0a8-c5bb-4b0b-8fa5-84ac8c4f1a9e/ "Kodansha")|5.2|Kodansha|🖥️|
+|May 21|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-novel-5 "Kodansha")|5|Kodansha|🖥️📖|
 |May 21|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975376673-reign-of-the-seven-spellblades-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |May 21|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |May 21|[Spy Classroom](https://yenpress.com/titles/9781975367497-spy-classroom-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
@@ -136,7 +134,6 @@
 |Jun 18|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371197-the-unimplemented-overlords-have-joined-the-party-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 18|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379667-the-vexations-of-a-shut-in-vampire-princess-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Jun 18|[You Are My Regret](https://yenpress.com/titles/9781975378820-you-are-my-regret-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Jun 18|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Jun 20|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️|
 |Jun 20|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️|
 |Jun 20|[RVing My Way into Exile with My Beloved Cat: This Villainess Is Trippin'](https://j-novel.club/series/rving-my-way-into-exile-with-my-beloved-cat-this-villainess-is-trippin#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -322,6 +319,7 @@
 |Sep 17|[Victoria of Many Faces](https://yenpress.com/titles/9781975390747-victoria-of-many-faces-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 17|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368692-wandering-witch-the-journey-of-elaina-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Sep 17|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975394042-wolf-parchment-new-theory-spice-wolf-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|Sep 17|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 19|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Sep 24|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️📖|
 |Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745904/my-unique-skill-makes-me-op-even-at-level-1-vol-6-light-novel-by-miki-nazuna/9781647293420 "Kodansha")|6|Kodansha|📖|
