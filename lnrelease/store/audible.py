@@ -5,9 +5,9 @@ import json
 import re
 from urllib.parse import urlparse, urlunparse
 
-import session
 import utils
 from bs4 import BeautifulSoup
+from session import Session
 
 NAME = 'Audible'
 
@@ -34,7 +34,7 @@ def hash_link(link: str) -> int:
     return hash(netloc + asin)
 
 
-def normalise(session: session.Session, link: str) -> str | None:
+def normalise(session: Session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = f'/pd/{match.group("name")}/{match.group("asin")}'
@@ -49,7 +49,7 @@ def normalise(session: session.Session, link: str) -> str | None:
     return urlunparse(('https', netloc, path, '', '', ''))
 
 
-def parse(session: session.Session, links: list[str], *,
+def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:

@@ -4,9 +4,9 @@ import datetime
 import re
 from urllib.parse import parse_qsl, urlencode, urljoin, urlparse, urlunparse
 
-import session
 import utils
 from bs4 import BeautifulSoup
+from session import CHROME, Session
 
 NAME = 'Barnes & Noble'
 
@@ -15,8 +15,6 @@ PUBLISHER = re.compile(r'^\s*Publisher:\s*(?P<name>.+)$')
 DATE = re.compile(r'^\s*Pub\. Date:\s*(?P<date>.+)$')
 
 FORMATS = 'https://www.barnesandnoble.com/cartridges/ProductDetailContent/ProductDetailTypes/includes/formatModal-ra.jsp'
-
-HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
 
 
 def equal(a: str, b: str) -> bool:
@@ -40,10 +38,10 @@ def hash_link(link: str) -> int:
     return hash(ean or match.group('id'))
 
 
-def normalise(session: session.Session, link: str) -> str | None:
+def normalise(session: Session, link: str) -> str | None:
     u = urlparse(link)
     if not PATH.fullmatch(u.path):
-        res = session.resolve(link, force=True, headers=HEADERS)
+        res = session.resolve(link, force=True, headers=CHROME)
         if res != link:
             return normalise(session, res)
         return None
@@ -51,12 +49,12 @@ def normalise(session: session.Session, link: str) -> str | None:
     return urlunparse(('https', 'www.barnesandnoble.com', u.path, '', query, ''))
 
 
-def parse(session: session.Session, links: list[str], *,
+def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
     id = PATH.fullmatch(urlparse(links[0]).path).group('id')
-    page = session.get(FORMATS, params={'workId': id}, headers=HEADERS)
+    page = session.get(FORMATS, params={'workId': id}, headers=CHROME)
     soup = BeautifulSoup(page.content, 'lxml')
 
     serieskey = series.key if series else ''

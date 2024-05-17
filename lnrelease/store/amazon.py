@@ -5,9 +5,9 @@ import re
 import warnings
 from urllib.parse import urlparse, urlunparse
 
-import session
 import utils
 from bs4 import BeautifulSoup
+from session import Session
 
 NAME = 'Amazon'
 
@@ -50,7 +50,7 @@ def hash_link(link: str) -> int:
     return hash(PATH.fullmatch(urlparse(link).path).group('asin'))
 
 
-def normalise(session: session.Session, link: str) -> str | None:
+def normalise(session: Session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = '/dp/' + match.group('asin')
@@ -96,7 +96,7 @@ def strpdate(link: str, s: str) -> datetime.date:
         return None
 
 
-def parse(session: session.Session, links: list[str], *,
+def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:

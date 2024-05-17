@@ -16,14 +16,17 @@ BRACKET = re.compile(r'(?P<name>.+?)(?: \(.+?\))?')
 def parse(series: Series, info: dict[str, list[Info]],
           links: dict[str, list[Info]]) -> dict[str, list[Book]]:
     today = datetime.date.today()
-    formats = {f: {inf.isbn for inf in lst} for f, lst in info.items()}
+    fisbns = {f: {inf.isbn for inf in lst} for f, lst in info.items()}
+    fdates = {f: {inf.date for inf in lst} for f, lst in info.items()}
     for inf in chain.from_iterable(links.values()):
         if (inf.serieskey == series.key
             and inf.publisher == NAME
-            and inf.date > today
             and inf.isbn
-            and (isbns := formats.get(inf.format, set()))
-                and inf.isbn not in isbns):
+            and (isbns := fisbns.get(inf.format))
+            and inf.isbn not in isbns
+            and inf.date > today
+            and (dates := fdates.get(inf.format))
+                and inf.date not in dates):
             i = Info(series.key, inf.link, inf.source, NAME, inf.title, 0, inf.format, inf.isbn, inf.date)
             info[inf.format].append(i)
             isbns.add(i.isbn)

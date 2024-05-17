@@ -37,8 +37,7 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
             continue
 
         url: str = a.get('href')
-        u = urlparse(url)
-        if not u.scheme:
+        if url[-1] == '#' or not urlparse(url).scheme:
             continue
         url = session.resolve(url.strip())
 
@@ -61,7 +60,7 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
         else:
             warnings.warn(f'No volume found: {link}', RuntimeWarning)
             title = f'{series_title} Volume {index}'
-            u = u._replace(fragment=str(index))
+            u = u._replace(fragment=quote(f'Volume {index:02d}'))
 
         isbn = ISBN.fullmatch(isbn.parent.text).group('isbn') or ''
         alts = []
@@ -89,7 +88,7 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     pages = Table(PAGES, Key)
     today = datetime.date.today()
-    cutoff = today - datetime.timedelta(days=365)
+    cutoff = today - datetime.timedelta(days=90)
     skip = {row.key for row in pages if random() > 0.1 and row.date < cutoff}
 
     with Session() as session:
@@ -104,7 +103,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
 
                 if len(res[1]) > 0:
                     series.add(res[0])
-                    info -= res[1]
+                    info -= {i for i in info if i.serieskey == res[0].key}
                     info |= res[1]
                     for inf in res[1]:
                         if inf.source == NAME:

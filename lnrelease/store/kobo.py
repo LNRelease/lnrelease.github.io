@@ -5,9 +5,9 @@ import json
 import re
 from urllib.parse import urlparse, urlunparse
 
-import session
 import utils
 from bs4 import BeautifulSoup
+from session import CHROME, Session
 
 NAME = 'Kobo'
 
@@ -28,7 +28,7 @@ def hash_link(link: str) -> int:
     return hash(match.group('format') + match.group('name'))
 
 
-def normalise(session: session.Session, link: str) -> str | None:
+def normalise(session: Session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
         path = f'/ww/en/{match.group("format")}/{match.group("name")}'
@@ -37,11 +37,11 @@ def normalise(session: session.Session, link: str) -> str | None:
     return urlunparse(('https', 'www.kobo.com', path, '', '', ''))
 
 
-def parse(session: session.Session, links: list[str], *,
+def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    page = session.get(links[0], web_cache=True)
+    page = session.get(links[0], web_cache=True, headers=CHROME)
     soup = BeautifulSoup(page.content, 'lxml')
 
     about = soup.select_one('div.about > p.series > span.series')

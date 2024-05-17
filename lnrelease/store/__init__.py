@@ -4,8 +4,8 @@ import warnings
 from types import ModuleType
 from urllib.parse import urlparse
 
-import session
 import utils
+from session import Session
 
 from . import (_default, amazon, apple, audible, barnes_noble, book_walker,
                google, kobo, prh, right_stuf, viz, yen_press)
@@ -91,7 +91,7 @@ def hash_link(link: str) -> int:
     return 0
 
 
-def normalise(session: session.Session, link: str, resolve: bool = False) -> str | None:
+def normalise(session: Session, link: str, resolve: bool = False) -> str | None:
     # normalise url, return None if failed
     netloc = urlparse(link).netloc
 
@@ -116,7 +116,7 @@ def normalise(session: session.Session, link: str, resolve: bool = False) -> str
     return res
 
 
-def parse(session: session.Session, links: list[str], force: bool = False, *,
+def parse(session: Session, links: list[str], force: bool = False, *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:

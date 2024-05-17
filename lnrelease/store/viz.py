@@ -3,7 +3,7 @@ from __future__ import annotations
 import re
 from urllib.parse import urlparse, urlunparse
 
-import session
+from session import Session
 
 NAME = 'VIZ Media'
 
@@ -23,7 +23,7 @@ def hash_link(link: str) -> int:
     return hash(match.group('id') + match.group('format'))
 
 
-def normalise(session: session.Session, link: str) -> str | None:
+def normalise(session: Session, link: str) -> str | None:
     u = urlparse(link)
     if not PATH.fullmatch(u.path):
         return None
