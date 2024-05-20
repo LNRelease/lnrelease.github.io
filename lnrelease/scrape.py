@@ -7,6 +7,7 @@ from pathlib import Path
 from threading import Thread
 from time import time
 
+from session import REQUEST_STATS
 from utils import SOURCES, Info, Series, Table
 
 MODULES = [importlib.import_module(f'source.{s.stem}') for s in Path('lnrelease/source').glob('*.py')]
@@ -62,6 +63,10 @@ def main() -> None:
                 print(f'{futures[future]} done ({time() - start:.2f}s)', flush=True)
     except TimeoutError:
         dump_traceback()
+
+    print('\nStats:')
+    for netloc, stats in REQUEST_STATS.items():
+        print(f'{netloc}: {stats}')
 
     series -= series - {Series(i.serieskey, '') for i in info}
     series.save()

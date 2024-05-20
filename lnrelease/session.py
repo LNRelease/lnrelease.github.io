@@ -1,7 +1,8 @@
 import random
 import warnings
+from dataclasses import dataclass
 from threading import Lock
-from time import sleep, time
+from time import perf_counter_ns, sleep, time
 from typing import Self
 from urllib.parse import quote, urljoin, urlparse
 
@@ -12,7 +13,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 HEADERS = {'User-Agent': 'lnrelease.github.io/1.8'}
-CHROME = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
+CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36'}
 
 SHORTENERS = {
     'a.co',
@@ -22,24 +23,26 @@ SHORTENERS = {
 }
 
 
-class Limiter:
-    def __init__(self, netloc: str) -> None:
-        self.netloc = netloc
-        self.lock = Lock()
+@dataclass
+class Stats:
+    start: int = 0
+    count: int = 0
+    wait: int = 0
+    total: int = 0
 
-    def __enter__(self) -> Self:
-        self.lock.acquire()
-        delay = random.uniform(*DELAYS.get(self.netloc, (0, 0)))
-        if not delay:
-            warnings.warn(f'No delay for {self.netloc}', RuntimeWarning)
-            return
-        sleep(max(0, delay - time() + LAST_REQUEST.get(self.netloc, 0)))
-        return self
+    def begin(self) -> None:
+        self.start = perf_counter_ns()
+        self.count += 1
 
-    def __exit__(self, exc_type, exc_value, exc_tb) -> bool:
-        LAST_REQUEST[self.netloc] = time()
-        self.lock.release()
-        return isinstance(exc_value, requests.exceptions.RequestException)
+    def mid(self) -> None:
+        self.wait += perf_counter_ns() - self.start
+
+    def end(self) -> None:
+        self.total += perf_counter_ns() - self.start
+        self.start = 0
+
+    def __str__(self) -> str:
+        return f'{self.count: 4d}; {self.wait/1e9:7.2f} ({self.total/1e9:7.2f})'
 
 
 RATE_LIMITER = Lock()
@@ -68,6 +71,33 @@ DELAYS = {
     'yenpress.com': (1, 3),
 }
 LAST_REQUEST: dict[str, float] = {}
+REQUEST_STATS: dict[str, Stats] = {netloc: Stats() for netloc in DELAYS}
+
+
+class Limiter:
+    def __init__(self, netloc: str) -> None:
+        self.netloc = netloc
+        self.lock = Lock()
+
+    def __enter__(self) -> Self:
+        self.lock.acquire()
+        delay = random.uniform(*DELAYS.get(self.netloc, (0, 0)))
+        if not delay:
+            warnings.warn(f'No delay for {self.netloc}', RuntimeWarning)
+            return
+        stats = REQUEST_STATS[self.netloc]
+        stats.begin()
+        sleep(max(0, delay - time() + LAST_REQUEST.get(self.netloc, 0)))
+        stats.mid()
+        return self
+
+    def __exit__(self, exc_type, exc_value, exc_tb) -> bool:
+        LAST_REQUEST[self.netloc] = time()
+        REQUEST_STATS[self.netloc].end()
+        self.lock.release()
+        return isinstance(exc_value, requests.exceptions.RequestException)
+
+
 LIMITERS: dict[str, Limiter] = {}
 
 
