@@ -276,6 +276,7 @@
 |Aug 22|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Aug 22|[The Crown of Rutile Quartz](https://j-novel.club/series/the-crown-of-rutile-quartz#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 23|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Aug 27|[Black Summoner](https://j-novel.club/series/black-summoner#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Aug 27|[Disney Twisted-Wonderland: Rose-Red Tyrant](https://www.viz.com/read/novel/disney-twisted-wonderland-the-novel-episode-1-crimson-tyrant/product/7968/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Aug 27|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 27|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -296,6 +297,7 @@
 |Sep 09|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28 "J-Novel Club")|28|J-Novel Club|📖|
 |Sep 09|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 10|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
+|Sep 10|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Sep 10|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Sep 17|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Sep 17|[86--EIGHTY-SIX Alter](https://yenpress.com/titles/9781975392703-86-eighty-six-alter-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
