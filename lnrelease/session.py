@@ -42,7 +42,7 @@ class Stats:
         self.start = 0
 
     def __str__(self) -> str:
-        return f'{self.count: 4d}; {self.wait/1e9:7.2f} ({self.total/1e9:7.2f})'
+        return f'{self.count: 4d}; {self.wait/1e9:8.2f} ({self.total/1e9:8.2f})'
 
 
 RATE_LIMITER = Lock()
@@ -218,7 +218,11 @@ class Session(requests.Session):
             **kwargs) -> requests.Response | None:
         kwargs.setdefault('timeout', 100)
 
-        page = self.try_get(url, retries=5, **kwargs) if direct else None
+        if direct:
+            page = self.try_get(url, retries=5, **kwargs)
+        else:
+            page = None
+            REQUEST_STATS[urlparse(url).netloc].count += 1
         if web_cache and (not page or page.status_code == 403):
             self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
             page = self.get_cache(url, **kwargs)

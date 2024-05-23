@@ -37,29 +37,28 @@ def normalise(session: Session, link: str) -> str | None:
     return urlunparse(('https', 'www.kobo.com', path, '', '', ''))
 
 
-def parse(session: Session, links: list[str], *,
+def parse(_: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    page = session.get(links[0], web_cache=True, headers=CHROME, timeout=10)
-    if page.status_code == 403:
-        return None
-    soup = BeautifulSoup(page.content, 'lxml')
+    with Session() as session:
+        page = session.get(links[0], web_cache=True, headers=CHROME, timeout=10)
+        soup = BeautifulSoup(page.content, 'lxml')
 
-    about = soup.select_one('div.about > p.series > span.series')
-    index = index or INDEX.fullmatch(about.find('span', class_='sequenced-name-prefix').text).group('index')
-    series = series or utils.Series(None, about.a.text)
+        about = soup.select_one('div.about > p.series > span.series')
+        index = index or INDEX.fullmatch(about.find('span', class_='sequenced-name-prefix').text).group('index')
+        series = series or utils.Series(None, about.a.text)
 
-    jsn = json.loads(soup.select_one('div.RatingAndReviewWidget > div.kobo-gizmo')['data-kobo-gizmo-config'])
-    jsn = json.loads(jsn['googleBook'])
-    publisher = publisher or jsn['publisher']['name']
-    work = jsn['workExample']
-    title = title or work['name']
-    format = format or work['@type']
-    if format == 'Book':
-        format = 'Digital'
-    isbn = isbn or work.get('isbn', '')
-    date = datetime.date.fromisoformat(work['datePublished'][:10])
+        jsn = json.loads(soup.select_one('div.RatingAndReviewWidget > div.kobo-gizmo')['data-kobo-gizmo-config'])
+        jsn = json.loads(jsn['googleBook'])
+        publisher = publisher or jsn['publisher']['name']
+        work = jsn['workExample']
+        title = title or work['name']
+        format = format or work['@type']
+        if format == 'Book':
+            format = 'Digital'
+        isbn = isbn or work.get('isbn', '')
+        date = datetime.date.fromisoformat(work['datePublished'][:10])
 
-    info = utils.Info(series.key, links[0], NAME, publisher, title, index, format, isbn, date)
-    return series, {info}
+        info = utils.Info(series.key, links[0], NAME, publisher, title, index, format, isbn, date)
+        return series, {info}

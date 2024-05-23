@@ -88,7 +88,7 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     pages = Table(PAGES, Key)
     today = datetime.date.today()
-    cutoff = today - datetime.timedelta(days=180)
+    cutoff = today - datetime.timedelta(days=60)
     skip = {row.key for row in pages if random() > 0.1 and row.date < cutoff}
 
     with Session() as session:
