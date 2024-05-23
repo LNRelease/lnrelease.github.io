@@ -294,6 +294,7 @@
 |Sep 02|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-25 "J-Novel Club")|25|J-Novel Club|🖥️|
 |Sep 06|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-8 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Sep 09|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-26 "J-Novel Club")|5|J-Novel Club|📖|
+|Sep 09|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-s-daughter-and-the-ebony-blade#volume-8 "J-Novel Club")|7.2|J-Novel Club|🖥️|
 |Sep 09|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28 "J-Novel Club")|28|J-Novel Club|📖|
 |Sep 09|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 10|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
