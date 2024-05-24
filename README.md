@@ -47,6 +47,7 @@
 |May 20|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-24 "J-Novel Club")|24|J-Novel Club|🖥️|
 |May 20|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |May 20|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+|May 20|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |May 21|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388355-a-certain-magical-index-nt-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |May 21|[Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379902-astrea-record-vol-2-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|2|Yen Press|🖥️📖|
 |May 21|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975393427-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
@@ -297,6 +298,7 @@
 |Sep 09|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-s-daughter-and-the-ebony-blade#volume-8 "J-Novel Club")|7.2|J-Novel Club|🖥️|
 |Sep 09|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28 "J-Novel Club")|28|J-Novel Club|📖|
 |Sep 09|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Sep 09|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Sep 10|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Sep 10|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Sep 10|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
