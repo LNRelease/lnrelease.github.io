@@ -27,6 +27,7 @@ SHORTENERS = {
 class Stats:
     start: int = 0
     count: int = 0
+    cache: int = 0
     wait: int = 0
     total: int = 0
 
@@ -42,7 +43,7 @@ class Stats:
         self.start = 0
 
     def __str__(self) -> str:
-        return f'{self.count: 4d}; {self.wait/1e9:8.2f} ({self.total/1e9:8.2f})'
+        return f'{self.count: 4d} ({self.cache: 4d}); {self.wait/1e9:8.2f} ({self.total/1e9:8.2f})'
 
 
 RATE_LIMITER = Lock()
@@ -53,7 +54,7 @@ DELAYS = {
     'www.audible.de': (10, 30),
     'www.audible.co.jp': (10, 30),
     'www.audible.co.uk': (10, 30),
-    'www.barnesandnoble.com': (10, 30),
+    'www.barnesandnoble.com': (30, 60),
     'www.bing.com': (10, 30),
     'cc.bingj.com': (10, 30),
     'global.bookwalker.jp': (1, 5),
@@ -62,7 +63,7 @@ DELAYS = {
     'webcache.googleusercontent.com': (30, 40),
     'hanashi.media': (30, 600),
     'labs.j-novel.club': (10, 30),
-    'www.kobo.com': (10, 30),
+    'www.kobo.com': (30, 60),
     'api.kodansha.us': (30, 60),
     'www.penguinrandomhouse.ca': (30, 600),
     'legacy.rightstufanime.com': (30, 300),
@@ -218,12 +219,9 @@ class Session(requests.Session):
             **kwargs) -> requests.Response | None:
         kwargs.setdefault('timeout', 100)
 
-        if direct:
-            page = self.try_get(url, retries=5, **kwargs)
-        else:
-            page = None
-            REQUEST_STATS[urlparse(url).netloc].count += 1
+        page = self.try_get(url, retries=5, **kwargs) if direct else None
         if web_cache and (not page or page.status_code == 403):
+            REQUEST_STATS[urlparse(url).netloc].cache += 1
             self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
             page = self.get_cache(url, **kwargs)
             self.set_retry()

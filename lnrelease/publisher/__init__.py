@@ -317,6 +317,24 @@ def secondary(series: Series, info: dict[str, list[Info]],
     return changed
 
 
+def letters(info: list[Info], books: list[Book]) -> bool:
+    changed = False
+    itr = iter(zip(info, books))
+    pair = next(itr, None)
+    while pair:
+        dupe = [pair]
+        while ((pair := next(itr, None)) and dupe[0]
+               and pair[1].volume == dupe[0][1].volume
+               and pair[1].name == dupe[0][1].name):
+            dupe.append(pair)
+        diff = [s[:2] for s in diff_list([inf.title for inf, _ in dupe]) if s]
+        if len(dupe) > 1 and len(dupe) == len(set(diff)):
+            changed = True
+            for s, (_, b) in zip(diff, dupe):
+                b.volume += s
+    return changed
+
+
 def dupes(books: list[Book]) -> bool:
     # assume consecutive dupes are multipart
     changed = False

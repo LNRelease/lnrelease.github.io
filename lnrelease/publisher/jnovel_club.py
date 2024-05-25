@@ -7,7 +7,7 @@ from math import prod
 
 from utils import Book, Info, Series
 
-from . import check, copy, guess, one, part, secondary, short, standard
+from . import check, copy, guess, letters, one, part, secondary, short, standard
 
 NAME = 'J-Novel Club'
 
@@ -36,6 +36,7 @@ def _parse(series: Series, info: dict[str, list[Info]],
         short(series, info, books)
         guess(series, info, books)
 
+    letters(main_info, main_books)
     copy(series, info, books)
     check(series, info, books)
     return books

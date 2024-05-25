@@ -66,7 +66,7 @@ def main() -> None:
     print('\nStats:')
     from session import REQUEST_STATS
     for netloc, stats in REQUEST_STATS.items():
-        print(f'{netloc}: {stats}')
+        print(f'{netloc:30s}: {stats}')
 
     series -= series - {Series(i.serieskey, '') for i in info}
     series.save()
