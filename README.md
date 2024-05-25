@@ -47,7 +47,6 @@
 |May 20|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-24 "J-Novel Club")|24|J-Novel Club|🖥️|
 |May 20|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |May 20|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
-|May 20|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |May 21|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388355-a-certain-magical-index-nt-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |May 21|[Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379902-astrea-record-vol-2-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|2|Yen Press|🖥️📖|
 |May 21|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975393427-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
@@ -246,7 +245,12 @@
 |Aug 13|[Vampire Hunter D](https://legacy.rightstufanime.com/Vampire-Hunter-D-Novel-Omnibus-Volume-6 "Dark Horse")|16-18|Dark Horse|📖|
 |Aug 14|[A Surprisingly Happy Engagement for the Slime Duke and the Fallen Noble Lady](https://j-novel.club/series/a-surprisingly-happy-engagement-for-the-slime-duke-and-the-fallen-noble-lady#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 14|[The Invincible Summoner Who Crawled Up from Level 1: Wrecking Reincarnators with My Hidden Dungeon](https://j-novel.club/series/the-invincible-summoner-who-crawled-up-from-level-1-wrecking-reincarnators-with-my-hidden-dungeon-volume-1#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Aug 14|[The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://j-novel.club/series/the-poison-king-now-that-i-ve-gained-ultimate-power-the-bewitching-beauties-in-my-harem-can-t-get-enough-of-me#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 15|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Aug 16|[The Fake Hero Crashes the Party](https://j-novel.club/series/the-fake-hero-crashes-the-party#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Aug 16|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Aug 16|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Aug 16|[The Royal Hostage Has Vanished: The Black Wolf Knight Yearns for the Persecuted Princess](https://j-novel.club/series/the-royal-hostage-has-vanished-the-black-wolf-knight-yearns-for-the-persecuted-princess#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 20|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975389505-alya-sometimes-hides-her-feelings-in-russian-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 20|[Blade & Bastard](https://yenpress.com/titles/9781975392888-blade-bastard-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
 |Aug 20|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -285,6 +289,7 @@
 |Aug 27|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Aug 29|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 29|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
+|Aug 29|[The Blessing of Liefe: Leave This Magical Letdown Alone!](https://j-novel.club/series/the-blessing-of-liefe-leave-this-magical-letdown-alone#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-8 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Aug 31|[Too Strong to Belong! Banished to Another World!](https://crossinfworld.com/Too-Strong-to-Belong-Banished-to-Another-World.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
@@ -293,9 +298,10 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Sep 02|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-25 "J-Novel Club")|25|J-Novel Club|🖥️|
+|Sep 02|[Dagashi-ya Yahagi: Setting Up a Sweets Shop in Another World](https://j-novel.club/series/dagashi-ya-yahagi-setting-up-a-sweets-shop-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 06|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-8 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Sep 09|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-26 "J-Novel Club")|5|J-Novel Club|📖|
-|Sep 09|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-s-daughter-and-the-ebony-blade#volume-8 "J-Novel Club")|7.2|J-Novel Club|🖥️|
+|Sep 09|[Death's Daughter and the Ebony Blade](https://j-novel.club/series/death-s-daughter-and-the-ebony-blade#volume-8 "J-Novel Club")|7Fi|J-Novel Club|🖥️|
 |Sep 09|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-28 "J-Novel Club")|28|J-Novel Club|📖|
 |Sep 09|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 09|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
@@ -344,6 +350,7 @@
 |Oct 08|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Oct 08|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Oct 08|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Oct 14|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Oct 15|[Babel](https://yenpress.com/titles/9781975375058-babel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 15|[Black Summoner](https://yenpress.com/titles/9781975392291-black-summoner-vol-3-light-novel "Yen Press")|3|Yen Press|📖|
 |Oct 15|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975391447-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
