@@ -43,7 +43,7 @@ class Stats:
         self.start = 0
 
     def __str__(self) -> str:
-        return f'{self.count: 4d} ({self.cache: 4d}); {self.wait/1e9:8.2f} ({self.total/1e9:8.2f})'
+        return f'{self.count:4d} ({self.cache:4d}); {self.wait/1e9:7.2f} ({self.total/1e9:7.2f})'
 
 
 RATE_LIMITER = Lock()
@@ -54,7 +54,7 @@ DELAYS = {
     'www.audible.de': (10, 30),
     'www.audible.co.jp': (10, 30),
     'www.audible.co.uk': (10, 30),
-    'www.barnesandnoble.com': (30, 60),
+    'www.barnesandnoble.com': (10, 30),
     'www.bing.com': (10, 30),
     'cc.bingj.com': (10, 30),
     'global.bookwalker.jp': (1, 5),
@@ -63,7 +63,6 @@ DELAYS = {
     'webcache.googleusercontent.com': (30, 40),
     'hanashi.media': (30, 600),
     'labs.j-novel.club': (10, 30),
-    'www.kobo.com': (30, 60),
     'api.kodansha.us': (30, 60),
     'www.penguinrandomhouse.ca': (30, 600),
     'legacy.rightstufanime.com': (30, 300),

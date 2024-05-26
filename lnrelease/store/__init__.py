@@ -8,7 +8,7 @@ import utils
 from session import Session
 
 from . import (_default, amazon, apple, audible, barnes_noble, book_walker,
-               google, kobo, prh, right_stuf, viz, yen_press)
+               google, prh, right_stuf, viz, yen_press)
 
 STORES = {
     'books.apple.com': apple,
@@ -16,9 +16,6 @@ STORES = {
     'geo.itunes.apple.com': apple,
     'www.barnesandnoble.com': barnes_noble,
     'play.google.com': google,
-    'www.kobo.com': kobo,
-    'kobo.com': kobo,
-    'store.kobobooks.com': kobo,
 }
 
 PROCESSED = {
@@ -45,6 +42,9 @@ IGNORE = {
     'gumroad.com',
     'store.hanashi.media',
     'www.indiebound.org',
+    'www.kobo.com',
+    'kobo.com',
+    'store.kobobooks.com',
     'www.powells.com',
     'www.walmart.com',
 }
