@@ -320,6 +320,7 @@
 |Sep 17|[Brunhild the Princess of Dragons](https://yenpress.com/titles/9781975394844-brunhild-the-princess-of-dragons "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 17|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975360290-chitose-is-in-the-ramune-bottle-vol-6-5 "Yen Press")|6.5|Yen Press|🖥️📖|
 |Sep 17|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9781975392413-even-a-replica-can-fall-in-love-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Sep 17|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 17|[Gods' Games We Play](https://yenpress.com/titles/9781975394820-gods-games-we-play-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 17|[Hero Syndrome](https://yenpress.com/titles/9781975390846-hero-syndrome-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 17|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975378349-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
@@ -405,7 +406,6 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Jan 07|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Jan 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-28 "J-Novel Club")|7|J-Novel Club|📖|
 |Jan 13|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
 |Jan 13|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
@@ -433,6 +433,12 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Apr 22|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
+
+### June
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Jun 03|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
 ### July
 
