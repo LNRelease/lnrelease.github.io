@@ -252,6 +252,7 @@
 |Aug 16|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 16|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 16|[The Royal Hostage Has Vanished: The Black Wolf Knight Yearns for the Persecuted Princess](https://j-novel.club/series/the-royal-hostage-has-vanished-the-black-wolf-knight-yearns-for-the-persecuted-princess#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Aug 19|[VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream](https://j-novel.club/series/vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Aug 20|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975389505-alya-sometimes-hides-her-feelings-in-russian-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 20|[Blade & Bastard](https://yenpress.com/titles/9781975392888-blade-bastard-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
 |Aug 20|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
