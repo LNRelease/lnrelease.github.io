@@ -193,7 +193,7 @@
 |Jul 23|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9781975370053-our-last-crusade-or-the-rise-of-a-new-world-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Jul 23|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378424-re-starting-life-in-another-world-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
 |Jul 23|[Riku Can't Be a Goddess](https://sevenseasentertainment.com/books/riku-cant-be-a-goddess-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
-|Jul 23|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/745919/saving-80000-gold-in-another-world-for-my-retirement-5-light-novel-by-funa/9781647293314 "Kodansha")|5|Kodansha|📖|
+|Jul 23|[Saving 80,000 Gold in Another World for my Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-5-light-novel "Kodansha")|5|Kodansha|🖥️📖|
 |Jul 23|[Seventh](https://j-novel.club/series/seventh#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jul 23|[Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town](https://yenpress.com/titles/9781975389031-suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Jul 23|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975392574-the-contract-between-a-specter-and-a-servant-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
@@ -301,6 +301,7 @@
 |:---:|---|:---:|---|:---:|
 |Sep 02|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-25 "J-Novel Club")|25|J-Novel Club|🖥️|
 |Sep 02|[Dagashi-ya Yahagi: Setting Up a Sweets Shop in Another World](https://j-novel.club/series/dagashi-ya-yahagi-setting-up-a-sweets-shop-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Sep 03|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Sep 03|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-25 "J-Novel Club")|25|J-Novel Club|🖥️|
 |Sep 06|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-8 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Sep 09|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-26 "J-Novel Club")|5|J-Novel Club|📖|
@@ -379,6 +380,7 @@
 |Oct 15|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855400236-the-world-bows-down-before-my-flames-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 22|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Oct 22|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Oct 23|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 
 ### November
 
