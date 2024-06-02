@@ -58,7 +58,6 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
         elif len(isbns) == 1:
             title = f'{series_title} Volume 1'
         else:
-            warnings.warn(f'No volume found: {link}', RuntimeWarning)
             title = f'{series_title} Volume {index}'
             u = u._replace(fragment=quote(f'Volume {index:02d}'))
 
@@ -88,7 +87,7 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     pages = Table(PAGES, Key)
     today = datetime.date.today()
-    cutoff = today - datetime.timedelta(days=60)
+    cutoff = today - datetime.timedelta(days=30)
     skip = {row.key for row in pages if random() > 0.1 and row.date < cutoff}
 
     with Session() as session:

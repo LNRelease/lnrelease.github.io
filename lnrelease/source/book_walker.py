@@ -19,6 +19,7 @@ PUBLISHERS = {
     'J-Novel Club': 'J-Novel Club',
     'Kodansha': 'Kodansha',
     'One Peace Books': 'One Peace Books',
+    'NITRO PLUS': '',
     'SB Creative': 'SB Creative',
     'Seven Seas Entertainment': 'Seven Seas Entertainment',
     'Tentai Books': 'Tentai Books',
