@@ -339,6 +339,8 @@
 |Sep 17|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975394042-wolf-parchment-new-theory-spice-wolf-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Sep 17|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 19|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Sep 20|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Sep 20|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Sep 24|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️📖|
 |Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745904/my-unique-skill-makes-me-op-even-at-level-1-vol-6-light-novel-by-miki-nazuna/9781647293420 "Kodansha")|6|Kodansha|📖|
 |Sep 24|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
@@ -388,8 +390,12 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Nov 05|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
+|Nov 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
 |Nov 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-27 "J-Novel Club")|6|J-Novel Club|📖|
 |Nov 12|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
+|Nov 12|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|Nov 12|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Nov 19|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975361938-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Nov 19|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 19|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
