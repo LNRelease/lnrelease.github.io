@@ -67,7 +67,7 @@ DELAYS = {
     'www.penguinrandomhouse.ca': (30, 600),
     'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
-    'www.viz.com': (30, 300),
+    'www.viz.com': (30, 60),
     'yenpress.com': (1, 3),
 }
 LAST_REQUEST: dict[str, float] = {}

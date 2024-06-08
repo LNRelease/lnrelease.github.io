@@ -1,4 +1,5 @@
 import datetime
+import re
 import warnings
 from pathlib import Path
 from random import random
@@ -11,6 +12,7 @@ from utils import Info, Key, Series, Table
 NAME = 'VIZ Media'
 
 PAGES = Path('viz.csv')
+ISBN = re.compile(r'e?ISBN-13')
 
 
 def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date] | None:
@@ -21,7 +23,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date
     series_title = soup.find('strong', string='Series').find_next('a').text
     title = soup.select_one('div#purchase_links_block h2').text
     index = 0
-    isbn = soup.find('strong', string='ISBN-13').next_sibling.strip()
+    isbn = soup.find('strong', string=ISBN).next_sibling.strip()
     date = soup.find('strong', string='Release').next_sibling.strip()
     date = datetime.datetime.strptime(date, '%B %d, %Y').date()
 
@@ -29,8 +31,8 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date
     for a in soup.find(role='tablist').find_all('a'):
         format = a.text
         url = f'{link}/{format.lower()}'
-        info.add(Info(series.key, url, NAME, NAME, title, index, format, isbn, date))
-        isbn = ''
+        i = isbn if a.get('data-tab-state') == 'on' else ''
+        info.add(Info(series.key, url, NAME, NAME, title, index, format, i, date))
     return series, info, date
 
 
