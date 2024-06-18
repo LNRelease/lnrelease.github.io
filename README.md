@@ -157,7 +157,6 @@
 |Aug 01|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Aug 01|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 06|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
-|Aug 06|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Aug 06|[The Apothecary Diaries](https://legacy.rightstufanime.com/The-Apothecary-Diaries-Novel-Volume-2 "Square Enix Books")|2|Square Enix Books|📖|
 |Aug 07|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 09|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -169,6 +168,7 @@
 |Aug 12|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Aug 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-21 "J-Novel Club")|21-22|J-Novel Club|📖|
 |Aug 13|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Aug 13|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Aug 13|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Aug 13|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Aug 13|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
@@ -196,7 +196,6 @@
 |Aug 20|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9781975393403-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-19-light-novel "Yen Press")|19|Yen Press|🖥️📖|
 |Aug 20|[King's Proposal](https://yenpress.com/titles/9781975393243-king-s-proposal-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 20|[Magical Girl Raising Project](https://yenpress.com/titles/9781975398279-magical-girl-raising-project-vol-18-light-novel "Yen Press")|18|Yen Press|🖥️📖|
-|Aug 20|[Mushoku Tensei: Jobless Reincarnation – A Journey of Two Lifetimes](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-a-journey-of-two-lifetimes-special-book/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 20|[My First Love's Kiss](https://yenpress.com/titles/9781975389468-my-first-love-s-kiss-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 20|[My Happy Marriage](https://yenpress.com/titles/9781975391560-my-happy-marriage-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Aug 20|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368340-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-5-light-novel "Yen Press")|5|Yen Press|📖|
@@ -235,7 +234,9 @@
 |Sep 02|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-25 "J-Novel Club")|25|J-Novel Club|🖥️|
 |Sep 02|[Dagashi-ya Yahagi: Setting Up a Sweets Shop in Another World](https://j-novel.club/series/dagashi-ya-yahagi-setting-up-a-sweets-shop-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 03|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Sep 03|[Mushoku Tensei: Jobless Reincarnation – A Journey of Two Lifetimes](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-a-journey-of-two-lifetimes-special-book/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 03|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-25 "J-Novel Club")|25|J-Novel Club|🖥️|
+|Sep 04|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-33 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Sep 04|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Sep 06|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-8 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Sep 09|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-26 "J-Novel Club")|5|J-Novel Club|📖|
@@ -274,6 +275,7 @@
 |Sep 17|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368692-wandering-witch-the-journey-of-elaina-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Sep 17|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975394042-wolf-parchment-new-theory-spice-wolf-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Sep 17|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Sep 19|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Sep 19|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Sep 20|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 20|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
@@ -294,7 +296,6 @@
 |Oct 03|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 07|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-20 "J-Novel Club")|20|J-Novel Club|📖|
 |Oct 07|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
-|Oct 08|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Oct 08|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Oct 08|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 10|[Lucia and the Loom: Weaving Her Way to Happiness](https://j-novel.club/series/lucia-and-the-loom-weaving-her-way-to-happiness#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -315,7 +316,6 @@
 |Oct 15|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855400878-playing-death-games-to-put-food-on-the-table-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 15|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Oct 15|[Reign of the Seven Spellblades: Side of Fire](https://yenpress.com/titles/9781975393922-reign-of-the-seven-spellblades-side-of-fire "Yen Press")|1|Yen Press|🖥️📖|
-|Oct 15|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Oct 15|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/767838/saving-80000-gold-in-another-world-for-my-retirement-6-light-novel-by-funa/9781647293659 "Kodansha")|6|Kodansha|📖|
 |Oct 15|[Secrets of the Silent Witch](https://yenpress.com/titles/9781975390440-secrets-of-the-silent-witch-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 15|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855401264-the-kept-man-of-the-princess-knight-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -334,7 +334,6 @@
 |Nov 05|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Nov 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
 |Nov 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-27 "J-Novel Club")|6|J-Novel Club|📖|
-|Nov 12|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Nov 12|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Nov 12|[The 100 Girlfriends Who Really, Really, Really, Really, Really Love You: Secret Love Story](https://sevenseasentertainment.com/books/the-100-girlfriends-who-really-really-really-really-really-love-you-secret-love-story-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 12|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
@@ -356,8 +355,10 @@
 |Dec 17|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 24|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 24|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Dec 24|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Dec 24|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Dec 31|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Dec 31|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 31|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 |Dec 31|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|📖|
 |Dec 31|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
@@ -379,6 +380,7 @@
 |Jan 14|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Jan 21|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jan 21|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
+|Jan 28|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jan 28|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767833/my-unique-skill-makes-me-op-even-at-level-1-vol-7-light-novel-by-miki-nazuna/9781647293796 "Kodansha")|7|Kodansha|📖|
 |Jan 28|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767829/my-unique-skill-makes-me-op-even-at-level-1-vol-8-light-novel-by-miki-nazuna/9781647293857 "Kodansha")|8|Kodansha|📖|
 |Jan 28|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
