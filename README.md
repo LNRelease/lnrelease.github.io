@@ -275,7 +275,6 @@
 |Sep 17|[Victoria of Many Faces](https://yenpress.com/titles/9781975390747-victoria-of-many-faces-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 17|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368692-wandering-witch-the-journey-of-elaina-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Sep 17|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975394042-wolf-parchment-new-theory-spice-wolf-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
-|Sep 17|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 19|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Sep 19|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Sep 19|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -285,6 +284,7 @@
 |Sep 24|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️📖|
 |Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745904/my-unique-skill-makes-me-op-even-at-level-1-vol-6-light-novel-by-miki-nazuna/9781647293420 "Kodansha")|6|Kodansha|📖|
 |Sep 24|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Sep 24|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 25|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Sep 27|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Sep 30|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
