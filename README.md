@@ -353,6 +353,7 @@
 |Nov 19|[Liar, Liar](https://yenpress.com/titles/9781975370671-liar-liar-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 19|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 19|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368357-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-6-light-novel "Yen Press")|6|Yen Press|📖|
+|Nov 19|[Festival of Heresies](https://yenpress.com/titles/9781975399887-festival-of-heresies "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 19|[Phantom Thief Red](https://yenpress.com/titles/9781975378165-phantom-thief-red-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 19|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377946-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-4-light-novel "Yen Press")|4|Yen Press|📖|
 |Nov 19|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378448-re-starting-life-in-another-world-vol-26-light-novel "Yen Press")|26|Yen Press|🖥️📖|
