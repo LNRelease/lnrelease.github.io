@@ -30,6 +30,7 @@
 |Jun 14|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jun 14|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jun 14|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Jun 15|[So You Want to Live the Slow Life? A Guide to Life in the Beastly Wilds](https://crossinfworld.com/So-You-Want-to-Live-the-Slow-Life-A-Guide-to-Life-in-the-Beastly-Wilds.html "Cross Infinite World")|1|Cross Infinite World|📖|
 |Jun 17|[D-Genesis](https://j-novel.club/series/d-genesis#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 18|[Babel](https://yenpress.com/titles/9781975375034-babel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 18|[Black Summoner](https://yenpress.com/titles/9781975392215-black-summoner-vol-2-light-novel "Yen Press")|2|Yen Press|📖|
@@ -226,6 +227,7 @@
 |Aug 29|[The Blessing of Liefe: Leave This Magical Letdown Alone!](https://j-novel.club/series/the-blessing-of-liefe-leave-this-magical-letdown-alone#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-8 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Aug 31|[By a Twist of Fate, I'm Attending the Royal Academy in Disguise](https://crossinfworld.com/By-a-Twist-of-Fate-Im-Attending-the-Royal-Academy-in-Disguise-Vol-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
+|Aug 31|[So You Want to Live the Slow Life? A Guide to Life in the Beastly Wilds](https://crossinfworld.com/So-You-Want-to-Live-the-Slow-Life-A-Guide-to-Life-in-the-Beastly-Wilds-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 |Aug 31|[Too Strong to Belong! Banished to Another World!](https://crossinfworld.com/Too-Strong-to-Belong-Banished-to-Another-World.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
 ### September
@@ -289,7 +291,9 @@
 |Sep 25|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Sep 25|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-47 "J-Novel Club")|45|J-Novel Club|🖥️|
 |Sep 26|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Sep 27|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Sep 27|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Sep 27|[Sword Saint Adel's Second Chance](https://j-novel.club/series/sword-saint-adel-s-second-chance#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Sep 30|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 
 ### October
@@ -350,6 +354,7 @@
 |Nov 19|[Days with My Stepsister](https://yenpress.com/titles/9781975372095-days-with-my-stepsister-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 19|[Hell Mode](https://yenpress.com/titles/9781975368548-hell-mode-vol-6 "Yen Press")|6|Yen Press|📖|
 |Nov 19|[Horror Collector](https://yenpress.com/titles/9781975378301-horror-collector-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Nov 19|[In a World of Lies, I Fell into an Unforgettable Love](https://yenpress.com/titles/9798855400373-in-a-world-of-lies-i-fell-into-an-unforgettable-love "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 19|[Ishura](https://yenpress.com/titles/9798855408317-ishura-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Nov 19|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975361938-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Nov 19|[Liar, Liar](https://yenpress.com/titles/9781975370671-liar-liar-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
