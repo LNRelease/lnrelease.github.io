@@ -15,6 +15,7 @@ PAGES = Path('book_walker.csv')
 
 PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
+    'Denshobato': '',
     'Impress Corporation': 'Impress Corporation',
     'J-Novel Club': 'J-Novel Club',
     'Kodansha': 'Kodansha',
