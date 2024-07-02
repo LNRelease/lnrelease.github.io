@@ -309,6 +309,7 @@
 |Oct 07|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
 |Oct 08|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Oct 08|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Oct 09|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 10|[Lucia and the Loom: Weaving Her Way to Happiness](https://j-novel.club/series/lucia-and-the-loom-weaving-her-way-to-happiness#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Oct 14|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Oct 15|[Babel](https://yenpress.com/titles/9781975375058-babel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
