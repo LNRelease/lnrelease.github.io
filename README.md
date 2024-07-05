@@ -84,6 +84,7 @@
 |Jul 01|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 01|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Jul 02|[Raven of the Inner Palace](https://sevenseasentertainment.com/books/raven-of-the-inner-palace-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
+|Jul 03|[Making Jam in the Woods: My Relaxing Life Starts in Another World](https://crossinfworld.com/Making-Jam-in-the-Woods-My-Relaxing-Life-Starts-in-Another-World-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|📖|
 |Jul 04|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️|
 |Jul 04|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️|
 |Jul 04|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
@@ -261,21 +262,17 @@
 |Sep 17|[An Autumn in Amber, a Zero-Second Journey](https://sevenseasentertainment.com/books/an-autumn-in-amber-a-zero-second-journey-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Sep 17|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpress.com/titles/9781975391225-apparently-disillusioned-adventurers-will-save-the-world-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Sep 17|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975393441-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
-|Sep 17|[Brunhild the Dragon Princess](https://yenpress.com/titles/9781975394844-brunhild-the-dragon-princess "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 17|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9781975360290-chitose-is-in-the-ramune-bottle-vol-6-5 "Yen Press")|6.5|Yen Press|🖥️📖|
 |Sep 17|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9781975392413-even-a-replica-can-fall-in-love-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 17|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 17|[Gods' Games We Play](https://yenpress.com/titles/9781975394820-gods-games-we-play-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 17|[Hero Syndrome](https://yenpress.com/titles/9781975390846-hero-syndrome-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 17|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975378349-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
-|Sep 17|[Magical Explorer](https://yenpress.com/titles/9781975391584-magical-explorer-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Sep 17|[Online!](https://yenpress.com/titles/9781975388997-online-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 17|[Spy Classroom](https://yenpress.com/titles/9781975367510-spy-classroom-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Sep 17|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975379865-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
-|Sep 17|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345228-the-irregular-at-magic-high-school-vol-23-light-novel "Yen Press")|23|Yen Press|🖥️📖|
 |Sep 17|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Sep 17|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975398781-the-princess-of-convenient-plot-devices-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
-|Sep 17|[Victoria of Many Faces](https://yenpress.com/titles/9781975390747-victoria-of-many-faces-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 17|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368692-wandering-witch-the-journey-of-elaina-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Sep 17|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9781975394042-wolf-parchment-new-theory-spice-wolf-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Sep 19|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
@@ -284,10 +281,13 @@
 |Sep 20|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Sep 20|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 20|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Sep 24|[Brunhild the Dragon Princess](https://yenpress.com/titles/9781975394844-brunhild-the-dragon-princess "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 24|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️📖|
+|Sep 24|[Magical Explorer](https://yenpress.com/titles/9781975391584-magical-explorer-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745904/my-unique-skill-makes-me-op-even-at-level-1-vol-6-light-novel-by-miki-nazuna/9781647293420 "Kodansha")|6|Kodansha|📖|
+|Sep 24|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345228-the-irregular-at-magic-high-school-vol-23-light-novel "Yen Press")|23|Yen Press|🖥️📖|
 |Sep 24|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
-|Sep 24|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Sep 24|[Victoria of Many Faces](https://yenpress.com/titles/9781975390747-victoria-of-many-faces-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 25|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Sep 25|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-47 "J-Novel Club")|45|J-Novel Club|🖥️|
 |Sep 26|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
@@ -295,6 +295,7 @@
 |Sep 27|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Sep 27|[Sword Saint Adel's Second Chance](https://j-novel.club/series/sword-saint-adel-s-second-chance#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Sep 30|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
+|Sep 30|[The Dragon's Soulmate is a Mushroom Princess!](https://crossinfworld.com/The-Dragons-Soulmate-is-a-Mushroom-Princess-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 
 ### October
 
@@ -305,6 +306,7 @@
 |Oct 01|[I'm in Love with the Villainess: She's so Cheeky for a Commoner](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-shes-so-cheeky-for-a-commoner-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Oct 01|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Oct 01|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Oct 01|[You Can Have My Back](https://yenpress.com/titles/9781975363970-you-can-have-my-back-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 03|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 07|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-20 "J-Novel Club")|20|J-Novel Club|📖|
 |Oct 07|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
