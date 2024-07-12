@@ -286,6 +286,7 @@
 |:---:|---|:---:|---|:---:|
 |Nov 05|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Nov 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
+|Nov 08|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-27 "J-Novel Club")|6|J-Novel Club|📖|
 |Nov 12|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Nov 12|[The 100 Girlfriends Who Really, Really, Really, Really, Really Love You: Secret Love Story](https://sevenseasentertainment.com/books/the-100-girlfriends-who-really-really-really-really-really-love-you-secret-love-story-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
