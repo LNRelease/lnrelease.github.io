@@ -326,6 +326,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Dec 03|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 09|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
 |Dec 09|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
 |Dec 10|[86--EIGHTY-SIX](https://yenpress.com/titles/9798855408294-86-eighty-six-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
@@ -352,6 +353,7 @@
 |Dec 10|[The Saga of Tanya the Evil](https://yenpress.com/titles/9798855402872-the-saga-of-tanya-the-evil-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Dec 17|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 17|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Dec 17|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 24|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 24|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 24|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
