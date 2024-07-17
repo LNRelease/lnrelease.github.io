@@ -267,6 +267,7 @@
 |Oct 15|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/767838/saving-80000-gold-in-another-world-for-my-retirement-6-light-novel-by-funa/9781647293659 "Kodansha")|6|Kodansha|📖|
 |Oct 15|[Secrets of the Silent Witch](https://yenpress.com/titles/9781975390440-secrets-of-the-silent-witch-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 15|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855401264-the-kept-man-of-the-princess-knight-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Oct 15|[The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://j-novel.club/series/the-poison-king-now-that-i-ve-gained-ultimate-power-the-bewitching-beauties-in-my-harem-can-t-get-enough-of-me#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Oct 15|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379681-the-vexations-of-a-shut-in-vampire-princess-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Oct 15|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855400236-the-world-bows-down-before-my-flames-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 16|[Seventh](https://j-novel.club/series/seventh#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
@@ -277,14 +278,17 @@
 |Oct 22|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Oct 23|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 24|[D-Genesis](https://j-novel.club/series/d-genesis#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Oct 24|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 25|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 29|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 30|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Oct 31|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 
 ### November
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Nov 01|[The Magic in this Other World is Too Far Behind!](https://j-novel.club/series/the-magic-in-this-other-world-is-too-far-behind#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Nov 05|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Nov 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
 |Nov 06|[The Death of the Skeleton Swordsman: Dominating as a Cursed Saint](https://j-novel.club/series/the-death-of-the-skeleton-swordsman-dominating-as-a-cursed-saint#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -339,6 +343,7 @@
 |Dec 10|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975370114-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Dec 10|[I'm the Strongest in This Zombie World, But I Can't Beat This Girl!](https://yenpress.com/titles/9781975394271-i-m-the-strongest-in-this-zombie-world-but-i-can-t-beat-this-girl-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 10|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9781975394370-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
+|Dec 10|[Monsterholic](https://yenpress.com/titles/9798855400397-monsterholic-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 10|[My First Love's Kiss](https://yenpress.com/titles/9781975389482-my-first-love-s-kiss-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 10|[My Friend's Little Sister Has It In For Me!](https://yenpress.com/titles/9781718326897-my-friend-s-little-sister-has-it-in-for-me-volume-10-light-novel "Yen Press")|10|Yen Press|📖|
 |Dec 10|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975372514-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
