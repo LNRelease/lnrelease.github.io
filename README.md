@@ -304,6 +304,7 @@
 |Oct 24|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 25|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 25|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Oct 29|[A Pale Moon Reverie](https://j-novel.club/series/a-pale-moon-reverie#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Oct 29|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 30|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 31|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
