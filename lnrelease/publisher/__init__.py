@@ -12,7 +12,7 @@ NAME = 'misc'
 
 PARSE = re.compile(r'(?P<name>.+?)(?:,|:| -)? +(?:Vol\.|[\(\[]?Volume|\(Light Novel) *(?P<volume>\d+(?:\.\d)?)[\)\]]?(?:\s*[:–\-\(].+)?')
 OMNIBUS = re.compile(r'.+(?:Vol\.|\(?Volume) *(?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)\)?')
-PART = re.compile(r'(?P<name>.+?):? (?:Volume|Vol\.) (?P<volume>\d+(?:\.5)?),? (?P<part>.+)')
+PART = re.compile(r'(?P<name>.+?)(?:\s*[:,–\-])? (?:Volume|Vol\.) (?P<volume>\d+(?:\.5)?),? (?P<part>.+)')
 NUMBER = re.compile(r'\b(?P<volume>\d+(?:\.\d)?)\b(?:: .+)?')
 SHORT = re.compile(r'\s*#?(?P<volume>\w{1,2})')
 SOURCE = re.compile(r'(?P<volume>\d+(?:\.\d)?[^\s:\)]*):? ?.*')
