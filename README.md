@@ -65,7 +65,7 @@
 |Aug 20|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375577-that-time-i-got-reincarnated-as-a-slime-vol-19-light-novel "Yen Press")|19|Yen Press|🖥️📖|
 |Aug 20|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9781975389055-the-ephemeral-scenes-of-setsuna-s-journey-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Aug 20|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975391942-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
-|Aug 20|[The Misfit of Demon King Academy,](https://yenpress.com/titles/9781975389130-the-misfit-of-demon-king-academy-vol-4-act-1-light-novel "Yen Press")|4.1|Yen Press|📖|
+|Aug 20|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975389130-the-misfit-of-demon-king-academy-vol-4-act-1-light-novel "Yen Press")|4.1|Yen Press|📖|
 |Aug 20|[Your Forma](https://yenpress.com/titles/9781975393830-your-forma-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Aug 22|[An Autumn in Amber, a Zero-Second Journey](https://sevenseasentertainment.com/books/an-autumn-in-amber-a-zero-second-journey-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Aug 22|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️|
@@ -309,7 +309,7 @@
 |Dec 10|[Sword Art Online Alternative Clover's Regret](https://yenpress.com/titles/9781975390709-sword-art-online-alternative-clover-s-regret-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 10|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9781975379766-the-angel-next-door-spoils-me-rotten-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Dec 10|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390624-the-bs-situation-of-tougetsu-umidori-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 10|[The Misfit of Demon King Academy,](https://yenpress.com/titles/9781975391041-the-misfit-of-demon-king-academy-vol-4-act-2-light-novel "Yen Press")|4.2|Yen Press|📖|
+|Dec 10|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391041-the-misfit-of-demon-king-academy-vol-4-act-2-light-novel "Yen Press")|4.2|Yen Press|📖|
 |Dec 10|[The Saga of Tanya the Evil](https://yenpress.com/titles/9798855402872-the-saga-of-tanya-the-evil-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Dec 17|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 17|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
