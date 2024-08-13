@@ -152,7 +152,7 @@
 |Sep 24|[Brunhild the Dragon Princess](https://yenpress.com/titles/9781975394844-brunhild-the-dragon-princess "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 24|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|📖|
 |Sep 24|[Magical Explorer](https://yenpress.com/titles/9781975391584-magical-explorer-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
-|Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://www.penguinrandomhouse.com/books/745904/my-unique-skill-makes-me-op-even-at-level-1-vol-6-light-novel-by-miki-nazuna/9781647293420 "Kodansha")|6|Kodansha|📖|
+|Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-novel-6 "Kodansha")|6|Kodansha|🖥️📖|
 |Sep 24|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345228-the-irregular-at-magic-high-school-vol-23-light-novel "Yen Press")|23|Yen Press|🖥️📖|
 |Sep 24|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Sep 24|[Victoria of Many Faces](https://yenpress.com/titles/9781975390747-victoria-of-many-faces-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
@@ -226,6 +226,7 @@
 |Oct 29|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 29|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855400236-the-world-bows-down-before-my-flames-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 30|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Oct 31|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 31|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 31|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 
@@ -285,6 +286,8 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Dec 02|[The Blessing of Liefe: Leave This Magical Letdown Alone!](https://j-novel.club/series/the-blessing-of-liefe-leave-this-magical-letdown-alone#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Dec 04|[My Daughter Left the Nest and Returned an S-Rank Adventurer Short Story Collection](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-12 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Dec 06|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Dec 09|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
 |Dec 09|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
@@ -315,6 +318,7 @@
 |Dec 17|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 17|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 17|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Dec 18|[Hell Mode](https://j-novel.club/series/hell-mode#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Dec 24|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 24|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 24|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
