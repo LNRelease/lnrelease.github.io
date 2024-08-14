@@ -215,7 +215,6 @@
 |Oct 24|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 25|[Enough with This Slow Life! I Was Reincarnated as a High Elf and Now I'm Bored](https://j-novel.club/series/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-i-m-bored#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 25|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Oct 29|[A Pale Moon Reverie](https://j-novel.club/series/a-pale-moon-reverie#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Oct 29|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9781975334031-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Oct 29|[In My Seventh Life, I Met a Monster Princess](https://yenpress.com/titles/9781975397951-in-my-seventh-life-i-met-a-monster-princess "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 29|[Kusunoki's Garden of Gods](https://yenpress.com/titles/9781975390785-kusunoki-s-garden-of-gods-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
@@ -225,6 +224,7 @@
 |Oct 29|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379681-the-vexations-of-a-shut-in-vampire-princess-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Oct 29|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 29|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855400236-the-world-bows-down-before-my-flames-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Oct 30|[A Pale Moon Reverie](https://j-novel.club/series/a-pale-moon-reverie#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Oct 30|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 31|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 31|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
@@ -324,6 +324,7 @@
 |Dec 24|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Dec 31|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 31|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Dec 31|[The Death Mage](https://legacy.rightstufanime.com/The-Death-Mage-Novel-Volume-5 "One Peace Books")|5|One Peace Books|📖|
 |Dec 31|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 
 
@@ -341,8 +342,23 @@
 |Jan 13|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
 |Jan 14|[I Abandoned My Engagement Because My Sister is a Tragic Heroine, but Somehow I Became Entangled with a Righteous Prince](https://sevenseasentertainment.com/books/i-abandoned-my-engagement-because-my-sister-is-a-tragic-heroine-but-somehow-i-became-entangled-with-a-righteous-prince-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 14|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Jan 21|[Blade & Bastard](https://yenpress.com/titles/9798855405736-blade-bastard-vol-3-light-novel "Yen Press")|3|Yen Press|📖|
+|Jan 21|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855401202-even-a-replica-can-fall-in-love-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 21|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
+|Jan 21|[Gods' Games We Play](https://yenpress.com/titles/9798855400571-gods-games-we-play-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+|Jan 21|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975379407-hell-is-dark-with-no-flowers-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Jan 21|[Hero Syndrome](https://yenpress.com/titles/9798855407631-hero-syndrome-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Jan 21|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9798855402056-if-the-villainess-and-villain-met-and-fell-in-love-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Jan 21|[Love Unseen Beneath the Clear Night Sky](https://yenpress.com/titles/9798855400717-love-unseen-beneath-the-clear-night-sky "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 21|[Lycoris Recoil: Ordinary Days](https://yenpress.com/titles/9781975393502-lycoris-recoil-ordinary-days "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 21|[My Happy Marriage](https://yenpress.com/titles/9798855411102-my-happy-marriage-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Jan 21|[Online!](https://yenpress.com/titles/9781975389017-online-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Jan 21|[Sabikui Bisco](https://yenpress.com/titles/9781975398927-sabikui-bisco-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|Jan 21|[Sasaki and Peeps](https://yenpress.com/titles/9798855408416-sasaki-and-peeps-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Jan 21|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
+|Jan 21|[Solo Leveling Collector's Omnibus](https://yenpress.com/titles/9798855414615-solo-leveling-collector-s-omnibus-novel "Yen Press")|1|Yen Press|📖|
+|Jan 21|[The Eminence in Shadow](https://yenpress.com/titles/9798855406986-the-eminence-in-shadow-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
+|Jan 21|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345242-the-irregular-at-magic-high-school-vol-24-light-novel "Yen Press")|24|Yen Press|🖥️📖|
 |Jan 28|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jan 28|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Jan 28|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767833/my-unique-skill-makes-me-op-even-at-level-1-vol-7-light-novel-by-miki-nazuna/9781647293796 "Kodansha")|7|Kodansha|📖|
