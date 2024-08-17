@@ -283,6 +283,7 @@
 |Nov 21|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Nov 22|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Nov 27|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Nov 30|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 
 ### December
@@ -343,6 +344,7 @@
 |Jan 07|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Jan 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-28 "J-Novel Club")|7|J-Novel Club|📖|
 |Jan 13|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
+|Jan 13|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 13|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
 |Jan 14|[I Abandoned My Engagement Because My Sister is a Tragic Heroine, but Somehow I Became Entangled with a Righteous Prince](https://sevenseasentertainment.com/books/i-abandoned-my-engagement-because-my-sister-is-a-tragic-heroine-but-somehow-i-became-entangled-with-a-righteous-prince-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 14|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
