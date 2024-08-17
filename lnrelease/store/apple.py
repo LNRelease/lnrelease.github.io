@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 from session import Session
 
 NAME = 'Apple'
+SALT = hash(NAME)
 
 PATH = re.compile(r'/(?P<country>\w+)/(?P<format>book|audiobook)/(?:[\w-]+/)?(?P<id>id\d{10})')
 
@@ -22,7 +23,7 @@ def equal(a: str, b: str) -> bool:
 
 
 def hash_link(link: str) -> int:
-    return hash(PATH.fullmatch(urlparse(link).path).group('id'))
+    return SALT + hash(PATH.fullmatch(urlparse(link).path).group('id'))
 
 
 def normalise(session: Session, link: str) -> str | None:

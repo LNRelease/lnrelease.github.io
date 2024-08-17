@@ -6,6 +6,7 @@ from urllib.parse import urlparse, urlunparse
 from session import Session
 
 NAME = 'BOOK☆WALKER'
+SALT = hash(NAME)
 
 PATH = re.compile(r'(?P<path>/[a-f\d]{10}-[a-f\d]{4}-[a-f\d]{4}-[a-f\d]{4}-[a-f\d]{12})(?:/.*)?')
 
@@ -18,7 +19,7 @@ def equal(a: str, b: str) -> bool:
 
 
 def hash_link(link: str) -> int:
-    return hash(PATH.fullmatch(urlparse(link).path).group('path'))
+    return SALT + hash(PATH.fullmatch(urlparse(link).path).group('path'))
 
 
 def normalise(session: Session, link: str) -> str | None:

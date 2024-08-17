@@ -8,7 +8,7 @@ import utils
 from session import Session
 
 from . import (_default, amazon, apple, audible, barnes_noble, book_walker,
-               google, prh, right_stuf, viz, yen_press)
+               crunchyroll, google, prh, viz, yen_press)
 
 STORES = {
     'books.apple.com': apple,
@@ -25,8 +25,7 @@ PROCESSED = {
     'kodansha.us': _default,
     'www.penguinrandomhouse.com': prh,
     'j-novel.club': _default,
-    'legacy.rightstufanime.com': right_stuf,
-    'www.rightstufanime.com': right_stuf,
+    'store.crunchyroll.com': crunchyroll,
     'sevenseasentertainment.com': _default,
     'www.viz.com': viz,
     'yenpress.com': yen_press,
@@ -36,7 +35,6 @@ IGNORE = {
     'www.bookdepository.com',
     'www.booksamillion.com',
     'bookshop.org',
-    'store.crunchyroll.com',
     'books.google.com',
     'gum.co',
     'gumroad.com',
@@ -46,6 +44,8 @@ IGNORE = {
     'kobo.com',
     'store.kobobooks.com',
     'www.powells.com',
+    'legacy.rightstufanime.com',
+    'www.rightstufanime.com',
     'www.walmart.com',
 }
 
@@ -68,13 +68,14 @@ def equal(a: str, b: str) -> bool:
 
     neta = urlparse(a).netloc
     netb = urlparse(b).netloc
-    if ((store := get_store(neta))
-            and store is get_store(netb)):
+    if store := get_store(neta):
+        if store is not get_store(netb):
+            return False
         try:
             return store.equal(a, b)
         except Exception as e:
             warnings.warn(f'{a}, {b} equal error: {e}', RuntimeWarning)
-    elif neta not in IGNORE or netb not in IGNORE:
+    elif neta not in IGNORE:
         warnings.warn(f'equal on unknown urls: {a}, {b}', RuntimeWarning)
     return False
 

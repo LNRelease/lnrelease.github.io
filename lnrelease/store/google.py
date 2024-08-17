@@ -10,6 +10,7 @@ import utils
 from bs4 import BeautifulSoup
 
 NAME = 'Google'
+SALT = hash(NAME)
 
 PATH = re.compile(r'/store/(?P<format>books|audiobooks)/details(?:/.*)?')
 SCRIPT = re.compile(r'"Published on"')
@@ -23,7 +24,7 @@ def equal(a: str, b: str) -> bool:
 
 
 def hash_link(link: str) -> int:
-    return hash(next((v for k, v in parse_qsl(urlparse(link).query) if k == 'id'), ''))
+    return SALT + hash(next((v for k, v in parse_qsl(urlparse(link).query) if k == 'id'), ''))
 
 
 def normalise(session: Session, link: str) -> str | None:

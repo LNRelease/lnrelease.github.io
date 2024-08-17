@@ -6,6 +6,7 @@ from urllib.parse import urlparse, urlunparse
 from session import Session
 
 NAME = 'Yen Press'
+SALT = hash(NAME)
 
 PATH = re.compile(r'/titles/(?P<isbn>\d{13})-(?P<name>[\w-]+)')
 
@@ -18,7 +19,7 @@ def equal(a: str, b: str) -> bool:
 
 
 def hash_link(link: str) -> int:
-    return hash(PATH.fullmatch(urlparse(link).path).group('isbn'))
+    return SALT + hash(PATH.fullmatch(urlparse(link).path).group('isbn'))
 
 
 def normalise(session: Session, link: str) -> str | None:

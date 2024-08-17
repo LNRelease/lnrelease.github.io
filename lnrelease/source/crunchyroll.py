@@ -6,7 +6,7 @@ from urllib.parse import urlencode, urljoin
 from session import Session
 from utils import FORMATS, Info, Series
 
-NAME = 'Right Stuf'
+NAME = 'Crunchyroll'
 
 
 ISBN = re.compile(r'\d{13}')
@@ -14,6 +14,8 @@ NOVEL = re.compile(r'(?<!\bThe) Novel\b')
 FORMAT = re.compile(rf'(?P<title>.+) \((?P<format>{"|".join(FORMATS)})\)')
 OMNIBUS = re.compile(r'(?:contains|collects)(?: novel)? volumes (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)')
 START = re.compile(r'(?P<start>.+?)(?: Omnibus\b| Collector\'s Edition\b| Volume\b)+(?: \d+)?')
+SPACE = re.compile(r'[\s\-]+')
+NONWORD = re.compile(r'[^\w\s\-]')
 
 PUBLISHERS = {
     'ACONYTE': '',
@@ -27,6 +29,7 @@ PUBLISHERS = {
     'DELACORTE BOOKS FOR YOUNG READERS': '',
     'DIGITAL MANGA PUBLISHING': 'Digital Manga Publishing',
     'EREWHON BOOKS': '',
+    'INKLORE': '',
     'J-NOVEL CLUB': 'J-Novel Club',
     'JNC': 'J-Novel Club',
     'J-NOVEL HEART': 'J-Novel Club',
@@ -66,14 +69,17 @@ def get_publisher(pub: str) -> str:
 
 def parse(jsn: dict) -> tuple[Series, Info] | None:
     series_title = jsn['custitem_rs_series']
-    link = urljoin('https://legacy.rightstufanime.com/', jsn['urlcomponent'])
 
     publisher = get_publisher(jsn['custitem_rs_publisher'])
     isbn = jsn['itemid']
     if not publisher or not ISBN.fullmatch(isbn):
         return None
+    # guess link
+    path = SPACE.sub('-', NONWORD.sub('', jsn["displayname"]))
+    path = f'{path.lower()}-{isbn}.html'
+    link = urljoin('https://store.crunchyroll.com/products/', path)
 
-    title = NOVEL.sub('', jsn['storedisplayname2'])
+    title = NOVEL.sub('', jsn['displayname'])
     format = 'Paperback'
     if match := FORMAT.fullmatch(title):  # extract format if present
         title = match.group('title')

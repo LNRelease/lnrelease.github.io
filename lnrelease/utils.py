@@ -32,7 +32,7 @@ PRIMARY = (
 SECONDARY = (
     'BOOK☆WALKER',
     'Penguin Random House',
-    'Right Stuf',
+    'Crunchyroll',
     'Apple',
     'Barnes & Noble',
     'Google',

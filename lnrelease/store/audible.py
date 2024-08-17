@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 from session import Session
 
 NAME = 'Audible'
+SALT = hash(NAME)
 
 PATH = re.compile(r'/pd/(?P<name>[^/]+)/(?P<asin>\w{10})(?:/.*)?')
 BOOK = re.compile(r',?\s*(?:Book|Titel) (?P<index>\d+)\s*')
@@ -31,7 +32,7 @@ def hash_link(link: str) -> int:
     u = urlparse(link)
     netloc = u.netloc.removeprefix('www.')
     asin = PATH.fullmatch(u.path).group('asin')
-    return hash(netloc + asin)
+    return SALT + hash(netloc + asin)
 
 
 def normalise(session: Session, link: str) -> str | None:

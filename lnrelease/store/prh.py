@@ -6,6 +6,7 @@ from urllib.parse import urlparse, urlunparse
 from session import Session
 
 NAME = 'Penguin Random House'
+SALT = hash(NAME)
 
 PATH = re.compile(r'/books/(?P<id>\d+)/(?P<name>[\w-]+)/(?P<isbn>\d{13})')
 
@@ -18,7 +19,7 @@ def equal(a: str, b: str) -> bool:
 
 
 def hash_link(link: str) -> int:
-    return hash(PATH.fullmatch(urlparse(link).path).group('isbn'))
+    return SALT + hash(PATH.fullmatch(urlparse(link).path).group('isbn'))
 
 
 def normalise(session: Session, link: str) -> str | None:

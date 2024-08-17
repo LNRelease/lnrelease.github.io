@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 from session import CHROME, Session
 
 NAME = 'Kobo'
+SALT = hash(NAME)
 
 PATH = re.compile(r'(?:/\w+/\w+)?/(?P<format>ebook|audiobook)/(?P<name>[^/]+)(?:/.*)?')
 INDEX = re.compile(r'Book (?P<index>\d+) - ')
@@ -25,7 +26,7 @@ def equal(a: str, b: str) -> bool:
 
 def hash_link(link: str) -> int:
     match = PATH.fullmatch(urlparse(link).path)
-    return hash(match.group('format') + match.group('name'))
+    return SALT + hash(match.group('format') + match.group('name'))
 
 
 def normalise(session: Session, link: str) -> str | None:

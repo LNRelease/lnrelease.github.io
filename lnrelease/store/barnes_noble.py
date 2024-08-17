@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from session import CHROME, Session
 
 NAME = 'Barnes & Noble'
+SALT = hash(NAME)
 
 PATH = re.compile(r'/w/(?P<name>[\w-]+)/(?P<id>\d+)')
 PUBLISHER = re.compile(r'^\s*Publisher:\s*(?P<name>.+)$')
@@ -35,7 +36,7 @@ def hash_link(link: str) -> int:
     u = urlparse(link)
     ean = next((v for k, v in parse_qsl(u.query) if k == 'ean'), '')
     match = PATH.fullmatch(u.path)
-    return hash(ean or match.group('id'))
+    return SALT + hash(ean or match.group('id'))
 
 
 def normalise(session: Session, link: str) -> str | None:

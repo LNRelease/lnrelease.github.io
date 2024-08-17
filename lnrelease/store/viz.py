@@ -6,6 +6,7 @@ from urllib.parse import urlparse, urlunparse
 from session import Session
 
 NAME = 'VIZ Media'
+SALT = hash(NAME)
 
 PATH = re.compile(r'/read/novel/(?P<name>[\w-]+)/product/(?P<id>\d+)/(?P<format>\w+)')
 
@@ -20,7 +21,7 @@ def equal(a: str, b: str) -> bool:
 
 def hash_link(link: str) -> int:
     match = PATH.fullmatch(urlparse(link).path)
-    return hash(match.group('id') + match.group('format'))
+    return SALT + hash(match.group('id') + match.group('format'))
 
 
 def normalise(session: Session, link: str) -> str | None:

@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 from session import REQUEST_STATS, Session
 
 NAME = 'Amazon'
+SALT = hash(NAME)
 
 PATH = re.compile(r'(?:/.+)?/(?:dp/(?:product/)?|gp/.+/)(?P<asin>\w{10})(?:/.*)?')
 ISBN_13 = re.compile(r'ISBN-13')
@@ -47,7 +48,7 @@ def equal(a: str, b: str) -> bool:
 
 
 def hash_link(link: str) -> int:
-    return hash(PATH.fullmatch(urlparse(link).path).group('asin'))
+    return SALT + hash(PATH.fullmatch(urlparse(link).path).group('asin'))
 
 
 def normalise(session: Session, link: str) -> str | None:
