@@ -43,10 +43,10 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
         title = a.text
         date = release.find('b', string='Release Date')
         date = date.next_sibling.strip(' \t\n\r\v\f:')
-        physical_date = datetime.datetime.strptime(date, '%Y/%m/%d').date()
+        physical_date = datetime.datetime.strptime(date, '%Y-%m-%d').date()
         if date := release.find('b', string='Early Digital:'):
             date = date.next_sibling.strip()
-            digital_date = datetime.datetime.strptime(date, '%Y/%m/%d').date()
+            digital_date = datetime.datetime.strptime(date, '%Y-%m-%d').date()
         elif digital and header == 'VOLUMES':
             digital_date = physical_date
         else:
