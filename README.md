@@ -293,6 +293,7 @@
 |Dec 02|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-26 "J-Novel Club")|26|J-Novel Club|🖥️|
 |Dec 02|[The Blessing of Liefe: Leave This Magical Letdown Alone!](https://j-novel.club/series/the-blessing-of-liefe-leave-this-magical-letdown-alone#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 04|[My Daughter Left the Nest and Returned an S-Rank Adventurer Short Story Collection](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-12 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Dec 05|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Dec 06|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Dec 09|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
 |Dec 09|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
