@@ -11,6 +11,16 @@ NAME = 'Seven Seas Entertainment'
 PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
 NON_FORMATS = ('Manga', 'Novel')
 FORMATS = ('Light Novel', 'Reference Guide')
+DATES = (r'%Y-%m-%d', r'%B %d, %Y', r'%Y/%m/%d')
+
+
+def strpdate(s: str) -> datetime.date:
+    for d in DATES:
+        try:
+            return datetime.datetime.strptime(s, d).date()
+        except ValueError:
+            pass
+    raise ValueError(f"Invalid time data '{s}'")
 
 
 def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[Info]]:
@@ -42,11 +52,9 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
         volume_link = a.get('href')
         title = a.text
         date = release.find('b', string='Release Date')
-        date = date.next_sibling.strip(' \t\n\r\v\f:')
-        physical_date = datetime.datetime.strptime(date, '%Y-%m-%d').date()
+        physical_date = strpdate(date.next_sibling.strip(' \t\n\r\v\f:'))
         if date := release.find('b', string='Early Digital:'):
-            date = date.next_sibling.strip()
-            digital_date = datetime.datetime.strptime(date, '%Y-%m-%d').date()
+            digital_date = strpdate(date.next_sibling.strip())
         elif digital and header == 'VOLUMES':
             digital_date = physical_date
         else:
