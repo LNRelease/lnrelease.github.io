@@ -76,7 +76,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             page = session.get(url, web_cache=True)
             soup = BeautifulSoup(page.content, 'lxml')
 
-            for serie in soup.find_all(id='series'):
+            for serie in soup.find_all(class_='series'):
                 try:
                     a = serie.h3.a
                     link = a.get('href')
