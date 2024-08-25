@@ -131,7 +131,6 @@
 |Sep 17|[Mushoku Tensei: Jobless Reincarnation – A Journey of Two Lifetimes](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-a-journey-of-two-lifetimes/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 17|[Online!](https://yenpress.com/titles/9781975388997-online-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 17|[Spy Classroom](https://yenpress.com/titles/9781975367510-spy-classroom-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
-|Sep 17|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Sep 17|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9781975398781-the-princess-of-convenient-plot-devices-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Sep 18|[Lacey Longs for Freedom: The Dawn Witch's Low-Key Life after Defeating the Demon King](https://j-novel.club/series/lacey-longs-for-freedom-the-dawn-witch-s-low-key-life-after-defeating-the-demon-king#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 19|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
@@ -151,6 +150,7 @@
 |Sep 24|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-novel-6 "Kodansha")|6|Kodansha|🖥️📖|
 |Sep 24|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9781975379865-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Sep 24|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345228-the-irregular-at-magic-high-school-vol-23-light-novel "Yen Press")|23|Yen Press|🖥️📖|
+|Sep 24|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Sep 24|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Sep 24|[Victoria of Many Faces](https://yenpress.com/titles/9781975390747-victoria-of-many-faces-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 25|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
