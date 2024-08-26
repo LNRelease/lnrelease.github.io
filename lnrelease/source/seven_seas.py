@@ -1,6 +1,7 @@
 import datetime
 import re
 import warnings
+from random import random
 
 from bs4 import BeautifulSoup
 from session import Session
@@ -23,10 +24,8 @@ def strpdate(s: str) -> datetime.date:
     raise ValueError(f"Invalid time data '{s}'")
 
 
-def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[Info]]:
-    series = Series(None, series_title)
+def parse(session: Session, link: str, series: Series) -> set[Info]:
     info = set()
-
     page = session.get(link, web_cache=True)
     soup = BeautifulSoup(page.content, 'lxml')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
@@ -72,33 +71,40 @@ def parse(session: Session, link: str, series_title: str) -> tuple[Series, set[I
             info.add(Info(series.key, volume_link, NAME, NAME, title, index, format, isbn, physical_date))
         if digital_date:
             info.add(Info(series.key, volume_link, NAME, NAME, title, index, 'Digital', '', digital_date))
-    return series, info
+    return info
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
+    today = datetime.date.today()
+
     with Session() as session:
-        base = 'https://sevenseasentertainment.com/tag/light-novels/'
-        path = 'page/{}/'
-        for i in range(1, 100):
-            url = base + ('' if i == 1 else path.format(i))
+        url = 'https://sevenseasentertainment.com/tag/light-novels/'
+        while url:
             page = session.get(url, web_cache=True)
             soup = BeautifulSoup(page.content, 'lxml')
+            lst = soup.find_all(class_='series')
+            if not lst:
+                warnings.warn(f'No series found: {page.url}', RuntimeWarning)
+                break
+            url = soup.find(class_='nextpostslink')
+            url = url.get('href') if url else None
 
-            for serie in soup.find_all(class_='series'):
+            for div in lst:
                 try:
-                    a = serie.h3.a
+                    a = div.h3.a
                     link = a.get('href')
                     title = a.text
-                    serie, inf = parse(session, link, title)
-                    if inf:
+                    serie = Series(None, title)
+                    prev = {i for i in info if i.serieskey == serie.key}
+                    if random() > 0.5 and prev and (
+                            today - max(i.date for i in prev)).days > 365:
+                        continue
+
+                    if inf := parse(session, link, serie):
                         series.add(serie)
-                        info -= {i for i in info if i.serieskey == serie.key}
+                        info -= prev
                         info |= inf
                 except Exception as e:
                     warnings.warn(f'{link}: {e}', RuntimeWarning)
 
-            if (not (pages := soup.find(class_='pages'))
-                    or (match := PAGES.fullmatch(pages.text))
-                    and match.group('cur') == match.group('last')):
-                break
     return series, info
