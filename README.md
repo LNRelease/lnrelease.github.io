@@ -163,6 +163,7 @@
 |Sep 27|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Sep 27|[No One Gets Past This Gatekeeper: The Unwanted Warrior Guards His New Post](https://j-novel.club/series/no-one-gets-past-this-gatekeeper-the-unwanted-warrior-guards-his-new-post#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 27|[Sword Saint Adel's Second Chance](https://j-novel.club/series/sword-saint-adel-s-second-chance#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Sep 30|[Ayakashi and the Fairy Tales We Tell Ourselves](https://crossinfworld.com/Ayakashi-and-the-Fairy-Tales-We-Tell-Ourselves.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Sep 30|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 |Sep 30|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 |Sep 30|[The Dragon's Soulmate is a Mushroom Princess!](https://crossinfworld.com/The-Dragons-Soulmate-is-a-Mushroom-Princess-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
@@ -230,8 +231,10 @@
 |Oct 30|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 31|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 31|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
+|Oct 31|[How I Swapped Places with the Villainess, Beat Up Her Fiancé, and Found True Love](https://crossinfworld.com/How-I-Swapped-Places-with-the-Villainess-Beat-Up-Her-Fiance-and-Found-True-Love-Vol-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Oct 31|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 31|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Oct 31|[The Frugal Priestess Becomes a Saint](https://crossinfworld.com/The-Frugal-Priestess-Becomes-a-Saint.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Oct 31|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 
 ### November
@@ -288,10 +291,12 @@
 |Nov 21|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Nov 22|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Nov 22|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Nov 23|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Nov 25|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-30 "J-Novel Club")|30|J-Novel Club|🖥️|
 |Nov 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Nov 27|[Black Summoner](https://j-novel.club/series/black-summoner#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
 |Nov 27|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Nov 30|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Nov 30|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 
 ### December
@@ -379,10 +384,9 @@
 |Jan 28|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jan 28|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Jan 28|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767833/my-unique-skill-makes-me-op-even-at-level-1-vol-7-light-novel-by-miki-nazuna/9781647293796 "Kodansha")|7|Kodansha|📖|
-|Jan 28|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767829/my-unique-skill-makes-me-op-even-at-level-1-vol-8-light-novel-by-miki-nazuna/9781647293857 "Kodansha")|8|Kodansha|📖|
 |Jan 28|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Jan 28|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
-|Jan 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-9 "J-Novel Club")|6.1|J-Novel Club|🖥️|
+|Jan 29|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-9 "J-Novel Club")|6.1|J-Novel Club|🖥️|
 
 ### February
 
@@ -403,6 +407,12 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Apr 22|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
+
+### May
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|May 27|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767829/my-unique-skill-makes-me-op-even-at-level-1-vol-8-light-novel-by-miki-nazuna/9781647293857 "Kodansha")|8|Kodansha|📖|
 
 ### July
 
