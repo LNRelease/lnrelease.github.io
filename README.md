@@ -184,11 +184,9 @@
 |Oct 03|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 07|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-20 "J-Novel Club")|20|J-Novel Club|📖|
 |Oct 07|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
-|Oct 08|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975393441-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
 |Oct 08|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 08|[The Legendary Witch Is Reborn as an Oppressed Princess](https://j-novel.club/series/the-legendary-witch-is-reborn-as-an-oppressed-princess#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 08|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
-|Oct 08|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368692-wandering-witch-the-journey-of-elaina-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 08|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 09|[Young Lady Albert Is Courting Disaster](https://j-novel.club/series/young-lady-albert-is-courting-disaster-light-novel#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 10|[Lucia and the Loom: Weaving Her Way to Happiness](https://j-novel.club/series/lucia-and-the-loom-weaving-her-way-to-happiness#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -211,8 +209,10 @@
 |Oct 21|[Full Clearing Another World under a Goddess with Zero Believers](https://j-novel.club/series/full-clearing-another-world-under-a-goddess-with-zero-believers#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Oct 21|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Oct 21|[The Reincarnator and the Goblin Maiden's Happily Ever After: Using a Past Life to Keep a Joyful Wife](https://j-novel.club/series/the-reincarnator-and-the-goblin-maiden-s-happily-ever-after-using-a-past-life-to-keep-a-joyful-wife#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Oct 22|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9781975393441-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
 |Oct 22|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Oct 22|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
+|Oct 22|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368692-wandering-witch-the-journey-of-elaina-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 23|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 24|[D-Genesis](https://j-novel.club/series/d-genesis#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Oct 24|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -344,6 +344,7 @@
 |Dec 24|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Dec 31|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 31|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Dec 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 |Dec 31|[The Death Mage](https://store.crunchyroll.com/products/the-death-mage-novel-volume-5-9781642734027.html "One Peace Books")|5|One Peace Books|📖|
 |Dec 31|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 
