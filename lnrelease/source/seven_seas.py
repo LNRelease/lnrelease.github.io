@@ -12,7 +12,7 @@ NAME = 'Seven Seas Entertainment'
 PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
 NON_FORMATS = ('Manga', 'Novel')
 FORMATS = ('Light Novel', 'Reference Guide')
-DATES = (r'%Y-%m-%d', r'%B %d, %Y', r'%Y/%m/%d')
+DATES = (r'%b %d, %Y', r'%Y-%m-%d', r'%B %d, %Y', r'%Y/%m/%d')
 
 
 def strpdate(s: str) -> datetime.date:
