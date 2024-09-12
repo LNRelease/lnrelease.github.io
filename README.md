@@ -247,6 +247,8 @@
 |Dec 10|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390624-the-bs-situation-of-tougetsu-umidori-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 10|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391041-the-misfit-of-demon-king-academy-vol-4-act-2-light-novel "Yen Press")|4.2|Yen Press|📖|
 |Dec 10|[The Saga of Tanya the Evil](https://yenpress.com/titles/9798855402872-the-saga-of-tanya-the-evil-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
+|Dec 11|[Duchess in the Attic](https://j-novel.club/series/duchess-in-the-attic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Dec 12|[The Legendary Witch Is Reborn as an Oppressed Princess](https://j-novel.club/series/the-legendary-witch-is-reborn-as-an-oppressed-princess#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 16|[Lacey Longs for Freedom: The Dawn Witch's Low-Key Life after Defeating the Demon King](https://j-novel.club/series/lacey-longs-for-freedom-the-dawn-witch-s-low-key-life-after-defeating-the-demon-king#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 16|[No One Gets Past This Gatekeeper: The Unwanted Warrior Guards His New Post](https://j-novel.club/series/no-one-gets-past-this-gatekeeper-the-unwanted-warrior-guards-his-new-post#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 17|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -254,11 +256,13 @@
 |Dec 17|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 17|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 18|[Hell Mode](https://j-novel.club/series/hell-mode#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Dec 18|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me! After Story](https://j-novel.club/series/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me#volume-15 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Dec 19|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Dec 19|[The Greatest Magicmaster's Retirement Plan](https://j-novel.club/series/the-greatest-magicmaster-s-retirement-plan#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Dec 20|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
 |Dec 20|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Dec 20|[The Royal Hostage Has Vanished: The Black Wolf Knight Yearns for the Persecuted Princess](https://j-novel.club/series/the-royal-hostage-has-vanished-the-black-wolf-knight-yearns-for-the-persecuted-princess#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Dec 23|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-11 "J-Novel Club")|9.2|J-Novel Club|🖥️|
 |Dec 24|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 24|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 24|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
