@@ -264,6 +264,8 @@
 |Dec 20|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Dec 20|[The Royal Hostage Has Vanished: The Black Wolf Knight Yearns for the Persecuted Princess](https://j-novel.club/series/the-royal-hostage-has-vanished-the-black-wolf-knight-yearns-for-the-persecuted-princess#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 23|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-11 "J-Novel Club")|9.2|J-Novel Club|🖥️|
+|Dec 23|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
+|Dec 23|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 24|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 24|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 24|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
@@ -322,6 +324,7 @@
 |:---:|---|:---:|---|:---:|
 |Feb 04|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Feb 04|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Feb 11|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-ss/ "Seven Seas Entertainment")|SS|Seven Seas Entertainment|🖥️📖|
 |Feb 18|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpress.com/titles/9798855408515-apparently-disillusioned-adventurers-will-save-the-world-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Feb 18|[Babel](https://yenpress.com/titles/9781975375072-babel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Feb 18|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9798855405347-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
@@ -374,7 +377,6 @@
 |Jul 01|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Jul 08|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Jul 29|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
-|Jul 29|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
 ### September
 
@@ -393,4 +395,5 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Dec 23|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Dec 30|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
