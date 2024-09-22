@@ -49,8 +49,9 @@ def main() -> None:
             books.update(x)
 
     jnc_key: Callable[[Book], tuple] = lambda b: (b.name, b.volume, Format.from_str(b.format))
-    jnc = {jnc_key(b): b for b in books if b.publisher == 'J-Novel Club'}
-    books -= {b for b in books if b.publisher == 'Yen Press' and jnc.get(jnc_key(b))}
+    jnc = {jnc_key(b) for b in books if b.publisher == 'J-Novel Club'}
+    jnc_isbns = {b.isbn for b in books if b.publisher == 'J-Novel Club'}
+    books -= {b for b in books if b.publisher == 'Yen Press' and (jnc_key(b) in jnc or b.isbn in jnc_isbns)}
 
     books.save()
 

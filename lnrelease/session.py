@@ -161,6 +161,8 @@ class Session(requests.Session):
             warnings.warn(f'Google code 429: {url}', RuntimeWarning)
             self.skip_google = True
             return None
+        if page and b' - Google Search</title>' in page.content:
+            return None
         return page
 
     def _bing_cache(self, query: str, url: str, **kwargs) -> requests.Response | None:
