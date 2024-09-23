@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-HEADERS = {'User-Agent': 'lnrelease.github.io/1.8'}
+HEADERS = {'User-Agent': 'lnrelease.github.io/1.9'}
 CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36'}
 
 SHORTENERS = {
@@ -55,8 +55,8 @@ DELAYS = {
     'www.audible.co.jp': (10, 30),
     'www.audible.co.uk': (10, 30),
     'www.barnesandnoble.com': (10, 30),
-    'www.bing.com': (10, 30),
-    'cc.bingj.com': (10, 30),
+    'www.bing.com': (30, 40),
+    'cc.bingj.com': (30, 40),
     'global.bookwalker.jp': (1, 5),
     'crossinfworld.com': (10, 30),
     'play.google.com': (10, 30),
@@ -179,8 +179,8 @@ class Session(requests.Session):
         page = None
         for li in soup.select('ol#b_results > li.b_algo'):
             attr = li.find('div', {'u': True})
-            u = urlparse(store.normalise(self, li.a['href']))
-            if not (attr and u and norm.path == u.path
+            u = urlparse(store.normalise(self, li.a.get('href')))
+            if not (attr and norm.path == u.path
                     and module is store.get_store(u.netloc)):
                 continue
 
