@@ -33,7 +33,7 @@ def parse(session: Session, link: str, series: Series) -> set[Info]:
     index = 0
     for release in soup.find_all(class_='series-volume'):
         index += 1
-        header = release.find_previous_sibling('h3').text
+        header = release.parent.find_previous_sibling('h3').text
         if format := release.find('b', string='Format:'):
             format = format.next_sibling.strip()
             if format in NON_FORMATS:

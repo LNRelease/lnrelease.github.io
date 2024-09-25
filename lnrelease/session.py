@@ -13,7 +13,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 HEADERS = {'User-Agent': 'lnrelease.github.io/1.9'}
-CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36'}
+CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.3'}
 
 SHORTENERS = {
     'a.co',
@@ -55,8 +55,8 @@ DELAYS = {
     'www.audible.co.jp': (10, 30),
     'www.audible.co.uk': (10, 30),
     'www.barnesandnoble.com': (10, 30),
-    'www.bing.com': (30, 40),
-    'cc.bingj.com': (30, 40),
+    'www.bing.com': (10, 30),
+    'cc.bingj.com': (10, 30),
     'global.bookwalker.jp': (1, 5),
     'crossinfworld.com': (10, 30),
     'play.google.com': (10, 30),
@@ -201,6 +201,7 @@ class Session(requests.Session):
                 or self._bing_cache(netloc + end, url, **kwargs))
 
     def get_cache(self, url: str, **kwargs) -> requests.Response | None:
+        kwargs['headers'] = CHROME
         google = self.google_cache(url, **kwargs)
         if google and google.status_code == 200:
             return google
