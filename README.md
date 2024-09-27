@@ -190,7 +190,6 @@
 |Nov 19|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Nov 19|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Nov 19|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975392598-the-contract-between-a-specter-and-a-servant-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
-|Nov 19|[The Detective Is Already Dead](https://yenpress.com/titles/9798855407495-the-detective-is-already-dead-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
 |Nov 19|[The Trials of Chiyodaku](https://yenpress.com/titles/9781975392499-the-trials-of-chiyodaku-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 19|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371210-the-unimplemented-overlords-have-joined-the-party-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 19|[You Are My Regret](https://yenpress.com/titles/9781975378844-you-are-my-regret-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -205,6 +204,7 @@
 |Nov 26|[Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379926-astrea-record-vol-3-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 26|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378448-re-starting-life-in-another-world-vol-26-light-novel "Yen Press")|26|Yen Press|🖥️📖|
 |Nov 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Nov 26|[The Detective Is Already Dead](https://yenpress.com/titles/9798855407495-the-detective-is-already-dead-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
 |Nov 26|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9798855407099-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-8-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Nov 27|[Black Summoner](https://j-novel.club/series/black-summoner#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
 |Nov 27|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
