@@ -78,6 +78,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     today = datetime.date.today()
 
     with Session() as session:
+        links: dict[str, str] = {}
         url = 'https://sevenseasentertainment.com/tag/light-novels/'
         while url:
             page = session.get(url, web_cache=True)
@@ -89,22 +90,33 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             url = soup.find(class_='nextpostslink')
             url = url.get('href') if url else None
 
-            for div in lst:
-                try:
-                    a = div.h3.a
-                    link = a.get('href')
-                    title = a.text
-                    serie = Series(None, title)
-                    prev = {i for i in info if i.serieskey == serie.key}
-                    if random() > 0.5 and prev and (
-                            today - max(i.date for i in prev)).days > 365:
-                        continue
+            for a in lst:
+                link = a.get('href')
+                title = a.text
+                links.setdefault(link, title)
 
-                    if inf := parse(session, link, serie):
-                        series.add(serie)
-                        info -= prev
-                        info |= inf
-                except Exception as e:
-                    warnings.warn(f'{link}: {e}', RuntimeWarning)
+        page = session.get('https://sevenseasentertainment.com/light-novels/', web_cache=True)
+        soup = BeautifulSoup(page.content, 'lxml')
+        lst = soup.find_all(class_='series')
+        if not lst:
+            warnings.warn(f'No series found: {page.url}', RuntimeWarning)
+        for a in lst:
+            link = a.get('href')
+            title = a.text
+            links.setdefault(link, title)
 
+        for link, title in links.items():
+            try:
+                serie = Series(None, title)
+                prev = {i for i in info if i.serieskey == serie.key}
+                if random() > 0.5 and prev and (
+                        today - max(i.date for i in prev)).days > 365:
+                    continue
+
+                if inf := parse(session, link, serie):
+                    series.add(serie)
+                    info -= prev
+                    info |= inf
+            except Exception as e:
+                warnings.warn(f'{link}: {e}', RuntimeWarning)
     return series, info

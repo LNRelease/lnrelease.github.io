@@ -1,6 +1,8 @@
 import random
+import re
 import warnings
 from dataclasses import dataclass
+from datetime import datetime
 from threading import Lock
 from time import perf_counter_ns, sleep, time
 from typing import Self
@@ -21,6 +23,7 @@ SHORTENERS = {
     'apple.co',
     'bit.ly',
 }
+IA = re.compile(r'https://web\.archive\.org/web/\d{14}/(?P<url>.+)')
 
 
 @dataclass
@@ -50,6 +53,7 @@ RATE_LIMITER = Lock()
 DELAYS = {
     'www.amazon.com': (10, 30),
     'books.apple.com': (10, 30),
+    'web.archive.org': (10, 30),
     'www.audible.com': (10, 30),
     'www.audible.de': (10, 30),
     'www.audible.co.jp': (10, 30),
@@ -85,7 +89,7 @@ class Limiter:
         if not delay:
             warnings.warn(f'No delay for {self.netloc}', RuntimeWarning)
             return
-        stats = REQUEST_STATS[self.netloc]
+        stats = REQUEST_STATS.get(self.netloc, Stats())
         stats.begin()
         sleep(max(0, delay - time() + LAST_REQUEST.get(self.netloc, 0)))
         stats.mid()
@@ -113,7 +117,7 @@ class Session(requests.Session):
         super().__init__()
         self.headers.update(HEADERS)
         self.set_retry()
-        self.skip_google = False
+        self.skip_google = -2
 
     def set_retry(self, total: int = 5, backoff_factor: float = 2,
                   status_forcelist: set[int] = {429, 500, 502, 503, 504}) -> None:
@@ -151,7 +155,7 @@ class Session(requests.Session):
         return link
 
     def google_cache(self, url: str, **kwargs) -> requests.Response | None:
-        if self.skip_google:
+        if self.skip_google > 0:
             return None
 
         url = f'https://webcache.googleusercontent.com/search?q=cache:{quote(url)}'
@@ -159,9 +163,10 @@ class Session(requests.Session):
 
         if page and page.status_code == 429:
             warnings.warn(f'Google code 429: {url}', RuntimeWarning)
-            self.skip_google = True
+            self.skip_google = 1
             return None
         if page and b' - Google Search</title>' in page.content:
+            self.skip_google += 1
             return None
         return page
 
@@ -200,6 +205,11 @@ class Session(requests.Session):
         return (self._bing_cache(end, url, **kwargs)
                 or self._bing_cache(netloc + end, url, **kwargs))
 
+    def ia_cache(self, url: str, **kwargs) -> requests.Response | None:
+        now = datetime.today().strftime('%Y%m%d%H%M%S')
+        link = f'https://web.archive.org/web/{now}/{url}'
+        return self.try_get(link, retries=5, **kwargs)
+
     def get_cache(self, url: str, **kwargs) -> requests.Response | None:
         kwargs['headers'] = CHROME
         google = self.google_cache(url, **kwargs)
@@ -207,7 +217,10 @@ class Session(requests.Session):
             return google
 
         bing = self.bing_cache(url, **kwargs)
-        return bing or google
+        if bing:
+            return bing
+
+        return self.ia_cache(url, **kwargs)
 
     def try_get(self, url: str, retries: int, **kwargs) -> requests.Response | None:
         netloc = urlparse(url).netloc
@@ -220,6 +233,8 @@ class Session(requests.Session):
     def get(self, url: str, direct: bool = True, web_cache: bool = False,
             **kwargs) -> requests.Response | None:
         kwargs.setdefault('timeout', 100)
+        if match := IA.fullmatch(url):
+            url = match.group('url')
 
         page = self.try_get(url, retries=5, **kwargs) if direct else None
         if web_cache and (not page or page.status_code == 403):

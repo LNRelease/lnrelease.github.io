@@ -7,7 +7,7 @@ from urllib.parse import urlparse, urlunparse
 
 import utils
 from bs4 import BeautifulSoup
-from session import REQUEST_STATS, Session
+from session import CHROME, REQUEST_STATS, Session
 
 NAME = 'Amazon'
 SALT = hash(NAME)
@@ -103,15 +103,17 @@ def parse(session: Session, links: list[str], *,
           ) -> tuple[utils.Series, set[utils.Info]] | None:
     session.set_retry(total=2, status_forcelist={500, 502, 503, 504})
     stats = REQUEST_STATS['www.amazon.com']
-    for link in {urlparse(link)
-                 ._replace(params='', query='', fragment='')
-                 .geturl(): None for link in links[1:]}:
+    if session.skip_google <= 0:
+        for link in {urlparse(link)
+                     ._replace(params='', query='', fragment='')
+                     .geturl(): None for link in links[1:]}:
+            stats.cache += 1
+            page = session.google_cache(link, timeout=10, headers=CHROME)
+            if not page or page.status_code != 404:
+                break
+    if not page:
         stats.cache += 1
-        page = session.google_cache(link, timeout=10)
-        if page.status_code != 404:
-            break
-    else:
-        page = session.bing_cache(links[0], timeout=10)
+        page = session.bing_cache(links[0], timeout=10, headers=CHROME)
     session.set_retry()
 
     if not page:
