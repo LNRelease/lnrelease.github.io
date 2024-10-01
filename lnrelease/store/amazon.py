@@ -103,6 +103,7 @@ def parse(session: Session, links: list[str], *,
           ) -> tuple[utils.Series, set[utils.Info]] | None:
     session.set_retry(total=2, status_forcelist={500, 502, 503, 504})
     stats = REQUEST_STATS['www.amazon.com']
+    page = None
     if session.skip_google <= 0:
         for link in {urlparse(link)
                      ._replace(params='', query='', fragment='')

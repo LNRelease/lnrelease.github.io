@@ -2,7 +2,7 @@ import random
 import re
 import warnings
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timezone
 from threading import Lock
 from time import perf_counter_ns, sleep, time
 from typing import Self
@@ -23,7 +23,7 @@ SHORTENERS = {
     'apple.co',
     'bit.ly',
 }
-IA = re.compile(r'https://web\.archive\.org/web/\d{14}/(?P<url>.+)')
+IA = re.compile(r'https?://web\.archive\.org/web/(?P<time>\d{14})/(?P<url>.+)')
 
 
 @dataclass
@@ -205,22 +205,35 @@ class Session(requests.Session):
         return (self._bing_cache(end, url, **kwargs)
                 or self._bing_cache(netloc + end, url, **kwargs))
 
-    def ia_cache(self, url: str, **kwargs) -> requests.Response | None:
-        now = datetime.today().strftime('%Y%m%d%H%M%S')
-        link = f'https://web.archive.org/web/{now}/{url}'
-        return self.try_get(link, retries=5, **kwargs)
+    def ia_cache(self, url: str, ia_save: int = -1, **kwargs) -> requests.Response | None:
+        now = datetime.now(timezone.utc)
+        link = f'https://web.archive.org/web/{now.strftime("%Y%m%d%H%M%S")}/{url}'
+        page = self.try_get(link, retries=2, **kwargs)
+        if ia_save == -1:
+            return page
+        elif page.status_code != 404:
+            match = IA.fullmatch(page.url)
+            time = datetime.strptime(match.group('time') + 'Z', '%Y%m%d%H%M%S%z')
+            days = (now - time).days - ia_save
+        else:
+            days = 0xFFFF
+        if days <= 0:
+            return page
+        elif random.randrange(ia_save * 8) < days:
+            link = f'http://web.archive.org/save/{url}'
+            return self.try_get(link, retries=2, **kwargs)
+        return page
 
-    def get_cache(self, url: str, **kwargs) -> requests.Response | None:
-        kwargs['headers'] = CHROME
-        google = self.google_cache(url, **kwargs)
+    def get_cache(self, url: str, ia_save: int, **kwargs) -> requests.Response | None:
+        google = self.google_cache(url, headers=CHROME, **kwargs)
         if google and google.status_code == 200:
             return google
 
-        bing = self.bing_cache(url, **kwargs)
+        bing = self.bing_cache(url, headers=CHROME, **kwargs)
         if bing:
             return bing
 
-        return self.ia_cache(url, **kwargs)
+        return self.ia_cache(url, ia_save=ia_save, **kwargs)
 
     def try_get(self, url: str, retries: int, **kwargs) -> requests.Response | None:
         netloc = urlparse(url).netloc
@@ -231,7 +244,7 @@ class Session(requests.Session):
         return None
 
     def get(self, url: str, direct: bool = True, web_cache: bool = False,
-            **kwargs) -> requests.Response | None:
+            ia_save: int = -1, **kwargs) -> requests.Response | None:
         kwargs.setdefault('timeout', 100)
         if match := IA.fullmatch(url):
             url = match.group('url')
@@ -240,7 +253,7 @@ class Session(requests.Session):
         if web_cache and (not page or page.status_code == 403):
             REQUEST_STATS[urlparse(url).netloc].cache += 1
             self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
-            page = self.get_cache(url, **kwargs)
+            page = self.get_cache(url, ia_save=ia_save, **kwargs)
             self.set_retry()
 
         if page and page.status_code not in (200, 404):

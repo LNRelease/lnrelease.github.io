@@ -26,14 +26,14 @@ def strpdate(s: str) -> datetime.date:
 
 def parse(session: Session, link: str, series: Series) -> set[Info]:
     info = set()
-    page = session.get(link, web_cache=True)
+    page = session.get(link, web_cache=True, ia_save=7)
     soup = BeautifulSoup(page.content, 'lxml')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
     audio = False
     index = 0
     for release in soup.find_all(class_='series-volume'):
         index += 1
-        header = release.parent.find_previous_sibling('h3').text
+        header = release.find_previous('h3', class_='header').text
         if format := release.find('b', string='Format:'):
             format = format.next_sibling.strip()
             if format in NON_FORMATS:
@@ -78,10 +78,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     today = datetime.date.today()
 
     with Session() as session:
-        links: dict[str, str] = {}
         url = 'https://sevenseasentertainment.com/tag/light-novels/'
         while url:
-            page = session.get(url, web_cache=True)
+            page = session.get(url, web_cache=True, ia_save=14)
             soup = BeautifulSoup(page.content, 'lxml')
             lst = soup.find_all(class_='series')
             if not lst:
@@ -91,32 +90,20 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             url = url.get('href') if url else None
 
             for a in lst:
-                link = a.get('href')
-                title = a.text
-                links.setdefault(link, title)
+                try:
+                    link = a.get('href')
+                    title = a.text
+                    serie = Series(None, title)
+                    prev = {i for i in info if i.serieskey == serie.key}
+                    if random() > 0.5 and prev and (
+                            today - max(i.date for i in prev)).days > 365:
+                        continue
 
-        page = session.get('https://sevenseasentertainment.com/light-novels/', web_cache=True)
-        soup = BeautifulSoup(page.content, 'lxml')
-        lst = soup.find_all(class_='series')
-        if not lst:
-            warnings.warn(f'No series found: {page.url}', RuntimeWarning)
-        for a in lst:
-            link = a.get('href')
-            title = a.text
-            links.setdefault(link, title)
+                    if inf := parse(session, link, serie):
+                        series.add(serie)
+                        info -= inf
+                        info |= inf
+                except Exception as e:
+                    warnings.warn(f'{link}: {e}', RuntimeWarning)
 
-        for link, title in links.items():
-            try:
-                serie = Series(None, title)
-                prev = {i for i in info if i.serieskey == serie.key}
-                if random() > 0.5 and prev and (
-                        today - max(i.date for i in prev)).days > 365:
-                    continue
-
-                if inf := parse(session, link, serie):
-                    series.add(serie)
-                    info -= prev
-                    info |= inf
-            except Exception as e:
-                warnings.warn(f'{link}: {e}', RuntimeWarning)
     return series, info
