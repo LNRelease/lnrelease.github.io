@@ -214,6 +214,8 @@
 |Dec 26|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Dec 27|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 27|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Dec 27|[The Promise of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Dec 30|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀](https://j-novel.club/series/reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Dec 31|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 31|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
@@ -230,15 +232,16 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jan 03|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
-|Jan 06|[The Promise of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Jan 06|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jan 07|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 07|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️📖|
 |Jan 07|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
+|Jan 09|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jan 09|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jan 09|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jan 10|[Housekeeping Mage from Another World: Making Your Adventures Feel Like Home!](https://j-novel.club/series/housekeeping-mage-from-another-world-making-your-adventures-feel-like-home#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jan 10|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
+|Jan 13|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 13|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-28 "J-Novel Club")|7|J-Novel Club|📖|
 |Jan 13|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
 |Jan 13|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -265,6 +268,7 @@
 |Jan 21|[The Eminence in Shadow](https://yenpress.com/titles/9798855406986-the-eminence-in-shadow-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Jan 21|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345242-the-irregular-at-magic-high-school-vol-24-light-novel "Yen Press")|24|Yen Press|🖥️📖|
 |Jan 22|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|Jan 24|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 24|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jan 27|[The Reincarnator and the Goblin Maiden's Happily Ever After: Using a Past Life to Keep a Joyful Wife](https://j-novel.club/series/the-reincarnator-and-the-goblin-maiden-s-happily-ever-after-using-a-past-life-to-keep-a-joyful-wife#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 28|[Der Werwolf: The Annals of Veight](https://j-novel.club/series/m-rchen-der-werwolf-the-annals-of-veight#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
@@ -313,6 +317,7 @@
 |Feb 18|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 18|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 18|[Whoever Steals This Book](https://yenpress.com/titles/9798855403176-whoever-steals-this-book-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 24|[Lucia and the Loom: Weaving Her Way to Happiness](https://j-novel.club/series/lucia-and-the-loom-weaving-her-way-to-happiness#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 24|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 25|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-11-5/ "Seven Seas Entertainment")|11.5|Seven Seas Entertainment|🖥️📖|
 |Feb 25|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/778968/saving-80000-gold-in-another-world-for-my-retirement-7-light-novel-by-funa/9781647294052 "Kodansha")|7|Kodansha|📖|
