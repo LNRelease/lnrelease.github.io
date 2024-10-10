@@ -20,6 +20,7 @@
 |Oct 07|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-20 "J-Novel Club")|20|J-Novel Club|📖|
 |Oct 07|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
 |Oct 08|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Oct 08|[The Do-Over Damsel Conquers the Dragon Emperor](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|📖|
 |Oct 08|[The Legendary Witch Is Reborn as an Oppressed Princess](https://j-novel.club/series/the-legendary-witch-is-reborn-as-an-oppressed-princess#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 08|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Oct 08|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -215,6 +216,7 @@
 |Dec 27|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 27|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Dec 27|[The Promise of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Dec 30|[Jeanette the Genius: Defying My Evil Stepmother by Starting a Business with My Ride-or-Die Fiancé!](https://j-novel.club/series/jeanette-the-genius-defying-my-evil-stepmother-by-starting-a-business-with-my-ride-or-die-fianc#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 30|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀](https://j-novel.club/series/reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Dec 31|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 31|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -246,6 +248,7 @@
 |Jan 13|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
 |Jan 13|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 13|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
+|Jan 14|[Demon Lord, Retry!](https://j-novel.club/series/demon-lord-retry#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jan 14|[I Abandoned My Engagement Because My Sister is a Tragic Heroine, but Somehow I Became Entangled with a Righteous Prince](https://sevenseasentertainment.com/books/i-abandoned-my-engagement-because-my-sister-is-a-tragic-heroine-but-somehow-i-became-entangled-with-a-righteous-prince-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 17|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-9 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jan 20|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
@@ -286,6 +289,7 @@
 |Feb 04|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Feb 04|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Feb 04|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Feb 10|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 11|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-ss/ "Seven Seas Entertainment")|SS|Seven Seas Entertainment|🖥️📖|
 |Feb 11|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Feb 11|[True Love Fades Away When the Contract Ends – Music of the Flower Gardens and Heavens](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-music-of-the-flower-gardens-and-heavens-light-novel-volume-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
