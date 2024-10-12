@@ -223,7 +223,7 @@
 |Dec 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 |Dec 31|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Dec 31|[Since I Was Abandoned After Reincarnating, I Will Cook With My Fluffy Friends](https://crossinfworld.com/Since-I-Was-Abandoned-After Reincarnating-I-Will-Cook-With-My-Fluffy-Friends-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
-|Dec 31|[The Death Mage](https://store.crunchyroll.com/products/the-death-mage-novel-volume-5-9781642734027.html "One Peace Books")|5|One Peace Books|📖|
+|Dec 31|[The Death Mage](https://store.crunchyroll.com/products/the-death-mage-novel-volume-5-9781642734027.html "One Peace Books")|5|One Peace Books|🖥️📖|
 |Dec 31|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 
 
