@@ -47,9 +47,8 @@ def parse(session: Session, link: str, series: Series) -> set[Info]:
             audio = True
             index = 1
 
-        a = release.h3.a
-        volume_link = a.get('href')
-        title = a.text
+        volume_link = release.get('href')
+        title = release.h3.text
         date = release.find('b', string='Release Date')
         physical_date = strpdate(date.next_sibling.strip(' \t\n\r\v\f:'))
         if date := release.find('b', string='Early Digital:'):

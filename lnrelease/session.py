@@ -219,7 +219,7 @@ class Session(requests.Session):
             days = 0xFFFF
         if days <= 0:
             return page
-        elif random.randrange(ia_save * 8) < days:
+        elif random.randrange(ia_save * 4) < days:
             link = f'http://web.archive.org/save/{url}'
             return self.try_get(link, retries=2, **kwargs)
         return page
