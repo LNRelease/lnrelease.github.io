@@ -3,10 +3,11 @@ import re
 import warnings
 from dataclasses import dataclass
 from datetime import datetime, timezone
+from itertools import product
 from threading import Lock
 from time import perf_counter_ns, sleep, time
 from typing import Self
-from urllib.parse import quote, urljoin, urlparse
+from urllib.parse import parse_qs, quote, unquote, urljoin, urlparse
 
 import requests
 import store
@@ -23,6 +24,7 @@ SHORTENERS = {
     'apple.co',
     'bit.ly',
 }
+YAHOO = re.compile(r'/RU=(?P<url>[^/]+)/')
 IA = re.compile(r'https?://web\.archive\.org/web/(?P<time>\d{14})/(?P<url>.+)')
 
 
@@ -64,7 +66,6 @@ DELAYS = {
     'global.bookwalker.jp': (1, 5),
     'crossinfworld.com': (10, 30),
     'play.google.com': (10, 30),
-    'webcache.googleusercontent.com': (30, 40),
     'hanashi.media': (30, 600),
     'labs.j-novel.club': (10, 30),
     'api.kodansha.us': (30, 60),
@@ -72,6 +73,7 @@ DELAYS = {
     'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
     'www.viz.com': (30, 60),
+    'search.yahoo.com': (10, 30),
     'yenpress.com': (1, 3),
 }
 LAST_REQUEST: dict[str, float] = {}
@@ -117,7 +119,6 @@ class Session(requests.Session):
         super().__init__()
         self.headers.update(HEADERS)
         self.set_retry()
-        self.skip_google = -2
 
     def set_retry(self, total: int = 5, backoff_factor: float = 2,
                   status_forcelist: set[int] = {429, 500, 502, 503, 504}) -> None:
@@ -154,23 +155,30 @@ class Session(requests.Session):
             self.set_retry()
         return link
 
-    def google_cache(self, url: str, **kwargs) -> requests.Response | None:
-        if self.skip_google > 0:
+    def yahoo_search(self, query: str, url: str, **kwargs) -> list[dict[str, str]]:
+        link = f'https://search.yahoo.com/search?q={quote(query)}'
+        page = self.try_get(link, retries=5, **kwargs)
+        if not page:
             return None
 
-        url = f'https://webcache.googleusercontent.com/search?q=cache:{quote(url)}'
-        page = self.try_get(url, retries=5, **kwargs)
+        soup = BeautifulSoup(page.content, 'lxml')
+        norm = urlparse(store.normalise(self, url))
+        module = store.get_store(norm.netloc)
 
-        if page and page.status_code == 429:
-            warnings.warn(f'Google code 429: {url}', RuntimeWarning)
-            self.skip_google = 1
-            return None
-        if page and b' - Google Search</title>' in page.content:
-            self.skip_google += 1
-            return None
-        return page
+        results = []
+        for div in soup.select('ol.searchCenterMiddle > li > div.algo'):
+            title = div.select_one('div.compTitle a')
+            cache = div.select_one('div.compDlink a')
+            u = urlparse(store.normalise(self, unquote(YAHOO.search(title.get('href')))))
+            if not (cache and norm.path == u.path
+                    and module is store.get_store(u.netloc)):
+                continue
+            cache = unquote(YAHOO.search(cache.get('href')))
+            params = parse_qs(urlparse(cache).query)
+            results.append({'d': params['d'], 'w': params['w']})
+        return results
 
-    def _bing_cache(self, query: str, url: str, **kwargs) -> requests.Response | None:
+    def bing_search(self, query: str, url: str, **kwargs) -> list[dict[str, str]]:
         link = f'https://www.bing.com/search?q={quote(query)}&go=Search&qs=bs&form=QBRE'
         page = self.try_get(link, retries=5, **kwargs)
         if not page:
@@ -179,9 +187,8 @@ class Session(requests.Session):
         soup = BeautifulSoup(page.content, 'lxml')
         norm = urlparse(store.normalise(self, url))
         module = store.get_store(norm.netloc)
-        link = 'https://cc.bingj.com/cache.aspx'
 
-        page = None
+        results = []
         for li in soup.select('ol#b_results > li.b_algo'):
             attr = li.find('div', {'u': True})
             u = urlparse(store.normalise(self, li.a.get('href')))
@@ -190,20 +197,23 @@ class Session(requests.Session):
                 continue
 
             lst = attr['u'].split('|')
-            params = {'d': lst[2], 'w': lst[3]}
-
-            page = self.try_get(link, retries=5, params=params, **kwargs)
-            if (page and page.status_code == 200
-                    and not page.content.endswith(b'<!-- Apologies:End -->')):
-                break
-
-        return page
+            results.append({'q': lst[2], 'w': lst[3]})
+        return results
 
     def bing_cache(self, url: str, **kwargs) -> requests.Response | None:
         netloc = urlparse(url).netloc
         end = url.split(netloc)[-1]
-        return (self._bing_cache(end, url, **kwargs)
-                or self._bing_cache(netloc + end, url, **kwargs))
+        sources = [self.yahoo_search, self.bing_search]
+        queries = [netloc + end, end]
+        link = 'https://cc.bingj.com/cache.aspx'
+        page = None
+        for source, query in product(sources, queries):
+            for result in source(query, url, **kwargs):
+                page = self.try_get(link, retries=5, params=result, **kwargs)
+                if (page and page.status_code == 200
+                        and not page.content.endswith(b'<!-- Apologies:End -->')):
+                    return page
+        return page
 
     def ia_cache(self, url: str, ia_save: int = -1, **kwargs) -> requests.Response | None:
         now = datetime.now(timezone.utc)
@@ -225,15 +235,8 @@ class Session(requests.Session):
         return page
 
     def get_cache(self, url: str, ia_save: int, **kwargs) -> requests.Response | None:
-        google = self.google_cache(url, headers=CHROME, **kwargs)
-        if google and google.status_code == 200:
-            return google
-
-        bing = self.bing_cache(url, headers=CHROME, **kwargs)
-        if bing:
-            return bing
-
-        return self.ia_cache(url, ia_save=ia_save, **kwargs)
+        return (self.bing_cache(url, headers=CHROME, **kwargs)
+                or self.ia_cache(url, ia_save=ia_save, **kwargs))
 
     def try_get(self, url: str, retries: int, **kwargs) -> requests.Response | None:
         netloc = urlparse(url).netloc

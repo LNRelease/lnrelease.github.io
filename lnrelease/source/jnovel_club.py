@@ -17,7 +17,7 @@ def parse(session: Session, serieskey: str, slug: str) -> set[Info]:
         'skip': '0'
     }
     while True:
-        page = session.get(f'https://labs.j-novel.club/app/v1/series/{slug}/volumes', params=params)
+        page = session.get(f'https://labs.j-novel.club/app/v2/series/{slug}/volumes', params=params)
         jsn = page.json()
 
         for book in jsn['volumes']:
@@ -48,7 +48,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             'skip': '0'
         }
         while True:
-            page = session.get('https://labs.j-novel.club/app/v1/series', params=params)
+            page = session.get('https://labs.j-novel.club/app/v2/series', params=params)
             jsn = page.json()
             for serie in jsn['series']:
                 if (serie['type'] == 'NOVEL'
@@ -72,7 +72,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
 def scrape(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     # get recentish series
     with Session() as session:
-        page = session.get('https://labs.j-novel.club/app/v1/events?format=json')
+        page = session.get('https://labs.j-novel.club/app/v2/events?format=json')
         jsn = page.json()
         for event in jsn['events']:
             serie = event['serie']
