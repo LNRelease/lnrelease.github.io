@@ -166,14 +166,15 @@ class Session(requests.Session):
         module = store.get_store(norm.netloc)
 
         results = []
-        for div in soup.select('ol.searchCenterMiddle > li > div.algo'):
+        for div in soup.select('.searchCenterMiddle .algo'):
             title = div.select_one('div.compTitle a')
             cache = div.select_one('div.compDlink a')
-            u = urlparse(store.normalise(self, unquote(YAHOO.search(title.get('href')))))
+            title = unquote(YAHOO.search(title.get('href'))[0])
+            u = urlparse(store.normalise(self, title))
             if not (cache and norm.path == u.path
                     and module is store.get_store(u.netloc)):
                 continue
-            cache = unquote(YAHOO.search(cache.get('href')))
+            cache = unquote(YAHOO.search(cache.get('href'))[0])
             params = parse_qs(urlparse(cache).query)
             results.append({'d': params['d'], 'w': params['w']})
         return results
