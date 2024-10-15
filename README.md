@@ -34,7 +34,6 @@
 |Oct 15|[Demon Lord 2099](https://yenpress.com/titles/9798855403114-demon-lord-2099-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 15|[Orc Eroica](https://yenpress.com/titles/9781975393786-orc-eroica-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 15|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
-|Oct 15|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/767838/saving-80000-gold-in-another-world-for-my-retirement-6-light-novel-by-funa/9781647293659 "Kodansha")|6|Kodansha|🖥️📖|
 |Oct 15|[Secrets of the Silent Witch](https://yenpress.com/titles/9781975390440-secrets-of-the-silent-witch-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 15|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855401264-the-kept-man-of-the-princess-knight-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 16|[Seventh](https://j-novel.club/series/seventh#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
