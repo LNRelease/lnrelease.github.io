@@ -24,7 +24,7 @@ SHORTENERS = {
     'apple.co',
     'bit.ly',
 }
-YAHOO = re.compile(r'/RU=(?P<url>[^/]+)/')
+YAHOO = re.compile(r'(?<=/RU=)[^/]+(?=/)')
 IA = re.compile(r'https?://web\.archive\.org/web/(?P<time>\d{14})/(?P<url>.+)')
 
 
