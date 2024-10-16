@@ -75,7 +75,6 @@
 |Oct 31|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 31|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️|
 |Oct 31|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Oct 31|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Oct 31|[The Frugal Priestess Becomes a Saint](https://crossinfworld.com/The-Frugal-Priestess-Becomes-a-Saint.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Oct 31|[The Oblivious Saint Can't Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-forget-my-sister-turns-out-i-was-the-real-saint-all-along#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 
@@ -238,6 +237,7 @@
 |Jan 06|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jan 07|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 07|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️📖|
+|Jan 07|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 07|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Jan 09|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jan 09|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
