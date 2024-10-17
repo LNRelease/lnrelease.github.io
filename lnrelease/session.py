@@ -16,7 +16,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 HEADERS = {'User-Agent': 'lnrelease.github.io/1.9'}
-CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.3'}
+CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.3'}
 
 SHORTENERS = {
     'a.co',
@@ -167,21 +167,23 @@ class Session(requests.Session):
 
         results = []
         for div in soup.select('.searchCenterMiddle .algo'):
-            title = div.select_one('div.compTitle a')
-            cache = div.select_one('div.compDlink a')
-            title = unquote(YAHOO.search(title.get('href'))[0])
+            title = div.select_one('.compTitle a').get('href')
+            cache = div.select_one('.compDlink a').get('href')
+            if match := YAHOO.search(title):
+                title = unquote(match[0])
             u = urlparse(store.normalise(self, title))
             if not (cache and norm.path == u.path
                     and module is store.get_store(u.netloc)):
                 continue
-            cache = unquote(YAHOO.search(cache.get('href'))[0])
+            if match := YAHOO.search(cache):
+                cache = unquote(match[0])
             params = parse_qs(urlparse(cache).query)
             results.append({'d': params['d'], 'w': params['w']})
         return results
 
     def bing_search(self, query: str, url: str, **kwargs) -> list[dict[str, str]]:
         link = f'https://www.bing.com/search?q={quote(query)}&go=Search&qs=bs&form=QBRE'
-        page = self.try_get(link, retries=5, **kwargs)
+        page = self.try_get(link, retries=5, headers=CHROME, **kwargs)
         if not page:
             return None
 
@@ -236,7 +238,7 @@ class Session(requests.Session):
         return page
 
     def get_cache(self, url: str, ia_save: int, **kwargs) -> requests.Response | None:
-        return (self.bing_cache(url, headers=CHROME, **kwargs)
+        return (self.bing_cache(url, **kwargs)
                 or self.ia_cache(url, ia_save=ia_save, **kwargs))
 
     def try_get(self, url: str, retries: int, **kwargs) -> requests.Response | None:
