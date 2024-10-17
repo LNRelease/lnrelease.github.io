@@ -272,6 +272,7 @@
 |Jan 21|[The Eminence in Shadow](https://yenpress.com/titles/9798855406986-the-eminence-in-shadow-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Jan 21|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345242-the-irregular-at-magic-high-school-vol-24-light-novel "Yen Press")|24|Yen Press|🖥️📖|
 |Jan 22|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|Jan 23|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 24|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 24|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jan 27|[The Reincarnator and the Goblin Maiden's Happily Ever After: Using a Past Life to Keep a Joyful Wife](https://j-novel.club/series/the-reincarnator-and-the-goblin-maiden-s-happily-ever-after-using-a-past-life-to-keep-a-joyful-wife#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -301,7 +302,7 @@
 |Feb 18|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975391461-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Feb 18|[Kriemhild and Brunhild](https://yenpress.com/titles/9798855410822-kriemhild-and-brunhild "Yen Press")|3|Yen Press|🖥️📖|
 |Feb 18|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️📖|
-|Feb 18|[Did You Think My Yuri Was a Sales Pitch?](https://yenpress.com/titles/9781975397661-did-you-think-my-yuri-was-a-sales-pitch "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 18|[Did You Think My Yuri Was Just for Show?](https://yenpress.com/titles/9781975397661-did-you-think-my-yuri-was-just-for-show "Yen Press")|1|Yen Press|🖥️📖|
 |Feb 18|[Hell Mode](https://yenpress.com/titles/9798855405569-hell-mode-vol-7 "Yen Press")|7|Yen Press|📖|
 |Feb 18|[Hollow Regalia](https://yenpress.com/titles/9781975393946-hollow-regalia-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Feb 18|[I'll Become a Villainess Who Goes Down in History](https://yenpress.com/titles/9798855407112-i-ll-become-a-villainess-who-goes-down-in-history-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
