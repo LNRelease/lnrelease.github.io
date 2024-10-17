@@ -104,7 +104,7 @@ def parse(session: Session, links: list[str], *,
     session.set_retry(total=2, status_forcelist={500, 502, 503, 504})
     stats = REQUEST_STATS['www.amazon.com']
     stats.cache += 1
-    page = session.bing_cache(links[0], timeout=10, headers=CHROME)
+    page = session.bing_cache(links[0], timeout=10)
     session.set_retry()
 
     if not page:

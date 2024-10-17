@@ -167,14 +167,18 @@ class Session(requests.Session):
 
         results = []
         for div in soup.select('.searchCenterMiddle .algo'):
-            title = div.select_one('.compTitle a').get('href')
-            cache = div.select_one('.compDlink a').get('href')
+            title = div.select_one('.compTitle a')
+            cache = div.select_one('.compDlink a')
+            if not title or not cache:
+                continue
+            title = title.get('href')
             if match := YAHOO.search(title):
                 title = unquote(match[0])
             u = urlparse(store.normalise(self, title))
-            if not (cache and norm.path == u.path
-                    and module is store.get_store(u.netloc)):
+            if (norm.path != u.path
+                    or module is not store.get_store(u.netloc)):
                 continue
+            cache = cache.get('href')
             if match := YAHOO.search(cache):
                 cache = unquote(match[0])
             params = parse_qs(urlparse(cache).query)
@@ -183,7 +187,7 @@ class Session(requests.Session):
 
     def bing_search(self, query: str, url: str, **kwargs) -> list[dict[str, str]]:
         link = f'https://www.bing.com/search?q={quote(query)}&go=Search&qs=bs&form=QBRE'
-        page = self.try_get(link, retries=5, headers=CHROME, **kwargs)
+        page = self.try_get(link, retries=5, **kwargs)
         if not page:
             return None
 
