@@ -204,7 +204,7 @@ class Session(requests.Session):
                 continue
 
             lst = attr['u'].split('|')
-            results.append({'q': lst[2], 'w': lst[3]})
+            results.append({'d': lst[2], 'w': lst[3]})
         return results
 
     def bing_cache(self, url: str, **kwargs) -> requests.Response | None:
@@ -220,7 +220,7 @@ class Session(requests.Session):
                 if (page and page.status_code == 200
                         and not page.content.endswith(b'<!-- Apologies:End -->')):
                     return page
-        return page
+        return None
 
     def ia_cache(self, url: str, ia_save: int = -1, **kwargs) -> requests.Response | None:
         now = datetime.now(timezone.utc)
