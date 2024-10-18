@@ -85,8 +85,8 @@
 |Nov 01|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-26 "J-Novel Club")|26|J-Novel Club|🖥️|
 |Nov 01|[The Fake Hero Crashes the Party](https://j-novel.club/series/the-fake-hero-crashes-the-party#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 01|[The Magic in this Other World is Too Far Behind!](https://j-novel.club/series/the-magic-in-this-other-world-is-too-far-behind#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Nov 01|[The Ryuo's Work is Never Done!](https://global.bookwalker.jp/de4f0a88f9-ddf4-42c0-863e-1fc317bc04a4/ "SB Creative")|18|SB Creative|🖥️|
 |Nov 04|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
-|Nov 04|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Nov 05|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9781975369521-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 05|[The Apothecary Diaries](https://store.crunchyroll.com/products/the-apothecary-diaries-novel-volume-3-9781646092741.html "Square Enix Books")|3|Square Enix Books|📖|
 |Nov 05|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -105,7 +105,6 @@
 |Nov 18|[Dagashi-ya Yahagi: Setting Up a Sweets Shop in Another World](https://j-novel.club/series/dagashi-ya-yahagi-setting-up-a-sweets-shop-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 18|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 19|[Classroom for Heroes](https://yenpress.com/titles/9781975378721-classroom-for-heroes-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Nov 19|[Date A Live](https://yenpress.com/titles/9781975372378-date-a-live-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Nov 19|[Days with My Stepsister](https://yenpress.com/titles/9781975372095-days-with-my-stepsister-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 19|[Hell Mode](https://yenpress.com/titles/9781975368548-hell-mode-vol-6 "Yen Press")|6|Yen Press|📖|
 |Nov 19|[Horror Collector](https://yenpress.com/titles/9781975378301-horror-collector-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
@@ -135,6 +134,7 @@
 |Nov 25|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-30 "J-Novel Club")|30|J-Novel Club|🖥️|
 |Nov 25|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 26|[Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379926-astrea-record-vol-3-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|3|Yen Press|🖥️📖|
+|Nov 26|[Date A Live](https://yenpress.com/titles/9781975372378-date-a-live-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Nov 26|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378448-re-starting-life-in-another-world-vol-26-light-novel "Yen Press")|26|Yen Press|🖥️📖|
 |Nov 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Nov 26|[The Detective Is Already Dead](https://yenpress.com/titles/9798855407495-the-detective-is-already-dead-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
@@ -251,6 +251,8 @@
 |Jan 13|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
 |Jan 14|[Demon Lord, Retry!](https://j-novel.club/series/demon-lord-retry#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jan 14|[I Abandoned My Engagement Because My Sister is a Tragic Heroine, but Somehow I Became Entangled with a Righteous Prince](https://sevenseasentertainment.com/books/i-abandoned-my-engagement-because-my-sister-is-a-tragic-heroine-but-somehow-i-became-entangled-with-a-righteous-prince-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 15|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Jan 17|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-27 "J-Novel Club")|27|J-Novel Club|🖥️|
 |Jan 17|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-9 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jan 20|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Jan 21|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353056-associate-professor-akira-takatsuki-s-conjecture-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
