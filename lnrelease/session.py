@@ -234,11 +234,11 @@ class Session(requests.Session):
             days = (now - time).days - ia_save
         else:
             days = 0xFFFF
-        if days <= 0:
-            return page
-        elif random.randrange(ia_save * 4) < days:
+        if random.randrange(ia_save * 4) < days:
             link = f'http://web.archive.org/save/{url}'
-            return self.try_get(link, retries=2, **kwargs)
+            save = self.try_get(link, retries=2, **kwargs)
+            if save and save.status_code == 200:
+                return save
         return page
 
     def get_cache(self, url: str, ia_save: int, **kwargs) -> requests.Response | None:
@@ -249,8 +249,7 @@ class Session(requests.Session):
         netloc = urlparse(url).netloc
         for _ in range(retries):
             with limiter(netloc):
-                page = super().get(url, **kwargs)
-                return page
+                return super().get(url, **kwargs)
         return None
 
     def get(self, url: str, direct: bool = True, web_cache: bool = False,
