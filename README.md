@@ -144,6 +144,9 @@
 |Nov 27|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 30|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Nov 30|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Nov 30|[Soup Forest: The Story of the Woman Who Speaks with Animals and the Former Mercenary](https://crossinfworld.com/Soup-Forest-The-Story-of-the-Woman-Who-Speaks-with-Animals-and-the-Former-Mercenary-Vol-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
+|Nov 30|[The Former Assassin Who Got Reincarnated as a Noble Girl](https://crossinfworld.com/The-Former-Assassin-Who-Got-Reincarnated-as-a-Noble-Girl-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
+|Nov 30|[Third Loop: The Nameless Princess and the Cruel Emperor](https://crossinfworld.com/Third-Loop-The-Nameless-Princess-and-the-Cruel-Emperor-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 
 ### December
 
@@ -221,6 +224,7 @@
 |Dec 31|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 31|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
+|Dec 31|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 |Dec 31|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Dec 31|[Since I Was Abandoned After Reincarnating, I Will Cook With My Fluffy Friends](https://crossinfworld.com/Since-I-Was-Abandoned-After Reincarnating-I-Will-Cook-With-My-Fluffy-Friends-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 |Dec 31|[The Death Mage](https://store.crunchyroll.com/products/the-death-mage-novel-volume-5-9781642734027.html "One Peace Books")|5|One Peace Books|🖥️📖|
@@ -286,6 +290,7 @@
 |Jan 28|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 |Jan 28|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jan 29|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-9 "J-Novel Club")|6.1|J-Novel Club|🖥️|
+|Jan 31|[Let's Get to Villainessin': Stratagems of a Former Commoner](https://crossinfworld.com/Lets-Get-to-Villainessin-Stratagems-of-a-Former Commoner-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 
 ### February
 
