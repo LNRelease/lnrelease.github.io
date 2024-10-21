@@ -198,7 +198,8 @@ class Session(requests.Session):
         results = []
         for li in soup.select('ol#b_results > li.b_algo'):
             attr = li.find('div', {'u': True})
-            u = urlparse(store.normalise(self, li.a.get('href')))
+            href = li.find('a', class_='tilk').get('href')
+            u = urlparse(store.normalise(self, href))
             if not (attr and norm.path == u.path
                     and module is store.get_store(u.netloc)):
                 continue
