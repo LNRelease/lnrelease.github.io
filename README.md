@@ -347,6 +347,7 @@
 |Mar 04|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Mar 04|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 11|[Ascendance of a Bookworm: Part 5](https://yenpress.com/titles/9781718356290-ascendance-of-a-bookworm-part-5-volume-8-light-novel "Yen Press")|8|Yen Press|📖|
+|Mar 11|[D-Genesis](https://j-novel.club/series/d-genesis#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Mar 11|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Mar 11|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Mar 18|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388393-a-certain-magical-index-nt-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
