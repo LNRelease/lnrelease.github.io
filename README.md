@@ -94,11 +94,9 @@
 |Nov 08|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-27 "J-Novel Club")|6|J-Novel Club|📖|
 |Nov 11|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
-|Nov 12|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Nov 12|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Nov 12|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Nov 12|[The 100 Girlfriends Who Really, Really, Really, Really, Really Love You: Secret Love Story](https://sevenseasentertainment.com/books/the-100-girlfriends-who-really-really-really-really-really-love-you-secret-love-story-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
-|Nov 12|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Nov 13|[A Surprisingly Happy Engagement for the Slime Duke and the Fallen Noble Lady](https://j-novel.club/series/a-surprisingly-happy-engagement-for-the-slime-duke-and-the-fallen-noble-lady#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 13|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 15|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -112,7 +110,7 @@
 |Nov 19|[Ishura](https://yenpress.com/titles/9798855408317-ishura-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Nov 19|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975361938-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Nov 19|[Liar, Liar](https://yenpress.com/titles/9781975370671-liar-liar-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
-|Nov 19|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Nov 19|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Nov 19|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368357-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-6-light-novel "Yen Press")|6|Yen Press|📖|
 |Nov 19|[Phantom Thief Red](https://yenpress.com/titles/9781975378165-phantom-thief-red-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 19|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377946-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-4-light-novel "Yen Press")|4|Yen Press|📖|
@@ -123,6 +121,7 @@
 |Nov 19|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975392598-the-contract-between-a-specter-and-a-servant-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 19|[The Trials of Chiyodaku](https://yenpress.com/titles/9781975392499-the-trials-of-chiyodaku-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 19|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371210-the-unimplemented-overlords-have-joined-the-party-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Nov 19|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Nov 19|[You Are My Regret](https://yenpress.com/titles/9781975378844-you-are-my-regret-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 20|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Nov 21|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -135,6 +134,7 @@
 |Nov 25|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 26|[Astrea Record: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9781975379926-astrea-record-vol-3-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 26|[Date A Live](https://yenpress.com/titles/9781975372378-date-a-live-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
+|Nov 26|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 26|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378448-re-starting-life-in-another-world-vol-26-light-novel "Yen Press")|26|Yen Press|🖥️📖|
 |Nov 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Nov 26|[The Detective Is Already Dead](https://yenpress.com/titles/9798855407495-the-detective-is-already-dead-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
@@ -302,7 +302,7 @@
 |Feb 05|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 06|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 10|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
-|Feb 11|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-ss/ "Seven Seas Entertainment")|SS|Seven Seas Entertainment|🖥️📖|
+|Feb 11|[Adachi and Shimamura: Short Stories](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-ss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 11|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Feb 11|[True Love Fades Away When the Contract Ends – Music of the Flower Gardens and Heavens](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-music-of-the-flower-gardens-and-heavens-light-novel-volume-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 18|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpress.com/titles/9798855408515-apparently-disillusioned-adventurers-will-save-the-world-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
@@ -383,7 +383,25 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Apr 22|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
+|Apr 15|[Accel World](https://yenpress.com/titles/9798855411867-accel-world-vol-27-light-novel "Yen Press")|27|Yen Press|🖥️📖|
+|Apr 15|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9798855407051-alya-sometimes-hides-her-feelings-in-russian-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Apr 15|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9781975394080-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 15|[Bottom-Tier Character Tomozaki](https://yenpress.com/titles/9798855412703-bottom-tier-character-tomozaki-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
+|Apr 15|[Bye-Bye Earth](https://yenpress.com/titles/9798855414301-bye-bye-earth-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 15|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975397166-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
+|Apr 15|[I'm the Strongest in This Zombie World, But I Can't Beat This Girl!](https://yenpress.com/titles/9781975394295-i-m-the-strongest-in-this-zombie-world-but-i-can-t-beat-this-girl-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 15|[Ishura](https://yenpress.com/titles/9798855410860-ishura-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
+|Apr 15|[Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle](https://yenpress.com/titles/9798855409512-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-familia-chronicle-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 15|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390365-kunon-the-sorcerer-can-see-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+|Apr 15|[My First Love's Kiss](https://yenpress.com/titles/9798855407372-my-first-love-s-kiss-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 15|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855407396-reign-of-the-seven-spellblades-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
+|Apr 15|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975393267-re-starting-life-in-another-world-short-story-collection-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 15|[Sword Art Online Alternative Clover's Regret](https://yenpress.com/titles/9781975390723-sword-art-online-alternative-clover-s-regret-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 15|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390648-the-bs-situation-of-tougetsu-umidori-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 15|[The Detective Is Already Dead](https://yenpress.com/titles/9798855407518-the-detective-is-already-dead-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
+|Apr 15|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391058-the-misfit-of-demon-king-academy-vol-5-light-novel "Yen Press")|5|Yen Press|📖|
+|Apr 15|[The Summer Hikaru Died](https://yenpress.com/titles/9798855410570-the-summer-hikaru-died-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 15|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855410846-wolf-parchment-new-theory-spice-wolf-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 
 ### May
 
@@ -396,6 +414,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jun 24|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/778959/saving-80000-gold-in-another-world-for-my-retirement-8-light-novel-by-funa/9781647294427 "Kodansha")|8|Kodansha|📖|
+|Jun 24|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 
 ### July
 
