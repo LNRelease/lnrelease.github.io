@@ -73,7 +73,7 @@ DELAYS = {
     'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
     'www.viz.com': (30, 60),
-    'search.yahoo.com': (10, 30),
+    'ca.search.yahoo.com': (10, 30),
     'yenpress.com': (1, 3),
 }
 LAST_REQUEST: dict[str, float] = {}
@@ -156,7 +156,7 @@ class Session(requests.Session):
         return link
 
     def yahoo_search(self, query: str, url: str, **kwargs) -> list[dict[str, str]]:
-        link = f'https://search.yahoo.com/search?q={quote(query)}'
+        link = f'https://ca.search.yahoo.com/search?q={quote(query)}'
         page = self.try_get(link, retries=5, **kwargs)
         if not page:
             return None
