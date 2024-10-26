@@ -91,6 +91,7 @@
 |Nov 05|[The Apothecary Diaries](https://store.crunchyroll.com/products/the-apothecary-diaries-novel-volume-3-9781646092741.html "Square Enix Books")|3|Square Enix Books|📖|
 |Nov 05|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 06|[The Death of the Skeleton Swordsman: Dominating as a Cursed Saint](https://j-novel.club/series/the-death-of-the-skeleton-swordsman-dominating-as-a-cursed-saint#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Nov 07|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-9-5/ "Seven Seas Entertainment")|9.5|Seven Seas Entertainment|🖥️|
 |Nov 08|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-27 "J-Novel Club")|6|J-Novel Club|📖|
 |Nov 11|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -156,6 +157,7 @@
 |Dec 02|[The Blessing of Liefe: Leave This Magical Letdown Alone!](https://j-novel.club/series/the-blessing-of-liefe-leave-this-magical-letdown-alone#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 03|[Kaiju No. 8: Exclusive on the Third Division](https://www.viz.com/read/novel/kaiju-no-8-exclusive-on-the-third-division/product/8112/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Dec 04|[My Daughter Left the Nest and Returned an S-Rank Adventurer Short Story Collection](https://j-novel.club/series/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer#volume-12 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Dec 05|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Dec 05|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 05|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Dec 06|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
@@ -168,7 +170,7 @@
 |Dec 10|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975389529-alya-sometimes-hides-her-feelings-in-russian-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Dec 10|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9781975392550-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393533-catalog-of-wonders-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 10|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-9-5/ "Seven Seas Entertainment")|9.5|Seven Seas Entertainment|🖥️📖|
+|Dec 10|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-9-5/ "Seven Seas Entertainment")|9.5|Seven Seas Entertainment|📖|
 |Dec 10|[High School DxD](https://yenpress.com/titles/9781975350444-high-school-dxd-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Dec 10|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975370114-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Dec 10|[I'm the Strongest in This Zombie World, But I Can't Beat This Girl!](https://yenpress.com/titles/9781975394271-i-m-the-strongest-in-this-zombie-world-but-i-can-t-beat-this-girl-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -239,7 +241,7 @@
 |:---:|---|:---:|---|:---:|
 |Jan 03|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jan 06|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
-|Jan 07|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 07|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jan 07|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️📖|
 |Jan 07|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 07|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
