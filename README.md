@@ -293,7 +293,7 @@
 |Jan 23|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 24|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 24|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Jan 25|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-48 "J-Novel Club")|46|J-Novel Club|🖥️|
+|Jan 27|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-48 "J-Novel Club")|46|J-Novel Club|🖥️|
 |Jan 27|[The Reincarnator and the Goblin Maiden's Happily Ever After: Using a Past Life to Keep a Joyful Wife](https://j-novel.club/series/the-reincarnator-and-the-goblin-maiden-s-happily-ever-after-using-a-past-life-to-keep-a-joyful-wife#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 28|[Der Werwolf: The Annals of Veight](https://j-novel.club/series/m-rchen-der-werwolf-the-annals-of-veight#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
 |Jan 28|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
@@ -312,6 +312,8 @@
 |Feb 04|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Feb 04|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Feb 04|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Feb 04|[The Reincarnated Princess Spends Another Day Skipping Story Routes](https://j-novel.club/series/the-reincarnated-princess-spends-another-day-skipping-story-routes#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Feb 05|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Feb 05|[Seventh](https://j-novel.club/series/seventh#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Feb 05|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 05|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -438,6 +440,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jun 03|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-99-9/ "Seven Seas Entertainment")|99.9|Seven Seas Entertainment|🖥️📖|
 |Jun 24|[Saving 80,000 Gold in Another World for my Retirement](https://www.penguinrandomhouse.com/books/778959/saving-80000-gold-in-another-world-for-my-retirement-8-light-novel-by-funa/9781647294427 "Kodansha")|8|Kodansha|📖|
 |Jun 24|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 
