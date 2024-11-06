@@ -369,6 +369,7 @@
 |:---:|---|:---:|---|:---:|
 |Mar 04|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Mar 04|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Mar 07|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Mar 10|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-29 "J-Novel Club")|8|J-Novel Club|📖|
 |Mar 10|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-27 "J-Novel Club")|27|J-Novel Club|🖥️|
 |Mar 11|[D-Genesis](https://j-novel.club/series/d-genesis#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
