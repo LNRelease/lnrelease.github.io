@@ -20,7 +20,7 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date
     page = session.get(link, web_cache=True)
     soup = BeautifulSoup(page.content, 'lxml')
 
-    series_title = soup.find('strong', string='Series').find_next('a').text
+    series_title = soup.find('strong', string='Series').find_next_sibling(class_='color-red').text
     title = soup.select_one('div#purchase_links_block h2').text
     index = 0
     isbn = soup.find('strong', string=ISBN).next_sibling.strip()
