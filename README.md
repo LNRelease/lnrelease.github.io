@@ -119,7 +119,6 @@
 |Dec 16|[No One Gets Past This Gatekeeper: The Unwanted Warrior Guards His New Post](https://j-novel.club/series/no-one-gets-past-this-gatekeeper-the-unwanted-warrior-guards-his-new-post#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 17|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373238-agents-of-the-four-seasons-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Dec 17|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
-|Dec 17|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9781975392550-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 17|[Catalog of Wonders](https://yenpress.com/titles/9781975393533-catalog-of-wonders-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 17|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975370114-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Dec 17|[I'm the Strongest in This Zombie World, but I Can't Beat This Girl!](https://yenpress.com/titles/9781975394271-i-m-the-strongest-in-this-zombie-world-but-i-can-t-beat-this-girl-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -127,7 +126,6 @@
 |Dec 17|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Dec 17|[Our Last Crusade or the Rise of a New World: Secret File](https://yenpress.com/titles/9781975372514-our-last-crusade-or-the-rise-of-a-new-world-secret-file-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 17|[Reign of the Seven Spellblades](https://yenpress.com/titles/9781975398941-reign-of-the-seven-spellblades-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
-|Dec 17|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975392536-re-starting-life-in-another-world-short-story-collection-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 17|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975397128-spy-classroom-short-story-collection-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 17|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391041-the-misfit-of-demon-king-academy-vol-4-act-2-light-novel "Yen Press")|4.2|Yen Press|📖|
 |Dec 17|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -148,6 +146,7 @@
 |Dec 23|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-11 "J-Novel Club")|9.2|J-Novel Club|🖥️|
 |Dec 23|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 |Dec 23|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Dec 24|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9781975392550-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 24|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 24|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Dec 24|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
@@ -178,6 +177,7 @@
 |Jan 06|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jan 07|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jan 07|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
+|Jan 07|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975392536-re-starting-life-in-another-world-short-story-collection-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 07|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 07|[Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Jan 09|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
@@ -246,6 +246,7 @@
 |Feb 05|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 05|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 06|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Feb 07|[Reincarnated Mage with Inferior Eyes: Breezing through the Future as an Oppressed Ex-Hero](https://j-novel.club/series/reincarnated-mage-with-inferior-eyes#volume-8 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Feb 10|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-21 "J-Novel Club")|21|J-Novel Club|📖|
 |Feb 10|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 11|[Adachi and Shimamura: Short Stories](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-ss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -253,6 +254,7 @@
 |Feb 11|[True Love Fades Away When the Contract Ends – Music of the Flower Gardens and Heavens](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-music-of-the-flower-gardens-and-heavens-light-novel-volume-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 14|[A Cozy Life in the Woods with the White Witch](https://j-novel.club/series/a-cozy-life-in-the-woods-with-the-white-witch#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 14|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
+|Feb 17|[Lady Rose Just Wants to Be a Commoner](https://j-novel.club/series/lady-rose-just-wants-to-be-a-commoner#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 18|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpress.com/titles/9798855408515-apparently-disillusioned-adventurers-will-save-the-world-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Feb 18|[Babel](https://yenpress.com/titles/9781975375072-babel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Feb 18|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9798855405347-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
