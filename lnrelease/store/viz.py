@@ -8,7 +8,7 @@ from session import Session
 NAME = 'VIZ Media'
 SALT = hash(NAME)
 
-PATH = re.compile(r'/read/novel/(?P<name>[\w-]+)/product/(?P<id>\d+)/(?P<format>\w+)')
+PATH = re.compile(r'/manga-books/novel/(?P<name>[\w-]+)/product/(?P<id>\d+)/(?P<format>\w+)')
 
 
 def equal(a: str, b: str) -> bool:

@@ -89,7 +89,7 @@ def hash_link(link: str) -> int:
             warnings.warn(f'{link} hash error: {e}', RuntimeWarning)
     elif netloc not in IGNORE:
         warnings.warn(f'hash on unknown url: {link}', RuntimeWarning)
-    return 0
+    return hash(link)
 
 
 def normalise(session: Session, link: str, resolve: bool = False) -> str | None:
