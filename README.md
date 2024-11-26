@@ -187,6 +187,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jan 02|[Adachi and Shimamura: Short Stories](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-ss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Jan 02|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
 |Jan 02|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Jan 02|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️|
 |Jan 03|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -235,6 +236,7 @@
 |Jan 21|[The Irregular at Magic High School](https://yenpress.com/titles/9781975345242-the-irregular-at-magic-high-school-vol-24-light-novel "Yen Press")|24|Yen Press|🖥️📖|
 |Jan 22|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Jan 22|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/series/ascendance-of-a-bookworm-short-story-collection#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jan 23|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-11-5/ "Seven Seas Entertainment")|11.5|Seven Seas Entertainment|🖥️|
 |Jan 23|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️|
 |Jan 23|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 24|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
@@ -261,7 +263,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Feb 03|[VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream](https://j-novel.club/series/vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
-|Feb 04|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
+|Feb 04|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Feb 04|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
 |Feb 04|[The Hero-Killing Bride](https://j-novel.club/series/the-hero-killing-bride#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 04|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -320,7 +322,7 @@
 |Feb 24|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 24|[Lucia and the Loom: Weaving Her Way to Happiness](https://j-novel.club/series/lucia-and-the-loom-weaving-her-way-to-happiness#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 24|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Feb 25|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-11-5/ "Seven Seas Entertainment")|11.5|Seven Seas Entertainment|🖥️📖|
+|Feb 25|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-11-5/ "Seven Seas Entertainment")|11.5|Seven Seas Entertainment|📖|
 |Feb 25|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/778968/saving-80000-gold-in-another-world-for-my-retirement-7-light-novel-by-funa/9781647294052 "Kodansha")|7|Kodansha|📖|
 |Feb 25|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Feb 25|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -400,6 +402,7 @@
 |Apr 15|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855410846-wolf-parchment-new-theory-spice-wolf-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Apr 22|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Apr 22|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
+|Apr 29|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 
 ### May
 
