@@ -1,10 +1,10 @@
 import importlib
 import warnings
 from collections import defaultdict
+from collections.abc import Callable
 from itertools import groupby
 from operator import attrgetter
 from pathlib import Path
-from typing import Callable
 
 import publisher
 from scrape import INFO, SERIES

@@ -1,6 +1,7 @@
 import random
 import re
 import warnings
+from collections.abc import Iterator
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from itertools import product
@@ -208,7 +209,7 @@ class Session(requests.Session):
             results.append({'d': lst[2], 'w': lst[3]})
         return results
 
-    def bing_cache(self, url: str, **kwargs) -> requests.Response | None:
+    def bing_cache(self, url: str, **kwargs) -> Iterator[requests.Response | None]:
         netloc = urlparse(url).netloc
         end = url.split(netloc)[-1]
         sources = [self.yahoo_search, self.bing_search]
@@ -220,8 +221,8 @@ class Session(requests.Session):
                 page = self.try_get(link, retries=5, params=result, **kwargs)
                 if (page and page.status_code == 200
                         and not page.content.endswith(b'<!-- Apologies:End -->')):
-                    return page
-        return None
+                    yield page
+        yield None
 
     def ia_cache(self, url: str, ia_save: int = -1, **kwargs) -> requests.Response | None:
         now = datetime.now(timezone.utc)
@@ -243,7 +244,7 @@ class Session(requests.Session):
         return page
 
     def get_cache(self, url: str, ia_save: int, **kwargs) -> requests.Response | None:
-        return (self.bing_cache(url, **kwargs)
+        return (next(self.bing_cache(url, **kwargs))
                 or self.ia_cache(url, ia_save=ia_save, **kwargs))
 
     def try_get(self, url: str, retries: int, **kwargs) -> requests.Response | None:
