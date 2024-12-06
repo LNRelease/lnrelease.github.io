@@ -100,7 +100,6 @@
 |Dec 10|[86--EIGHTY-SIX](https://yenpress.com/titles/9798855408294-86-eighty-six-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Dec 10|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373245-agents-of-the-four-seasons-vol-4 "Yen Press")|4|Yen Press|🖥️|
 |Dec 10|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9781975389529-alya-sometimes-hides-her-feelings-in-russian-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Dec 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393540-catalog-of-wonders-vol-1 "Yen Press")|1|Yen Press|🖥️|
 |Dec 10|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-9-5/ "Seven Seas Entertainment")|9.5|Seven Seas Entertainment|📖|
 |Dec 10|[High School DxD](https://yenpress.com/titles/9781975350444-high-school-dxd-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Dec 10|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975370121-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️|
@@ -130,7 +129,7 @@
 |Dec 16|[No One Gets Past This Gatekeeper: The Unwanted Warrior Guards His New Post](https://j-novel.club/series/no-one-gets-past-this-gatekeeper-the-unwanted-warrior-guards-his-new-post#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 17|[Agents of the Four Seasons](https://yenpress.com/titles/9781975373238-agents-of-the-four-seasons-vol-4 "Yen Press")|4|Yen Press|📖|
 |Dec 17|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
-|Dec 17|[Catalog of Wonders](https://yenpress.com/titles/9781975393533-catalog-of-wonders-vol-1 "Yen Press")|1|Yen Press|📖|
+|Dec 17|[Catalog of Wonders](https://yenpress.com/titles/9781975393533-catalog-of-wonders-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 17|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9781975370114-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-9-light-novel "Yen Press")|9|Yen Press|📖|
 |Dec 17|[I'm the Strongest in This Zombie World, but I Can't Beat This Girl!](https://yenpress.com/titles/9781975394271-i-m-the-strongest-in-this-zombie-world-but-i-can-t-beat-this-girl-vol-1 "Yen Press")|1|Yen Press|📖|
 |Dec 17|[Modern Dungeon Capture Starting with Broken Skills](https://sevenseasentertainment.com/books/modern-dungeon-capture-starting-with-broken-skills-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -292,7 +291,7 @@
 |Feb 18|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9798855405347-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Feb 18|[Black Summoner](https://yenpress.com/titles/9781975392307-black-summoner-vol-4-light-novel "Yen Press")|4|Yen Press|📖|
 |Feb 18|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9781975391461-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
-|Feb 18|[Kriemhild and Brunhild](https://yenpress.com/titles/9798855410822-kriemhild-and-brunhild "Yen Press")|3|Yen Press|🖥️📖|
+|Feb 18|[Brunhild and Kriemhild](https://yenpress.com/titles/9798855410822-brunhild-and-kriemhild "Yen Press")|3|Yen Press|🖥️📖|
 |Feb 18|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️📖|
 |Feb 18|[Did You Think My Yuri Was Just for Show?](https://yenpress.com/titles/9781975397661-did-you-think-my-yuri-was-just-for-show "Yen Press")|1|Yen Press|🖥️📖|
 |Feb 18|[Hell Mode](https://yenpress.com/titles/9798855405569-hell-mode-vol-7 "Yen Press")|7|Yen Press|📖|
