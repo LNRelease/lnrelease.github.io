@@ -379,6 +379,7 @@
 |Mar 18|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368715-wandering-witch-the-journey-of-elaina-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Mar 20|[The Countess Is a Coward No More! This Reincarnated Witch Just Wants a Break](https://j-novel.club/series/the-countess-is-a-coward-no-more-this-reincarnated-witch-just-wants-a-break#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 24|[How a Realist Hero Rebuilt the Kingdom](https://j-novel.club/series/how-a-realist-hero-rebuilt-the-kingdom#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
+|Mar 24|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Mar 25|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/745913/am-i-actually-the-strongest-6-light-novel-by-sai-sumimori/9781647293567 "Kodansha")|6|Kodansha|📖|
 |Mar 25|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Mar 25|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
