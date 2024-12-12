@@ -274,6 +274,7 @@
 |Mar 11|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Mar 12|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Mar 12|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Mar 12|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 13|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 13|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Mar 17|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
@@ -303,12 +304,14 @@
 |Mar 20|[The Countess Is a Coward No More! This Reincarnated Witch Just Wants a Break](https://j-novel.club/series/the-countess-is-a-coward-no-more-this-reincarnated-witch-just-wants-a-break#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 24|[How a Realist Hero Rebuilt the Kingdom](https://j-novel.club/series/how-a-realist-hero-rebuilt-the-kingdom#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
 |Mar 24|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Mar 24|[Otherside Picnic](https://j-novel.club/series/otherside-picnic#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 25|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/745913/am-i-actually-the-strongest-6-light-novel-by-sai-sumimori/9781647293567 "Kodansha")|6|Kodansha|📖|
 |Mar 25|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Mar 25|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 26|[Black Summoner](https://j-novel.club/series/black-summoner#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
 |Mar 26|[Hell Mode](https://j-novel.club/series/hell-mode#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 27|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Mar 27|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Mar 31|[Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 
 ### April
