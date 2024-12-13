@@ -94,6 +94,7 @@ def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
+    return None
     session.set_retry(total=2, status_forcelist={500, 502, 503, 504})
     stats = REQUEST_STATS['www.amazon.com']
     stats.cache += 1

@@ -1,18 +1,14 @@
 import random
 import re
 import warnings
-from collections.abc import Iterator
 from dataclasses import dataclass
 from datetime import datetime, timezone
-from itertools import product
 from threading import Lock
 from time import perf_counter_ns, sleep, time
 from typing import Self
-from urllib.parse import parse_qs, quote, unquote, urljoin, urlparse
+from urllib.parse import urljoin, urlparse
 
 import requests
-import store
-from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -25,7 +21,6 @@ SHORTENERS = {
     'apple.co',
     'bit.ly',
 }
-YAHOO = re.compile(r'(?<=/RU=)[^/]+(?=/)')
 IA = re.compile(r'https?://web\.archive\.org/web/(?P<time>\d{14})/(?P<url>.+)')
 
 
@@ -62,8 +57,6 @@ DELAYS = {
     'www.audible.co.jp': (10, 30),
     'www.audible.co.uk': (10, 30),
     'www.barnesandnoble.com': (10, 30),
-    'www.bing.com': (10, 30),
-    'cc.bingj.com': (10, 30),
     'global.bookwalker.jp': (1, 5),
     'crossinfworld.com': (10, 30),
     'play.google.com': (10, 30),
@@ -74,7 +67,6 @@ DELAYS = {
     'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
     'www.viz.com': (30, 60),
-    'ca.search.yahoo.com': (10, 30),
     'yenpress.com': (1, 3),
 }
 LAST_REQUEST: dict[str, float] = {}
@@ -156,81 +148,13 @@ class Session(requests.Session):
             self.set_retry()
         return link
 
-    def yahoo_search(self, query: str, url: str, **kwargs) -> list[dict[str, str]]:
-        link = f'https://ca.search.yahoo.com/search?q={quote(query)}'
-        page = self.try_get(link, retries=5, **kwargs)
-        if not page:
-            return None
-
-        soup = BeautifulSoup(page.content, 'lxml')
-        norm = urlparse(store.normalise(self, url))
-        module = store.get_store(norm.netloc)
-
-        results = []
-        for div in soup.select('.searchCenterMiddle .algo'):
-            title = div.select_one('.compTitle a')
-            cache = div.select_one('.compDlink a')
-            if not title or not cache:
-                continue
-            title = title.get('href')
-            if match := YAHOO.search(title):
-                title = unquote(match[0])
-            u = urlparse(store.normalise(self, title))
-            if (norm.path != u.path
-                    or module is not store.get_store(u.netloc)):
-                continue
-            cache = cache.get('href')
-            if match := YAHOO.search(cache):
-                cache = unquote(match[0])
-            params = parse_qs(urlparse(cache).query)
-            results.append({'d': params['d'], 'w': params['w']})
-        return results
-
-    def bing_search(self, query: str, url: str, **kwargs) -> list[dict[str, str]]:
-        link = f'https://www.bing.com/search?q={quote(query)}&go=Search&qs=bs&form=QBRE'
-        page = self.try_get(link, retries=5, **kwargs)
-        if not page:
-            return None
-
-        soup = BeautifulSoup(page.content, 'lxml')
-        norm = urlparse(store.normalise(self, url))
-        module = store.get_store(norm.netloc)
-
-        results = []
-        for li in soup.select('ol#b_results > li.b_algo'):
-            attr = li.find('div', {'u': True})
-            href = li.find('a', class_='tilk').get('href')
-            u = urlparse(store.normalise(self, href))
-            if not (attr and norm.path == u.path
-                    and module is store.get_store(u.netloc)):
-                continue
-
-            lst = attr['u'].split('|')
-            results.append({'d': lst[2], 'w': lst[3]})
-        return results
-
-    def bing_cache(self, url: str, **kwargs) -> Iterator[requests.Response | None]:
-        netloc = urlparse(url).netloc
-        end = url.split(netloc)[-1]
-        sources = [self.yahoo_search, self.bing_search]
-        queries = [netloc + end, end]
-        link = 'https://cc.bingj.com/cache.aspx'
-        page = None
-        for source, query in product(sources, queries):
-            for result in source(query, url, **kwargs):
-                page = self.try_get(link, retries=5, params=result, **kwargs)
-                if (page and page.status_code == 200
-                        and not page.content.endswith(b'<!-- Apologies:End -->')):
-                    yield page
-        yield None
-
     def ia_cache(self, url: str, ia_save: int = -1, **kwargs) -> requests.Response | None:
         now = datetime.now(timezone.utc)
         link = f'https://web.archive.org/web/{now.strftime("%Y%m%d%H%M%S")}/{url}'
         page = self.try_get(link, retries=2, **kwargs)
         if ia_save == -1:
             return page
-        elif page.status_code != 404:
+        elif page and page.status_code != 404:
             match = IA.fullmatch(page.url)
             time = datetime.strptime(match.group('time') + 'Z', '%Y%m%d%H%M%S%z')
             days = (now - time).days - ia_save
@@ -244,8 +168,7 @@ class Session(requests.Session):
         return page
 
     def get_cache(self, url: str, ia_save: int, **kwargs) -> requests.Response | None:
-        return (next(self.bing_cache(url, **kwargs))
-                or self.ia_cache(url, ia_save=ia_save, **kwargs))
+        return self.ia_cache(url, ia_save=ia_save, **kwargs)
 
     def try_get(self, url: str, retries: int, **kwargs) -> requests.Response | None:
         netloc = urlparse(url).netloc
