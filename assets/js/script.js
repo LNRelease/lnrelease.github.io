@@ -1254,6 +1254,41 @@ function initSearch(novels) {
     });
     SEARCH.addEventListener('input', () =>
         filterTable(novels));
+
+    let touch = null;
+    let startA = -1;
+    let startB = -1;
+    document.addEventListener('touchstart', e => {
+        switch (e.touches.length) {
+            case 1:
+                startA = performance.now();
+                touch = e.touches[0];
+                break;
+            case 2:
+                startB = performance.now();
+                break;
+            default:
+                touch = null;
+        }
+    });
+    document.addEventListener('touchend', e => {
+        if (touch == null || e.touches.length != 1) {
+            touch = null;
+            return;
+        }
+        const now = performance.now();
+        const t = e.touches[0];
+        if (now - startA > 100
+            && now - startB < 200
+            && t.identifier == touch.identifier
+            && Math.abs(t.screenX - touch.screenX) < 10
+            && Math.abs(t.screenY - touch.screenY) < 10) {
+            touch = null;
+            SEARCH.focus();
+            SEARCH.select();
+            e.preventDefault();
+        }
+    });
 }
 
 async function init() {

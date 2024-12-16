@@ -33,6 +33,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Python script
+        env:
+          CF_ACCOUNT: ${{ secrets.CF_ACCOUNT }}
+          CF_KEY: ${{ secrets.CF_KEY }}
         run: python lnrelease/lnrelease.py
 
       - name: Commit and push

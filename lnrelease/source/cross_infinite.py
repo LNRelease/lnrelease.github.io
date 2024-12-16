@@ -117,7 +117,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         items[key] = inf
 
             except Exception as e:
-                warnings.warn(f'{link}: {e}', RuntimeWarning)
+                warnings.warn(f'({link}): {e}', RuntimeWarning)
 
         page = session.get('https://crossinfworld.com/Calendar.html')
         soup = BeautifulSoup(page.content, 'lxml')

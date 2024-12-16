@@ -48,7 +48,7 @@ PUBLISHERS = {
     'STONE BRIDGE PRESS': '',
     'TENTAI BOOKS': 'Tentai Books',
     'TITAN BOOKS': '',
-    'TOKYOPOP': '',
+    'TOKYOPOP': 'TOKYOPOP',
     'TUTTLE': '',
     'UDON ENTERTAINMENT': '',
     'VERTICAL': 'Kodansha',

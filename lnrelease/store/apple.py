@@ -39,7 +39,7 @@ def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    page = session.get(links[0], web_cache=True)
+    page = session.get(links[0], ia=True)
     soup = BeautifulSoup(page.content, 'lxml')
 
     serieskey = series.key if series else ''

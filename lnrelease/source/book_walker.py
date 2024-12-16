@@ -118,7 +118,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                     pages.discard(l)
                     pages.add(l)
                 except Exception as e:
-                    warnings.warn(f'{link}: {e}', RuntimeWarning)
+                    warnings.warn(f'({link}): {e}', RuntimeWarning)
 
             if soup.select_one('.pager-area ul li:last-child').get('class')[0] == 'on':
                 break

@@ -59,7 +59,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     for inf in parse(session, serie, link, format):
                         isbns[inf.isbn] = inf
                 except Exception as e:
-                    warnings.warn(f'{link}: {e}', RuntimeWarning)
+                    warnings.warn(f'({link}): {e}', RuntimeWarning)
 
     info = set()
     for inf in isbns.values():

@@ -19,8 +19,8 @@ START = re.compile(r'(?P<start>.+?) (?:omnibus |collector\'s edition |volume )+\
 
 
 def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Series, set[Info]]:
-    page = session.get(link, web_cache=True)
-    if page.status_code == 404:
+    page = session.get(link)
+    if page is None or page.status_code == 404:
         return None
     soup = BeautifulSoup(page.content, 'lxml')
 
@@ -92,7 +92,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     pages.discard(l)
                     pages.add(l)
             except Exception as e:
-                warnings.warn(f'{link}: {e}', RuntimeWarning)
+                warnings.warn(f'({link}): {e}', RuntimeWarning)
 
     pages.save()
     return series, set(isbns.values())

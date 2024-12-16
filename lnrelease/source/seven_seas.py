@@ -26,7 +26,7 @@ def strpdate(s: str) -> datetime.date:
 
 def parse(session: Session, link: str, series: Series) -> set[Info]:
     info = set()
-    page = session.get(link, web_cache=True, ia_save=7)
+    page = session.get(link, cf=True, ia=True, refresh=2)
     soup = BeautifulSoup(page.content, 'lxml')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
     audio = False
@@ -79,7 +79,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     with Session() as session:
         url = 'https://sevenseasentertainment.com/tag/light-novels/'
         while url:
-            page = session.get(url, web_cache=True, ia_save=14)
+            page = session.get(url, cf=True, ia=True, refresh=5)
             soup = BeautifulSoup(page.content, 'lxml')
             lst = soup.find_all(class_='series')
             if not lst:
@@ -94,7 +94,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     title = a.text
                     serie = Series(None, title)
                     prev = {i for i in info if i.serieskey == serie.key}
-                    if random() > 0.5 and prev and (
+                    if random() > 0.2 and prev and (
                             today - max(i.date for i in prev)).days > 365:
                         continue
 
@@ -103,6 +103,6 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         info -= inf
                         info |= inf
                 except Exception as e:
-                    warnings.warn(f'{link}: {e}', RuntimeWarning)
+                    warnings.warn(f'({link}): {e}', RuntimeWarning)
 
     return series, info

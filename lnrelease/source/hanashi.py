@@ -27,7 +27,7 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
     series_title = TITLE.fullmatch(soup.title.text).group('title')
     series = Series(None, series_title)
     info = set()
-    isbns: defaultdict[element.NavigableString, dict[str, list[str]]] = defaultdict(dict)
+    isbns: defaultdict[tuple[int, element.NavigableString], dict[str, list[str]]] = defaultdict(dict)
 
     for button in soup.find_all(string=STORE):
         a = button.find_parent('a')
@@ -42,12 +42,12 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
         url = session.resolve(url.strip())
 
         if norm := store.normalise(session, url, resolve=True):
-            isbns[isbn].setdefault(norm, [norm]).append(url)
+            isbns[(id(isbn), isbn)].setdefault(norm, [norm]).append(url)
         elif norm is None:
             warnings.warn(f'{url} normalise failed', RuntimeWarning)
 
     u = urlparse(link)
-    for index, (isbn, urls) in enumerate(isbns.items(), start=1):
+    for index, ((_, isbn), urls) in enumerate(isbns.items(), start=1):
         if ((parent := isbn.find_parent('div', class_='elementor-element'))
             and (prev := parent.find_previous_sibling('div', class_='elementor-element'))
             and (h3 := prev.find('h3'))
@@ -111,7 +111,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         pages.discard(l)
                         pages.add(l)
             except Exception as e:
-                warnings.warn(f'{link}: {e}', RuntimeWarning)
+                warnings.warn(f'({link}): {e}', RuntimeWarning)
 
     pages.save()
     return series, info

@@ -86,7 +86,7 @@ def strpdate(s: str) -> datetime.date | None:
             day = int(day)
 
         return datetime.date(year, month, day)
-    except NameError as e:
+    except NameError:
         return None
 
 
@@ -94,52 +94,43 @@ def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    return None
-    session.set_retry(total=2, status_forcelist={500, 502, 503, 504})
-    stats = REQUEST_STATS['www.amazon.com']
-    stats.cache += 1
-    warns = []
-    for page in session.bing_cache(links[0], timeout=10):
-        if not page:
-            continue
-        soup = BeautifulSoup(page.content, 'lxml')
+    REQUEST_STATS['www.amazon.com'].cache += 1
+    page = session.cf_scan(links[0], refresh=30)
+    if not page:
+        return None
+    soup = BeautifulSoup(page.content, 'lxml')
 
-        if not series:
-            series_title = ''
-            if attr := soup.find(id='rpi-attribute-book_details-series'):
-                series_title = attr.a.text
-            series = utils.Series(None, series_title)
+    if not series:
+        series_title = ''
+        if attr := soup.find(id='rpi-attribute-book_details-series'):
+            series_title = attr.a.text
+        series = utils.Series(None, series_title)
 
-        isbn = isbn or get_attr(soup, 'rpi-attribute-book_details-isbn13')
-        if (not isbn
-            and (entry := soup.find(string=ISBN_13))
-                and (value := entry.find_next(string=ISBN))):
-            isbn = value.text
+    isbn = isbn or get_attr(soup, 'rpi-attribute-book_details-isbn13')
+    if (not isbn
+        and (entry := soup.find(string=ISBN_13))
+            and (value := entry.find_next(string=ISBN))):
+        isbn = value.text
 
-        date = (get_attr(soup, 'rpi-attribute-book_details-publication_date')
-                or get_attr(soup, 'rpi-attribute-audiobook_details-release-date'))
-        if not date and (span := soup.find('span', string=DATE)):
-            div = span.find_parent('div', class_='rpi-attribute-content')
-            date = div.find('div', class_='rpi-attribute-value').text.strip()
-        if ((product := soup.find(string=PRODUCT))
-            and (entry := product.find_next(string=PUBLISHER))
-            and (value := entry.find_parent(lambda x: x.name in ('li', 'tr'))
-                               .find(string=DETAILS))):
-            match = DETAILS.fullmatch(value.text)
-            publisher = publisher or match.group('publisher')
-            date = date or match.group('date')
-        if not date:
-            warns.append(f'No date found: {page.url}')
-            continue
-        date = strpdate(date)
-        if not date:
-            warns.append(f'Error parsing date: {date} ({page.url})')
-            continue
+    date = (get_attr(soup, 'rpi-attribute-book_details-publication_date')
+            or get_attr(soup, 'rpi-attribute-audiobook_details-release-date'))
+    if not date and (span := soup.find('span', string=DATE)):
+        div = span.find_parent('div', class_='rpi-attribute-content')
+        date = div.find('div', class_='rpi-attribute-value').text.strip()
+    if ((product := soup.find(string=PRODUCT))
+        and (entry := product.find_next(string=PUBLISHER))
+        and (value := entry.find_parent(lambda x: x.name in ('li', 'tr'))
+             .find(string=DETAILS))):
+        match = DETAILS.fullmatch(value.text)
+        publisher = publisher or match.group('publisher')
+        date = date or match.group('date')
+    if not date:
+        warnings.warn(f'No date found: {page.url}')
+        return None
+    date = strpdate(date)
+    if not date:
+        warnings.warn(f'Error parsing date: {date} ({page.url})')
+        return None
 
-        session.set_retry()
-        info = utils.Info(series.key, links[0], NAME, publisher, title, index, format, isbn, date)
-        return series, {info}
-
-    session.set_retry()
-    warnings.warn('\n'.join(warns), RuntimeWarning)
-    return None
+    info = utils.Info(series.key, links[0], NAME, publisher, title, index, format, isbn, date)
+    return series, {info}

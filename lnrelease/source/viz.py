@@ -17,7 +17,7 @@ ISBN = re.compile(r'e?ISBN-13')
 
 def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date] | None:
     info = set()
-    page = session.get(link, web_cache=True)
+    page = session.get(link, ia=True)
     soup = BeautifulSoup(page.content, 'lxml')
 
     series_title = soup.find('strong', string='Series').find_next_sibling(class_='color-red').text
@@ -68,7 +68,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                     pages.discard(l)
                     pages.add(l)
                 except Exception as e:
-                    warnings.warn(f'{link}: {e}', RuntimeWarning)
+                    warnings.warn(f'({link}): {e}', RuntimeWarning)
 
             if not results:
                 break
