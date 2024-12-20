@@ -10,13 +10,14 @@ from utils import EPOCH, SECONDARY, SOURCES, Book, Format, Info, Series
 
 NAME = 'misc'
 
-PARSE = re.compile(r'(?P<name>.+?)(?:,|:| -)? +(?:Vol\.|[\(\[]?Volume|\(Light Novel) *(?P<volume>\d+(?:\.\d)?)[\)\]]?(?:\s*[:–\-\(].+)?')
+PARSE = re.compile(r'(?P<name>.+?)(?:,|:| [–-])? *(?:\bVol\.|(?:[\(\[]|\b)Volume|\(Light Novel) *(?P<volume>\d+(?:\.\d)?)[\)\]]?(?:\s*[:–\-\(].+)?')
 OMNIBUS = re.compile(r'.+(?:Vol\.|\(?Volume) *(?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)\)?')
-PART = re.compile(r'(?P<name>.+?)(?:\s*[:,–\-])? (?:Volume|Vol\.) (?P<volume>\d+(?:\.5)?),? (?P<part>.+)')
+PART = re.compile(r'(?P<name>.+?)(?:\s*(?:,|:| [–-]))? (?:Volume|Vol\.) (?P<volume>\d+(?:\.5)?),? (?P<part>.+)')
 NUMBER = re.compile(r'\b(?P<volume>\d+(?:\.\d)?)\b(?:: .+)?')
 SHORT = re.compile(r'\s*#?(?P<volume>\w{1,2})')
-SOURCE = re.compile(r'(?P<volume>\d+(?:\.\d)?[^\s:\)]*):? ?.*')
+SOURCE = re.compile(r'(?P<volume>\d+(?:\.\d)?[^\s:\),]*):? ?.*')
 URL = re.compile(r'-volume-(?P<volume>\d+)')
+LOOSE = re.compile(r'(?P<name>.+?)(?:,|:| [–-])? *(?:[\(\[]|\b)(?:Vol\.|Volume|Part|Light Novel) *(?P<volume>\d+(?:\.\d+)?)[\)\]]?(?:\s*[:–\-\(]?.+)?')
 
 # number converter for volume parsing
 NUM_DICT = {
@@ -41,6 +42,11 @@ def sub_nums(s: str) -> str:
 
 
 def diff_list(titles: list[str]) -> list[str]:
+    if len(titles) == 1:
+        if match := LOOSE.fullmatch(titles[0]):
+            return [match.group('volume')]
+        else:
+            return ['']
     # returns list from when strings start to differ
     s1 = min(t.lower() for t in titles)
     s2 = max(t.lower() for t in titles)
@@ -81,12 +87,6 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
     isbns = {inf.isbn: book for inf, book in zip(main_info, main_books)}
 
     for key, lst in books.items():
-        # single volume
-        if len(lst) == 1 and not lst[0]:
-            inf = info[key][0]
-            lst[0] = Book(series.key, inf.link, inf.publisher, inf.title, '1', inf.format, inf.isbn, inf.date)
-            continue
-
         # find close match
         diff = diff_list([i.title for i in info[key]])
         for i, (inf, book) in enumerate(zip(info[key], lst)):
@@ -97,7 +97,7 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
                 book = titles[inf.title]
             elif inf.isbn in isbns:
                 book = isbns[inf.isbn]
-            elif match := get_close_matches(diff[i], poss, n=1, cutoff=0.95):
+            elif match := get_close_matches(diff[i], poss, n=1, cutoff=0.9):
                 book = poss[match[0]]
             else:
                 continue
@@ -108,6 +108,12 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
         if all(x is None for x in lst) and len(lst) == len(main_books):
             for i, (inf, book) in enumerate(zip(info[key], main_books)):
                 lst[i] = Book(series.key, inf.link, inf.publisher, book.name, book.volume, inf.format, inf.isbn, inf.date)
+
+        # single volume
+        if len(lst) == 1 and not lst[0]:
+            inf = info[key][0]
+            lst[0] = Book(series.key, inf.link, inf.publisher, inf.title, '1', inf.format, inf.isbn, inf.date)
+            continue
 
     return changed
 

@@ -25,6 +25,7 @@ PUBLISHERS = {
     'Seven Seas Entertainment': 'Seven Seas Entertainment',
     'Tentai Books': 'Tentai Books',
     'Tokyopop': '',
+    'VIZ Media': 'VIZ Media',
     'Ize Press': 'Yen Press',
     'Yen On': 'Yen Press',
     'Yen Press': 'Yen Press',

@@ -166,6 +166,8 @@ class Session(requests.Session):
                         and not page.json().get('task')):
                     return None
                 elif page.status_code == 200:
+                    if not not page.json()['task']['success']:
+                        return None
                     response = page.json()['lists']['hashes'][0]
                     return self.try_get(f'{CF_API}/v2/responses/{response}', retries=2, **kwargs)
                 sleep(10)
@@ -192,12 +194,13 @@ class Session(requests.Session):
                     return page
 
         try:
-            REQUEST_STATS['api.cloudflare.com'].cache += 1
-            jsn = {'url': url, 'visibility': 'Unlisted'}
-            page = self.post(f'{CF_API}/v2/scan', json=jsn, **kwargs)
-            if page.status_code == 200:
-                sleep(10)
-                return self.cf_result(url, page.json()['uuid'], **kwargs)
+            with limiter('api.cloudflare.com'):
+                REQUEST_STATS['api.cloudflare.com'].cache += 1
+                jsn = {'url': url}
+                page = self.post(f'{CF_API}/v2/scan', json=jsn, **kwargs)
+                if page.status_code == 200:
+                    sleep(10)
+                    return self.cf_result(url, page.json()['uuid'], **kwargs)
         except Exception as e:
             warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
         return None
@@ -235,13 +238,14 @@ class Session(requests.Session):
             url = match.group('url')
 
         page = self.try_get(url, retries=5, **kwargs) if direct else None
-        if cf and page is None:
-            REQUEST_STATS[urlparse(url).netloc].cache += 1
-            page = self.cf_scan(url, refresh=refresh, **kwargs)
-        if ia and (page is None or page.status_code == 403):
-            REQUEST_STATS[urlparse(url).netloc].cache += 1
+        if page is None or page.status_code == 403:
             self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
-            page = self.ia_cache(url, refresh=refresh, **kwargs)
+            if cf:
+                REQUEST_STATS[urlparse(url).netloc].cache += 1
+                page = self.cf_scan(url, refresh=refresh, **kwargs)
+            if ia and page is None:
+                REQUEST_STATS[urlparse(url).netloc].cache += 1
+                page = self.ia_cache(url, refresh=refresh, **kwargs)
             self.set_retry()
 
         if page and page.status_code not in (200, 404):
