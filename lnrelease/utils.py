@@ -12,7 +12,7 @@ from typing import Self
 import store
 
 TITLE = re.compile(r' [\(\[](?:(?:bl )?(?:light )?novels?|audio(?:book)?|(?:\w+ )?e?book)[\)\]]|spin[- ]?off', flags=re.IGNORECASE)
-SERIES = re.compile(r'(?:\b|\s|,|:)+(?:[\(\[](?:(?:bl )?(?:light )?novels?|audio(?:book)?|e?book|spin[- ]?off)[\)\[]|(?:(vol\.|volume|part) \d[\d\-\.]*)|omnibus|(?:special|collector\'s) edition)(?:(?=\W)|$)', flags=re.IGNORECASE)
+SERIES = re.compile(r'(?:\b|\s|,|:)+(?:[\(\[](?:(?:bl )?(?:light )?novels?|audio(?:book)?|e?book|\(spin[- ]?off\))[\)\[]|(?:(vol\.|volume|part) \d[\d\-\.]*)|omnibus|(?:special|collector\'s) edition)(?:(?=\W)|$)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
 IA = re.compile(r'https?://web\.archive\.org/web/\d{14}/(?P<url>.+)')
 

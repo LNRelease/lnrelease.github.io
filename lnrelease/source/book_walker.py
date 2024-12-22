@@ -1,5 +1,6 @@
 import datetime
 import json
+import re
 import warnings
 from pathlib import Path
 from random import random
@@ -12,7 +13,7 @@ NAME = 'BOOK☆WALKER'
 
 PAGES = Path('book_walker.csv')
 
-
+SERIES = re.compile(r'(?P<name>.+?)(?:(?: light novel| Novels)? \(Light Novels\))?')
 PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
     'Denshobato': '',
@@ -49,13 +50,11 @@ def parse(session: Session, link: str, links: dict[str, Info]) -> tuple[Series, 
     title = jsn['name']
     series_title = soup.select_one('div.product-detail-inner th:-soup-contains("Series Title") + td a')
     if series_title:
-        series_title = series_title.text
+        series_title = SERIES.fullmatch(series_title.text).group('name')
     else:
         series_title = title
     if series_title.startswith('<Partial release>') or series_title.endswith('(light novel serial)'):
         return None
-    if series_title.lower().endswith(' light novel (light novels)'):
-        series_title = series_title[:-27]
     publisher = get_publisher(jsn['brand']['name'])
     if not publisher:
         return None
