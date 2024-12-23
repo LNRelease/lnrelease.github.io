@@ -403,7 +403,7 @@
 |Jun 03|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-99-9/ "Seven Seas Entertainment")|99.9|Seven Seas Entertainment|🖥️📖|
 |Jun 03|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Jun 09|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-38 "J-Novel Club")|36-38|J-Novel Club|📖|
-|Jun 09|[Invaders of the Rokujouma!? Collector's Edition 12](https://yenpress.com/titles/9781718308411-invaders-of-the-rokujouma-collector-s-edition-12-light-novel "Yen Press")|1|Yen Press|📖|
+|Jun 09|[Invaders of the Rokujouma!?](https://yenpress.com/titles/9781718308411-invaders-of-the-rokujouma-collector-s-edition-12-light-novel "Yen Press")|12|Yen Press|📖|
 |Jun 09|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
 |Jun 10|[Agents of the Four Seasons](https://yenpress.com/titles/9781975393908-agents-of-the-four-seasons-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Jun 10|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353070-associate-professor-akira-takatsuki-s-conjecture-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
@@ -421,7 +421,7 @@
 |Jun 10|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855400915-playing-death-games-to-put-food-on-the-table-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 10|[Rascal Does Not Dream of Girlfriend](https://yenpress.com/titles/9798855418293-rascal-does-not-dream-of-girlfriend-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Jun 10|[Recommendations for Bad Children](https://yenpress.com/titles/9798855407358-recommendations-for-bad-children-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
-|Jun 10|[Secrets of the Silent Witch (spin-off) -another-](https://yenpress.com/titles/9798855408737-secrets-of-the-silent-witch-spin-off-another-part-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jun 10|[Secrets of the Silent Witch -another-](https://yenpress.com/titles/9798855408737-secrets-of-the-silent-witch-spin-off-another-part-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 10|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9798855403015-sugar-apple-fairy-tale-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Jun 10|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975387914-the-demon-sword-master-of-excalibur-academy-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
 |Jun 10|[The Executioner and Her Way of Life](https://yenpress.com/titles/9798855408904-the-executioner-and-her-way-of-life-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
