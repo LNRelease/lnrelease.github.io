@@ -159,17 +159,17 @@ class Session(requests.Session):
     def cf_result(self, url: str, uuid: str, **kwargs) -> requests.Response | None:
         try:
             for _ in range(10):
-                page = self.try_get(f'{CF_API}/v2/result/{uuid}', retries=2, **kwargs)
+                page = super().get(f'{CF_API}/v2/result/{uuid}', **kwargs)
                 if (page is None
                     or page.status_code == 400
                     or page.status_code == 404
                         and not page.json().get('task')):
                     return None
                 elif page.status_code == 200:
-                    if not not page.json()['task']['success']:
+                    if not page.json()['task']['success']:
                         return None
                     response = page.json()['lists']['hashes'][0]
-                    return self.try_get(f'{CF_API}/v2/responses/{response}', retries=2, **kwargs)
+                    return super().get(f'{CF_API}/v2/responses/{response}', **kwargs)
                 sleep(10)
         except Exception as e:
             warnings.warn(f'Error reading scan ({url}|{uuid}): {e}', RuntimeWarning)
@@ -199,8 +199,7 @@ class Session(requests.Session):
                 page = self.post(f'{CF_API}/v2/scan', json={'url': url}, **kwargs)
                 if page.status_code == 200:
                     sleep(10)
-            if page.status_code == 200:
-                return self.cf_result(url, page.json()['uuid'], **kwargs)
+                    return self.cf_result(url, page.json()['uuid'], **kwargs)
         except Exception as e:
             warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
         return None

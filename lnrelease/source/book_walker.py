@@ -13,7 +13,7 @@ NAME = 'BOOK☆WALKER'
 
 PAGES = Path('book_walker.csv')
 
-SERIES = re.compile(r'(?P<name>.+?)(?:(?: light novel| Novels)? \(Light Novels\))?')
+SERIES = re.compile(r'(?P<name>.+?)(?:(?: [Ll]ight [Nn]ovel| Novels)? \(Light Novels\))?')
 PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
     'Denshobato': '',
