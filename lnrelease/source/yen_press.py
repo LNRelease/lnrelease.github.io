@@ -38,8 +38,8 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
         return None
 
     title = soup.find('h1', class_='heading').text
-    if ((desc := soup.select_one('.book-info > .content-heading-txt > p'))
-            and (vol := OMNIBUS.match(desc.text))
+    if ((desc := soup.select_one('.book-info > .content-heading-txt'))
+            and (vol := OMNIBUS.search(desc.text))
             and (start := START.fullmatch(title))):  # rename omnibus volume
         title = f'{start.group("start")} Volume {vol.group("volume")}'
     series = Series(None, series_title)

@@ -19,16 +19,19 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date
     info = set()
     page = session.get(link, ia=True)
     soup = BeautifulSoup(page.content, 'lxml')
+    product = soup.find(id='product_row')
+    if not product:
+        return None
 
-    series_title = soup.find('strong', string='Series').find_next_sibling(class_='color-red').text
-    title = soup.select_one('div#purchase_links_block h2').text
+    series_title = product.find('strong', string='Series').find_next_sibling(class_='color-red').text
+    title = product.select_one('div#purchase_links_block h2').text
     index = 0
-    isbn = soup.find('strong', string=ISBN).next_sibling.strip()
-    date = soup.find('strong', string='Release').next_sibling.strip()
+    isbn = product.find('strong', string=ISBN).next_sibling.strip()
+    date = product.find('strong', string='Release').next_sibling.strip()
     date = datetime.datetime.strptime(date, '%B %d, %Y').date()
 
     series = Series(None, series_title)
-    for a in soup.find(role='tablist').find_all('a'):
+    for a in product.find(role='tablist').find_all('a'):
         format = a.text
         url = f'{link}/{format.lower()}'
         i = isbn if a.get('data-tab-state') == 'on' else ''

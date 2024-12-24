@@ -198,8 +198,12 @@ class Session(requests.Session):
             with limiter('api.cloudflare.com'):
                 page = self.post(f'{CF_API}/v2/scan', json={'url': url}, **kwargs)
                 if page.status_code == 200:
+                    sleep(20)
+                    page = self.cf_result(url, page.json()['uuid'], **kwargs)
                     sleep(10)
-                    return self.cf_result(url, page.json()['uuid'], **kwargs)
+                    return page
+                else:
+                    warnings.warn(f'Error scanning ({url}): {page.json()['errors']}')
         except Exception as e:
             warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
         return None
