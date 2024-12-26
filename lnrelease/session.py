@@ -196,14 +196,19 @@ class Session(requests.Session):
         try:
             REQUEST_STATS['api.cloudflare.com'].cache += 1
             with limiter('api.cloudflare.com'):
-                page = self.post(f'{CF_API}/v2/scan', json={'url': url}, **kwargs)
-                if page.status_code == 200:
-                    sleep(20)
-                    page = self.cf_result(url, page.json()['uuid'], **kwargs)
-                    sleep(10)
-                    return page
-                else:
-                    warnings.warn(f'Error scanning ({url}): {page.json()['errors']}')
+                for _ in range(5):
+                    page = self.post(f'{CF_API}/v2/scan', json={'url': url}, **kwargs)
+                    match page.status_code:
+                        case 200:
+                            sleep(20)
+                            page = self.cf_result(url, page.json()['uuid'], **kwargs)
+                            return page
+                        case 409:
+                            sleep(60)
+                            continue
+                        case _:
+                            warnings.warn(f'Error scanning ({url}): {page.json()["errors"]}')
+                            break
         except Exception as e:
             warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
         return None
@@ -222,6 +227,7 @@ class Session(requests.Session):
         cutoff = now - timedelta(days=refresh + random.randrange(refresh * 4))
         if time < cutoff:
             link = f'http://web.archive.org/save/{url}'
+            REQUEST_STATS['web.archive.org'].cache += 1
             save = self.try_get(link, retries=2, **kwargs)
             if save and save.status_code == 200:
                 return save
