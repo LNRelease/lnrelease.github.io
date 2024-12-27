@@ -1,5 +1,6 @@
 import datetime
 import warnings
+from random import random
 
 from session import Session
 from utils import Info, Series
@@ -41,6 +42,8 @@ def parse(session: Session, serieskey: str, slug: str) -> set[Info]:
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     # everything because events only has digital releases
+    today = datetime.date.today()
+
     with Session() as session:
         params = {
             'format': 'json',
@@ -56,6 +59,10 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         and 'pulp' not in serie['tags']):
                     s = Series(None, serie['title'])
                     series.add(s)
+                    prev = {i for i in info if i.serieskey == s.key}
+                    if random() > 0.5 and prev and (
+                            today - max(i.date for i in prev)).days > 365:
+                        continue
                     try:
                         inf = parse(session, s.key, serie['slug'])
                         info -= inf
