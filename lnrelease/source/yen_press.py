@@ -14,7 +14,7 @@ PAGES = Path('yen_press.csv')
 
 TITLES = re.compile(r'https://yenpress\.com/titles/\d{13}-(?!.*(manga-vol|vol-\d+-manga|vol-\d+-comic|-chapter-\d+))[\w-]+')
 LINK = re.compile(r'(https://yenpress.com)?/titles/(?P<isbn>\d{13})-(?P<name>[\w-]+)')
-OMNIBUS = re.compile(r'contains(?: the complete)? volumes (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)!', flags=re.IGNORECASE)
+OMNIBUS = re.compile(r'contains(?: the complete)? volumes (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)', flags=re.IGNORECASE)
 START = re.compile(r'(?P<start>.+?) (?:omnibus |collector\'s edition |volume )+\d+(?: \(light novel\))?', flags=re.IGNORECASE)
 
 
@@ -61,7 +61,7 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     pages = Table(PAGES, Key)
     today = datetime.date.today()
-    cutoff = today - datetime.timedelta(days=365)
+    cutoff = today - datetime.timedelta(days=180)
     # no date = not light novel
     skip = {row.key for row in pages if random() > 0.2 and (not row.date or row.date < cutoff)}
 

@@ -84,7 +84,7 @@ def parse(jsn: dict) -> tuple[Series, Info] | None:
     if match := FORMAT.fullmatch(title):  # extract format if present
         title = match.group('title')
         format = match.group('format')
-    if ((vol := OMNIBUS.search(jsn['storedetaileddescription']))
+    if ((vol := OMNIBUS.search(jsn['storedetaileddescription']) or OMNIBUS.search(jsn['metataghtml']))
             and (start := START.fullmatch(title))):  # rename omnibus volume
         title = f'{start.group("start")} Volume {vol.group("volume")}'
 
