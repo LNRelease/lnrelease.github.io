@@ -68,7 +68,6 @@
 |Jan 28|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-novel-7 "Kodansha")|7|Kodansha|🖥️📖|
 |Jan 28|[Shannon Wants to Die!](https://j-novel.club/series/shannon-wants-to-die#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jan 28|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
-|Jan 28|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Jan 29|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-9 "J-Novel Club")|6.1|J-Novel Club|🖥️|
 |Jan 30|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jan 30|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️|
@@ -90,6 +89,7 @@
 |Feb 04|[The Hero-Killing Bride](https://j-novel.club/series/the-hero-killing-bride#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 04|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Feb 04|[The Reincarnated Princess Spends Another Day Skipping Story Routes](https://j-novel.club/series/the-reincarnated-princess-spends-another-day-skipping-story-routes#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Feb 04|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Feb 05|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Feb 05|[Seventh](https://j-novel.club/series/seventh#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Feb 05|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -227,6 +227,7 @@
 |Apr 08|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9798855410518-the-ephemeral-scenes-of-setsuna-s-journey-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Apr 10|[Disowned but Not Disheartened! Life Is Good with Overpowered Magic](https://j-novel.club/series/disowned-but-not-disheartened-life-is-good-with-overpowered-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 11|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Apr 11|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-2 "J-Novel Club")|2.1|J-Novel Club|🖥️|
 |Apr 14|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-17 "J-Novel Club")|17|J-Novel Club|📖|
 |Apr 14|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-14 "J-Novel Club")|14|J-Novel Club|📖|
 |Apr 14|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-12 "J-Novel Club")|12|J-Novel Club|📖|
@@ -311,6 +312,7 @@
 |May 20|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |May 20|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371234-the-unimplemented-overlords-have-joined-the-party-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |May 27|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767829/my-unique-skill-makes-me-op-even-at-level-1-vol-8-light-novel-by-miki-nazuna/9781647293857 "Kodansha")|8|Kodansha|📖|
+|May 27|[The Reincarnator and the Goblin Maiden's Happily Ever After: Using a Past Life to Keep a Joyful Wife](https://j-novel.club/series/the-reincarnator-and-the-goblin-maiden-s-happily-ever-after-using-a-past-life-to-keep-a-joyful-wife#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 27|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |May 30|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 
@@ -361,6 +363,7 @@
 |Jul 01|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Jul 08|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Jul 08|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
+|Jul 09|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-10 "J-Novel Club")|6.2|J-Novel Club|🖥️|
 |Jul 14|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-31 "J-Novel Club")|10|J-Novel Club|📖|
 |Jul 14|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-4 "J-Novel Club")|4|J-Novel Club|📖|
 |Jul 14|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-7 "J-Novel Club")|7-9|J-Novel Club|📖|
