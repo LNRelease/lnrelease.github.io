@@ -35,6 +35,7 @@ PUBLISHERS = {
     'J-NOVEL HEART': 'J-Novel Club',
     'KNOPF PUBLISHERS': '',
     'KODANSHA COMICS': '',
+    'LoveLove': 'TOKYOPOP',
     'MAD NORWEGIAN PRESS': '',
     'NET COMICS': '',
     'ONE PEACE': 'One Peace Books',

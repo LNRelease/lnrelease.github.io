@@ -125,11 +125,11 @@ def parse(session: Session, links: list[str], *,
         publisher = publisher or match.group('publisher')
         date = date or match.group('date')
     if not date:
-        warnings.warn(f'No date found: {page.url}')
+        warnings.warn(f'No date found: {links[0]}')
         return None
     date = strpdate(date)
     if not date:
-        warnings.warn(f'Error parsing date: {date} ({page.url})')
+        warnings.warn(f'Error parsing date: {date} ({links[0]})')
         return None
 
     info = utils.Info(series.key, links[0], NAME, publisher, title, index, format, isbn, date)
