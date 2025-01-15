@@ -218,6 +218,7 @@
 |:---:|---|:---:|---|:---:|
 |Apr 02|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
 |Apr 02|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Apr 03|[The Hero-Killing Bride](https://j-novel.club/series/the-hero-killing-bride#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 04|[Housekeeping Mage from Another World: Making Your Adventures Feel Like Home!](https://j-novel.club/series/housekeeping-mage-from-another-world-making-your-adventures-feel-like-home#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Apr 04|[When Supernatural Battles Became Commonplace](https://j-novel.club/series/when-supernatural-battles-became-commonplace#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Apr 08|[Apparently, Disillusioned Adventurers Will Save the World](https://yenpress.com/titles/9798855408515-apparently-disillusioned-adventurers-will-save-the-world-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
@@ -257,6 +258,7 @@
 |Apr 22|[One Piece: Heroines](https://www.viz.com/manga-books/novel/one-piece-novels-volume-1/product/8285/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Apr 22|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Apr 22|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
+|Apr 23|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Apr 24|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 28|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Apr 29|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -265,7 +267,6 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|May 01|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-10 "J-Novel Club")|9|J-Novel Club|🖥️|
 |May 06|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 06|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 06|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-light-novel-vol-20-5/ "Seven Seas Entertainment")|20.5|Seven Seas Entertainment|🖥️📖|
@@ -296,6 +297,7 @@
 |May 13|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409765-the-irregular-at-magic-high-school-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
 |May 13|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379704-the-vexations-of-a-shut-in-vampire-princess-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |May 14|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|May 15|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-10 "J-Novel Club")|9|J-Novel Club|🖥️|
 |May 19|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |May 20|[Catalog of Wonders](https://yenpress.com/titles/9781975393557-catalog-of-wonders-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |May 20|[Classroom for Heroes](https://yenpress.com/titles/9781975378745-classroom-for-heroes-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
