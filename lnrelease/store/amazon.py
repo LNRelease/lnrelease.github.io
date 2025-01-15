@@ -95,8 +95,10 @@ def parse(session: Session, links: list[str], *,
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
     REQUEST_STATS['www.amazon.com'].cache += 1
-    page = session.cf_scan(links[0], refresh=30)
-    if not page:
+    page = session.cf_search(links[0], refresh=30)
+    if not page or b'"/errors/validateCaptcha"' in page.content:
+        page = session.cf_create(links[0])
+    if not page or b'"/errors/validateCaptcha"' in page.content:
         return None
     soup = BeautifulSoup(page.content, 'lxml')
 

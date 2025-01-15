@@ -175,7 +175,7 @@ class Session(requests.Session):
             warnings.warn(f'Error reading scan ({url}|{uuid}): {e}', RuntimeWarning)
         return None
 
-    def cf_scan(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
+    def cf_search(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
         if not CF_ACCOUNT:
             return None
 
@@ -192,7 +192,12 @@ class Session(requests.Session):
                 page = self.cf_result(url, task['uuid'], **kwargs)
                 if page:
                     return page
+        return None
 
+    def cf_create(self, url: str, **kwargs) -> requests.Response | None:
+        if not CF_ACCOUNT:
+            return None
+        kwargs.setdefault('headers', {}).update(CF_HEADERS)
         try:
             REQUEST_STATS['api.cloudflare.com'].cache += 1
             with limiter('api.cloudflare.com'):
@@ -212,6 +217,9 @@ class Session(requests.Session):
         except Exception as e:
             warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
         return None
+
+    def cf_scan(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
+        return self.cf_search(url, refresh, **kwargs) or self.cf_create(url, **kwargs)
 
     def ia_cache(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
         now = datetime.now(timezone.utc)
