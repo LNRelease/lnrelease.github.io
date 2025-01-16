@@ -5,7 +5,7 @@
 
     async function track(_, name = '', type = 'event') {
         try {
-            const res = await fetch('https://analytics.eu.umami.is/api/send', {
+            const res = await fetch('https://cloud.umami.is/api/send', {
                 body: JSON.stringify({
                     type: type,
                     payload: {
