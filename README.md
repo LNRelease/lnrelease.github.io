@@ -254,6 +254,7 @@
 |Apr 15|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855410846-wolf-parchment-new-theory-spice-wolf-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Apr 17|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 18|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Apr 18|[The 100th Time's the Charm: She Was Executed 99 Times, So How Did She Unlock “Super Love” Mode?!](https://j-novel.club/series/the-100th-time-s-the-charm#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Apr 18|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Apr 22|[Dr. Mashirito's Ultimate Manga Techniques](https://www.viz.com/manga-books/novel/dr-mashirito-s-ultimate-manga-techniques/product/8284/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Apr 22|[One Piece: Heroines](https://www.viz.com/manga-books/novel/one-piece-novels-volume-1/product/8285/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
