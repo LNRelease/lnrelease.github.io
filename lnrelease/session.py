@@ -18,7 +18,7 @@ CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (
 CF_ACCOUNT = os.getenv('CF_ACCOUNT')
 CF_KEY = os.getenv('CF_KEY')
 CF_HEADERS = {'Content-Type': 'application/json', 'Authorization': f'Bearer {CF_KEY}'}
-CF_API = f'https://api.cloudflare.com/client/v4/accounts/{CF_ACCOUNT}/urlscanner'
+CF_API = f'https://api.cloudflare.com/client/v4/accounts/{CF_ACCOUNT}/urlscanner/v2'
 
 SHORTENERS = {
     'a.co',
@@ -108,7 +108,7 @@ class Limiter:
 LIMITERS: dict[str, Limiter] = {}
 
 
-def limiter(netloc: str) -> Lock:
+def limiter(netloc: str) -> Limiter:
     with RATE_LIMITER:
         if netloc not in LIMITERS:
             LIMITERS[netloc] = Limiter(netloc)
@@ -159,17 +159,20 @@ class Session(requests.Session):
     def cf_result(self, url: str, uuid: str, **kwargs) -> requests.Response | None:
         try:
             for _ in range(10):
-                page = super().get(f'{CF_API}/v2/result/{uuid}', **kwargs)
+                page = self.try_get(f'{CF_API}/result/{uuid}', retries=2, **kwargs)
                 if (page is None
                     or page.status_code == 400
                     or page.status_code == 404
                         and not page.json().get('task')):
                     return None
                 elif page.status_code == 200:
-                    if not page.json()['task']['success']:
+                    jsn = page.json()
+                    if not jsn['task']['success']:
                         return None
-                    response = page.json()['lists']['hashes'][0]
-                    return super().get(f'{CF_API}/v2/responses/{response}', **kwargs)
+                    delta = datetime.fromisoformat(jsn['task']['timeEnd']) - datetime.now(timezone.utc)
+                    sleep(max(0, delta.total_seconds()))
+                    response = jsn['lists']['hashes'][0]
+                    return self.try_get(f'{CF_API}/responses/{response}', retries=2, **kwargs)
                 sleep(10)
         except Exception as e:
             warnings.warn(f'Error reading scan ({url}|{uuid}): {e}', RuntimeWarning)
@@ -179,42 +182,37 @@ class Session(requests.Session):
         if not CF_ACCOUNT:
             return None
 
-        now = datetime.now(timezone.utc)
-        cutoff = now - timedelta(days=365 if refresh == -1
-                                 else refresh + random.randrange(refresh * 2))
         kwargs.setdefault('headers', {}).update(CF_HEADERS)
-        params = {'date_start': f'{cutoff.isoformat()[:19]}Z', 'page_url': url}
-        page = self.try_get(f'{CF_API}/scan', retries=2, params=params, **kwargs)
-        if page:
-            tasks: list[dict] = page.json()['result']['tasks']
-            tasks.sort(key=lambda x: x['time'])
-            for task in reversed(tasks):
-                page = self.cf_result(url, task['uuid'], **kwargs)
-                if page:
+        delta = 365 if refresh == -1 else refresh + random.randrange(refresh * 2)
+        cutoff = datetime.now(timezone.utc) - timedelta(days=delta)
+        query = f'page.url:"{url}" AND date:>{cutoff.strftime("%Y-%m-%d")}'
+        if page := self.try_get(f'{CF_API}/search', retries=2, params={'q': query}, **kwargs):
+            results: list[dict] = page.json()['results']
+            results.sort(key=lambda x: x['task']['time'], reverse=True)
+            for result in results:
+                if page := self.cf_result(url, result['task']['uuid'], **kwargs):
                     return page
         return None
 
     def cf_create(self, url: str, **kwargs) -> requests.Response | None:
         if not CF_ACCOUNT:
             return None
+
         kwargs.setdefault('headers', {}).update(CF_HEADERS)
         try:
             REQUEST_STATS['api.cloudflare.com'].cache += 1
-            with limiter('api.cloudflare.com'):
+            with limiter(urlparse(url).netloc).lock:
                 for _ in range(5):
-                    page = self.post(f'{CF_API}/v2/scan', json={'url': url}, **kwargs)
+                    page = self.post(f'{CF_API}/scan', json={'url': url}, **kwargs)
                     match page.status_code:
                         case 200:
                             sleep(20)
-                            page = self.cf_result(url, page.json()['uuid'], **kwargs)
-                            return page
+                            return self.cf_result(url, page.json()['uuid'], **kwargs)
                         case 409:
                             sleep(60)
                             continue
-                        case _:
-                            warnings.warn(f'Error scanning ({url}): {page.json()["errors"]}')
-                            break
-        except Exception as e:
+                    raise requests.exceptions.RequestException(page.json()['errors'])
+        except requests.exceptions.RequestException as e:
             warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
         return None
 
@@ -231,7 +229,7 @@ class Session(requests.Session):
             match = IA.fullmatch(page.url)
             time = datetime.strptime(match.group('time') + 'Z', '%Y%m%d%H%M%S%z')
         else:
-            time = datetime(1, 1, 1)
+            time = datetime(1, 1, 1, tzinfo=timezone.utc)
         cutoff = now - timedelta(days=refresh + random.randrange(refresh * 4))
         if time < cutoff:
             link = f'http://web.archive.org/save/{url}'
