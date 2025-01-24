@@ -46,7 +46,6 @@
 |Jan 21|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Jan 21|[Gods' Games We Play](https://yenpress.com/titles/9798855400571-gods-games-we-play-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 21|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975379407-hell-is-dark-with-no-flowers-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
-|Jan 21|[Hero Syndrome](https://yenpress.com/titles/9798855407631-hero-syndrome-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 21|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9798855402056-if-the-villainess-and-villain-met-and-fell-in-love-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Jan 21|[Love Unseen Beneath the Clear Night Sky](https://yenpress.com/titles/9798855400717-love-unseen-beneath-the-clear-night-sky "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 21|[My Happy Marriage](https://yenpress.com/titles/9798855411102-my-happy-marriage-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
@@ -106,6 +105,7 @@
 |Feb 11|[Lycoris Recoil: Ordinary Days](https://yenpress.com/titles/9781975393502-lycoris-recoil-ordinary-days "Yen Press")|1|Yen Press|🖥️📖|
 |Feb 11|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Feb 11|[True Love Fades Away When the Contract Ends – Music of the Flower Gardens and Heavens](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-music-of-the-flower-gardens-and-heavens-light-novel-volume-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
+|Feb 12|[Hero Syndrome](https://yenpress.com/titles/9798855407631-hero-syndrome-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Feb 12|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 13|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️|
 |Feb 14|[A Cozy Life in the Woods with the White Witch](https://j-novel.club/series/a-cozy-life-in-the-woods-with-the-white-witch#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -138,9 +138,7 @@
 |Feb 24|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 24|[Lucia and the Loom: Weaving Her Way to Happiness](https://j-novel.club/series/lucia-and-the-loom-weaving-her-way-to-happiness#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 24|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Feb 25|[Brunhild and Kriemhild](https://yenpress.com/titles/9798855410822-brunhild-and-kriemhild "Yen Press")|3|Yen Press|🖥️📖|
 |Feb 25|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-11-5/ "Seven Seas Entertainment")|11.5|Seven Seas Entertainment|📖|
-|Feb 25|[Hollow Regalia](https://yenpress.com/titles/9781975393946-hollow-regalia-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Feb 25|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-7-light-novel "Kodansha")|7|Kodansha|🖥️📖|
 |Feb 25|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Feb 25|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -155,9 +153,10 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Mar 03|[No One Gets Past This Gatekeeper: The Unwanted Warrior Guards His New Post](https://j-novel.club/series/no-one-gets-past-this-gatekeeper-the-unwanted-warrior-guards-his-new-post#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Mar 04|[Brunhild and Kriemhild](https://yenpress.com/titles/9798855410822-brunhild-and-kriemhild "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 04|[Did You Think My Yuri Was Just for Show?](https://yenpress.com/titles/9781975397661-did-you-think-my-yuri-was-just-for-show "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 04|[Hollow Regalia](https://yenpress.com/titles/9781975393946-hollow-regalia-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Mar 04|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Mar 04|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375591-that-time-i-got-reincarnated-as-a-slime-vol-20-light-novel "Yen Press")|20|Yen Press|🖥️📖|
 |Mar 04|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Mar 04|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Mar 06|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -173,6 +172,7 @@
 |Mar 11|[Love Is Dark](https://yenpress.com/titles/9781975397814-love-is-dark-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 11|[Miri Lives in the Cat's Eyes](https://yenpress.com/titles/9798855400250-miri-lives-in-the-cat-s-eyes "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 11|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
+|Mar 11|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9781975375591-that-time-i-got-reincarnated-as-a-slime-vol-20-light-novel "Yen Press")|20|Yen Press|🖥️📖|
 |Mar 12|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Mar 12|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 12|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -246,6 +246,7 @@
 |Apr 15|[Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle](https://yenpress.com/titles/9798855409512-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-familia-chronicle-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 15|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390365-kunon-the-sorcerer-can-see-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Apr 15|[My First Love's Kiss](https://yenpress.com/titles/9798855407372-my-first-love-s-kiss-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 15|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s-daughter-is-my-ex#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Apr 15|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855407396-reign-of-the-seven-spellblades-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Apr 15|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975393267-re-starting-life-in-another-world-short-story-collection-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 15|[Sword Art Online Alternative Clover's Regret](https://yenpress.com/titles/9781975390723-sword-art-online-alternative-clover-s-regret-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
