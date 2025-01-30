@@ -284,6 +284,7 @@
 |May 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-30 "J-Novel Club")|9|J-Novel Club|📖|
 |May 12|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 12|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-29 "J-Novel Club")|29|J-Novel Club|📖|
+|May 12|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 12|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-23 "J-Novel Club")|23-24|J-Novel Club|📖|
 |May 13|[Bride of the Barrier Master](https://yenpress.com/titles/9798855417852-bride-of-the-barrier-master-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |May 13|[Date A Live](https://yenpress.com/titles/9781975372392-date-a-live-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
