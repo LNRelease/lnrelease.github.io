@@ -75,6 +75,7 @@
 |Jan 30|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️|
 |Jan 30|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Jan 30|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
+|Jan 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/tsukimichi-moonlit-fantasy/#Volume%2005 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Jan 31|[Dagashi-ya Yahagi: Setting Up a Sweets Shop in Another World](https://j-novel.club/series/dagashi-ya-yahagi-setting-up-a-sweets-shop-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 31|[Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness](https://crossinfworld.com/Dinners-with-My-Darling-How-the-Former-Monster-King-Ate-Her-Way-to-Happiness-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Jan 31|[How I Swapped Places with the Villainess, Beat Up Her Fiancé, and Found True Love](https://crossinfworld.com/How-I-Swapped-Places-with-the-Villainess-Beat-Up-Her-Fiance-and-Found-True-Love-Vol-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
@@ -97,6 +98,7 @@
 |Feb 05|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 05|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 06|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Feb 06|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
 |Feb 06|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Feb 07|[Reincarnated Mage with Inferior Eyes: Breezing through the Future as an Oppressed Ex-Hero](https://j-novel.club/series/reincarnated-mage-with-inferior-eyes#volume-8 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Feb 10|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-21 "J-Novel Club")|21|J-Novel Club|📖|
@@ -107,6 +109,7 @@
 |Feb 11|[True Love Fades Away When the Contract Ends – Music of the Flower Gardens and Heavens](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-music-of-the-flower-gardens-and-heavens-light-novel-volume-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Feb 12|[Hero Syndrome](https://yenpress.com/titles/9798855407631-hero-syndrome-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Feb 12|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Feb 13|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
 |Feb 13|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️|
 |Feb 14|[A Cozy Life in the Woods with the White Witch](https://j-novel.club/series/a-cozy-life-in-the-woods-with-the-white-witch#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 14|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
@@ -144,6 +147,7 @@
 |Feb 25|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Feb 26|[Fiancée No More: The Forsaken Lady, the Prince, and Their Make-Believe Love](https://j-novel.club/series/fianc-e-no-more-the-forsaken-lady-the-prince-and-their-make-believe-love#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 26|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Feb 27|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️|
 |Feb 28|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 28|[The Drab Princess, the Black Cat, and the Satisfying Break-up](https://crossinfworld.com/The-Drab-Princess-the-Black-Cat-and-the-Satisfying-Break-up-Vol-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 |Feb 28|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -153,8 +157,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Mar 03|[No One Gets Past This Gatekeeper: The Unwanted Warrior Guards His New Post](https://j-novel.club/series/no-one-gets-past-this-gatekeeper-the-unwanted-warrior-guards-his-new-post#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
-|Mar 04|[Brunhild and Kriemhild](https://yenpress.com/titles/9798855410822-brunhild-and-kriemhild "Yen Press")|3|Yen Press|🖥️📖|
-|Mar 04|[Did You Think My Yuri Was Just for Show?](https://yenpress.com/titles/9781975397661-did-you-think-my-yuri-was-just-for-show "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 04|[Brunhild and Kriemhild](https://yenpress.com/titles/9798855410839-brunhild-and-kriemhild "Yen Press")|3|Yen Press|🖥️|
 |Mar 04|[Hollow Regalia](https://yenpress.com/titles/9781975393946-hollow-regalia-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Mar 04|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 04|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
@@ -167,9 +170,10 @@
 |Mar 10|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Mar 10|[Lady Rose Just Wants to Be a Commoner](https://j-novel.club/series/lady-rose-just-wants-to-be-a-commoner#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 10|[They Don't Know I'm Too Young for the Adventurer's Guild](https://j-novel.club/series/they-don-t-know-i-m-too-young-for-the-adventurer-s-guild#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Mar 11|[Brunhild and Kriemhild](https://yenpress.com/titles/9798855410822-brunhild-and-kriemhild "Yen Press")|3|Yen Press|📖|
 |Mar 11|[D-Genesis](https://j-novel.club/series/d-genesis#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
-|Mar 11|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
-|Mar 11|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
+|Mar 11|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
+|Mar 11|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Mar 11|[Love Is Dark](https://yenpress.com/titles/9781975397814-love-is-dark-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 11|[Miri Lives in the Cat's Eyes](https://yenpress.com/titles/9798855400250-miri-lives-in-the-cat-s-eyes "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 11|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
@@ -184,6 +188,7 @@
 |Mar 18|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388393-a-certain-magical-index-nt-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Mar 18|[Days with My Stepsister](https://yenpress.com/titles/9781975372118-days-with-my-stepsister-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Mar 18|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975344054-death-march-to-the-parallel-world-rhapsody-vol-23-light-novel "Yen Press")|23|Yen Press|🖥️📖|
+|Mar 18|[Did You Think My Yuri Was Just for Show?](https://yenpress.com/titles/9781975397661-did-you-think-my-yuri-was-just-for-show "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 18|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Mar 18|[Is It Wrong to Try to Pick Up Girls in a Dungeon? Minor Myths and Legends](https://yenpress.com/titles/9798855410983-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-minor-myths-and-legends-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 18|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975388737-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
@@ -202,7 +207,7 @@
 |Mar 24|[Otherside Picnic](https://j-novel.club/series/otherside-picnic#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 24|[The Labyrinth of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Mar 25|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/745913/am-i-actually-the-strongest-6-light-novel-by-sai-sumimori/9781647293567 "Kodansha")|6|Kodansha|📖|
-|Mar 25|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|Mar 25|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Mar 25|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 25|[My Troublesome Man](https://tokyopop.com/products/9781427877543_my-troublesome-man-light-novel "TOKYOPOP")|3|TOKYOPOP|📖|
 |Mar 26|[Black Summoner](https://j-novel.club/series/black-summoner#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
@@ -213,6 +218,7 @@
 |Mar 27|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
 |Mar 28|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 28|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|Mar 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/tsukimichi-moonlit-fantasy/#Volume%2006 "Hanashi Media")|6|Hanashi Media|🖥️|
 |Mar 31|[Dahlia in Bloom: Crafting a Fresh Start with Magical Tools](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 31|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 |Mar 31|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-7.html "Cross Infinite World")|7|Cross Infinite World|🖥️|
@@ -330,6 +336,7 @@
 |May 27|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/767829/my-unique-skill-makes-me-op-even-at-level-1-vol-8-light-novel-by-miki-nazuna/9781647293857 "Kodansha")|8|Kodansha|📖|
 |May 27|[The Reincarnator and the Goblin Maiden's Happily Ever After: Using a Past Life to Keep a Joyful Wife](https://j-novel.club/series/the-reincarnator-and-the-goblin-maiden-s-happily-ever-after-using-a-past-life-to-keep-a-joyful-wife#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 27|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
+|May 29|[The Ideal Sponger Life](https://j-novel.club/series/the-ideal-sponger-life#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |May 30|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 
 ### June
