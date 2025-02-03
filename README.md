@@ -148,6 +148,7 @@
 |Feb 25|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Feb 26|[Fiancée No More: The Forsaken Lady, the Prince, and Their Make-Believe Love](https://j-novel.club/series/fianc-e-no-more-the-forsaken-lady-the-prince-and-their-make-believe-love#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 26|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Feb 27|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️|
 |Feb 27|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Feb 28|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 28|[The Drab Princess, the Black Cat, and the Satisfying Break-up](https://crossinfworld.com/The-Drab-Princess-the-Black-Cat-and-the-Satisfying-Break-up-Vol-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
@@ -208,7 +209,7 @@
 |Mar 24|[Otherside Picnic](https://j-novel.club/series/otherside-picnic#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 24|[The Labyrinth of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Mar 25|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/745913/am-i-actually-the-strongest-6-light-novel-by-sai-sumimori/9781647293567 "Kodansha")|6|Kodansha|📖|
-|Mar 25|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|Mar 25|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Mar 25|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Mar 25|[My Troublesome Man](https://tokyopop.com/products/9781427877543_my-troublesome-man-light-novel "TOKYOPOP")|3|TOKYOPOP|📖|
 |Mar 26|[Black Summoner](https://j-novel.club/series/black-summoner#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
