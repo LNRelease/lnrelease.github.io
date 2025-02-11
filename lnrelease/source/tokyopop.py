@@ -47,7 +47,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
         params = {'sort_by': 'created-descending'}
         for i in range(1, limit + 1):
             params['page'] = i
-            page = session.get(site, params=params, ia=True)
+            page = session.get(site, params=params, cf=True, ia=True)
             soup = BeautifulSoup(page.content, 'lxml')
 
             results = soup.find(id='CollectionAjaxContent').find_all(

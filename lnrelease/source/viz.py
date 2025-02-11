@@ -17,7 +17,7 @@ ISBN = re.compile(r'e?ISBN-13')
 
 def parse(session: Session, link: str) -> tuple[Series, set[Info], datetime.date] | None:
     info = set()
-    page = session.get(link, ia=True)
+    page = session.get(link, cf =True, ia=True)
     soup = BeautifulSoup(page.content, 'lxml')
     product = soup.find(id='product_row')
     if not product:

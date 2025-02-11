@@ -208,7 +208,7 @@ class Session(requests.Session):
                         case 200:
                             sleep(20)
                             return self.cf_result(url, page.json()['uuid'], **kwargs)
-                        case 409:
+                        case 409 | 429:
                             sleep(60)
                             continue
                     raise requests.exceptions.RequestException(page.json()['errors'])
