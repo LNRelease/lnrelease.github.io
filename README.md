@@ -215,6 +215,7 @@
 |May 06|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 06|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-light-novel-vol-20-5/ "Seven Seas Entertainment")|20.5|Seven Seas Entertainment|🖥️📖|
 |May 06|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|May 07|[The Legendary Witch Is Reborn as an Oppressed Princess](https://j-novel.club/series/the-legendary-witch-is-reborn-as-an-oppressed-princess#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |May 09|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-28 "J-Novel Club")|28|J-Novel Club|🖥️|
 |May 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-30 "J-Novel Club")|9|J-Novel Club|📖|
 |May 12|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
