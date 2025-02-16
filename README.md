@@ -257,6 +257,7 @@
 |May 20|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |May 20|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |May 20|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9798855400939-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|May 20|[The Great Cleric](https://j-novel.club/series/the-great-cleric#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |May 20|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975391966-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |May 20|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |May 20|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371234-the-unimplemented-overlords-have-joined-the-party-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
