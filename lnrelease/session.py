@@ -127,7 +127,8 @@ class Session(requests.Session):
             total=total,
             backoff_factor=backoff_factor,
             respect_retry_after_header=True,
-            status_forcelist=status_forcelist
+            status_forcelist=status_forcelist,
+            raise_on_status=False,
         )
         adapter = HTTPAdapter(max_retries=retry)
         self.mount('http://', adapter)
