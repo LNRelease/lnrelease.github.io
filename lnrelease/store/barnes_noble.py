@@ -41,12 +41,14 @@ def hash_link(link: str) -> int:
 
 def normalise(session: Session, link: str) -> str | None:
     u = urlparse(link)
+    query = urlencode([(k, v) for k, v in parse_qsl(u.query) if k == 'ean'])
     if not PATH.fullmatch(u.path):
         res = session.resolve(link, force=True, headers=CHROME)
         if res != link:
             return normalise(session, res)
+        if query and u.path == '/w':
+            return urlunparse(('https', 'www.barnesandnoble.com', '/w', '', query, ''))
         return None
-    query = urlencode([(k, v) for k, v in parse_qsl(u.query) if k == 'ean'])
     return urlunparse(('https', 'www.barnesandnoble.com', u.path, '', query, ''))
 
 
