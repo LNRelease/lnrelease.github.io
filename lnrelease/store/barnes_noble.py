@@ -46,7 +46,7 @@ def normalise(session: Session, link: str) -> str | None:
         res = session.resolve(link, force=True, headers=CHROME)
         if res != link:
             return normalise(session, res)
-        if query and u.path == '/w':
+        if query and u.path.startswith('/w'):
             return urlunparse(('https', 'www.barnesandnoble.com', '/w', '', query, ''))
         return None
     return urlunparse(('https', 'www.barnesandnoble.com', u.path, '', query, ''))
@@ -56,7 +56,10 @@ def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    id = PATH.fullmatch(urlparse(links[0]).path).group('id')
+    match = PATH.fullmatch(urlparse(links[0]).path)
+    if not match:
+        return None
+    id = match.group('id')
     page = session.get(FORMATS, params={'workId': id}, headers=CHROME)
     soup = BeautifulSoup(page.content, 'lxml')
 
