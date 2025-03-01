@@ -165,6 +165,7 @@
 |Apr 08|[Magical Explorer](https://yenpress.com/titles/9798855405323-magical-explorer-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Apr 08|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975376444-the-demon-sword-master-of-excalibur-academy-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Apr 08|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9798855410518-the-ephemeral-scenes-of-setsuna-s-journey-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
+|Apr 09|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 10|[Disowned but Not Disheartened! Life Is Good with Overpowered Magic](https://j-novel.club/series/disowned-but-not-disheartened-life-is-good-with-overpowered-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 11|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Apr 11|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-2 "J-Novel Club")|2.1|J-Novel Club|🖥️|
@@ -201,7 +202,6 @@
 |Apr 24|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 24|[Three Cheats from Three Goddesses: The Broke Baron's Youngest Wants a Relaxing Life](https://j-novel.club/series/three-cheats-from-three-goddesses-the-broke-baron-s-youngest-wants-a-relaxing-life#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Apr 28|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
-|Apr 29|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 29|[Magic Stone Gourmet: Eating Magical Power Made Me The Strongest](https://j-novel.club/series/magic-stone-gourmet-eating-magical-power-made-me-the-strongest#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Apr 30|[Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness](https://crossinfworld.com/Dinners-with-My-Darling-How-the-Former-Monster-King-Ate-Her-Way-to-Happiness-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Apr 30|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
@@ -331,6 +331,7 @@
 |Jun 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Jun 18|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jun 19|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Jun 24|[Lady Rose Just Wants to Be a Commoner](https://j-novel.club/series/lady-rose-just-wants-to-be-a-commoner#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 24|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/778959/saving-80000-gold-in-another-world-for-my-retirement-8-light-novel-by-funa/9781647294427 "Kodansha")|8|Kodansha|📖|
 |Jun 24|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Jun 30|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -382,6 +383,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Aug 01|[D-Genesis](https://j-novel.club/series/d-genesis#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Aug 05|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Aug 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-32 "J-Novel Club")|11|J-Novel Club|📖|
 |Aug 11|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-1 "J-Novel Club")|1-2|J-Novel Club|📖|
 |Aug 11|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
