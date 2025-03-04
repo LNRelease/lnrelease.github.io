@@ -292,6 +292,7 @@
 |Jun 04|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 |Jun 04|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 05|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jun 09|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 09|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-38 "J-Novel Club")|36-38|J-Novel Club|📖|
 |Jun 09|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
 |Jun 10|[Agents of the Four Seasons](https://yenpress.com/titles/9781975393908-agents-of-the-four-seasons-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
@@ -325,12 +326,14 @@
 |Jun 10|[This Is the Wizard's Secret Weapon](https://yenpress.com/titles/9798855408690-this-is-the-wizard-s-secret-weapon-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 10|[Who Killed the Hero?](https://yenpress.com/titles/9798855408713-who-killed-the-hero-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 12|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jun 16|[Arifureta: From Commonplace to World's Strongest](https://j-novel.club/series/arifureta-from-commonplace-to-world-s-strongest#volume-15 "J-Novel Club")|14|J-Novel Club|🖥️|
 |Jun 17|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
 |Jun 17|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Jun 17|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Jun 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Jun 18|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jun 19|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Jun 24|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-22 "J-Novel Club")|22|J-Novel Club|🖥️|
 |Jun 24|[Lady Rose Just Wants to Be a Commoner](https://j-novel.club/series/lady-rose-just-wants-to-be-a-commoner#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 24|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/778959/saving-80000-gold-in-another-world-for-my-retirement-8-light-novel-by-funa/9781647294427 "Kodansha")|8|Kodansha|📖|
 |Jun 24|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
