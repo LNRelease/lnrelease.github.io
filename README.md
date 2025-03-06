@@ -334,6 +334,7 @@
 |Jun 18|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jun 19|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jun 20|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Jun 23|[Dahlia in Bloom: Crafting a Fresh Start with Magical Tools ~Side Stories~](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-10 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jun 24|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-22 "J-Novel Club")|22|J-Novel Club|🖥️|
 |Jun 24|[Lady Rose Just Wants to Be a Commoner](https://j-novel.club/series/lady-rose-just-wants-to-be-a-commoner#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 24|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/778959/saving-80000-gold-in-another-world-for-my-retirement-8-light-novel-by-funa/9781647294427 "Kodansha")|8|Kodansha|📖|
