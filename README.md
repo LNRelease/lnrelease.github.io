@@ -114,7 +114,6 @@
 |Apr 15|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975393267-re-starting-life-in-another-world-short-story-collection-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 15|[Sword Art Online Alternative Clover's Regret](https://yenpress.com/titles/9781975390723-sword-art-online-alternative-clover-s-regret-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 15|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390648-the-bs-situation-of-tougetsu-umidori-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
-|Apr 15|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Apr 15|[The Detective Is Already Dead](https://yenpress.com/titles/9798855407518-the-detective-is-already-dead-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Apr 15|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391058-the-misfit-of-demon-king-academy-vol-5-light-novel "Yen Press")|5|Yen Press|📖|
 |Apr 15|[The Summer Hikaru Died](https://yenpress.com/titles/9798855410570-the-summer-hikaru-died-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
@@ -127,6 +126,7 @@
 |Apr 18|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Apr 22|[One Piece: Heroines](https://www.viz.com/manga-books/novel/one-piece-novels-volume-1/product/8285/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Apr 22|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
+|Apr 22|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Apr 22|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
 |Apr 23|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Apr 24|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -260,6 +260,7 @@
 |Jun 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Jun 18|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jun 19|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Jun 20|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jun 20|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Jun 23|[Dahlia in Bloom: Crafting a Fresh Start with Magical Tools ~Side Stories~](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-10 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jun 23|[Grimgar of Fantasy and Ash](https://j-novel.club/series/grimar-of-fantasy-and-ash#volume-22 "J-Novel Club")|20|J-Novel Club|🖥️|
@@ -292,6 +293,7 @@
 |Jul 08|[The Theater of Haruhi Suzumiya](https://yenpress.com/titles/9798855416909-the-theater-of-haruhi-suzumiya-light-novel "Yen Press")|12|Yen Press|📖|
 |Jul 08|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411881-to-sir-without-love-i-m-divorcing-you-vol-1-part-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 09|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-10 "J-Novel Club")|6.2|J-Novel Club|🖥️|
+|Jul 11|[Welcome to Japan, Ms. Elf!](https://j-novel.club/series/welcome-to-japan-ms-elf#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jul 14|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-31 "J-Novel Club")|10|J-Novel Club|📖|
 |Jul 14|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-4 "J-Novel Club")|4|J-Novel Club|📖|
 |Jul 14|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-7 "J-Novel Club")|7-9|J-Novel Club|📖|
@@ -307,6 +309,7 @@
 |Jul 15|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975398682-the-contract-between-a-specter-and-a-servant-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 15|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409765-the-irregular-at-magic-high-school-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
 |Jul 15|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379704-the-vexations-of-a-shut-in-vampire-princess-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|Jul 19|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jul 22|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/778962/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-6-light-novel-by-miraijin-a/9781647294397 "Kodansha")|6|Kodansha|📖|
 |Jul 22|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903526-omniscient-reader-s-viewpoint-novel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 22|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
@@ -322,7 +325,6 @@
 |:---:|---|:---:|---|:---:|
 |Aug 01|[D-Genesis](https://j-novel.club/series/d-genesis#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Aug 05|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
-|Aug 05|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Aug 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-32 "J-Novel Club")|11|J-Novel Club|📖|
 |Aug 11|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-1 "J-Novel Club")|1-2|J-Novel Club|📖|
 |Aug 11|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
@@ -350,6 +352,7 @@
 |Aug 12|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391065-the-misfit-of-demon-king-academy-vol-6-light-novel "Yen Press")|6|Yen Press|📖|
 |Aug 12|[The World's Strongest Witch](https://yenpress.com/titles/9798855414356-the-world-s-strongest-witch-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 26|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
+|Aug 26|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 
 ### September
 
