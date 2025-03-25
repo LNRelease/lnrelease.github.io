@@ -12,7 +12,7 @@ from session import Session
 NAME = 'Apple'
 SALT = hash(NAME)
 
-PATH = re.compile(r'/(?P<country>\w+)/(?P<format>book|audiobook)/(?:[\w-]+/)?(?P<id>id\d{10})')
+PATH = re.compile(r'/(?P<country>\w+)/(?P<format>book|audiobook)/(?:[\w%-]+/)?(?P<id>id\d{10})')
 
 
 def equal(a: str, b: str) -> bool:
