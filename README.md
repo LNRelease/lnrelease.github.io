@@ -292,6 +292,7 @@
 |Jul 08|[Sword of the Stallion](https://yenpress.com/titles/9798855407211-sword-of-the-stallion-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 08|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9798855403374-that-time-i-got-reincarnated-as-a-slime-vol-21-light-novel "Yen Press")|21|Yen Press|🖥️📖|
 |Jul 08|[The Theater of Haruhi Suzumiya](https://yenpress.com/titles/9798855416909-the-theater-of-haruhi-suzumiya-light-novel "Yen Press")|12|Yen Press|📖|
+|Jul 08|[The Hero-Killing Bride](https://j-novel.club/series/the-hero-killing-bride#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 08|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411881-to-sir-without-love-i-m-divorcing-you-vol-1-part-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 09|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-10 "J-Novel Club")|6.2|J-Novel Club|🖥️|
 |Jul 11|[Welcome to Japan, Ms. Elf!](https://j-novel.club/series/welcome-to-japan-ms-elf#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
