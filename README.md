@@ -310,6 +310,7 @@
 |Jul 15|[Spy Classroom](https://yenpress.com/titles/9781975391508-spy-classroom-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jul 15|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975398682-the-contract-between-a-specter-and-a-servant-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 15|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409765-the-irregular-at-magic-high-school-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
+|Jul 15|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-3 "J-Novel Club")|2.2|J-Novel Club|🖥️|
 |Jul 15|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379704-the-vexations-of-a-shut-in-vampire-princess-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jul 19|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jul 22|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/778962/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-6-light-novel-by-miraijin-a/9781647294397 "Kodansha")|6|Kodansha|📖|
