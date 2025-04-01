@@ -43,6 +43,7 @@
 |Mar 18|[Is It Wrong to Try to Pick Up Girls in a Dungeon? Minor Myths and Legends](https://yenpress.com/titles/9798855410983-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-minor-myths-and-legends-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 18|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Mar 18|[The Death Mage](https://global.bookwalker.jp/dec54c00eb-aaea-4f8c-9bbe-1fdc99f32a65/ "One Peace Books")|6|One Peace Books|🖥️|
+|Mar 18|[The Former Assassin Who Got Reincarnated as a Noble Girl](https://crossinfworld.com/The-Former-Assassin-Who-Got-Reincarnated-as-a-Noble-Girl-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|📖|
 |Mar 18|[The Other World's Books Depend on the Bean Counter](https://yenpress.com/titles/9781975389208-the-other-world-s-books-depend-on-the-bean-counter-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 18|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855410440-the-world-bows-down-before-my-flames-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 20|[The Countess Is a Coward No More! This Reincarnated Witch Just Wants a Break](https://j-novel.club/series/the-countess-is-a-coward-no-more-this-reincarnated-witch-just-wants-a-break#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -78,6 +79,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Apr 01|[I Got Hit By a Truck But I Wasn't Sent to Another World! What the Heck?! Sermon 23^5](https://j-novel.club/series/i-got-hit-by-a-truck-but-i-wasn-t-sent-to-another-world-what-the-heck#volume-4 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Apr 01|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975388737-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
 |Apr 01|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855407570-the-kept-man-of-the-princess-knight-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Apr 01|[Victoria of Many Faces](https://yenpress.com/titles/9781975390761-victoria-of-many-faces-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
@@ -267,6 +269,7 @@
 |Jun 18|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-49 "J-Novel Club")|47|J-Novel Club|🖥️|
 |Jun 18|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jun 19|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Jun 20|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 20|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jun 20|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Jun 23|[Dahlia in Bloom: Crafting a Fresh Start with Magical Tools ~Side Stories~](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-10 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -304,6 +307,7 @@
 |Jul 08|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411881-to-sir-without-love-i-m-divorcing-you-vol-1-part-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 09|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-10 "J-Novel Club")|6.2|J-Novel Club|🖥️|
 |Jul 10|[The Legendary Witch Is Reborn as an Oppressed Princess](https://j-novel.club/series/the-legendary-witch-is-reborn-as-an-oppressed-princess#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Jul 11|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jul 11|[Welcome to Japan, Ms. Elf!](https://j-novel.club/series/welcome-to-japan-ms-elf#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jul 14|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-31 "J-Novel Club")|10|J-Novel Club|📖|
 |Jul 14|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-4 "J-Novel Club")|4|J-Novel Club|📖|
