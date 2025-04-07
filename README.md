@@ -290,6 +290,7 @@
 |Jul 01|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Jul 02|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 03|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Jul 03|[Yuri Tama: From Third Wheel to Trifecta](https://j-novel.club/series/yuri-tama-from-third-wheel-to-trifecta#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 07|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jul 07|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 08|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
@@ -418,6 +419,12 @@
 
 
 ## 2026
+
+### January
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Jan 06|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/799023/saving-80000-gold-in-another-world-for-my-retirement-9-light-novel-by-funa/9781647295035 "Kodansha")|9|Kodansha|📖|
 
 ### February
 
