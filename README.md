@@ -325,8 +325,10 @@
 |Sep 16|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9798855407273-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Sep 16|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975378387-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Sep 16|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368388-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-9-light-novel "Yen Press")|9|Yen Press|📖|
+|Sep 16|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Sep 16|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975397142-spy-classroom-short-story-collection-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 16|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975387914-the-demon-sword-master-of-excalibur-academy-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
+|Sep 16|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Sep 21|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|📖|
 |Sep 23|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/799030/my-unique-skill-makes-me-op-even-at-level-1-vol-9-light-novel-by-nazuna-miki/9781647294939 "Kodansha")|9|Kodansha|📖|
 
@@ -335,12 +337,21 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Oct 07|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
+|Oct 13|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
+|Oct 13|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-30 "J-Novel Club")|30|J-Novel Club|📖|
+|Oct 13|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Oct 21|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 
 ### November
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Nov 10|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
+|Nov 10|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
+|Nov 10|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
+|Nov 10|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
+|Nov 10|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-14 "J-Novel Club")|14|J-Novel Club|📖|
+|Nov 10|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
 |Nov 11|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 18|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/799026/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-7-light-novel-by-miraijin-a/9781647294977 "Kodansha")|7|Kodansha|📖|
 |Nov 25|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
