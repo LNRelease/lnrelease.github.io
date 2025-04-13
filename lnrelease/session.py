@@ -14,7 +14,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 HEADERS = {'User-Agent': 'lnrelease.github.io/2.0'}
-CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.3'}
+CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.3'}
 CF_ACCOUNT = os.getenv('CF_ACCOUNT')
 CF_KEY = os.getenv('CF_KEY')
 CF_HEADERS = {'Content-Type': 'application/json', 'Authorization': f'Bearer {CF_KEY}'}
