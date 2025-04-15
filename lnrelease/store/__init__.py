@@ -8,7 +8,7 @@ import utils
 from session import Session
 
 from . import (_default, amazon, apple, audible, barnes_noble, book_walker,
-               crunchyroll, google, prh, tokyopop, viz, yen_press)
+               crunchyroll, google, prh, square_enix, tokyopop, viz, yen_press)
 
 STORES = {
     'books.apple.com': apple,
@@ -27,6 +27,7 @@ PROCESSED = {
     'j-novel.club': _default,
     'store.crunchyroll.com': crunchyroll,
     'sevenseasentertainment.com': _default,
+    'squareenixmangaandbooks.square-enix-games.com': square_enix,
     'tokyopop.com': tokyopop,
     'www.viz.com': viz,
     'yenpress.com': yen_press,

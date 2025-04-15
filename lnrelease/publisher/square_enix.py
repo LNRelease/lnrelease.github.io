@@ -2,7 +2,7 @@ from utils import Book, Info, Series
 
 from . import check, copy, one, standard
 
-NAME = 'Square Enix Books'
+NAME = 'Square Enix'
 
 
 def parse(series: Series, info: dict[str, list[Info]],

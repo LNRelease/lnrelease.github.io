@@ -27,6 +27,7 @@ PRIMARY = (
     'J-Novel Club',
     'Kodansha',
     'Seven Seas Entertainment',
+    'Square Enix',
     'TOKYOPOP',
     'VIZ Media',
     'Yen Press',

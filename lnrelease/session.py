@@ -72,6 +72,7 @@ DELAYS = {
     'www.penguinrandomhouse.ca': (30, 600),
     'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
+    'squareenixmangaandbooks.square-enix-games.com': (30, 600),
     'v3-static.supadu.io': (30, 300),
     'tokyopop.com': (30, 300),
     'www.viz.com': (30, 60),

@@ -44,7 +44,7 @@ PUBLISHERS = {
     'QUIRK BOOKS': '',
     'SEVEN SEAS': 'Seven Seas Entertainment',
     'SHAMBHALA': '',
-    'SQUARE ENIX BOOKS': 'Square Enix Books',
+    'SQUARE ENIX BOOKS': 'Square Enix',
     'STEAMSHIP': 'Seven Seas Entertainment',
     'STONE BRIDGE PRESS': '',
     'TENTAI BOOKS': 'Tentai Books',
