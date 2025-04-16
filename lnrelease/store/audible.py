@@ -12,8 +12,10 @@ from session import Session
 NAME = 'Audible'
 SALT = hash(NAME)
 
+PARAMS = {'overrideBaseCountry': 'true', 'ipRedirectOverride': 'true'}
 PATH = re.compile(r'/pd/(?P<name>[^/]+)/(?P<asin>\w{10})(?:/.*)?')
-BOOK = re.compile(r',?\s*(?:Book|Titel) (?P<index>\d+)\s*')
+SERIES = re.compile(r'"series":')
+BOOK = re.compile(r'Book (?P<index>\d+)')
 
 
 def equal(a: str, b: str) -> bool:
@@ -54,7 +56,7 @@ def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    page = session.get(links[0], cf=True, ia=True)
+    page = session.get(links[0], cf=True, ia=True, params=PARAMS)
     soup = BeautifulSoup(page.content, 'lxml')
 
     script = soup.find(id='bottom-0').find('script', type='application/ld+json')
@@ -68,12 +70,12 @@ def parse(session: Session, links: list[str], *,
     isbn = isbn or jsn.get('isbn', '')
     date = datetime.date.fromisoformat(jsn['datePublished'])
 
-    label = soup.find(class_='seriesLabel')
-    if label:
-        a = label.find_all('a')[-1]
-        if not index and (match := BOOK.fullmatch(a.next_sibling.text)):
+    series_title = title
+    if metadata := soup.find('script', type='application/json', string=SERIES):
+        data = json.loads(metadata)['series'][0]
+        if not index and (match := BOOK.fullmatch(data['part'])):
             index = int(match.group('index'))
-        series_title = a.text
+        series_title = data['name']
 
     series = series or utils.Series(None, series_title)
     info = utils.Info(series.key, links[0], NAME, publisher, title, index, format, isbn, date)
