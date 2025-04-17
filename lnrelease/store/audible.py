@@ -72,7 +72,7 @@ def parse(session: Session, links: list[str], *,
 
     series_title = title
     if metadata := soup.find('script', type='application/json', string=SERIES):
-        data = json.loads(metadata)['series'][0]
+        data = json.loads(metadata.text)['series'][0]
         if not index and (match := BOOK.fullmatch(data['part'])):
             index = int(match.group('index'))
         series_title = data['name']
