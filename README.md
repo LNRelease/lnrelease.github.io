@@ -162,8 +162,12 @@
 |Jun 04|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 |Jun 04|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 05|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jun 06|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 09|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 09|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-38 "J-Novel Club")|36-38|J-Novel Club|📖|
+|Jun 09|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-41 "J-Novel Club")|39-41|J-Novel Club|📖|
+|Jun 09|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-44 "J-Novel Club")|42-44|J-Novel Club|📖|
+|Jun 09|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-29 "J-Novel Club")|29|J-Novel Club|🖥️|
 |Jun 09|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
 |Jun 10|[Black Summoner](https://yenpress.com/titles/9781975392314-black-summoner-vol-5-light-novel "Yen Press")|5|Yen Press|📖|
 |Jun 10|[Blade & Bastard](https://yenpress.com/titles/9798855416138-blade-bastard-vol-4-light-novel "Yen Press")|4|Yen Press|📖|
@@ -227,7 +231,6 @@
 |Jul 08|[How to Eat Life](https://yenpress.com/titles/9798855413137-how-to-eat-life-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 08|[Is It Wrong to Try to Pick Up Girls in a Dungeon? Collector's Edition](https://yenpress.com/titles/9798855411362-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-collector-s-edition-vol-1 "Yen Press")|1|Yen Press|📖|
 |Jul 08|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
-|Jul 08|[Memen & Mori](https://yenpress.com/titles/9798855417418-memen-mori "Yen Press")|1|Yen Press|🖥️|
 |Jul 08|[[Oshi No Ko] Spica of the First Star](https://yenpress.com/titles/9798855413212-oshi-no-ko-spica-of-the-first-star-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 08|[Sword Art Online](https://yenpress.com/titles/9798855415544-sword-art-online-28-light-novel "Yen Press")|28|Yen Press|🖥️📖|
 |Jul 08|[Sword of the Stallion](https://yenpress.com/titles/9798855407211-sword-of-the-stallion-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
@@ -244,6 +247,7 @@
 |Jul 14|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-31 "J-Novel Club")|10|J-Novel Club|📖|
 |Jul 14|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-4 "J-Novel Club")|4|J-Novel Club|📖|
 |Jul 14|[Full Metal Panic! Short Stories](https://j-novel.club/series/full-metal-panic-short-stories#volume-7 "J-Novel Club")|7-9|J-Novel Club|📖|
+|Jul 14|[The Villainess Is Dead! Long Live the Empress! Redoing the Story After a Poisonous End](https://j-novel.club/series/the-villainess-is-dead-long-live-the-empress-redoing-the-story-after-a-poisonous-end#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 15|[Bride of the Barrier Master](https://yenpress.com/titles/9798855417852-bride-of-the-barrier-master-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 15|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855401226-even-a-replica-can-fall-in-love-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jul 15|[Gods' Games We Play](https://yenpress.com/titles/9798855400595-gods-games-we-play-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
@@ -258,10 +262,11 @@
 |Jul 15|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409765-the-irregular-at-magic-high-school-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
 |Jul 15|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-3 "J-Novel Club")|2.2|J-Novel Club|🖥️|
 |Jul 15|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379704-the-vexations-of-a-shut-in-vampire-princess-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|Jul 17|[Survival Strategies of a Corrupt Aristocrat](https://j-novel.club/series/survival-strategies-of-a-corrupt-aristocrat#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 18|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 18|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jul 22|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/778962/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-6-light-novel-by-miraijin-a/9781647294397 "Kodansha")|6|Kodansha|📖|
-|Jul 22|[From Memen to Mori](https://yenpress.com/titles/9798855417401-from-memen-to-mori "Yen Press")|1|Yen Press|📖|
+|Jul 22|[From Memen to Mori](https://yenpress.com/titles/9798855417401-from-memen-to-mori "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 22|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903526-omniscient-reader-s-viewpoint-novel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 22|[One Piece: Heroines](https://www.viz.com/manga-books/novel/one-piece-novels-volume-2/product/8421/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Jul 22|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
