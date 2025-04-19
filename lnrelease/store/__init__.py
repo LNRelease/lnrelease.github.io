@@ -34,6 +34,7 @@ PROCESSED = {
 }
 
 IGNORE = {
+    'www.audiobooksnow.com',
     'www.bookdepository.com',
     'www.booksamillion.com',
     'bookshop.org',
@@ -45,6 +46,7 @@ IGNORE = {
     'www.kobo.com',
     'kobo.com',
     'store.kobobooks.com',
+    'libro.fm',
     'www.powells.com',
     'legacy.rightstufanime.com',
     'www.rightstufanime.com',

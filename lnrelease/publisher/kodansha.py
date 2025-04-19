@@ -3,9 +3,9 @@ import re
 from collections import Counter
 from itertools import chain
 
-from utils import FORMATS, Book, Format, Info, Series
+from utils import FORMATS, Book, Info, Series
 
-from . import check, copy
+from . import check, copy, dates
 
 NAME = 'Kodansha'
 
@@ -25,11 +25,11 @@ def parse(series: Series, info: dict[str, list[Info]],
             and (isbns := fisbns.get(inf.format))
             and inf.isbn not in isbns
             and inf.date > today
-            and (dates := fdates.get(inf.format))
-                and inf.date not in dates):
+                and (d := fdates.get(inf.format)) and inf.date not in d):
             i = Info(series.key, inf.link, inf.source, NAME, inf.title, 0, inf.format, inf.isbn, inf.date)
             info[inf.format].append(i)
             isbns.add(i.isbn)
+    dates(info, links)
 
     books: dict[str, list[Book]] = {}
     for format, lst in info.items():

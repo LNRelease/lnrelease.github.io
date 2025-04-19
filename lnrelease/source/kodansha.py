@@ -1,7 +1,9 @@
 import datetime
 import re
 import warnings
+from urllib.parse import urlparse
 
+import store
 from session import Session
 from utils import FORMATS, Info, Series, find_series
 
@@ -29,12 +31,30 @@ def parse(session: Session, series: Series, link: str, format: str = '') -> set[
         edate = datetime.date.fromisoformat(readable['digitalReleaseDate'][:10])
         info.add(Info(series.key, url, NAME, NAME, title, 0, 'Digital', eisbn, edate))
 
+    for group in jsn['assetLinkGroups']:
+        format = group['name']
+        if format in ('Digital', 'Print'):
+            continue
+        alts = []
+        for alt in group['assetLinks']:
+            norm = store.normalise(session, alt['url'], resolve=True)
+            if not norm:
+                continue
+            if urlparse(norm).netloc in store.PROCESSED:
+                alts.append(norm)
+            else:
+                res = store.parse(session, [norm], series=series, publisher=NAME, title=title, format=format)
+                if res and res[1]:
+                    info |= res[1]
+                    alts.extend(inf.link for inf in res[1])
+                else:
+                    alts.append(norm)
+        info.add(Info(series.key, url, NAME, NAME, title, 0, format, '', None, alts))
+
     return info
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
-    isbns: dict[str, Series] = {inf.isbn: inf for inf in info}
-
     with Session() as session:
         params = {'subCategory': 'Book',
                   'fromIndex': '0',
@@ -56,14 +76,8 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             if serie:
                 link = f'https://api.kodansha.us/product/{content["id"]}'
                 try:
-                    for inf in parse(session, serie, link, format):
-                        isbns[inf.isbn] = inf
+                    info.update(parse(session, serie, link, format))
                 except Exception as e:
                     warnings.warn(f'({link}): {e}', RuntimeWarning)
 
-    info = set()
-    for inf in isbns.values():
-        if inf in info:
-            warnings.warn(f'Kodansha duplicate: {inf}', RuntimeWarning)
-        info.add(inf)
     return series, info

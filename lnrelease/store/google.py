@@ -61,6 +61,8 @@ def parse(session: Session, links: list[str], *,
     jsn = json.loads(soup.find('script', type='application/ld+json').text)
     title = title or jsn['name']
     work = jsn['workExample']
+    if isinstance(work, list):
+        work = work[0]
     format = format or work['@type']
     if format == 'Book':
         format = 'Digital'
