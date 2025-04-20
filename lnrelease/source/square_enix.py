@@ -51,14 +51,14 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         soup = BeautifulSoup(page.content, 'lxml')
         lst = soup.find_all('a', href=SERIES)
         for x in lst:
-            title = x.find(class_='p-1').string
+            title = x.find(class_='p-1').text
             if '(Light Novel)' not in title:
                 continue
             try:
                 link = f'{HOST}{x["href"]}'
                 page = session.get(link)
                 soup = BeautifulSoup(page.content, 'lxml')
-                volumes = soup.find('div', string='VOLUMES').parent.find_all('a', recursive=False)
+                volumes = soup.select('div:has(div:-soup-contains("VOLUMES")) > a')
                 serie = Series(None, title)
                 index = 1
                 for volume in volumes:

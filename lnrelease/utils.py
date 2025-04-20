@@ -11,7 +11,7 @@ from typing import Self
 
 import store
 
-TITLE = re.compile(r' [\(\[](?:(?:bl )?(?:light )?novels?|audio(?:book)?|(?:\w+ )?e?book|spin[- ]?off)[\)\]]', flags=re.IGNORECASE)
+TITLE = re.compile(r' [\(\[](?:(?:bl )?(?:light )?novels?|audio(?:book)?|(?:\w+ )?e?book|spin[- ]?off)[\)\]]|: light novel$', flags=re.IGNORECASE)
 SERIES = re.compile(r'(?:\b|\s|,|:)+(?:[\(\[](?:(?:bl )?(?:light )?novels?|audio(?:book)?|e?book|spin[- ]?off)[\)\[]|(?:(vol\.|volume|part) \d[\d\-\.]*)|omnibus|(?:special|collector\'s) edition)(?:(?=\W)|$)', flags=re.IGNORECASE)
 NONWORD = re.compile(r'\W')
 IA = re.compile(r'https?://web\.archive\.org/web/\d{14}/(?P<url>.+)')
@@ -26,6 +26,7 @@ PRIMARY = (
     'Hanashi Media',
     'J-Novel Club',
     'Kodansha',
+    'One Peace Books',
     'Seven Seas Entertainment',
     'Square Enix',
     'TOKYOPOP',
@@ -69,16 +70,16 @@ class Format(StrEnum):
     PHYSICAL_DIGITAL = '🖥️📖'
     AUDIOBOOK = '🔊'
 
-    @staticmethod
-    def from_str(s: str) -> Self:
+    @classmethod
+    def from_str(cls, s: str) -> Self:
         if s in PHYSICAL:
-            return Format.PHYSICAL
+            return cls.PHYSICAL
         elif s in DIGITAL:
-            return Format.DIGITAL
+            return cls.DIGITAL
         elif s in AUDIOBOOK:
-            return Format.AUDIOBOOK
+            return cls.AUDIOBOOK
         warnings.warn(f'Unknown format: {s}', RuntimeWarning)
-        return Format.NONE
+        return cls.NONE
 
     def is_digital(self) -> bool:
         return self == Format.DIGITAL or self == Format.PHYSICAL_DIGITAL

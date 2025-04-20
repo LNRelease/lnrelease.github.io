@@ -69,6 +69,7 @@ DELAYS = {
     'hanashi.media': (30, 600),
     'labs.j-novel.club': (10, 30),
     'api.kodansha.us': (30, 60),
+    'www.onepeacebooks.com': (30, 600),
     'www.penguinrandomhouse.ca': (30, 600),
     'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),

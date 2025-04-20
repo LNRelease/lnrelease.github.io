@@ -59,7 +59,7 @@ def parse(session: Session, links: list[str], *,
     page = session.get(links[0], cf=True, ia=True, params=PARAMS)
     soup = BeautifulSoup(page.content, 'lxml')
 
-    script = soup.find(id='bottom-0').find('script', type='application/ld+json')
+    script = soup.select_one('#bottom-0 script[type="application/ld+json"]')
     if not script:
         return None
     jsn = json.loads(script.text)[0]

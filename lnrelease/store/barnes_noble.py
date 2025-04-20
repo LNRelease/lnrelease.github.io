@@ -56,22 +56,34 @@ def parse(session: Session, links: list[str], *,
           series: utils.Series = None, publisher: str = '', title: str = '',
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
-    match = PATH.fullmatch(urlparse(links[0]).path)
+    u = urlparse(links[0])
+    match = PATH.fullmatch(u.path)
     if not match:
         return None
+    ean = next((v for k, v in parse_qsl(u.query) if k == 'ean'), '')
     id = match.group('id')
     page = session.get(FORMATS, params={'workId': id}, headers=CHROME)
     soup = BeautifulSoup(page.content, 'lxml')
 
     serieskey = series.key if series else ''
-    title = title or soup.find('h3', class_='all-formats-text').text
+    if h3 := soup.find('h3', class_='all-formats-text'):
+        title = h3.text
     info = set()
+    found = False
     for div in soup.find_all('div', role='tablist'):
         link = urljoin('https://www.barnesandnoble.com/', div.a['href'])
+        found |= ean == next((v for k, v in parse_qsl(urlparse(link).query) if k == 'ean'), '')
         format = div.ul['data-format-type']
         publisher = publisher or PUBLISHER.fullmatch(div.find(string=PUBLISHER).text).group('name')
         date = DATE.fullmatch(div.find(string=DATE).text).group('date')
         date = datetime.datetime.strptime(date, '%m/%d/%Y').date()
         info.add(utils.Info(serieskey, link, NAME, publisher, title, index, format, isbn, date))
+
+    if not found:
+        link = session.resolve(links[0], force=True, headers=CHROME)
+        if links[0] != link:
+            info |= parse(session, [link],
+                          series=series, publisher=publisher,
+                          title=title, index=index, format=format)[1]
 
     return series, info

@@ -10,7 +10,7 @@ from utils import EPOCH, SECONDARY, SOURCES, Book, Format, Info, Series
 
 NAME = 'misc'
 
-PARSE = re.compile(r'(?P<name>.+?)(?:,|:| [–-])? *(?:\bVol\.|(?:[\(\[]|\b)Volume|\(Light Novel) *(?P<volume>\d+(?:\.\d)?)[\)\]]?(?:\s*[:–\-\(].+)?')
+PARSE = re.compile(r'(?P<name>.+?)(?:,|:| [–-])? *(?:\bVol\.|(?:[\(\[]|\b)Volume|\(Light Novel) *0*(?P<volume>\d+(?:\.\d)?)[\)\]]?(?:\s*[:–\-\(].+)?')
 OMNIBUS = re.compile(r'(?P<name>.+?)(?:,|:| [–-]| Omnibus)? *(?:Vol\.|\(?Volumes?) *(?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)\)?(?: Collector\'s Edition)?')
 PART = re.compile(r'(?P<name>.+?)(?:\s*(?:,|:| [–-]))? (?:Volume|Vol\.) (?P<volume>\d+(?:\.5)?),? (?P<part>.+)')
 NUMBER = re.compile(r'\b(?P<volume>\d+(?:\.\d)?)\b(?:: .+)?')

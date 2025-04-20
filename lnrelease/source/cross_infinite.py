@@ -73,7 +73,8 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
                 if urlparse(norm).netloc in store.PROCESSED:
                     alts.append(norm)
                 else:
-                    res = store.parse(session, links, force and norm not in skip,
+                    res = store.parse(session, links,
+                                      (force or random() < 0.1) and norm not in skip,
                                       series=series, publisher=NAME,
                                       title=title, index=index, format=format)
                     if res and res[1]:
