@@ -7,7 +7,7 @@ from urllib.parse import urlparse, urlunparse
 
 import utils
 from bs4 import BeautifulSoup
-from session import CHROME, REQUEST_STATS, Session
+from session import REQUEST_STATS, Session
 
 NAME = 'Amazon'
 SALT = hash(NAME)
@@ -95,10 +95,11 @@ def parse(session: Session, links: list[str], *,
           index: int = 0, format: str = '', isbn: str = ''
           ) -> tuple[utils.Series, set[utils.Info]] | None:
     REQUEST_STATS['www.amazon.com'].cache += 1
-    page = session.cf_search(links[0], refresh=30)
+    page = session.cf_search(links[0])
     if not page or b'"/errors/validateCaptcha"' in page.content:
         page = session.cf_create(links[0])
-    if not page or b'"/errors/validateCaptcha"' in page.content:
+    if (not page or b'"/errors/validateCaptcha"' in page.content
+            or page.history[-1].json()['page']['status'] == '404'):
         return None
     soup = BeautifulSoup(page.content, 'lxml')
 

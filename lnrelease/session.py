@@ -175,7 +175,9 @@ class Session(requests.Session):
                     delta = datetime.fromisoformat(jsn['task']['timeEnd']) - datetime.now(timezone.utc)
                     sleep(max(0, delta.total_seconds()))
                     response = jsn['lists']['hashes'][0]
-                    return self.try_get(f'{CF_API}/responses/{response}', retries=2, **kwargs)
+                    res = self.try_get(f'{CF_API}/responses/{response}', retries=2, **kwargs)
+                    res.history.append(page)
+                    return res
                 sleep(10)
         except Exception as e:
             warnings.warn(f'Error reading scan ({url}|{uuid}): {e}', RuntimeWarning)
@@ -186,7 +188,7 @@ class Session(requests.Session):
             return None
 
         kwargs.setdefault('headers', {}).update(CF_HEADERS)
-        delta = 365 if refresh == -1 else refresh + random.randrange(refresh * 2)
+        delta = 30 if refresh == -1 else refresh + random.randrange(refresh * 2)
         cutoff = datetime.now(timezone.utc) - timedelta(days=delta)
         query = f'page.url:"{url}" AND date:>{cutoff.strftime("%Y-%m-%d")}'
         if page := self.try_get(f'{CF_API}/search', retries=2, params={'q': query}, **kwargs):

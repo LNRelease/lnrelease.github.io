@@ -22,17 +22,21 @@ def main() -> None:
     series = {row.key: row for row in Table(SERIES, Series)}
     info = Table(INFO, Info)
     links: defaultdict[str, list[Info]] = defaultdict(list)
+    lst: list[Info] = []
     for i in info:
         links[i.link].append(i)
+        if ((i.source not in SECONDARY or i.publisher not in PRIMARY)
+            or (i.source == 'BOOK☆WALKER'
+                and i.publisher == 'J-Novel Club'
+                and i.format == 'Audiobook')):
+            lst.append(i)
+    lst.sort()
     # sort by source then title
     links = dict(sorted(links.items(), key=lambda x: (SOURCES[x[1][0].source], x[1][0].title)))
-
     BOOKS.unlink(missing_ok=True)
     books = Table(BOOKS, Book)
-    info = [i for i in info if i.source not in SECONDARY or i.publisher not in PRIMARY]
-    info.sort()
 
-    for key, group in groupby(info, attrgetter('serieskey', 'publisher')):
+    for key, group in groupby(lst, attrgetter('serieskey', 'publisher')):
         serieskey = key[0]
         serie = series[serieskey]
         pub = key[1]

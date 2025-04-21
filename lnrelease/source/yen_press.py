@@ -24,20 +24,22 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
         return None
     soup = BeautifulSoup(page.content, 'lxml')
 
-    formats: list[str] = [x.text for x in soup.find(class_='tabs').find_all('span')]
-    details: element.ResultSet[element.Tag] = soup.find(class_='book-details').find_all('div', recursive=False)
+    formats: list[str] = [x.text for x in soup.select('.tabs > span')]
+    details: element.ResultSet[element.Tag] = soup.select('.book-details > div')
+    if not formats or not details:
+        return None
     series_title = details[0].select_one('span:-soup-contains("Series") + p').text
     if series_title.endswith('(light novel serial)'):
         return None
 
-    category = soup.find('div', class_='breadcrumbs').find_all('a')[-1].get('href')
+    category = soup.select_one('div.breadcrumbs.desktop-only > a:last-child').get('href')
     imprint = details[0].select_one('span:-soup-contains("Imprint") + p').text
     # category of ebooks is inconsistent
     if (category != '/category/light-novels' and category != '/category/audio-books'
             and imprint != 'Yen On' and imprint != 'Yen Audio'):
         return None
 
-    title = soup.find('h1', class_='heading').text
+    title = soup.select_one('h1.heading').text
     if ((desc := soup.select_one('.book-info > .content-heading-txt'))
             and (vol := OMNIBUS.search(desc.text))
             and (start := START.fullmatch(title))):  # rename omnibus volume
