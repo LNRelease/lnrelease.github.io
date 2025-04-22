@@ -1,6 +1,6 @@
 import datetime
 import warnings
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 from random import random
 from urllib.parse import urljoin, urlparse
@@ -8,7 +8,7 @@ from urllib.parse import urljoin, urlparse
 import store
 from bs4 import BeautifulSoup
 from session import Session
-from utils import Info, Key, Series, Table, find_series
+from utils import EPOCH, Format, Info, Key, Series, Table, find_series
 
 NAME = 'Cross Infinite World'
 
@@ -50,6 +50,8 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
     for index, panel in enumerate(soup.find_all('div', class_='panel'), start=1):
         if a := panel.find('a', recursive=False):
             link = urljoin('https://crossinfworld.com/', a.get('href'))
+        if link in skip:
+            continue
         title = panel.find('div', class_='panel-heading').strong.text
 
         formats: defaultdict[str, dict[str, list[str]]] = defaultdict(dict)
@@ -94,7 +96,29 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     today = datetime.date.today()
     cutoff = today - datetime.timedelta(days=30)
     skip = {row.key for row in pages if random() > 0.1 and row.date < cutoff}
-    items = {(inf.link, inf.format): inf for inf in info}
+    links: dict[str, Info] = {}
+    items: dict[tuple[str, str], Info] = {}
+    for inf in info:
+        links[inf.link] = inf
+        items[(inf.link, inf.format)] = inf
+
+    cutoff = today - datetime.timedelta(days=365)
+    for inf in info:
+        if random() < 0.2:
+            continue
+        if inf.date != EPOCH:
+            if inf.date < cutoff:
+                skip.add(inf.link)
+            continue
+
+        format = Format.from_str(inf.format)
+        dates = Counter(alt.date for link in inf.alts
+                        for alt in links.get(link, ())
+                        if format == Format.from_str(alt.format))
+        if lst := dates.most_common(1):
+            date = lst[0][0]
+            if date < cutoff:
+                skip.add(inf.link)
 
     with Session() as session:
         page = session.get('https://crossinfworld.com/series.html')

@@ -26,8 +26,8 @@ def parse(session: Session, series: Series, link: str, skip: set[str]) -> set[In
 
     lst = reversed(soup.select('div.newbook-case-detail'))
     for index, detail in enumerate(lst, start=1):
-        title = detail.select_one('.booktitle').text
-        if match := VOLUME.fullmatch(title):
+        booktitle = detail.select_one('.booktitle').text
+        if match := VOLUME.fullmatch(booktitle):
             title = f'{match.group("title")} Volume {match.group("volume").lstrip("0")}'
         isbn = ISBN.fullmatch(detail.find(class_='bookinfo', string=ISBN).text).group('isbn')
 
@@ -63,7 +63,7 @@ def parse(session: Session, series: Series, link: str, skip: set[str]) -> set[In
                     alts[Format.PHYSICAL].append(norm)
 
         for format in formats:
-            l = f'{link}:~:text={quote(title)}'
+            l = f'{link}#:~:text={quote(booktitle)}'
             f = format.name.title()
             i = isbn if format == Format.PHYSICAL else ''
             a = alts[format]

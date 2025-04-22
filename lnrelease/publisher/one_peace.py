@@ -49,9 +49,8 @@ def parse(series: Series, info: dict[str, list[Info]],
     for format, lst in info.items():
         dates = fdates[Format.from_str(format)]
         for inf in lst:
-            if (inf.date == EPOCH
-                and (counter := dates.get(norm(inf.title)))
-                    and (date := counter.most_common(1))):
+            if inf.date == EPOCH and (counter := dates.get(norm(inf.title))):
+                date = sorted(counter.most_common(), key=lambda x: (-x[1], x[0]))
                 inf.date = date[0][0]
 
     books: dict[str, list[Book]] = {}
