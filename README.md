@@ -41,6 +41,7 @@
 |Apr 15|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9798855410518-the-ephemeral-scenes-of-setsuna-s-journey-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Apr 15|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391058-the-misfit-of-demon-king-academy-vol-5-light-novel "Yen Press")|5|Yen Press|📖|
 |Apr 15|[The Summer Hikaru Died](https://yenpress.com/titles/9798855410570-the-summer-hikaru-died-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 16|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|📖|
 |Apr 17|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 17|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️|
 |Apr 17|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️|
@@ -263,6 +264,7 @@
 |Jul 17|[Survival Strategies of a Corrupt Aristocrat](https://j-novel.club/series/survival-strategies-of-a-corrupt-aristocrat#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 18|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 18|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Jul 18|[My Fiancé Cheated, But a New Love Rings!](https://j-novel.club/series/my-fianc-cheated-but-a-new-love-rings#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 22|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/778962/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-6-light-novel-by-miraijin-a/9781647294397 "Kodansha")|6|Kodansha|📖|
 |Jul 22|[From Memen to Mori](https://yenpress.com/titles/9798855417401-from-memen-to-mori "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 22|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903526-omniscient-reader-s-viewpoint-novel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
