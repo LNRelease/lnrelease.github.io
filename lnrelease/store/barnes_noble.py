@@ -70,12 +70,12 @@ def parse(session: Session, links: list[str], *,
         title = h3.text
     info = set()
     found = False
-    for div in soup.find_all('div', role='tablist'):
-        link = urljoin('https://www.barnesandnoble.com/', div.a['href'])
+    for li in soup.select('div[role="tablist"] > ul > li'):
+        link = urljoin('https://www.barnesandnoble.com/', li.a['href'])
         found |= ean == next((v for k, v in parse_qsl(urlparse(link).query) if k == 'ean'), '')
-        format = div.ul['data-format-type']
-        publisher = publisher or PUBLISHER.fullmatch(div.find(string=PUBLISHER).text).group('name')
-        date = DATE.fullmatch(div.find(string=DATE).text).group('date')
+        format = li.parent['data-format-type']
+        publisher = publisher or PUBLISHER.fullmatch(li.find(string=PUBLISHER).text).group('name')
+        date = DATE.fullmatch(li.find(string=DATE).text).group('date')
         date = datetime.datetime.strptime(date, '%m/%d/%Y').date()
         info.add(utils.Info(serieskey, link, NAME, publisher, title, index, format, isbn, date))
 
