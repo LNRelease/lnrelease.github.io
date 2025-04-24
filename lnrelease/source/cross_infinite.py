@@ -104,7 +104,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
 
     cutoff = today - datetime.timedelta(days=365)
     for inf in info:
-        if random() < 0.2:
+        if random() < 0.1:
             continue
         if inf.date != EPOCH:
             if inf.date < cutoff:
