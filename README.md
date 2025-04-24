@@ -227,6 +227,7 @@
 |Jul 07|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jul 07|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 08|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
+|Jul 08|[Fluffy-Eared Realm Restoration: Taking It Slow with My Cool Big Brother](https://j-novel.club/series/fluffy-eared-realm-restoration-taking-it-slow-with-my-cool-big-brother#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 08|[How to Eat Life](https://yenpress.com/titles/9798855413137-how-to-eat-life-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 08|[Is It Wrong to Try to Pick Up Girls in a Dungeon? Collector's Edition](https://yenpress.com/titles/9798855411362-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-collector-s-edition-vol-1 "Yen Press")|1|Yen Press|📖|
 |Jul 08|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
@@ -276,6 +277,7 @@
 |Jul 29|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jul 29|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Jul 29|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
+|Jul 29|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 29|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Jul 31|[The Hired Heroine Wants the Villainess to Gloat](https://crossinfworld.com/The-Hired-Heroine-Wants-the-Villainess-to-Gloat.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
