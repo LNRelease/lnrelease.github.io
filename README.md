@@ -129,17 +129,11 @@
 |May 23|[Ascendance of a Bookworm: Hannelore's Fifth Year at the Royal Academy](https://j-novel.club/series/ascendance-of-a-bookworm-hannelore-s-fifth-year-at-the-royal-academy#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 23|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 26|[No One Gets Past This Gatekeeper: The Unwanted Warrior Guards His New Post](https://j-novel.club/series/no-one-gets-past-this-gatekeeper-the-unwanted-warrior-guards-his-new-post#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
-|May 27|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975378363-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
-|May 27|[King's Proposal](https://yenpress.com/titles/9798855414332-king-s-proposal-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |May 27|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368371-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-8-light-novel "Yen Press")|8|Yen Press|📖|
 |May 27|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-novel-8 "Kodansha")|8|Kodansha|🖥️📖|
-|May 27|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377960-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-6-light-novel "Yen Press")|6|Yen Press|📖|
 |May 27|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 27|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975393267-re-starting-life-in-another-world-short-story-collection-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
-|May 27|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9798855400939-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
-|May 27|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975391966-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |May 27|[The Reincarnator and the Goblin Maiden's Happily Ever After: Using a Past Life to Keep a Joyful Wife](https://j-novel.club/series/the-reincarnator-and-the-goblin-maiden-s-happily-ever-after-using-a-past-life-to-keep-a-joyful-wife#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
-|May 27|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371234-the-unimplemented-overlords-have-joined-the-party-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |May 27|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |May 28|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |May 29|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-28 "J-Novel Club")|28|J-Novel Club|🖥️|
@@ -158,7 +152,13 @@
 |Jun 03|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-99-9/ "Seven Seas Entertainment")|99.9|Seven Seas Entertainment|🖥️📖|
 |Jun 03|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
 |Jun 03|[Date A Live](https://yenpress.com/titles/9781975372392-date-a-live-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
+|Jun 03|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975378363-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
+|Jun 03|[King's Proposal](https://yenpress.com/titles/9798855414332-king-s-proposal-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
+|Jun 03|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9781975377960-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-6-light-novel "Yen Press")|6|Yen Press|📖|
 |Jun 03|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378462-re-starting-life-in-another-world-vol-27-light-novel "Yen Press")|27|Yen Press|🖥️📖|
+|Jun 03|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9798855400939-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Jun 03|[The Hero Laughs While Walking the Path of Vengeance a Second Time](https://yenpress.com/titles/9781975391966-the-hero-laughs-while-walking-the-path-of-vengeance-a-second-time-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Jun 03|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975371234-the-unimplemented-overlords-have-joined-the-party-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 04|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 |Jun 04|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 05|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -266,6 +266,7 @@
 |Jul 18|[I Could Never Be a Succubus!](https://j-novel.club/series/i-could-never-be-a-succubus#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 18|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jul 18|[My Fiancé Cheated, But a New Love Rings!](https://j-novel.club/series/my-fianc-cheated-but-a-new-love-rings#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jul 20|[Bullet Hellion: The Gunslinging Demon Prince Crushes Another World with Modern Arms](https://j-novel.club/series/bullet-hellion-the-gunslinging-demon-prince-crushes-another-world-with-modern-arms#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 22|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/778962/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-6-light-novel-by-miraijin-a/9781647294397 "Kodansha")|6|Kodansha|📖|
 |Jul 22|[From Memen to Mori](https://yenpress.com/titles/9798855417401-from-memen-to-mori "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 22|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903526-omniscient-reader-s-viewpoint-novel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -286,6 +287,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Aug 01|[D-Genesis](https://j-novel.club/series/d-genesis#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Aug 01|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Aug 05|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093250 "Square Enix")|6|Square Enix|📖|
 |Aug 05|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Aug 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-32 "J-Novel Club")|11|J-Novel Club|📖|
