@@ -208,7 +208,7 @@
 |Jun 23|[The Countess Is a Coward No More! This Reincarnated Witch Just Wants a Break](https://j-novel.club/series/the-countess-is-a-coward-no-more-this-reincarnated-witch-just-wants-a-break#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 24|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-22 "J-Novel Club")|22|J-Novel Club|🖥️|
 |Jun 24|[Lady Rose Just Wants to Be a Commoner](https://j-novel.club/series/lady-rose-just-wants-to-be-a-commoner#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
-|Jun 24|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/778959/saving-80000-gold-in-another-world-for-my-retirement-8-light-novel-by-funa/9781647294427 "Kodansha")|8|Kodansha|📖|
+|Jun 24|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-8-light-novel "Kodansha")|8|Kodansha|🖥️📖|
 |Jun 24|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Jun 26|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jun 27|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
@@ -224,6 +224,7 @@
 |Jul 02|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 03|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 03|[Yuri Tama: From Third Wheel to Trifecta](https://j-novel.club/series/yuri-tama-from-third-wheel-to-trifecta#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Jul 07|[In Another World with Household Spells](https://j-novel.club/series/in-another-world-with-household-spells#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jul 07|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jul 07|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 08|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
@@ -273,8 +274,11 @@
 |Jul 22|[One Piece: Heroines](https://www.viz.com/manga-books/novel/one-piece-novels-volume-2/product/8421/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Jul 22|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Jul 23|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Jul 23|[Take These Talents Elsewhere: A Delightful Demotion to the Countryside](https://j-novel.club/series/take-these-talents-elsewhere-a-delightful-demotion-to-the-countryside#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Jul 23|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jul 24|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 25|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Jul 28|[Notorious No More: The Villainess Enjoys Feigning Incompetence](https://j-novel.club/series/notorious-no-more-the-villainess-enjoys-feigning-incompetence#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jul 29|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jul 29|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Jul 29|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
@@ -288,6 +292,7 @@
 |:---:|---|:---:|---|:---:|
 |Aug 01|[D-Genesis](https://j-novel.club/series/d-genesis#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Aug 01|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Aug 04|[No Wife, No Problem: A Mage's Life with His Beloved Daughter](https://j-novel.club/series/no-wife-no-problem-a-mage-s-life-with-his-beloved-daughter#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 05|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093250 "Square Enix")|6|Square Enix|📖|
 |Aug 05|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Aug 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-32 "J-Novel Club")|11|J-Novel Club|📖|
@@ -302,6 +307,7 @@
 |Aug 12|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9798855401240-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-16-light-novel "Yen Press")|16|Yen Press|🖥️📖|
 |Aug 12|[Campfire Cooking in Another World With My Absurd Skill: Omnibus 1](https://yenpress.com/titles/9781718332508-campfire-cooking-in-another-world-with-my-absurd-skill-omnibus-1-light-novel "Yen Press")|1|Yen Press|📖|
 |Aug 12|[Catalog of Wonders](https://yenpress.com/titles/9781975393571-catalog-of-wonders-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Aug 12|[Engaging with the Plot: A Former Cat's Attempt to Save Her Now Temporary Fiancé](https://j-novel.club/series/engaging-with-the-plot-a-former-cat-s-attempt-to-save-her-now-temporary-fiance#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 12|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9798855406528-if-the-villainess-and-villain-met-and-fell-in-love-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Aug 12|[Magical Explorer](https://yenpress.com/titles/9798855414554-magical-explorer-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Aug 12|[Nagisa Natsunagi Still Wants to Be a High School Girl](https://yenpress.com/titles/9798855409260-nagisa-natsunagi-still-wants-to-be-a-high-school-girl-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
