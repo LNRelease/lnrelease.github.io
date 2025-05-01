@@ -173,7 +173,6 @@
 |Jun 06|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 09|[Heavenly Swords of the Twin Stars](https://j-novel.club/series/heavenly-swords-of-the-twin-stars#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 09|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-38 "J-Novel Club")|36-38|J-Novel Club|📖|
-|Jun 09|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-29 "J-Novel Club")|29|J-Novel Club|🖥️|
 |Jun 09|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
 |Jun 10|[Black Summoner](https://yenpress.com/titles/9781975392314-black-summoner-vol-5-light-novel "Yen Press")|5|Yen Press|📖|
 |Jun 10|[Blade & Bastard](https://yenpress.com/titles/9798855416138-blade-bastard-vol-4-light-novel "Yen Press")|4|Yen Press|📖|
@@ -248,6 +247,7 @@
 |Jul 08|[The Hero-Killing Bride](https://j-novel.club/series/the-hero-killing-bride#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 08|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411881-to-sir-without-love-i-m-divorcing-you-i-part-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 09|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-10 "J-Novel Club")|6.2|J-Novel Club|🖥️|
+|Jul 09|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-29 "J-Novel Club")|29|J-Novel Club|🖥️|
 |Jul 09|[The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://j-novel.club/series/the-poison-king-now-that-i-ve-gained-ultimate-power-the-bewitching-beauties-in-my-harem-can-t-get-enough-of-me#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jul 10|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 10|[The Legendary Witch Is Reborn as an Oppressed Princess](https://j-novel.club/series/the-legendary-witch-is-reborn-as-an-oppressed-princess#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -300,6 +300,7 @@
 |:---:|---|:---:|---|:---:|
 |Aug 01|[D-Genesis](https://j-novel.club/series/d-genesis#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Aug 01|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Aug 04|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Aug 04|[No Wife, No Problem: A Mage's Life with His Beloved Daughter](https://j-novel.club/series/no-wife-no-problem-a-mage-s-life-with-his-beloved-daughter#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 05|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093250 "Square Enix")|6|Square Enix|📖|
 |Aug 05|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
@@ -331,6 +332,7 @@
 |Aug 19|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Aug 19|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Aug 19|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|Aug 20|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Aug 22|[Black Summoner](https://j-novel.club/series/black-summoner#volume-21 "J-Novel Club")|21|J-Novel Club|🖥️|
 |Aug 26|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Aug 26|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
