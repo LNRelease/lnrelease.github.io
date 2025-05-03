@@ -56,28 +56,32 @@ def parse(session: Session, series: Series, link: str, format: str = '') -> set[
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     with Session() as session:
-        params = {'subCategory': 'Book',
+        params = {'sort': '5',
+                  'subCategory': '7',
+                  'seriesStatus': '0',
                   'fromIndex': '0',
                   'count': '1000'}
-        page = session.get('https://api.kodansha.us/discover/v2', params=params)
-        jsn = page.json()
-        for book in jsn['response']:
-            content = book['content']
-            if 'seriesName' not in content:
-                continue
+        for i in range(2):
+            params['seriesStatus'] = str(i)
+            page = session.get('https://api.kodansha.us/discover/v2', params=params)
+            jsn = page.json()
+            for book in jsn['response']:
+                content = book['content']
+                if 'seriesName' not in content:
+                    continue
 
-            title = content['seriesName']
-            format = ''
-            if match := FORMAT.fullmatch(title):
-                title = match.group('title')
-                format = match.group('format')
-            serie = find_series(title, series)
+                title = content['seriesName']
+                format = ''
+                if match := FORMAT.fullmatch(title):
+                    title = match.group('title')
+                    format = match.group('format')
+                serie = find_series(title, series)
 
-            if serie:
-                link = f'https://api.kodansha.us/product/{content["id"]}'
-                try:
-                    info.update(parse(session, serie, link, format))
-                except Exception as e:
-                    warnings.warn(f'({link}): {e}', RuntimeWarning)
+                if serie:
+                    link = f'https://api.kodansha.us/product/{content["id"]}'
+                    try:
+                        info.update(parse(session, serie, link, format))
+                    except Exception as e:
+                        warnings.warn(f'({link}): {e}', RuntimeWarning)
 
     return series, info

@@ -5,11 +5,12 @@ from random import random
 
 from bs4 import BeautifulSoup
 from session import Session
-from utils import Info, Series
+from utils import PHYSICAL, Info, Series
 
 NAME = 'Seven Seas Entertainment'
 
 PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
+OMNIBUS = re.compile(rf'(?P<name>.+?)(?: \w+ Edition \d+)? \(Light Novel\)\s*\(Vol\. (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?) ?(?P<format>{"|".join(PHYSICAL)})? Omnibus\)')
 NON_FORMATS = ('Manga', 'Novel')
 FORMATS = ('Light Novel', 'Reference Guide')
 DATES = (r'%b %d, %Y', r'%Y-%m-%d', r'%B %d, %Y', r'%Y/%m/%d')
@@ -58,15 +59,19 @@ def parse(session: Session, link: str, series: Series) -> set[Info]:
         else:
             digital_date = None
         isbn = ''
+        format = 'Physical' if header == 'VOLUMES' else 'Audiobook'
         if header == 'VOLUMES':
             isbn = release.find('b', string='ISBN:').next_sibling.strip()
             if 'digital' in isbn:
                 digital_date = physical_date
                 physical_date = None
                 isbn = ''
+            elif match := OMNIBUS.fullmatch(title):
+                title = f'{match.group("name")} Vol. {match.group("volume")}'
+                format = match.group('format') or 'Physical'
+                digital_date = None
 
         if physical_date:
-            format = 'Physical' if header == 'VOLUMES' else 'Audiobook'
             info.add(Info(series.key, volume_link, NAME, NAME, title, index, format, isbn, physical_date))
         if digital_date:
             info.add(Info(series.key, volume_link, NAME, NAME, title, index, 'Digital', '', digital_date))

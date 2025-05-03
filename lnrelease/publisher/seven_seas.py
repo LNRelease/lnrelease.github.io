@@ -35,5 +35,8 @@ def parse(series: Series, info: dict[str, list[Info]],
         secondary(series, info, links, books)
         guess(series, info, books)
     copy(series, info, books)
+    for format, lst in books.items():
+        if lst.count(None) == 1 and 'Vol.' not in info[format][lst.index(None)].title:
+            one(series, {format: info[format]}, {format: lst})
     check(series, info, books)
     return books
