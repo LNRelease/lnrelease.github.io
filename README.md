@@ -381,6 +381,7 @@
 |Oct 13|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-30 "J-Novel Club")|30|J-Novel Club|📖|
 |Oct 13|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Oct 14|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9798855407334-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Oct 14|[Campfire Cooking in Another World With My Absurd Skill: Omnibus 2](https://yenpress.com/titles/9781718332515-campfire-cooking-in-another-world-with-my-absurd-skill-omnibus-2-light-novel "Yen Press")|1|Yen Press|📖|
 |Oct 14|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855405743-chitose-is-in-the-ramune-bottle-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Oct 14|[Demon Lord 2099](https://yenpress.com/titles/9798855420715-demon-lord-2099-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 14|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9781975394394-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
@@ -395,7 +396,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Nov 04|[Mushoku Tensei: Jobless Reincarnation Deluxe Edition 1 (](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-1-light-novel-vol-1-3-hardcover-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 04|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-1-light-novel-vol-1-3-hardcover-omnibus/ "Seven Seas Entertainment")|1-3|Seven Seas Entertainment|📖|
 |Nov 04|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093267 "Square Enix")|7|Square Enix|📖|
 |Nov 10|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
 |Nov 10|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
