@@ -92,7 +92,6 @@
 |May 08|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
 |May 09|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-28 "J-Novel Club")|28|J-Novel Club|🖥️|
 |May 11|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-30 "J-Novel Club")|9|J-Novel Club|📖|
-|May 12|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 12|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-29 "J-Novel Club")|29|J-Novel Club|📖|
 |May 12|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 12|[My Fiancé Cheated, But a New Love Rings!](https://j-novel.club/series/my-fianc-cheated-but-a-new-love-rings#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -102,6 +101,7 @@
 |May 13|[Accel World](https://yenpress.com/titles/9798855411867-accel-world-vol-27-light-novel "Yen Press")|27|Yen Press|🖥️📖|
 |May 13|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9798855407051-alya-sometimes-hides-her-feelings-in-russian-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |May 13|[Dr. Mashirito's Ultimate Manga Techniques](https://www.viz.com/manga-books/novel/dr-mashirito-s-ultimate-manga-techniques/product/8284/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|May 13|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 13|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975379421-hell-is-dark-with-no-flowers-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |May 13|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |May 13|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|📖|
@@ -370,6 +370,9 @@
 |Sep 16|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Sep 21|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|📖|
 |Sep 23|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/799030/my-unique-skill-makes-me-op-even-at-level-1-vol-9-light-novel-by-nazuna-miki/9781647294939 "Kodansha")|9|Kodansha|📖|
+|Sep 23|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
+|Sep 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
+|Sep 30|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 
 ### October
 
@@ -377,6 +380,8 @@
 |:---:|---|:---:|---|:---:|
 |Oct 06|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 07|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
+|Oct 07|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Oct 07|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Oct 13|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
 |Oct 13|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-30 "J-Novel Club")|30|J-Novel Club|📖|
 |Oct 13|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
@@ -386,6 +391,7 @@
 |Oct 14|[Demon Lord 2099](https://yenpress.com/titles/9798855420715-demon-lord-2099-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 14|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9781975394394-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 14|[Lila and the Winds of War](https://yenpress.com/titles/9798855402834-lila-and-the-winds-of-war "Yen Press")|1|Yen Press|🖥️📖|
+|Oct 14|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️📖|
 |Oct 14|[Sasaki and Peeps](https://yenpress.com/titles/9798855418316-sasaki-and-peeps-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Oct 14|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390662-the-bs-situation-of-tougetsu-umidori-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 14|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855407594-the-kept-man-of-the-princess-knight-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
