@@ -11,7 +11,8 @@ from utils import EPOCH, SECONDARY, SOURCES, Book, Format, Info, Series
 NAME = 'misc'
 
 PARSE = re.compile(r'(?P<name>.+?)(?:,|:| [–-])? *(?:\bVol\.|(?:[\(\[]|\b)Volume|\(Light Novel) *0*(?P<volume>\d+(?:\.\d)?)[\)\]]?(?:\s*[:\(].+|\s+[–-](?!\d).+)?')
-OMNIBUS = re.compile(r'(?P<name>.+?)(?:,|:| [–-]| Omnibus)? *(?:Vol\.|\(?Volumes?) *(?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)\)?(?: Collector\'s Edition)?')
+OMNIBUS = re.compile(r'(?P<name>.+?)(?:,|:| [–-]| Omnibus)* *(?:Vol\.|\(?Volumes?) *(?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)\)?(?: Collector\'s Edition)?')
+SKIP = re.compile(r'.+? (?:Omnibus \d+|(?:Omnibus|Collector\'s) Edition)')
 PART = re.compile(r'(?P<name>.+?)(?:\s*(?:,|:| [–-]))? (?:Volume|Vol\.) (?P<volume>\d+(?:\.5)?),? (?P<part>.+)')
 NUMBER = re.compile(r'\b(?P<volume>\d+(?:\.\d)?)\b(?:: .+)?')
 SHORT = re.compile(r'\s*#?(?P<volume>\w{1,2})')
@@ -144,8 +145,13 @@ def omnibus(series: Series, info: dict[str, list[Info]], books: dict[str, list[B
             if match := OMNIBUS.fullmatch(inf.title):
                 name = match.group('name')
                 vol = match.group('volume')
-                books[key][i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
-                changed = True
+            elif SKIP.fullmatch(inf.title):
+                name = inf.title
+                vol = '1'
+            else:
+                continue
+            books[key][i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
+            changed = True
     return changed
 
 

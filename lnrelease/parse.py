@@ -52,10 +52,20 @@ def main() -> None:
         for x in module.parse(serie, inf, links).values():
             books.update(x)
 
-    jnc_key: Callable[[Book], tuple] = lambda b: (b.name, b.volume, Format.from_str(b.format))
-    jnc = {jnc_key(b) for b in books if b.publisher == 'J-Novel Club'}
-    jnc_isbns = {b.isbn for b in books if b.publisher == 'J-Novel Club'}
-    books -= {b for b in books if b.publisher == 'Yen Press' and (jnc_key(b) in jnc or b.isbn in jnc_isbns)}
+    def jnc_key(book: Book) -> tuple[str, str, str]:
+        return book.name, book.volume, Format.from_str(book.format)
+    jnc_keys = set()
+    jnc_isbns = set()
+    jnc_series = set()
+    for book in books:
+        if book.publisher == 'J-Novel Club':
+            jnc_keys.add(jnc_key(book))
+            jnc_isbns.add(book.isbn)
+            jnc_series.add(book.serieskey)
+    books -= {b for b in books
+              if b.publisher == 'Yen Press'
+              and ((b.isbn in jnc_isbns or jnc_key(b) in jnc_keys)
+                   or ' Omnibus ' in b.name and b.serieskey in jnc_series)}
 
     books.save()
 
