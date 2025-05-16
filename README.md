@@ -121,7 +121,6 @@
 |Jun 10|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9798855403015-sugar-apple-fairy-tale-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Jun 10|[The Detective Is Already Dead](https://yenpress.com/titles/9798855407518-the-detective-is-already-dead-vol-10 "Yen Press")|10|Yen Press|📖|
 |Jun 10|[The Only Thing I'd Do in a No-Boys-Allowed Game World](https://yenpress.com/titles/9798855407532-the-only-thing-i-d-do-in-a-no-boys-allowed-game-world-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
-|Jun 10|[The Saga of Tanya the Evil](https://yenpress.com/titles/9798855402896-the-saga-of-tanya-the-evil-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Jun 10|[This Is the Wizard's Secret Weapon](https://yenpress.com/titles/9798855408690-this-is-the-wizard-s-secret-weapon-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 11|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Jun 12|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -274,6 +273,7 @@
 |Aug 22|[Black Summoner](https://j-novel.club/series/black-summoner#volume-21 "J-Novel Club")|21|J-Novel Club|🖥️|
 |Aug 22|[Knock Yourself Out! The Goddess Beat the Final Boss in the Tutorial, So Now I'm Free to Do Whatever](https://j-novel.club/series/knock-yourself-out-the-goddess-beat-the-final-boss-in-the-tutorial-so-now-i-m-free-to-do-whatever#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 25|[An Unruly Summon](https://j-novel.club/series/an-unruly-summon#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Aug 25|[The Despicable Duke Settles His Affairs](https://j-novel.club/series/the-despicable-duke-settles-his-affairs#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 26|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Aug 26|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 26|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
@@ -298,6 +298,7 @@
 |Sep 08|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-1 "J-Novel Club")|1-2|J-Novel Club|📖|
 |Sep 08|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Sep 08|[The Magic in this Other World is Too Far Behind!](https://j-novel.club/series/the-magic-in-this-other-world-is-too-far-behind#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
+|Sep 10|[Romance Revived: An NPC Was the Final Boss's Love](https://j-novel.club/series/romance-revived-an-npc-was-the-final-boss-s-love#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 12|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Sep 16|[Hollow Regalia](https://yenpress.com/titles/9798855409925-hollow-regalia-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Sep 16|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9798855407273-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
@@ -317,6 +318,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Oct 03|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Oct 06|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 07|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Oct 07|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
@@ -333,6 +335,7 @@
 |Oct 14|[Sasaki and Peeps](https://yenpress.com/titles/9798855418316-sasaki-and-peeps-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Oct 14|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390662-the-bs-situation-of-tougetsu-umidori-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 14|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855407594-the-kept-man-of-the-princess-knight-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Oct 14|[The Saga of Tanya the Evil](https://yenpress.com/titles/9798855402896-the-saga-of-tanya-the-evil-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 14|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 21|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Oct 21|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
@@ -402,6 +405,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Mar 17|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Mar 17|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Mar 31|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 
