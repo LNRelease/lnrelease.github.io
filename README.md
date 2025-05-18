@@ -389,9 +389,15 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jan 06|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Jan 06|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12-5/ "Seven Seas Entertainment")|12.5|Seven Seas Entertainment|🖥️📖|
+|Jan 06|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jan 06|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/799023/saving-80000-gold-in-another-world-for-my-retirement-9-light-novel-by-funa/9781647295035 "Kodansha")|9|Kodansha|📖|
 |Jan 13|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/799021/am-i-actually-the-strongest-7-light-novel-by-sai-sumimori/9781647295059 "Kodansha")|7|Kodansha|📖|
+|Jan 13|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
+|Jan 13|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
 |Jan 20|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Jan 20|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|Jan 27|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 
 ### February
 
