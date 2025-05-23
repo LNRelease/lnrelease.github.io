@@ -119,7 +119,7 @@
 |Jun 10|[Recommendations for Bad Children](https://yenpress.com/titles/9798855407358-recommendations-for-bad-children-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 10|[Secrets of the Silent Witch -another-](https://yenpress.com/titles/9798855408737-secrets-of-the-silent-witch-another-part-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 10|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9798855403015-sugar-apple-fairy-tale-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
-|Jun 10|[The Detective Is Already Dead](https://yenpress.com/titles/9798855407518-the-detective-is-already-dead-vol-10 "Yen Press")|10|Yen Press|📖|
+|Jun 10|[The Detective Is Already Dead](https://yenpress.com/titles/9798855407518-the-detective-is-already-dead-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Jun 10|[The Only Thing I'd Do in a No-Boys-Allowed Game World](https://yenpress.com/titles/9798855407532-the-only-thing-i-d-do-in-a-no-boys-allowed-game-world-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 10|[This Is the Wizard's Secret Weapon](https://yenpress.com/titles/9798855408690-this-is-the-wizard-s-secret-weapon-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 11|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
@@ -140,12 +140,9 @@
 |Jun 23|[Grimgar of Fantasy and Ash](https://j-novel.club/series/grimar-of-fantasy-and-ash#volume-22 "J-Novel Club")|20|J-Novel Club|🖥️|
 |Jun 23|[The Countess Is a Coward No More! This Reincarnated Witch Just Wants a Break](https://j-novel.club/series/the-countess-is-a-coward-no-more-this-reincarnated-witch-just-wants-a-break#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 24|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-22 "J-Novel Club")|22|J-Novel Club|🖥️|
-|Jun 24|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390365-kunon-the-sorcerer-can-see-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 24|[Lady Rose Just Wants to Be a Commoner](https://j-novel.club/series/lady-rose-just-wants-to-be-a-commoner#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
-|Jun 24|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855407396-reign-of-the-seven-spellblades-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Jun 24|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-8-light-novel "Kodansha")|8|Kodansha|🖥️📖|
 |Jun 24|[Skeleton Knight in Another World](https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
-|Jun 24|[The Girl Who Wants to Be a Hero and the Girl Who Ought to Be a Hero](https://yenpress.com/titles/9798855418590-the-girl-who-wants-to-be-a-hero-and-the-girl-who-ought-to-be-a-hero-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 26|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jun 27|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
 |Jun 27|[Formerly, the Fallen Daughter of the Duke](https://j-novel.club/series/formerly-the-fallen-daughter-of-the-duke#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -175,6 +172,7 @@
 |Jul 08|[Sword Art Online](https://yenpress.com/titles/9798855415544-sword-art-online-28-light-novel "Yen Press")|28|Yen Press|🖥️📖|
 |Jul 08|[Sword of the Stallion](https://yenpress.com/titles/9798855407211-sword-of-the-stallion-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 08|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9798855403374-that-time-i-got-reincarnated-as-a-slime-vol-21-light-novel "Yen Press")|21|Yen Press|🖥️📖|
+|Jul 08|[The Girl Who Wants to Be a Hero and the Girl Who Ought to Be a Hero](https://yenpress.com/titles/9798855418590-the-girl-who-wants-to-be-a-hero-and-the-girl-who-ought-to-be-a-hero-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 08|[The Theater of Haruhi Suzumiya](https://yenpress.com/titles/9798855416909-the-theater-of-haruhi-suzumiya-light-novel "Yen Press")|12|Yen Press|📖|
 |Jul 08|[The Hero-Killing Bride](https://j-novel.club/series/the-hero-killing-bride#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 08|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411881-to-sir-without-love-i-m-divorcing-you-i-part-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
@@ -194,9 +192,11 @@
 |Jul 15|[Gods' Games We Play](https://yenpress.com/titles/9798855400595-gods-games-we-play-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Jul 15|[Hero Syndrome](https://yenpress.com/titles/9798855407655-hero-syndrome-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Jul 15|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Jul 15|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390365-kunon-the-sorcerer-can-see-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 15|[Liar, Liar](https://yenpress.com/titles/9781975370695-liar-liar-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Jul 15|[Online!](https://yenpress.com/titles/9781975394318-online-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Jul 15|[Phantom Thief Red](https://yenpress.com/titles/9781975378202-phantom-thief-red-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Jul 15|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855407396-reign-of-the-seven-spellblades-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
 |Jul 15|[Spy Classroom](https://yenpress.com/titles/9781975391508-spy-classroom-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jul 15|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Jul 15|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975398682-the-contract-between-a-specter-and-a-servant-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
