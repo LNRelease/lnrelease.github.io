@@ -81,6 +81,7 @@
 |May 29|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️|
 |May 30|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-26 "J-Novel Club")|26|J-Novel Club|🖥️|
 |May 30|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
+|May 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/tsukimichi-moonlit-fantasy/#Volume%2007 "Hanashi Media")|7|Hanashi Media|🖥️|
 |May 31|[Welcome to Monstrous Miss Sophie's Enchanted Salon of Healing](https://crossinfworld.com/Welcome-to-Monstrous-Miss-Sophies-Enchanted-Salon-of-Healing-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |May 31|[Welcome to Olivia's Magic Jewelers](https://crossinfworld.com/Welcome-to-Olivias-Magic-Jewelers-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
@@ -359,6 +360,7 @@
 |Nov 04|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093267 "Square Enix")|7|Square Enix|📖|
 |Nov 04|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
+|Nov 10|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Nov 10|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
 |Nov 10|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Nov 10|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
