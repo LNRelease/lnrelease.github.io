@@ -209,7 +209,7 @@
 |Jul 18|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jul 18|[My Fiancé Cheated, But a New Love Rings!](https://j-novel.club/series/my-fianc-cheated-but-a-new-love-rings#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 21|[Bullet Hellion: The Gunslinging Demon Prince Crushes Another World with Modern Arms](https://j-novel.club/series/bullet-hellion-the-gunslinging-demon-prince-crushes-another-world-with-modern-arms#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Jul 22|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/778962/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-6-light-novel-by-miraijin-a/9781647294397 "Kodansha")|6|Kodansha|📖|
+|Jul 22|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://kodansha.us/product/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-novel-6 "Kodansha")|6|Kodansha|🖥️📖|
 |Jul 22|[From Memen to Mori](https://yenpress.com/titles/9798855417401-from-memen-to-mori "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 22|[Lord of Mysteries](https://yenpress.com/titles/9798855413779-lord-of-mysteries-vol-1 "Yen Press")|1|Yen Press|📖|
 |Jul 22|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903526-omniscient-reader-s-viewpoint-novel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -293,6 +293,7 @@
 |Sep 02|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Sep 02|[Hell Mode](https://j-novel.club/series/hell-mode#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Sep 02|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Sep 02|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
 |Sep 02|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Sep 02|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Sep 04|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
