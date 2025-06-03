@@ -322,6 +322,7 @@
 |Sep 08|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-1 "J-Novel Club")|1-2|J-Novel Club|📖|
 |Sep 08|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Sep 08|[The Magic in this Other World is Too Far Behind!](https://j-novel.club/series/the-magic-in-this-other-world-is-too-far-behind#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
+|Sep 09|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Sep 10|[Romance Revived: An NPC Was the Final Boss's Love](https://j-novel.club/series/romance-revived-an-npc-was-the-final-boss-s-love#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 12|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Sep 15|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
