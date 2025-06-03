@@ -31,14 +31,14 @@ def parse(series: Series, info: dict[str, list[Info]],
             dates[title] = Counter()
 
     for inf in chain.from_iterable(links.values()):
-        if inf.serieskey != series.key or inf.publisher != NAME:
+        fmt = Format.from_str(inf.format)
+        if inf.serieskey != series.key or inf.publisher != NAME or fmt not in ftitles:
             continue
 
-        fmt = Format.from_str(inf.format)
         titles = ftitles.get(fmt)
         dates = fdates.get(fmt)
         title = norm(inf.title)
-        if titles and title not in titles and Series(None, title) == series:
+        if title not in titles and Series(None, title) == series:
             i = Info(series.key, inf.link, inf.source, NAME, title, 0, inf.format, inf.isbn, inf.date)
             info[fmt.name.title()].append(i)
             titles.add(title)
