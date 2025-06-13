@@ -119,20 +119,13 @@
 |Jul 14|[The Villainess Is Dead! Long Live the Empress! Redoing the Story After a Poisonous End](https://j-novel.club/series/the-villainess-is-dead-long-live-the-empress-redoing-the-story-after-a-poisonous-end#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 15|[Bride of the Barrier Master](https://yenpress.com/titles/9798855417852-bride-of-the-barrier-master-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 15|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855401226-even-a-replica-can-fall-in-love-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Jul 15|[Gods' Games We Play](https://yenpress.com/titles/9798855400595-gods-games-we-play-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
-|Jul 15|[Hero Syndrome](https://yenpress.com/titles/9798855407655-hero-syndrome-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Jul 15|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
-|Jul 15|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390365-kunon-the-sorcerer-can-see-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
-|Jul 15|[Liar, Liar](https://yenpress.com/titles/9781975370695-liar-liar-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Jul 15|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390372-kunon-the-sorcerer-can-see-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️|
 |Jul 15|[Online!](https://yenpress.com/titles/9781975394318-online-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Jul 15|[Phantom Thief Red](https://yenpress.com/titles/9781975378202-phantom-thief-red-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Jul 15|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855407396-reign-of-the-seven-spellblades-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
-|Jul 15|[Spy Classroom](https://yenpress.com/titles/9781975391508-spy-classroom-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jul 15|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
-|Jul 15|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975398682-the-contract-between-a-specter-and-a-servant-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 15|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409765-the-irregular-at-magic-high-school-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
 |Jul 15|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-3 "J-Novel Club")|2.2|J-Novel Club|🖥️|
-|Jul 15|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379704-the-vexations-of-a-shut-in-vampire-princess-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jul 17|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Jul 17|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️|
 |Jul 17|[Survival Strategies of a Corrupt Aristocrat](https://j-novel.club/series/survival-strategies-of-a-corrupt-aristocrat#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -142,9 +135,17 @@
 |Jul 21|[Bullet Hellion: The Gunslinging Demon Prince Crushes Another World with Modern Arms](https://j-novel.club/series/bullet-hellion-the-gunslinging-demon-prince-crushes-another-world-with-modern-arms#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 22|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://kodansha.us/product/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-novel-6 "Kodansha")|6|Kodansha|🖥️📖|
 |Jul 22|[From Memen to Mori](https://yenpress.com/titles/9798855417401-from-memen-to-mori "Yen Press")|1|Yen Press|🖥️📖|
+|Jul 22|[Gods' Games We Play](https://yenpress.com/titles/9798855400595-gods-games-we-play-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
+|Jul 22|[Hero Syndrome](https://yenpress.com/titles/9798855407655-hero-syndrome-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Jul 22|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9781975390365-kunon-the-sorcerer-can-see-vol-4-light-novel "Yen Press")|4|Yen Press|📖|
+|Jul 22|[Liar, Liar](https://yenpress.com/titles/9781975370695-liar-liar-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Jul 22|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903526-omniscient-reader-s-viewpoint-novel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jul 22|[One Piece: Heroines](https://www.viz.com/manga-books/novel/one-piece-novels-volume-2/product/8421/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
+|Jul 22|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855407396-reign-of-the-seven-spellblades-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
+|Jul 22|[Spy Classroom](https://yenpress.com/titles/9781975391508-spy-classroom-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|Jul 22|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9781975398682-the-contract-between-a-specter-and-a-servant-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 22|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
+|Jul 22|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379704-the-vexations-of-a-shut-in-vampire-princess-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jul 23|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 23|[Take These Talents Elsewhere: A Delightful Demotion to the Countryside](https://j-novel.club/series/take-these-talents-elsewhere-a-delightful-demotion-to-the-countryside#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jul 23|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -277,6 +278,7 @@
 |Oct 07|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Oct 07|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Oct 07|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
+|Oct 07|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 13|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
 |Oct 13|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-30 "J-Novel Club")|30|J-Novel Club|📖|
 |Oct 13|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
