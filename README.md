@@ -248,6 +248,7 @@
 |Sep 09|[Infinite Dendrogram SP](https://j-novel.club/series/infinite-dendrogram#volume-23 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 10|[Romance Revived: An NPC Was the Final Boss's Love](https://j-novel.club/series/romance-revived-an-npc-was-the-final-boss-s-love#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 12|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
+|Sep 15|[In Another World with Household Spells](https://j-novel.club/series/in-another-world-with-household-spells#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Sep 15|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Sep 16|[Hollow Regalia](https://yenpress.com/titles/9798855409925-hollow-regalia-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Sep 16|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9798855407273-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
