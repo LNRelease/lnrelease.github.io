@@ -158,6 +158,8 @@
 |Jul 29|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jul 29|[Lord of Mysteries](https://yenpress.com/titles/9798855413779-lord-of-mysteries-vol-1 "Yen Press")|1|Yen Press|📖|
 |Jul 29|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
+|Jul 31|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-7.html "Cross Infinite World")|7|Cross Infinite World|🖥️|
+|Jul 31|[So You Want to Live the Slow Life? A Guide to Life in the Beastly Wilds](https://crossinfworld.com/So-You-Want-to-Live-the-Slow-Life-A-Guide-to-Life-in-the-Beastly-Wilds-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 |Jul 31|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️|
 |Jul 31|[The Hired Heroine Wants the Villainess to Gloat](https://crossinfworld.com/The-Hired-Heroine-Wants-the-Villainess-to-Gloat.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Jul 31|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
@@ -285,6 +287,7 @@
 |Oct 07|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Oct 07|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Oct 07|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Oct 09|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 10|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 13|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
 |Oct 13|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-30 "J-Novel Club")|30|J-Novel Club|📖|
