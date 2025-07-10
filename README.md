@@ -228,6 +228,7 @@
 |Oct 07|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 08|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 08|[Guild Handyman? More like Mastermind! Using My Hidden Skills in the Shadows](https://j-novel.club/series/guild-handyman-more-like-mastermind-using-my-hidden-skills-in-the-shadows#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Oct 09|[Dagashi-ya Yahagi: Setting Up a Sweets Shop in Another World](https://j-novel.club/series/dagashi-ya-yahagi-setting-up-a-sweets-shop-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 09|[Old Knight, New Post: From Retiree to Her Majesty's Blade](https://j-novel.club/series/old-knight-new-post-from-retiree-to-her-majesty-s-blade#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 10|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Oct 10|[From Old Country Bumpkin to Master Swordsman: My Hotshot Disciples Are All Grown Up Now, and They Won't Leave Me Alone](https://j-novel.club/series/from-old-country-bumpkin-to-master-swordsman-my-hotshot-disciples-are-all-grown-up-now-and-they-won-t-leave-me-alone#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
@@ -238,6 +239,7 @@
 |Oct 14|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855405743-chitose-is-in-the-ramune-bottle-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Oct 14|[Demon Lord 2099](https://yenpress.com/titles/9798855420715-demon-lord-2099-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 14|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9781975394394-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
+|Oct 14|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Oct 14|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️📖|
 |Oct 14|[Sasaki and Peeps](https://yenpress.com/titles/9798855418316-sasaki-and-peeps-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Oct 14|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390662-the-bs-situation-of-tougetsu-umidori-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
@@ -248,6 +250,7 @@
 |Oct 21|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Oct 21|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 23|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Oct 28|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 28|[One Piece: Law's Story](https://www.viz.com/manga-books/novel/one-piece-law-s-story/product/8555/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 28|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Oct 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
@@ -373,6 +376,13 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jun 02|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Jun 16|[Confession Strategy](https://sevenseasentertainment.com/books/confession-strategy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+
+### July
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Jul 07|[Distorted I Love You](https://sevenseasentertainment.com/books/distorted-i-love-you-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 
 ### September
 
