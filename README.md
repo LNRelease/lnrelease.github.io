@@ -129,7 +129,7 @@
 |Aug 20|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Aug 22|[Black Summoner](https://j-novel.club/series/black-summoner#volume-21 "J-Novel Club")|21|J-Novel Club|🖥️|
 |Aug 22|[Knock Yourself Out! The Goddess Beat the Final Boss in the Tutorial, So Now I'm Free to Do Whatever](https://j-novel.club/series/knock-yourself-out-the-goddess-beat-the-final-boss-in-the-tutorial-so-now-i-m-free-to-do-whatever#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Aug 25|[An Unruly Summon](https://j-novel.club/series/an-unruly-summon#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Aug 24|[An Unruly Summon](https://j-novel.club/series/an-unruly-summon#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 25|[The Despicable Duke Settles His Affairs](https://j-novel.club/series/the-despicable-duke-settles-his-affairs#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 26|[Agents of the Four Seasons](https://yenpress.com/titles/9781975393908-agents-of-the-four-seasons-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 26|[Babel](https://yenpress.com/titles/9781975375096-babel-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
