@@ -270,6 +270,7 @@
 |Nov 10|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
 |Nov 10|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Nov 10|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
+|Nov 10|[Notorious No More: The Villainess Enjoys Feigning Incompetence](https://j-novel.club/series/notorious-no-more-the-villainess-enjoys-feigning-incompetence#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 10|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-14 "J-Novel Club")|14|J-Novel Club|📖|
 |Nov 10|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
 |Nov 11|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9798855407075-alya-sometimes-hides-her-feelings-in-russian-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
@@ -287,6 +288,7 @@
 |Nov 11|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 11|[Victoria of Many Faces](https://yenpress.com/titles/9798855408430-victoria-of-many-faces-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 11|[Who Killed the Hero?](https://yenpress.com/titles/9798855421927-who-killed-the-hero-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Nov 13|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Nov 18|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/799026/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-7-light-novel-by-miraijin-a/9781647294977 "Kodansha")|7|Kodansha|📖|
 |Nov 18|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Nov 18|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903731-omniscient-reader-s-viewpoint-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
