@@ -413,6 +413,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|May 12|[Venus Mission: From Former Assassin and Mercenary Middle-Aged Man, Reincarnated into Another World to Assassinate the Hero!](https://sevenseasentertainment.com/books/venus-mission-from-former-assassin-and-mercenary-middle-aged-man-reincarnated-into-another-world-to-assassinate-the-hero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |May 26|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
 ### June
