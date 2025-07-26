@@ -94,11 +94,10 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     with Session() as session:
         page = session.get('https://hanashi.media/')
         soup = BeautifulSoup(page.content, 'lxml')
-        links = (a.get('href') for a in soup
-                 .find(class_='menu-label', string='Light Novels')
-                 .find_parent('li').ul.find_all('a'))
-        for link in links:
+        for a in soup.select('article.post a.post__more'):
             try:
+                link = a.get('href')
+                link = link[:-1] if link.endswith('//') else link
                 res = parse(session, link, skip)
 
                 if len(res[1]) > 0:
