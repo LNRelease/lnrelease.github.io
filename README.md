@@ -148,6 +148,8 @@
 |Aug 27|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Aug 28|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-12 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Aug 29|[ATLAS: Her, the Combatant, and Him, the Hero](https://j-novel.club/series/atlas-her-the-combatant-and-him-the-hero#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Aug 30|[I'm Just a Villager, so what? – finall](https://hanashi.media/im-just-a-villager-so-what/ "Hanashi Media")|1|Hanashi Media|🖥️|
+|Aug 30|[The Abandoned Reincarnation Sage: Building a Mighty Empire of Monsters Within the Monsters' Forest](https://hanashi.media/the-abandoned-reincarnation-sage-building-a-mighty-empire-of-monsters-within-the-monsters-forest/ "Hanashi Media")|1|Hanashi Media|🖥️|
 |Aug 31|[Welcome to Monstrous Miss Sophie's Enchanted Salon of Healing](https://crossinfworld.com/Welcome-to-Monstrous-Miss-Sophies-Enchanted-Salon-of-Healing-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Aug 31|[Welcome to Olivia's Magic Jewelers](https://crossinfworld.com/Welcome-to-Olivias-Magic-Jewelers-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 
@@ -198,7 +200,7 @@
 |Sep 22|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 22|[This Gyaru's Got a Thing for...Vampire Hunters?!](https://j-novel.club/series/this-gyaru-s-got-a-thing-for-vampire-hunters#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 23|[From Memen to Mori](https://yenpress.com/titles/9798855417401-from-memen-to-mori "Yen Press")|1|Yen Press|🖥️📖|
-|Sep 23|[My Unique Skill Makes Me OP Even At Level 1](https://www.penguinrandomhouse.com/books/799030/my-unique-skill-makes-me-op-even-at-level-1-vol-9-light-novel-by-nazuna-miki/9781647294939 "Kodansha")|9|Kodansha|📖|
+|Sep 23|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-novel-9 "Kodansha")|9|Kodansha|🖥️📖|
 |Sep 23|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 |Sep 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Sep 24|[I'll Never Set Foot in That House Again!](https://j-novel.club/series/i-ll-never-set-foot-in-that-house-again#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
