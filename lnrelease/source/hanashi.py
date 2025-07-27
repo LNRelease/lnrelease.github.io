@@ -15,7 +15,7 @@ NAME = 'Hanashi Media'
 
 PAGES = Path('hanashi.csv')
 
-TITLE = re.compile(r'(?P<title>.+) – Hanashi Media')
+TITLE = re.compile(r'(?P<title>.+)(?: – finall)? – Hanashi Media')
 STORE = re.compile(r'[Gg]et at .+')
 ISBN = re.compile(r'^.*ISBN:\s*(?:(?P<isbn>[\d-]{13,})|Not Yet|)$')
 VOLUME = re.compile(r'Volume (?P<volume>\d+(?:\.\d)?)')
