@@ -89,7 +89,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                 serie = Series(None, title)
                 if inf := parse(session, serie, link, skip):
                     series.add(serie)
-                    info -= {i for i in info if i.serieskey == serie.key}
+                    info -= {i for i in info if i.serieskey == serie.key} | inf
                     info |= inf
                     for inf in inf:
                         if inf.source == NAME:

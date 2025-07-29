@@ -98,16 +98,16 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             try:
                 link = a.get('href')
                 link = link[:-1] if link.endswith('//') else link
-                res = parse(session, link, skip)
+                s, inf = parse(session, link, skip)
 
-                if len(res[1]) > 0:
-                    series.add(res[0])
-                    info -= {i for i in info if i.serieskey == res[0].key}
-                    info |= res[1]
-                    for inf in res[1]:
-                        if inf.source == NAME:
+                if inf:
+                    series.add(s)
+                    info -= {i for i in info if i.serieskey == s.key} | inf
+                    info |= inf
+                    for i in inf:
+                        if i.source == NAME:
                             continue
-                        l = Key(inf.link, inf.date)
+                        l = Key(i.link, i.date)
                         pages.discard(l)
                         pages.add(l)
             except Exception as e:
