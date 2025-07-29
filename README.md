@@ -325,6 +325,7 @@
 |Dec 09|[Classroom for Heroes](https://yenpress.com/titles/9781975378769-classroom-for-heroes-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 09|[Date A Live](https://yenpress.com/titles/9781975372415-date-a-live-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Dec 09|[Demons' Crest](https://yenpress.com/titles/9798855422412-demons-crest-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Dec 09|[D-Genesis Side Stories](https://j-novel.club/series/d-genesis#volume-10 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Dec 09|[Divine Incursions](https://yenpress.com/titles/9798855420814-divine-incursions-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 09|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975379445-hell-is-dark-with-no-flowers-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Dec 09|[Hell Mode](https://yenpress.com/titles/9798855423822-hell-mode-vol-9 "Yen Press")|9|Yen Press|📖|
