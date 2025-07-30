@@ -148,7 +148,7 @@
 |Aug 27|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Aug 28|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-12 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Aug 29|[ATLAS: Her, the Combatant, and Him, the Hero](https://j-novel.club/series/atlas-her-the-combatant-and-him-the-hero#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Aug 30|[I'm Just a Villager, so what? – finall](https://hanashi.media/im-just-a-villager-so-what/ "Hanashi Media")|1|Hanashi Media|🖥️|
+|Aug 30|[I'm Just a Villager, so what?](https://hanashi.media/im-just-a-villager-so-what/ "Hanashi Media")|1|Hanashi Media|🖥️|
 |Aug 30|[The Abandoned Reincarnation Sage: Building a Mighty Empire of Monsters Within the Monsters' Forest](https://hanashi.media/the-abandoned-reincarnation-sage-building-a-mighty-empire-of-monsters-within-the-monsters-forest/ "Hanashi Media")|1|Hanashi Media|🖥️|
 |Aug 31|[Welcome to Monstrous Miss Sophie's Enchanted Salon of Healing](https://crossinfworld.com/Welcome-to-Monstrous-Miss-Sophies-Enchanted-Salon-of-Healing-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Aug 31|[Welcome to Olivia's Magic Jewelers](https://crossinfworld.com/Welcome-to-Olivias-Magic-Jewelers-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
@@ -300,6 +300,7 @@
 |Nov 18|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Nov 18|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903731-omniscient-reader-s-viewpoint-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 18|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
+|Nov 19|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 25|[Bone Ash](https://yenpress.com/titles/9798855413083-bone-ash "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 25|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 25|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
