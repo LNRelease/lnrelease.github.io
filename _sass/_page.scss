@@ -2,6 +2,7 @@ html {
     line-height: 1.2;
     font-family: $font-family;
     background-color: $color-background;
+    scrollbar-gutter: stable;
 }
 
 body {
