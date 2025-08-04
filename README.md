@@ -124,6 +124,7 @@
 |Aug 12|[Pitch-Black Infatuation](https://yenpress.com/titles/9798855408577-pitch-black-infatuation "Yen Press")|2|Yen Press|🖥️📖|
 |Aug 12|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Aug 12|[The Executioner and Her Way of Life](https://yenpress.com/titles/9798855408904-the-executioner-and-her-way-of-life-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
+|Aug 14|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️|
 |Aug 14|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️|
 |Aug 19|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Aug 19|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -154,6 +155,7 @@
 |Aug 27|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Aug 28|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-12 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Aug 28|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
+|Aug 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
 |Aug 29|[ATLAS: Her, the Combatant, and Him, the Hero](https://j-novel.club/series/atlas-her-the-combatant-and-him-the-hero#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 30|[I'm Just a Villager, so what?](https://hanashi.media/im-just-a-villager-so-what/ "Hanashi Media")|1|Hanashi Media|🖥️|
 |Aug 30|[The Abandoned Reincarnation Sage: Building a Mighty Empire of Monsters Within the Monsters' Forest](https://hanashi.media/the-abandoned-reincarnation-sage-building-a-mighty-empire-of-monsters-within-the-monsters-forest/ "Hanashi Media")|1|Hanashi Media|🖥️|
@@ -203,6 +205,7 @@
 |Sep 18|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
 |Sep 18|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Sep 18|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
+|Sep 18|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Sep 19|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 19|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Sep 21|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|📖|
@@ -241,7 +244,7 @@
 |Oct 06|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 07|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Oct 07|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
-|Oct 07|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
+|Oct 07|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Oct 07|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 08|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-30 "J-Novel Club")|30|J-Novel Club|🖥️|
 |Oct 08|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -278,7 +281,7 @@
 |Oct 28|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 28|[One Piece: Law's Story](https://www.viz.com/manga-books/novel/one-piece-law-s-story/product/8555/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 28|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
-|Oct 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
+|Oct 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 30|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 30|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
 
@@ -362,6 +365,7 @@
 |Dec 09|[Sentenced to Be a Hero](https://yenpress.com/titles/9798855407617-sentenced-to-be-a-hero-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 09|[So I'm a Spider, So What? Ex](https://yenpress.com/titles/9798855410532-so-i-m-a-spider-so-what-ex-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 09|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9798855408881-the-angel-next-door-spoils-me-rotten-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|Dec 09|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Dec 09|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Dec 09|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975397180-the-unimplemented-overlords-have-joined-the-party-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 09|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368739-wandering-witch-the-journey-of-elaina-vol-16-light-novel "Yen Press")|16|Yen Press|🖥️📖|
