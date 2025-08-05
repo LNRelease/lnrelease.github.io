@@ -237,7 +237,6 @@
 |:---:|---|:---:|---|:---:|
 |Oct 02|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Oct 02|[The Misdeeds of an Extremely Arrogant Villain Aristocrat](https://sevenseasentertainment.com/books/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
-|Oct 02|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️|
 |Oct 03|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Oct 06|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Oct 06|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
@@ -301,6 +300,7 @@
 |Nov 07|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Nov 10|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
 |Nov 10|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Nov 10|[Engaging with the Plot: A Former Cat's Attempt to Save Her Now Temporary Fiancé](https://j-novel.club/series/engaging-with-the-plot-a-former-cat-s-attempt-to-save-her-now-temporary-fiance#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 10|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
 |Nov 10|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Nov 10|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-13 "J-Novel Club")|13|J-Novel Club|📖|
@@ -333,7 +333,8 @@
 |Nov 25|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 25|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 |Nov 25|[Lila and the Winds of War](https://yenpress.com/titles/9798855402834-lila-and-the-winds-of-war "Yen Press")|1|Yen Press|🖥️📖|
-|Nov 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
+|Nov 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
+|Nov 26|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 
 ### December
 
@@ -369,6 +370,7 @@
 |Dec 09|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Dec 09|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975397180-the-unimplemented-overlords-have-joined-the-party-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 09|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368739-wandering-witch-the-journey-of-elaina-vol-16-light-novel "Yen Press")|16|Yen Press|🖥️📖|
+|Dec 15|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Dec 16|[Alya Sometimes Hides Her Feelings in Russian: Momoco's Art Book](https://yenpress.com/titles/9798855420739-alya-sometimes-hides-her-feelings-in-russian-momoco-s-art-book "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Dec 17|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-11 "J-Novel Club")|7|J-Novel Club|🖥️|
