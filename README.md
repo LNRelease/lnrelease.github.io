@@ -237,6 +237,7 @@
 |:---:|---|:---:|---|:---:|
 |Oct 02|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Oct 02|[The Misdeeds of an Extremely Arrogant Villain Aristocrat](https://sevenseasentertainment.com/books/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Oct 02|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️|
 |Oct 03|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Oct 06|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Oct 06|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
@@ -282,7 +283,6 @@
 |Oct 28|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Oct 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 30|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
-|Oct 30|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
 
 ### November
 
@@ -311,6 +311,7 @@
 |Nov 11|[Days with My Stepsister](https://yenpress.com/titles/9781975372132-days-with-my-stepsister-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 11|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975362676-death-march-to-the-parallel-world-rhapsody-vol-24-light-novel "Yen Press")|24|Yen Press|🖥️📖|
 |Nov 11|[High School DxD](https://yenpress.com/titles/9798855417661-high-school-dxd-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️📖|
+|Nov 11|[Holmes of Kyoto](https://j-novel.club/series/holmes-of-kyoto#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
 |Nov 11|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9798855407013-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Nov 11|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975388751-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-17 "Yen Press")|17|Yen Press|🖥️📖|
 |Nov 11|[Kusunoki's Garden of Gods](https://yenpress.com/titles/9781975390822-kusunoki-s-garden-of-gods-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
@@ -333,7 +334,7 @@
 |Nov 25|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 25|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 |Nov 25|[Lila and the Winds of War](https://yenpress.com/titles/9798855402834-lila-and-the-winds-of-war "Yen Press")|1|Yen Press|🖥️📖|
-|Nov 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
+|Nov 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Nov 26|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 
 ### December
@@ -372,7 +373,7 @@
 |Dec 09|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368739-wandering-witch-the-journey-of-elaina-vol-16-light-novel "Yen Press")|16|Yen Press|🖥️📖|
 |Dec 15|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Dec 16|[Alya Sometimes Hides Her Feelings in Russian: Momoco's Art Book](https://yenpress.com/titles/9798855420739-alya-sometimes-hides-her-feelings-in-russian-momoco-s-art-book "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
+|Dec 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Dec 17|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-11 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 23|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 23|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
