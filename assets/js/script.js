@@ -82,7 +82,7 @@ function dateFilter() {
 }
 
 function norm(s) {
-    return s.normalize('NFKD').replace(/[^\w\s]/g, '').toLowerCase();
+    return s.normalize('NFKD').replace(/[^\w\s]+/g, '').toLowerCase();
 }
 
 function yieldTask() {
@@ -105,6 +105,7 @@ class Novels extends Array {
         this.order = settings.order;
         this.grouped = this.order % COLUMNS === 0;
         this.publishers = publishers;
+        this.normPublishers = undefined;
         this.series = new Map(series);
         this.normSeries = undefined;
         this.stars = new Map();
@@ -134,6 +135,7 @@ class Book {
     constructor(item, series, publishers, filters) {
         [this.serieskey, this.series] = series[item[0]];
         this.link = item[1];
+        this.publisherId = item[2];
         this.publisher = publishers[item[2]];
         this.title = item[3];
         this.volume = item[4];
@@ -186,7 +188,7 @@ class Book {
                 format = 'audiobook';
                 break;
         }
-        this.search = `${this.normTitle}|${this.normSeries}|${this.volume}|${format}`;
+        this.search = `${this.normTitle}|${this.normSeries}|${norm(this.publisher)}|${this.volume}|${format}`;
     }
 
     filterDate(filter) {
@@ -663,7 +665,9 @@ function initSort(novels) {
     }
 }
 
-function searchBook(book, include, exclude) {
+function searchBook(book, include, exclude, publishers, formats) {
+    if (publishers.has(book.publisherId) || formats.has(book.format))
+        return false;
     for (const word of exclude) {
         if (book.search.includes(word))
             return false;
@@ -681,14 +685,52 @@ function filterTable(novels) {
     if (search) {
         const include = [];
         const exclude = [];
-        for (const word of search.matchAll(/(?<!\S)(?:-?".+"|\S+)(?!\S)/g)) {
+        const publishersInc = new Set();
+        const publishersExc = new Set();
+        const formatsInc = new Set();
+        const formatsExc = new Set();
+        for (const word of search.matchAll(/(?<!\S)(?:-?(?:[^":]+:)?"[^"]+"|\S+)(?!\S)/g)) {
+            const neg = /^"?-/.test(word[0]);
+            const filter = word[0].split(':');
+            if (filter.length === 2) {
+                const key = norm(filter[0]);
+                const value = norm(filter[1]);
+                if (value.length == 0) {
+                    // empty
+                } else if ('publisher'.startsWith(key)) {
+                    publishersInc.add(-1);
+                    for (const [i, [pub, abbr]] of novels.normPublishers.entries()) {
+                        if (pub.startsWith(value) || abbr.startsWith(value))
+                            (neg ? publishersExc : publishersInc).add(i);
+                    }
+                    continue;
+                } else if ('format'.startsWith(key) || 'type'.startsWith(key)) {
+                    if ('physical'.startsWith(value) || 'paperback'.startsWith(value)) {
+                        (neg ? formatsExc : formatsInc).add(PHYSICAL);
+                        continue;
+                    } else if ('digital'.startsWith(value) || 'ebook'.startsWith(value)) {
+                        (neg ? formatsExc : formatsInc).add(DIGITAL);
+                        continue;
+                    } else if ('audiobook'.startsWith(value)) {
+                        (neg ? formatsExc : formatsInc).add(AUDIOBOOK);
+                        continue;
+                    }
+                }
+            }
             const normWord = norm(word[0]);
             if (normWord)
-                (word[0][0] === '-' ? exclude : include).push(normWord);
+                (neg ? exclude : include).push(normWord);
         }
+        const publishers = publishersInc.size === 0 ? publishersExc
+            : new Set(novels.publishers.keys()).difference(publishersInc).union(publishersExc);
+        const formats = formatsInc.size === 0 ? formatsExc
+            : new Set([PHYSICAL, DIGITAL, AUDIOBOOK]).difference(formatsInc).union(formatsExc);
+        if (formats.has(PHYSICAL) && formats.has(DIGITAL))
+            formats.add(PHYSICAL_DIGITAL);
+
         const matches = [];
         for (const [i, book] of novels.entries()) {
-            const match = searchBook(book, include, exclude);
+            const match = searchBook(book, include, exclude, publishers, formats);
             if (match) matches.push(i);
             book.show = match
                 && book.filters.publisher
@@ -1235,6 +1277,8 @@ function initFilter(novels) {
 }
 
 function initSearch(novels) {
+    novels.normPublishers = novels.publishers.map(x =>
+        [norm(x), norm(x.replace(/[^\p{Lu}]+/gu, ''))]);
     document.addEventListener('keydown', e => {
         if ((e.key === 'f' || e.key === 'F')
             && e.ctrlKey !== e.metaKey
