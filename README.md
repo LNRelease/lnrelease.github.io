@@ -254,7 +254,10 @@
 |Nov 18|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903731-omniscient-reader-s-viewpoint-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 18|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Nov 19|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
+|Nov 19|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-30 "J-Novel Club")|30|J-Novel Club|🖥️|
 |Nov 19|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Nov 20|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-31 "J-Novel Club")|31|J-Novel Club|🖥️|
+|Nov 20|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Nov 25|[Bone Ash](https://yenpress.com/titles/9798855413083-bone-ash "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 25|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 25|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
@@ -262,7 +265,7 @@
 |Nov 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Nov 26|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 28|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
-|Nov 30|[Onmyoji and Tengu Eyes: The Tale of Kushinada's Vengeance](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
+|Nov 30|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 
 ### December
 
@@ -303,6 +306,7 @@
 |Dec 16|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Dec 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Dec 17|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-11 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Dec 18|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Dec 23|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 23|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[How a Realist Hero Rebuilt the Kingdom](https://j-novel.club/series/how-a-realist-hero-rebuilt-the-kingdom#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
@@ -361,8 +365,10 @@
 |Feb 03|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 10|[A Good Day Starts with Cats and Books](https://sevenseasentertainment.com/books/a-good-day-starts-with-cats-and-books-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 17|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Feb 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Feb 24|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 
 ### March
 
@@ -373,14 +379,17 @@
 |Mar 03|[True Love Fades Away When the Contract Ends – The Secret of the Rose](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-the-secret-of-the-rose-light-novel-volume-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Mar 10|[I Wish I Could Meet You Again on the Hill Where That Flower Blooms](https://sevenseasentertainment.com/books/i-wish-i-could-meet-you-again-on-the-hill-where-that-flower-blooms-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Mar 17|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Mar 17|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Mar 17|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Mar 24|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone!](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Mar 24|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 
 ### April
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Apr 07|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Apr 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 
 ### May
 
