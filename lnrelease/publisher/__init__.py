@@ -10,12 +10,13 @@ from utils import EPOCH, SECONDARY, SOURCES, Book, Format, Info, Series
 
 NAME = 'misc'
 
-PARSE = re.compile(r'(?P<name>.+?)(?:,|:| [–-])? *(?:\bVol\.|(?:[\(\[]|\b)Volume|\(Light Novel) *0*(?P<volume>\d+(?:\.\d)?)[\)\]]?(?:\s*[:\(].+|\s+[–-](?!\d).+)?')
+PARSE = re.compile(r'(?P<name>.+?)(?:[,:]| [–-])? *(?:\bVol\.|(?:[\(\[]|\b)Volume|\(Light Novel) *0*(?P<volume>\d+(?:\.\d)?)[\)\]]?(?:[,:]? Part (?P<part>\d+)|\s*[:\(].+|\s+[–-](?!\d).+)?')
 OMNIBUS = re.compile(r'(?P<name>.+?)(?:,|:| [–-]| Omnibus)* *(?:Vol\.|\(?Volumes?) *(?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)\)?(?: Collector\'s Edition)?')
 SKIP = re.compile(r'.+? (?:Omnibus \d+|(?:Omnibus|Collector\'s) Edition)')
-PART = re.compile(r'(?P<name>.+?)(?:\s*(?:,|:| [–-]))? (?:Volume|Vol\.) (?P<volume>\d+(?:\.5)?),? (?P<part>.+)')
+PART = re.compile(r'(?P<name>.+?)(?:\s*(?:,|:| [–-]))? (?:Volume|Vol\.) (?P<volume>\d+(?:\.5)?)[:,]? (?P<part>.+)')
 NUMBER = re.compile(r'\b(?P<volume>\d+(?:\.\d)?)\b(?:: .+)?')
 SHORT = re.compile(r'\s*#?(?P<volume>\w{1,2})')
+EXTRAS = re.compile(r'(?P<name>: Short Stories) (?P<volume>\d+(?:\.5)?)')
 SOURCE = re.compile(r'(?P<volume>\d+(?:\.\d)?[^\s:\),]*):? ?.*')
 URL = re.compile(r'-volume-(?P<volume>\d+)')
 LOOSE = re.compile(r'(?P<name>.+?)(?:,|:| [–-])? *(?:[\(\[]|\b)(?:Vol\.|Volume|Part|Light Novel) *(?P<volume>\d+(?:\.\d+)?)[\)\]]?(?:\s*[:–\-\(]?.+)?')
@@ -127,6 +128,8 @@ def standard(series: Series, info: dict[str, list[Info]], books: dict[str, list[
             if match := PARSE.fullmatch(inf.title):
                 name = match.group('name')
                 vol = match.group('volume')
+                if part := match.group('part'):
+                    vol = f'{vol}.{part}'
             elif i == 0 and series.title == inf.title:
                 name = inf.title
                 vol = '1'
@@ -208,10 +211,13 @@ def short(series: Series, info: dict[str, list[Info]], books: dict[str, list[Boo
         if book:
             continue
 
-        match = NUMBER.fullmatch(diff[i]) or SHORT.fullmatch(diff[i])
-        if not match:
+        s = diff[i]
+        if match := NUMBER.fullmatch(s) or SHORT.fullmatch(s):
+            name = series.title
+        elif match := EXTRAS.fullmatch(s):
+            name = main_info[i].title[:-len(s)] + match.group('name')
+        else:
             continue
-        name = series.title
         vol = match.group('volume')
         main_books[i] = Book(series.key, inf.link, inf.publisher, name, vol, inf.format, inf.isbn, inf.date)
         changed = True

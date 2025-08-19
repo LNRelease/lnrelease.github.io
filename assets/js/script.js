@@ -665,9 +665,13 @@ function initSort(novels) {
     }
 }
 
-function searchBook(book, include, exclude, publishers, formats) {
+function searchBook(book, include, exclude, publishers, formats, volumes) {
     if (publishers.has(book.publisherId) || formats.has(book.format))
         return false;
+    for (const [neg, regex] of volumes) {
+        if (neg == regex.test(book.volume))
+            return false;
+    }
     for (const word of exclude) {
         if (book.search.includes(word))
             return false;
@@ -689,13 +693,21 @@ function filterTable(novels) {
         const publishersExc = new Set();
         const formatsInc = new Set();
         const formatsExc = new Set();
+        const volumes = [];
         for (const word of search.matchAll(/(?<!\S)(?:-?(?:[^":]+:)?"[^"]+"|\S+)(?!\S)/g)) {
             const neg = /^"?-/.test(word[0]);
             const filter = word[0].split(':');
             if (filter.length === 2) {
                 const key = norm(filter[0]);
                 const value = norm(filter[1]);
-                if (value.length == 0) {
+                if ('volume'.startsWith(key)) {
+                    try {
+                        volumes.push([neg, new RegExp(`^${filter[1]}$`, 'i')]);
+                        continue;
+                    } catch {
+                        // empty
+                    }
+                } else if (value.length == 0) {
                     // empty
                 } else if ('publisher'.startsWith(key)) {
                     publishersInc.add(-1);
@@ -728,19 +740,24 @@ function filterTable(novels) {
         if (formats.has(PHYSICAL) && formats.has(DIGITAL))
             formats.add(PHYSICAL_DIGITAL);
 
-        const matches = [];
-        for (const [i, book] of novels.entries()) {
-            const match = searchBook(book, include, exclude, publishers, formats);
-            if (match) matches.push(i);
-            book.show = match
-                && book.filters.publisher
-                && book.filters.format;
-            if (book.show) novels.shown++;
+        for (const book of novels) {
+            if (!(book.filters.publisher && book.filters.format)) {
+                book.show = false;
+            } else if (searchBook(book, include, exclude, publishers, formats, volumes)) {
+                book.show = true;
+                novels.shown++;
+            } else {
+                book.show = false;
+            }
         }
-        if (novels.shown === 0 && matches.length <= SEARCH_THRESHOLD) {
-            novels.shown = matches.length;
-            for (const i of matches)
-                novels[i].show = true;
+        if (novels.shown === 0) {
+            for (const book of novels) {
+                if (!(book.filters.publisher && book.filters.format)
+                    && searchBook(book, include, exclude, publishers, formats, volumes)) {
+                    book.show = true;
+                    novels.shown++;
+                }
+            }
         } else if (novels.shown > SEARCH_THRESHOLD) {
             for (const book of novels) {
                 if (book.show && !book.filter) {
@@ -827,18 +844,29 @@ function initDate(novels) {
         header.add('filter');
     }
 
+    function update() {
+        const filter = novels.filters.date;
+        start.value = new Date(filter.start)
+            .toISOString().substring(0, 10);
+        end.value = new Date(filter.end)
+            .toISOString().substring(0, 10);
+        for (const book of novels)
+            book.filterDate(filter);
+        filterTable(novels);
+        header.add('filter');
+    }
+
     document.getElementById('date-reset')
         .addEventListener('click', () => {
             novels.filters.date = dateFilter();
-            const filter = novels.filters.date;
-            start.value = new Date(filter.start)
-                .toISOString().substring(0, 10);
-            end.value = new Date(filter.end)
-                .toISOString().substring(0, 10);
-            for (const book of novels)
-                book.filterDate(filter);
-            filterTable(novels);
-            header.add('filter');
+            update();
+        });
+    document.getElementById('date-clear')
+        .addEventListener('click', () => {
+            const startTime = Date.UTC(2000, 0, 1);
+            const endTime = Date.UTC(new Date().getFullYear() + 2, 11, 31);
+            novels.filters.date = { start: startTime, end: endTime };
+            update();
         });
 
     function filter(event) {
