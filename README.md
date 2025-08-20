@@ -84,7 +84,9 @@
 |Sep 02|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Sep 02|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Sep 02|[Hell Mode](https://j-novel.club/series/hell-mode#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Sep 02|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|📖|
 |Sep 02|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Sep 02|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 02|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
 |Sep 02|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Sep 02|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
@@ -121,7 +123,6 @@
 |Sep 18|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Sep 19|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 19|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
-|Sep 21|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|📖|
 |Sep 22|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Sep 22|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Sep 22|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
@@ -364,12 +365,27 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Feb 03|[Adachi and Shimamura: Short Stories 2](https://sevenseasentertainment.com/books/adachi-and-shimamura-short-stories-2-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Feb 03|[Adachi and Shimamura: Short Stories](https://sevenseasentertainment.com/books/adachi-and-shimamura-short-stories-2-light-novel/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 03|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 03|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094233 "Square Enix")|8|Square Enix|📖|
 |Feb 03|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 10|[A Good Day Starts with Cats and Books](https://sevenseasentertainment.com/books/a-good-day-starts-with-cats-and-books-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Feb 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393595-catalog-of-wonders-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Feb 10|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855418767-even-a-replica-can-fall-in-love-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Feb 10|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345133-my-quiet-blacksmith-life-in-another-world-volume-3-light-novel "Yen Press")|3|Yen Press|📖|
+|Feb 10|[Nagisa Natsunagi Still Wants to Be a High School Girl](https://yenpress.com/titles/9798855409284-nagisa-natsunagi-still-wants-to-be-a-high-school-girl-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Feb 10|[Orc Eroica](https://yenpress.com/titles/9798855417647-orc-eroica-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
+|Feb 10|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855401103-playing-death-games-to-put-food-on-the-table-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Feb 10|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
+|Feb 10|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975393281-re-starting-life-in-another-world-short-story-collection-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+|Feb 10|[Sabikui Bisco](https://yenpress.com/titles/9798855424287-sabikui-bisco-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
+|Feb 10|[Secrets of the Silent Witch -another-](https://yenpress.com/titles/9798855412499-secrets-of-the-silent-witch-another-part-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Feb 10|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9798855425062-that-time-i-got-reincarnated-as-a-slime-vol-22-light-novel "Yen Press")|22|Yen Press|🖥️📖|
+|Feb 10|[The Contract Between a Specter and a Servant](https://yenpress.com/titles/9798855418415-the-contract-between-a-specter-and-a-servant-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
+|Feb 10|[The Detective Is Already Dead](https://yenpress.com/titles/9798855416862-the-detective-is-already-dead-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
+|Feb 10|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409789-the-irregular-at-magic-high-school-vol-26-light-novel "Yen Press")|26|Yen Press|🖥️📖|
+|Feb 10|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391072-the-misfit-of-demon-king-academy-vol-7-light-novel "Yen Press")|7|Yen Press|📖|
+|Feb 10|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379728-the-vexations-of-a-shut-in-vampire-princess-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Feb 17|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
@@ -404,18 +420,22 @@
 |Apr 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 |Apr 14|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Apr 14|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|Apr 14|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Apr 21|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 |Apr 21|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Apr 21|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
-|Apr 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
+|Apr 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6.1|Seven Seas Entertainment|🖥️📖|
 
 ### May
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |May 05|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|May 12|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |May 12|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-light-novel-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|📖|
 |May 12|[Venus Mission: From Former Assassin and Mercenary Middle-Aged Man, Reincarnated into Another World to Assassinate the Hero!](https://sevenseasentertainment.com/books/venus-mission-from-former-assassin-and-mercenary-middle-aged-man-reincarnated-into-another-world-to-assassinate-the-hero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|May 12|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|May 26|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |May 26|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
 ### June
@@ -431,6 +451,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jul 07|[Distorted I Love You](https://sevenseasentertainment.com/books/distorted-i-love-you-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Jul 07|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 
 ### September
 
