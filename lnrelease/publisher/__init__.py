@@ -85,6 +85,7 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
     main_books = max(books.values(), key=len)
     main_diff = diff_list([i.title for i in main_info])
     poss = {d: b for d, b in zip(main_diff, main_books) if b}
+    poss |= {d.split(':')[0]: b for d, b in poss.items() if ':' in d}
     titles = {inf.title: book for inf, book in zip(main_info, main_books)}
     isbns = {inf.isbn: book for inf, book in zip(main_info, main_books)}
 
@@ -107,7 +108,7 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
             changed = True
 
         # assume same order
-        if all(x is None for x in lst) and len(lst) == len(main_books):
+        if all(x is None or x.volume == b.volume for x, b in zip(lst, main_books)) and len(lst) == len(main_books):
             for i, (inf, book) in enumerate(zip(info[key], main_books)):
                 lst[i] = Book(series.key, inf.link, inf.publisher, book.name, book.volume, inf.format, inf.isbn, inf.date)
 

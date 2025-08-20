@@ -27,7 +27,7 @@ def strpdate(s: str) -> datetime.date:
 
 def parse(session: Session, link: str, series: Series) -> set[Info]:
     info = set()
-    page = session.get(link, cf=True, refresh=1)
+    page = session.get(link, cf=True, refresh=2)
     soup = BeautifulSoup(page.content, 'lxml')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
     audio = False

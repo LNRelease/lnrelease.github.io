@@ -207,20 +207,18 @@ class Session(requests.Session):
         REQUEST_STATS['api.cloudflare.com'].cache += 1
         with limiter(urlparse(url).netloc).lock:
             for _ in range(5):
-                try:
-                    with limiter('api.cloudflare.com'):
+                with limiter('api.cloudflare.com'):
+                    try:
                         page = self.post(f'{CF_API}/scan', json={'url': url}, **kwargs)
-                        sleep(10)
-                    match page.status_code:
-                        case 200:
-                            sleep(10)
-                            return self.cf_result(url, page.json()['uuid'], **kwargs)
-                        case 409 | 429:
-                            sleep(60)
-                            continue
+                    except requests.exceptions.RequestException as e:
+                        warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
+                    sleep(20)
+                if page:
+                    return self.cf_result(url, page.json()['uuid'], **kwargs)
+                elif page is not None:
                     warnings.warn(f'Scan errors ({url}): {page.json()["errors"]}', RuntimeWarning)
-                except requests.exceptions.RequestException as e:
-                    warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
+                with limiter('api.cloudflare.com'):
+                    sleep(30)
         return None
 
     def cf_scan(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
