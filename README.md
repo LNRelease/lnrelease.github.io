@@ -248,9 +248,9 @@
 |Nov 11|[Victoria of Many Faces](https://yenpress.com/titles/9798855408430-victoria-of-many-faces-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 11|[Who Killed the Hero?](https://yenpress.com/titles/9798855421927-who-killed-the-hero-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 12|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-12 "J-Novel Club")|10.2|J-Novel Club|🖥️|
-|Nov 13|[They Don't Know I'm Too Young for the Adventurer's Guild](https://j-novel.club/series/they-don-t-know-i-m-too-young-for-the-adventurer-s-guild#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 13|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Nov 14|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
+|Nov 14|[They Don't Know I'm Too Young for the Adventurer's Guild](https://j-novel.club/series/they-don-t-know-i-m-too-young-for-the-adventurer-s-guild#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 17|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-8 "J-Novel Club")|0|J-Novel Club|🖥️|
 |Nov 18|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/799026/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-7-light-novel-by-miraijin-a/9781647294977 "Kodansha")|7|Kodansha|📖|
 |Nov 18|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
@@ -274,7 +274,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Dec 02|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Dec 02|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 02|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Dec 03|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-78 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Dec 08|[Ascendance of a Bookworm: Short Story Collection](https://j-novel.club/series/ascendance-of-a-bookworm-short-story-collection#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
