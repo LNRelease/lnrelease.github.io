@@ -373,6 +373,7 @@
 |Feb 10|[A Good Day Starts with Cats and Books](https://sevenseasentertainment.com/books/a-good-day-starts-with-cats-and-books-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393595-catalog-of-wonders-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Feb 10|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855418767-even-a-replica-can-fall-in-love-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Feb 10|[Moscow 2160](https://yenpress.com/titles/9798855419627-moscow-2160-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Feb 10|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345133-my-quiet-blacksmith-life-in-another-world-volume-3-light-novel "Yen Press")|3|Yen Press|📖|
 |Feb 10|[Nagisa Natsunagi Still Wants to Be a High School Girl](https://yenpress.com/titles/9798855409284-nagisa-natsunagi-still-wants-to-be-a-high-school-girl-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Feb 10|[Orc Eroica](https://yenpress.com/titles/9798855417647-orc-eroica-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
