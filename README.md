@@ -247,11 +247,14 @@
 |Nov 11|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 11|[Victoria of Many Faces](https://yenpress.com/titles/9798855408430-victoria-of-many-faces-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 11|[Who Killed the Hero?](https://yenpress.com/titles/9798855421927-who-killed-the-hero-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Nov 12|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 12|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-12 "J-Novel Club")|10.2|J-Novel Club|🖥️|
 |Nov 13|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Nov 14|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Nov 14|[They Don't Know I'm Too Young for the Adventurer's Guild](https://j-novel.club/series/they-don-t-know-i-m-too-young-for-the-adventurer-s-guild#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 17|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-8 "J-Novel Club")|0|J-Novel Club|🖥️|
+|Nov 17|[Heir to a Monstermancer](https://j-novel.club/series/heir-to-a-monstermancer#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Nov 17|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 18|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://www.penguinrandomhouse.com/books/799026/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-7-light-novel-by-miraijin-a/9781647294977 "Kodansha")|7|Kodansha|📖|
 |Nov 18|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Nov 18|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903731-omniscient-reader-s-viewpoint-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -261,11 +264,16 @@
 |Nov 19|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 20|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-31 "J-Novel Club")|31|J-Novel Club|🖥️|
 |Nov 20|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
+|Nov 21|[One Last Hurrah! The Grayed Heroes Explore a Vivid Future](https://j-novel.club/series/one-last-hurrah-the-grayed-heroes-explore-a-vivid-future#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Nov 21|[The Fearsome Witch Teaches in Another World: Pay Attention in Class!](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world-pay-attention-in-class#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Nov 24|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Nov 24|[The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://j-novel.club/series/the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 25|[Bone Ash](https://yenpress.com/titles/9798855413083-bone-ash "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 25|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 25|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 |Nov 25|[Lila and the Winds of War](https://yenpress.com/titles/9798855402834-lila-and-the-winds-of-war "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
+|Nov 26|[Miss Blossom's Backward Beauty Standards: Give Me the Ugly Crown Prince!](https://j-novel.club/series/miss-blossom-s-backward-beauty-standards-give-me-the-ugly-crown-prince#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 26|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 28|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Nov 30|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
@@ -391,6 +399,7 @@
 |Feb 17|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Feb 20|[Finding My Way to (You) in This MMO World](https://j-novel.club/series/finding-my-way-to-you-in-this-mmo-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 24|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 24|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
