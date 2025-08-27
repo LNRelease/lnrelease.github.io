@@ -27,7 +27,7 @@ def strpdate(s: str) -> datetime.date:
 
 def parse(session: Session, link: str, series: Series) -> set[Info]:
     info = set()
-    page = session.get(link, cf=True, refresh=2)
+    page = session.get(link, cf=True, ia=True, refresh=2)
     soup = BeautifulSoup(page.content, 'lxml')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
     audio = False
@@ -85,7 +85,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         links: dict[str, str] = {}
         url = 'https://sevenseasentertainment.com/tag/light-novels/'
         while url:
-            page = session.get(url, cf=True, refresh=5)
+            page = session.get(url, cf=True, ia=True, refresh=5)
             soup = BeautifulSoup(page.content, 'lxml')
             lst = soup.select('a.series')
             if not lst:
@@ -97,7 +97,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             for a in lst:
                 links.setdefault(a.get('href'), a.text)
 
-        page = session.get('https://sevenseasentertainment.com/series-list/', cf=True, refresh=2)
+        page = session.get('https://sevenseasentertainment.com/series-list/', cf=True, ia=True, refresh=2)
         soup = BeautifulSoup(page.content, 'lxml')
         lst = soup.select('tr#volumes > td:first-child > a')
         if not lst:
