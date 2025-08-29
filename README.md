@@ -284,6 +284,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Dec 01|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Dec 02|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 02|[Restaurant to Another World](https://sevenseasentertainment.com/books/restaurant-to-another-world-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Dec 03|[In Another World with Household Spells](https://j-novel.club/series/in-another-world-with-household-spells#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -461,8 +462,8 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jun 02|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
-|Jun 16|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jun 16|[The Confession Strategy](https://sevenseasentertainment.com/books/confession-strategy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
+|Jun 16|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 
 ### July
 
