@@ -294,6 +294,7 @@
 |Dec 08|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-5 "J-Novel Club")|5-6|J-Novel Club|📖|
 |Dec 08|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-41 "J-Novel Club")|39-41|J-Novel Club|📖|
 |Dec 08|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
+|Dec 08|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 09|[About a Place in the Kinki Region](https://yenpress.com/titles/9798855409949-about-a-place-in-the-kinki-region "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 09|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388416-a-certain-magical-index-nt-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 09|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
@@ -404,6 +405,7 @@
 |Feb 10|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409789-the-irregular-at-magic-high-school-vol-26-light-novel "Yen Press")|26|Yen Press|🖥️📖|
 |Feb 10|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391072-the-misfit-of-demon-king-academy-vol-7-light-novel "Yen Press")|7|Yen Press|📖|
 |Feb 10|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379728-the-vexations-of-a-shut-in-vampire-princess-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
+|Feb 10|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
