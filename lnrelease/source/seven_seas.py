@@ -103,7 +103,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                 link = serie['link']
                 title = serie['title']['rendered']
                 modified = datetime.date.fromisoformat(serie['modified_gmt'][:10])
-                links.setdefault(link, title, modified)
+                links.setdefault(link, (title, modified))
             if len(jsn) != params['per_page']:
                 break
             params['page'] += 1

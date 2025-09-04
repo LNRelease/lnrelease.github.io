@@ -7,7 +7,7 @@ from datetime import datetime, timedelta, timezone
 from threading import Lock
 from time import perf_counter_ns, sleep, time
 from typing import Self
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urlencode, urljoin, urlparse
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -263,6 +263,10 @@ class Session(requests.Session):
 
         page = self.try_get(url, retries=5, **kwargs) if direct else None
         if page is None or page.status_code == 403:
+            u = urlparse(url)
+            query = urlencode(kwargs.pop('params', {}))
+            query = f'{u.query}&{query}' if u.query else query
+            url = u._replace(query=query).geturl()
             self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
             if cf:
                 REQUEST_STATS[urlparse(url).netloc].cache += 1
