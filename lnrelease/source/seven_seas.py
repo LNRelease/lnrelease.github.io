@@ -4,7 +4,7 @@ import warnings
 from random import random
 
 from bs4 import BeautifulSoup
-from session import Session
+from session import CHROME, Session
 from utils import PHYSICAL, Info, Series
 
 NAME = 'Seven Seas Entertainment'
@@ -25,9 +25,9 @@ def strpdate(s: str) -> datetime.date:
     raise ValueError(f"Invalid time data '{s}'")
 
 
-def parse(session: Session, link: str, series: Series) -> set[Info]:
+def parse(session: Session, link: str, series: Series, refresh: int) -> set[Info]:
     info = set()
-    page = session.get(link, cf=True, ia=True, refresh=2)
+    page = session.get(link, cf=True, ia=True, refresh=refresh, headers=CHROME)
     soup = BeautifulSoup(page.content, 'lxml')
     digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
     audio = False
@@ -82,22 +82,33 @@ def parse(session: Session, link: str, series: Series) -> set[Info]:
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     with Session() as session:
-        links: dict[str, str] = {}
-        url = 'https://sevenseasentertainment.com/tag/light-novels/'
-        while url:
-            page = session.get(url, cf=True, ia=True, refresh=5)
-            soup = BeautifulSoup(page.content, 'lxml')
-            lst = soup.select('a.series')
-            if not lst:
-                warnings.warn(f'No series found: {page.url}', RuntimeWarning)
+        links: dict[str, tuple[str, datetime.date]] = {}
+        kwargs = {
+            'cf': True,
+            'ia': True,
+            'refresh': 2,
+            'headers': CHROME,
+        }
+        url = 'https://sevenseasentertainment.com/wp-json/wp/v2/series'
+        params = {
+            'tags[0]': 43,
+            'orderby': 'modified',
+            'per_page': 100,
+            'page': 1,
+        }
+        while True:
+            page = session.get(url, params=params, **kwargs)
+            jsn = page.json()
+            for serie in jsn:
+                link = serie['link']
+                title = serie['title']['rendered']
+                modified = datetime.date.fromisoformat(serie['modified_gmt'][:10])
+                links.setdefault(link, title, modified)
+            if len(jsn) != params['per_page']:
                 break
-            url = soup.find(class_='nextpostslink')
-            url = url.get('href') if url else None
+            params['page'] += 1
 
-            for a in lst:
-                links.setdefault(a.get('href'), a.text)
-
-        page = session.get('https://sevenseasentertainment.com/series-list/', cf=True, ia=True, refresh=2)
+        page = session.get('https://sevenseasentertainment.com/series-list/', **kwargs)
         soup = BeautifulSoup(page.content, 'lxml')
         lst = soup.select('tr#volumes > td:first-child > a')
         if not lst:
@@ -105,18 +116,30 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         for a in lst:
             link = a.get('href')
             if link.endswith('-light-novel/'):
-                links.setdefault(link, a.text)
+                links.setdefault(link, (a.text, None))
 
         today = datetime.date.today()
-        for link, title in links.items():
+        for link, (title, modified) in links.items():
             try:
                 serie = Series(None, title)
-                prev = {i for i in info if i.serieskey == serie.key}
-                if random() > 0.2 and prev and (
-                        today - max(i.date for i in prev)).days > 365:
-                    continue
+                if modified is None:
+                    prev = {i for i in info if i.serieskey == serie.key}
+                    old = (today - max(i.date for i in prev)).days > 365
+                    if random() > 0.2 and prev and old:
+                        continue
+                    refresh = 7 if old else 2
+                else:
+                    days = (today - modified).days
+                    if days < 2:
+                        refresh = 0
+                    elif days < 30:
+                        refresh = 2
+                    elif random > 0.1:
+                        continue
+                    else:
+                        refresh = 7
 
-                if inf := parse(session, link, serie):
+                if inf := parse(session, link, serie, refresh):
                     series.add(serie)
                     info -= inf
                     info |= inf

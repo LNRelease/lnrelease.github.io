@@ -21,13 +21,12 @@ def parse(session: Session, serieskey: str, slug: str) -> set[Info]:
         page = session.get(f'https://labs.j-novel.club/app/v2/series/{slug}/volumes', params=params)
         jsn = page.json()
 
-        for book in jsn['volumes']:
+        for index, book in enumerate(jsn['volumes'], start=1):
             if book['label'] == 'J-Novel Pulp':
                 break
 
             title = book['title']
             date = datetime.date.fromisoformat(book['publishing'][:10])
-            index = book['number']
             link = f'https://j-novel.club/series/{slug}#volume-{index}'
             info.add(Info(serieskey, link, NAME, NAME, title, index, 'Digital', None, date))
             if 'physicalPublishing' in book:

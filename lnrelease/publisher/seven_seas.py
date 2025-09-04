@@ -1,3 +1,4 @@
+import datetime
 from itertools import chain
 
 from utils import Book, Info, Series
@@ -9,10 +10,11 @@ NAME = 'Seven Seas Entertainment'
 
 def parse(series: Series, info: dict[str, list[Info]],
           links: dict[str, list[Info]]) -> dict[str, list[Book]]:
-    if 'Digital' not in info and any(inf.serieskey == series.key
-                                     and inf.publisher == NAME
-                                     and inf.format == 'Digital'
-                                     for inf in chain.from_iterable(links.values())):
+    today = datetime.date.today()
+    if 'Digital' not in info and (
+            all(inf.date > today for inf in info['Physical'])
+            or any(inf.serieskey == series.key and inf.publisher == NAME and inf.format == 'Digital'
+                   for inf in chain.from_iterable(links.values()))):
         # copy physical dates if digital releases found elsewhere
         info['Digital'] = []
         for inf in info['Physical']:

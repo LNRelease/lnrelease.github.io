@@ -226,7 +226,7 @@ class Session(requests.Session):
         return self.cf_search(url, **kwargs)
 
     def cf_scan(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
-        return self.cf_search(url, refresh, **kwargs) or self.cf_create(url, **kwargs)
+        return refresh != 0 and self.cf_search(url, refresh, **kwargs) or self.cf_create(url, **kwargs)
 
     def ia_cache(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
         now = datetime.now(timezone.utc)
