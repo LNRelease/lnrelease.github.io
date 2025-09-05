@@ -1,6 +1,7 @@
 import datetime
 import re
 import warnings
+from html import unescape
 from random import random
 
 from bs4 import BeautifulSoup
@@ -101,7 +102,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             jsn = page.json()
             for serie in jsn:
                 link = serie['link']
-                title = serie['title']['rendered']
+                title = unescape(serie['title']['rendered'])
                 modified = datetime.date.fromisoformat(serie['modified_gmt'][:10])
                 links.setdefault(link, (title, modified))
             if len(jsn) != params['per_page']:
@@ -134,7 +135,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         refresh = 0
                     elif days < 30:
                         refresh = 2
-                    elif random > 0.1:
+                    elif random() > 0.1:
                         continue
                     else:
                         refresh = 7
