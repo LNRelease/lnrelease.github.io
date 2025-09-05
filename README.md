@@ -275,6 +275,7 @@
 |Nov 21|[The Fearsome Witch Teaches in Another World: Pay Attention in Class!](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world-pay-attention-in-class#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 21|[This Gyaru's Got a Thing for...Vampire Hunters?!](https://j-novel.club/series/this-gyaru-s-got-a-thing-for-vampire-hunters#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 24|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Nov 24|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Nov 24|[The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://j-novel.club/series/the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 25|[Bone Ash](https://yenpress.com/titles/9798855413083-bone-ash "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 25|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -333,6 +334,7 @@
 |Dec 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Dec 17|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-11 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 18|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Dec 19|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Dec 23|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 23|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Dec 26|[Hell Mode](https://j-novel.club/series/hell-mode#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
@@ -480,6 +482,7 @@
 |:---:|---|:---:|---|:---:|
 |Jul 07|[Distorted I Love You](https://sevenseasentertainment.com/books/distorted-i-love-you-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jul 07|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jul 28|[History of the Kingdom of the Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-the-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### September
 
