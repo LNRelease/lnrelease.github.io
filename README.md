@@ -102,21 +102,21 @@
 |Oct 13|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-3 "J-Novel Club")|3-4|J-Novel Club|📖|
 |Oct 13|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-30 "J-Novel Club")|30|J-Novel Club|📖|
 |Oct 13|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
-|Oct 14|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9798855407334-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Oct 14|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855405743-chitose-is-in-the-ramune-bottle-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
-|Oct 14|[Demon Lord 2099](https://yenpress.com/titles/9798855420715-demon-lord-2099-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
-|Oct 14|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9781975394394-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 14|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Oct 14|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️📖|
-|Oct 14|[Sasaki and Peeps](https://yenpress.com/titles/9798855418316-sasaki-and-peeps-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
-|Oct 14|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390662-the-bs-situation-of-tougetsu-umidori-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
-|Oct 14|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855407594-the-kept-man-of-the-princess-knight-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
-|Oct 14|[The Saga of Tanya the Evil](https://yenpress.com/titles/9798855402896-the-saga-of-tanya-the-evil-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 14|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 15|[The Adorable Dungeon Master](https://j-novel.club/series/the-adorable-dungeon-master#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 16|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️|
 |Oct 16|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Oct 21|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9798855407334-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Oct 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855405743-chitose-is-in-the-ramune-bottle-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Oct 21|[Demon Lord 2099](https://yenpress.com/titles/9798855420715-demon-lord-2099-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 21|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
+|Oct 21|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9781975394394-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
+|Oct 21|[Sasaki and Peeps](https://yenpress.com/titles/9798855418316-sasaki-and-peeps-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|Oct 21|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390662-the-bs-situation-of-tougetsu-umidori-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Oct 21|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855407594-the-kept-man-of-the-princess-knight-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Oct 21|[The Saga of Tanya the Evil](https://yenpress.com/titles/9798855402896-the-saga-of-tanya-the-evil-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 21|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 21|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 23|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
@@ -261,6 +261,7 @@
 |Dec 16|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903588-villains-are-destined-to-die-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 17|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-11 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 18|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Dec 19|[Cogs of Time](https://j-novel.club/series/cogs-of-time#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Dec 19|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Dec 23|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Dec 23|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -403,7 +404,6 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Jun 02|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Jun 16|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jun 16|[The Confession Strategy](https://sevenseasentertainment.com/books/confession-strategy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
@@ -413,6 +413,7 @@
 |:---:|---|:---:|---|:---:|
 |Jul 07|[Distorted I Love You](https://sevenseasentertainment.com/books/distorted-i-love-you-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jul 07|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jul 07|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Jul 28|[History of the Kingdom of the Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-the-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### September
