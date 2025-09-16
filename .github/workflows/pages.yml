@@ -5,6 +5,7 @@ on:
     branches:
       - 'main'
     paths:
+      - 'info.csv'
       - 'books.csv'
       - '**.html'
       - 'assets/**'
@@ -42,7 +43,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Python
-        run: python lnrelease/pages.py
+        run: |
+          python lnrelease/parse.py
+          python lnrelease/pages.py
 
       - name: Move assets
         run: find assets/ -type f -exec mv -nt ./ -- {} +

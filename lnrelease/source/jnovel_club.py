@@ -7,6 +7,13 @@ from utils import Info, Series
 
 # thanks for api
 NAME = 'J-Novel Club'
+EXCLUDE = {
+    'j-novel pulp',
+    'pulp',
+    'original light novel (OLN)',
+    'contest',
+    'trolling',
+}
 
 
 def parse(session: Session, serieskey: str, slug: str) -> set[Info]:
@@ -53,21 +60,23 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             page = session.get('https://labs.j-novel.club/app/v2/series', params=params)
             jsn = page.json()
             for serie in jsn['series']:
-                if (serie['type'] == 'NOVEL'
-                        and 'j-novel pulp' not in serie['tags']
-                        and 'pulp' not in serie['tags']):
+                if serie['type'] != 'NOVEL' or any(tag in serie['tags'] for tag in EXCLUDE):
                     s = Series(None, serie['title'])
-                    series.add(s)
-                    prev = {i for i in info if i.serieskey == s.key}
-                    if random() > 0.5 and prev and (
-                            today - max(i.date for i in prev)).days > 365:
-                        continue
-                    try:
-                        inf = parse(session, s.key, serie['slug'])
-                        info -= inf
-                        info |= inf
-                    except Exception as e:
-                        warnings.warn(f'{serie["slug"]}: {e}', RuntimeWarning)
+                    info -= {i for i in info if i.serieskey == s.key}
+                    continue
+
+                s = Series(None, serie['title'])
+                series.add(s)
+                prev = {i for i in info if i.serieskey == s.key}
+                if random() > 0.5 and prev and (
+                        today - max(i.date for i in prev)).days > 365:
+                    continue
+                try:
+                    inf = parse(session, s.key, serie['slug'])
+                    info -= inf
+                    info |= inf
+                except Exception as e:
+                    warnings.warn(f'{serie["slug"]}: {e}', RuntimeWarning)
 
             if jsn['pagination']['lastPage']:
                 break
