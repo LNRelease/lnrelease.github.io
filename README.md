@@ -250,6 +250,7 @@
 |Dec 09|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368739-wandering-witch-the-journey-of-elaina-vol-16-light-novel "Yen Press")|16|Yen Press|🖥️📖|
 |Dec 10|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Dec 11|[The Reincarnated Princess Spends Another Day Skipping Story Routes](https://j-novel.club/series/the-reincarnated-princess-spends-another-day-skipping-story-routes#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Dec 15|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-31 "J-Novel Club")|31|J-Novel Club|🖥️|
 |Dec 15|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-5 "J-Novel Club")|3.2|J-Novel Club|🖥️|
 |Dec 16|[Alya Sometimes Hides Her Feelings in Russian: Momoco's Art Book](https://yenpress.com/titles/9798855420739-alya-sometimes-hides-her-feelings-in-russian-momoco-s-art-book "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 16|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
