@@ -110,20 +110,20 @@
 |Oct 21|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9798855407334-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 21|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855405743-chitose-is-in-the-ramune-bottle-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Oct 21|[Demon Lord 2099](https://yenpress.com/titles/9798855420715-demon-lord-2099-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
-|Oct 21|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 21|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9781975394394-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 21|[Sasaki and Peeps](https://yenpress.com/titles/9798855418316-sasaki-and-peeps-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Oct 21|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9781975390662-the-bs-situation-of-tougetsu-umidori-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 21|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855407594-the-kept-man-of-the-princess-knight-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 21|[The Saga of Tanya the Evil](https://yenpress.com/titles/9798855402896-the-saga-of-tanya-the-evil-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 21|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
-|Oct 21|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 23|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Oct 23|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Oct 23|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️|
+|Oct 28|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 28|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 28|[One Piece: Law's Story](https://www.viz.com/manga-books/novel/one-piece-law-s-story/product/8555/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 28|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
+|Oct 28|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 30|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 30|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
@@ -136,9 +136,7 @@
 |:---:|---|:---:|---|:---:|
 |Nov 03|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Nov 04|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️📖|
-|Nov 04|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-light-novel-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|📖|
 |Nov 04|[My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild!](https://j-novel.club/series/my-magical-career-at-court-living-the-dream-after-my-nightmare-boss-fired-me-from-the-mages-guild#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
-|Nov 04|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Nov 04|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093267 "Square Enix")|7|Square Enix|📖|
 |Nov 04|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Nov 05|[Duchess in the Attic](https://j-novel.club/series/duchess-in-the-attic#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
@@ -162,11 +160,13 @@
 |Nov 11|[Holmes of Kyoto](https://j-novel.club/series/holmes-of-kyoto#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
 |Nov 11|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9798855407013-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Nov 11|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975388751-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-17 "Yen Press")|17|Yen Press|🖥️📖|
+|Nov 11|[Kuma Kuma Kuma Bear](https://sevenseasentertainment.com/books/kuma-kuma-kuma-bear-light-novel-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|📖|
 |Nov 11|[Kusunoki's Garden of Gods](https://yenpress.com/titles/9781975390822-kusunoki-s-garden-of-gods-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 11|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9798855405224-our-last-crusade-or-the-rise-of-a-new-world-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Nov 11|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Nov 11|[Secrets of the Silent Witch](https://yenpress.com/titles/9798855407037-secrets-of-the-silent-witch-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Nov 11|[Sword Art Online Alternative Gun Gale Online](https://yenpress.com/titles/9798855420937-sword-art-online-alternative-gun-gale-online-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
+|Nov 11|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Nov 11|[The Misdeeds of an Extremely Arrogant Villain Aristocrat](https://sevenseasentertainment.com/books/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 11|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 11|[Victoria of Many Faces](https://yenpress.com/titles/9798855408430-victoria-of-many-faces-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
@@ -275,6 +275,7 @@
 |Dec 30|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Dec 30|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Dec 30|[The Goddess Says, "Kill the Tsundere Witch!"](https://j-novel.club/series/the-goddess-says-kill-the-tsundere-witch#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Dec 30|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Dec 31|[Grimgar of Fantasy and Ash](https://j-novel.club/series/grimar-of-fantasy-and-ash#volume-23 "J-Novel Club")|21|J-Novel Club|🖥️|
 |Dec 31|[Yuri Tama: From Third Wheel to Trifecta](https://j-novel.club/series/yuri-tama-from-third-wheel-to-trifecta#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 
@@ -421,13 +422,19 @@
 |May 12|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 12|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-light-novel-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|📖|
 |May 12|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|May 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|May 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️📖|
+|May 26|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |May 26|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|May 26|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
+|May 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |May 26|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
 ### June
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jun 09|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jun 16|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jun 16|[The Confession Strategy](https://sevenseasentertainment.com/books/confession-strategy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
