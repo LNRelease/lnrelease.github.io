@@ -195,6 +195,7 @@
 |Nov 20|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-31 "J-Novel Club")|31|J-Novel Club|🖥️|
 |Nov 20|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Nov 21|[One Last Hurrah! The Grayed Heroes Explore a Vivid Future](https://j-novel.club/series/one-last-hurrah-the-grayed-heroes-explore-a-vivid-future#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Nov 21|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 21|[The Fearsome Witch Teaches in Another World: Pay Attention in Class!](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world-pay-attention-in-class#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 21|[This Gyaru's Got a Thing for...Vampire Hunters?!](https://j-novel.club/series/this-gyaru-s-got-a-thing-for-vampire-hunters#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Nov 24|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
