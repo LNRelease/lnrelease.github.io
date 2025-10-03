@@ -313,6 +313,7 @@
 |Jan 06|[This Is the Wizard's Secret Weapon](https://yenpress.com/titles/9798855414578-this-is-the-wizard-s-secret-weapon-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 06|[Thou, as My Knight...](https://yenpress.com/titles/9798855418620-thou-as-my-knight-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 06|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855418743-wolf-parchment-new-theory-spice-wolf-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
+|Jan 07|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 12|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-5 "J-Novel Club")|5-6|J-Novel Club|📖|
 |Jan 12|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
 |Jan 12|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
@@ -401,6 +402,7 @@
 |Mar 10|[The Brilliant Healer's New Life in the Shadows](https://yenpress.com/titles/9781718332744-the-brilliant-healer-s-new-life-in-the-shadows-volume-5-light-novel "Yen Press")|5|Yen Press|📖|
 |Mar 10|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411904-to-sir-without-love-i-m-divorcing-you-i-part-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 10|[To the Monster I Love](https://yenpress.com/titles/9798855418255-to-the-monster-i-love-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 13|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 17|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 17|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Mar 17|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
