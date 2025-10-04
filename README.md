@@ -367,6 +367,7 @@
 |Feb 17|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Feb 18|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Feb 20|[Finding My Way to (You) in This MMO World](https://j-novel.club/series/finding-my-way-to-you-in-this-mmo-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 24|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
@@ -439,7 +440,6 @@
 |May 26|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |May 26|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
 |May 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
-|May 26|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
 ### June
 
@@ -450,6 +450,7 @@
 |Jun 16|[The Confession Strategy](https://sevenseasentertainment.com/books/confession-strategy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jun 30|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jun 30|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/815191/saving-80000-gold-in-another-world-for-my-retirement-10-light-novel-by-funa/9781647295684 "Kodansha")|10|Kodansha|📖|
+|Jun 30|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 
 ### July
 
