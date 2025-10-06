@@ -34,7 +34,7 @@ def parse(session: Session, series: Series, link: str, skip: set[str]) -> set[In
         alts: defaultdict[str, list[str]] = defaultdict(list)
         force = True
         links = detail.select('.bookstore-case-detail a')
-        links.sort(key=lambda x: 'amazon.' in x.get('href'))
+        links = sorted(links, key=lambda x: 'amazon.' in x.get('href'))
         formats = {Format.PHYSICAL, Format.DIGITAL}
         for a in links:
             if a.text == 'OFFICIAL WIKI':

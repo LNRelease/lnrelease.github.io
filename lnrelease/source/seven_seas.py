@@ -125,8 +125,8 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                 serie = Series(None, title)
                 if modified is None:
                     prev = {i for i in info if i.serieskey == serie.key}
-                    old = (today - max(i.date for i in prev)).days > 365
-                    if random() > 0.2 and prev and old:
+                    old = bool(prev) and (today - max(i.date for i in prev)).days > 365
+                    if old and random() > 0.2:
                         continue
                     refresh = 7 if old else 2
                 else:
