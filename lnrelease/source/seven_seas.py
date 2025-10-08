@@ -87,7 +87,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         kwargs = {
             'cf': True,
             'ia': True,
-            'refresh': 2,
+            'refresh': 0,
             'headers': CHROME,
         }
         url = 'https://sevenseasentertainment.com/wp-json/wp/v2/series'
@@ -128,17 +128,17 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     old = bool(prev) and (today - max(i.date for i in prev)).days > 365
                     if old and random() > 0.2:
                         continue
-                    refresh = 7 if old else 2
+                    refresh = 10 if old else 4
                 else:
                     days = (today - modified).days
                     if days < 2:
                         refresh = 0
                     elif days < 30:
-                        refresh = 2
+                        refresh = 4
                     elif random() > 0.1:
                         continue
                     else:
-                        refresh = 7
+                        refresh = 10
 
                 if inf := parse(session, link, serie, refresh):
                     series.add(serie)

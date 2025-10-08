@@ -14,7 +14,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 HEADERS = {'User-Agent': 'lnrelease.github.io/2.0'}
-CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.3'}
+CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36'}
 CF_ACCOUNT = os.getenv('CF_ACCOUNT')
 CF_KEY = os.getenv('CF_KEY')
 CF_HEADERS = {'Content-Type': 'application/json', 'Authorization': f'Bearer {CF_KEY}'}
@@ -184,7 +184,7 @@ class Session(requests.Session):
         return None
 
     def cf_search(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
-        if not CF_ACCOUNT:
+        if not CF_ACCOUNT or refresh == 0:
             return None
 
         kwargs.setdefault('headers', {}).update(CF_HEADERS)
@@ -226,7 +226,7 @@ class Session(requests.Session):
         return self.cf_search(url, **kwargs)
 
     def cf_scan(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
-        return refresh != 0 and self.cf_search(url, refresh, **kwargs) or self.cf_create(url, **kwargs)
+        return self.cf_search(url, refresh, **kwargs) or self.cf_create(url, **kwargs)
 
     def ia_cache(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
         now = datetime.now(timezone.utc)
@@ -239,7 +239,7 @@ class Session(requests.Session):
             time = datetime.strptime(match.group('time') + 'Z', '%Y%m%d%H%M%S%z')
         else:
             time = datetime(1, 1, 1, tzinfo=timezone.utc)
-        cutoff = now - timedelta(days=refresh + random.randrange(refresh * 4))
+        cutoff = now - timedelta(days=refresh + random.randrange(min(4, refresh * 4)))
         if time < cutoff:
             link = f'http://web.archive.org/save/{url}'
             REQUEST_STATS['web.archive.org'].cache += 1
