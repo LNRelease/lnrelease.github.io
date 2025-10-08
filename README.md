@@ -2,80 +2,6 @@
 
 ## 2025
 
-### September
-
-|Date|Series|Volume|Publisher|Type|
-|:---:|---|:---:|---|:---:|
-|Sep 02|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
-|Sep 02|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
-|Sep 02|[Hell Mode](https://j-novel.club/series/hell-mode#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
-|Sep 02|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|📖|
-|Sep 02|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
-|Sep 02|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
-|Sep 02|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
-|Sep 02|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
-|Sep 03|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
-|Sep 04|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
-|Sep 04|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Sep 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-18 "J-Novel Club")|18|J-Novel Club|📖|
-|Sep 08|[Ascendance of a Bookworm: Part 5](https://j-novel.club/series/ascendance-of-a-bookworm#volume-33 "J-Novel Club")|12|J-Novel Club|📖|
-|Sep 08|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-1 "J-Novel Club")|1-2|J-Novel Club|📖|
-|Sep 08|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
-|Sep 08|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
-|Sep 08|[The Magic in this Other World is Too Far Behind!](https://j-novel.club/series/the-magic-in-this-other-world-is-too-far-behind#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
-|Sep 09|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
-|Sep 09|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|📖|
-|Sep 09|[Infinite Dendrogram SP](https://j-novel.club/series/infinite-dendrogram#volume-23 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 10|[Romance Revived: An NPC Was the Final Boss's Love](https://j-novel.club/series/romance-revived-an-npc-was-the-final-boss-s-love#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 11|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️|
-|Sep 11|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
-|Sep 12|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
-|Sep 12|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
-|Sep 15|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 15|[In Another World with Household Spells](https://j-novel.club/series/in-another-world-with-household-spells#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Sep 15|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
-|Sep 15|[Management of a Novice Alchemist](https://j-novel.club/series/management-of-a-novice-alchemist#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
-|Sep 15|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 16|[Hollow Regalia](https://yenpress.com/titles/9798855409925-hollow-regalia-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
-|Sep 16|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9798855407273-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
-|Sep 16|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
-|Sep 16|[Spy Classroom Short Story Collection](https://yenpress.com/titles/9781975397142-spy-classroom-short-story-collection-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
-|Sep 16|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9781975387914-the-demon-sword-master-of-excalibur-academy-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
-|Sep 18|[Blade Skill Online: Crushing the Competition with My Abysmal Stats, Useless Class, and Garbage Weapon!](https://j-novel.club/series/blade-skill-online-crushing-the-competition-with-my-abysmal-stats-useless-class-and-garbage-weapon#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 18|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
-|Sep 18|[The Mythical Hero's Otherworld Chronicles](https://j-novel.club/series/the-mythical-hero-s-otherworld-chronicles#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
-|Sep 18|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
-|Sep 18|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
-|Sep 19|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
-|Sep 19|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
-|Sep 22|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
-|Sep 22|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
-|Sep 22|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
-|Sep 22|[This Gyaru's Got a Thing for...Vampire Hunters?!](https://j-novel.club/series/this-gyaru-s-got-a-thing-for-vampire-hunters#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 23|[From Memen to Mori](https://yenpress.com/titles/9798855417401-from-memen-to-mori "Yen Press")|1|Yen Press|🖥️📖|
-|Sep 23|[I'm the Villainess, So I'm Taming the Final Boss](https://yenpress.com/titles/9781975378387-i-m-the-villainess-so-i-m-taming-the-final-boss-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
-|Sep 23|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368388-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-9-light-novel "Yen Press")|9|Yen Press|📖|
-|Sep 23|[My Unique Skill Makes Me OP Even at Level 1](https://kodansha.us/product/my-unique-skill-makes-me-op-even-at-level-1-novel-9 "Kodansha")|9|Kodansha|🖥️📖|
-|Sep 23|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
-|Sep 23|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
-|Sep 24|[I'll Never Set Foot in That House Again!](https://j-novel.club/series/i-ll-never-set-foot-in-that-house-again#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
-|Sep 24|[Take These Talents Elsewhere: A Delightful Demotion to the Countryside](https://j-novel.club/series/take-these-talents-elsewhere-a-delightful-demotion-to-the-countryside#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Sep 25|[Dahlia in Bloom: Crafting a Fresh Start With Magical Tools](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-11 "J-Novel Club")|10|J-Novel Club|🖥️|
-|Sep 25|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
-|Sep 25|[The Goddess Says, "Kill the Tsundere Witch!"](https://j-novel.club/series/the-goddess-says-kill-the-tsundere-witch#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 25|[The Mimosa Confessions](https://sevenseasentertainment.com/books/the-mimosa-confessions-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
-|Sep 25|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
-|Sep 25|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 26|[Let's Get to Villainessin': Stratagems of a Former Commoner](https://crossinfworld.com/Lets-Get-to-Villainessin-Stratagems-of-a-Former Commoner-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|📖|
-|Sep 26|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-4 "J-Novel Club")|3.1|J-Novel Club|🖥️|
-|Sep 29|[Demon Lord, Retry!](https://j-novel.club/series/demon-lord-retry#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
-|Sep 29|[The Accursed Chef and His Pair of Furry Foodies](https://j-novel.club/series/the-accursed-chef-and-his-pair-of-furry-foodies#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 30|[Ayakashi Moving Service](https://crossinfworld.com/Ayakashi-Moving-Service.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
-|Sep 30|[Expedition Cooking with the Enoch Royal Knights](https://crossinfworld.com/Expedition-Cooking-with-the-Enoch-Royal-Knights-Volume-7.html "Cross Infinite World")|7|Cross Infinite World|🖥️|
-|Sep 30|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
-|Sep 30|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
-|Sep 30|[The Do-Over Damsel Conquers the Dragon Emperor: Operation Records](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-Operation-Records.html "Cross Infinite World")|8|Cross Infinite World|🖥️|
-
 ### October
 
 |Date|Series|Volume|Publisher|Type|
@@ -313,6 +239,7 @@
 |Jan 06|[Thou, as My Knight...](https://yenpress.com/titles/9798855418620-thou-as-my-knight-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 06|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855418743-wolf-parchment-new-theory-spice-wolf-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Jan 07|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Jan 12|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 12|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-5 "J-Novel Club")|5-6|J-Novel Club|📖|
 |Jan 12|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
 |Jan 12|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
