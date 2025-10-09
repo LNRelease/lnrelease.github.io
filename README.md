@@ -255,6 +255,7 @@
 |Jan 20|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 20|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Jan 20|[Semantic Error](https://yenpress.com/titles/9798400903168-semantic-error-novel-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 21|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Jan 22|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
 |Jan 23|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Jan 27|[Disney Twisted-Wonderland: Usurper from the Wilds](https://www.viz.com/manga-books/novel/disney-twisted-wonderland-the-novel-episode-1-crimson-tyrant/product/8679/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
@@ -271,11 +272,12 @@
 |Feb 03|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 03|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094233 "Square Enix")|8|Square Enix|📖|
 |Feb 03|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Feb 09|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-7 "J-Novel Club")|7-8|J-Novel Club|📖|
+|Feb 09|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
 |Feb 10|[A Good Day Starts with Cats and Books](https://sevenseasentertainment.com/books/a-good-day-starts-with-cats-and-books-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393595-catalog-of-wonders-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Feb 10|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855418767-even-a-replica-can-fall-in-love-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Feb 10|[Moscow 2160](https://yenpress.com/titles/9798855419627-moscow-2160-light-novel "Yen Press")|1|Yen Press|🖥️📖|
-|Feb 10|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345133-my-quiet-blacksmith-life-in-another-world-volume-3-light-novel "Yen Press")|3|Yen Press|📖|
 |Feb 10|[Nagisa Natsunagi Still Wants to Be a High School Girl](https://yenpress.com/titles/9798855409284-nagisa-natsunagi-still-wants-to-be-a-high-school-girl-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Feb 10|[Orc Eroica](https://yenpress.com/titles/9798855417647-orc-eroica-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Feb 10|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855401103-playing-death-games-to-put-food-on-the-table-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
@@ -291,6 +293,7 @@
 |Feb 10|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379728-the-vexations-of-a-shut-in-vampire-princess-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Feb 10|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 11|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Feb 12|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Feb 17|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
@@ -307,8 +310,13 @@
 |Mar 03|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Mar 03|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Mar 03|[True Love Fades Away When the Contract Ends – The Secret of the Rose](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-the-secret-of-the-rose-light-novel-volume-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Mar 09|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-19 "J-Novel Club")|19|J-Novel Club|📖|
+|Mar 09|[Ascendance of a Bookworm: Hannelore's Fifth Year at the Royal Academy](https://j-novel.club/series/ascendance-of-a-bookworm-hannelore-s-fifth-year-at-the-royal-academy#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
+|Mar 09|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-7 "J-Novel Club")|7-8|J-Novel Club|📖|
+|Mar 09|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-4 "J-Novel Club")|4|J-Novel Club|📖|
+|Mar 09|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|📖|
+|Mar 09|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
 |Mar 10|[86--EIGHTY-SIX Alter](https://yenpress.com/titles/9798855424515-86-eighty-six-alter-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
-|Mar 10|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://yenpress.com/titles/9781718357181-an-archdemon-s-dilemma-how-to-love-your-elf-bride-volume-19-light-novel "Yen Press")|19|Yen Press|📖|
 |Mar 10|[Bungo Stray Dogs](https://yenpress.com/titles/9798855426014-bungo-stray-dogs-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Mar 10|[Casebook of Kurumi Tokisaki, Magic Detective](https://yenpress.com/titles/9798855410594-casebook-of-kurumi-tokisaki-magic-detective-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 10|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
@@ -319,15 +327,12 @@
 |Mar 10|[Liar, Liar](https://yenpress.com/titles/9781975370718-liar-liar-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Mar 10|[Lycoris Recoil: Recovery Days](https://yenpress.com/titles/9798855431988-lycoris-recoil-recovery-days-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 10|[Magical Explorer](https://yenpress.com/titles/9798855421941-magical-explorer-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
-|Mar 10|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://yenpress.com/titles/9781718341838-making-magic-the-sweet-life-of-a-witch-who-knows-an-infinite-mp-loophole-volume-4-light-novel "Yen Press")|4|Yen Press|📖|
 |Mar 10|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-2-light-novel-vol-4-6-hardcover-omnibus/ "Seven Seas Entertainment")|4-6|Seven Seas Entertainment|📖|
 |Mar 10|[My Happy Marriage](https://yenpress.com/titles/9798855429008-my-happy-marriage-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
-|Mar 10|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345157-my-quiet-blacksmith-life-in-another-world-volume-4-light-novel "Yen Press")|4|Yen Press|📖|
 |Mar 10|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |Mar 10|[Re:ZERO -Starting Life in Another World- Ex](https://yenpress.com/titles/9798855424492-re-starting-life-in-another-world-ex-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Mar 10|[Spy Classroom](https://yenpress.com/titles/9781975397104-spy-classroom-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Mar 10|[Sword of the Stallion](https://yenpress.com/titles/9798855407235-sword-of-the-stallion-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
-|Mar 10|[The Brilliant Healer's New Life in the Shadows](https://yenpress.com/titles/9781718332744-the-brilliant-healer-s-new-life-in-the-shadows-volume-5-light-novel "Yen Press")|5|Yen Press|📖|
 |Mar 10|[The Misdeeds of an Extremely Arrogant Villain Aristocrat](https://sevenseasentertainment.com/books/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 10|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 10|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411904-to-sir-without-love-i-m-divorcing-you-i-part-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
