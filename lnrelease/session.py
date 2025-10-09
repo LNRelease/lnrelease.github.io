@@ -239,7 +239,7 @@ class Session(requests.Session):
             time = datetime.strptime(match.group('time') + 'Z', '%Y%m%d%H%M%S%z')
         else:
             time = datetime(1, 1, 1, tzinfo=timezone.utc)
-        cutoff = now - timedelta(days=refresh + random.randrange(min(4, refresh * 4)))
+        cutoff = now - timedelta(days=refresh + random.randrange(max(4, refresh * 4)))
         if time < cutoff:
             link = f'http://web.archive.org/save/{url}'
             REQUEST_STATS['web.archive.org'].cache += 1
@@ -265,7 +265,7 @@ class Session(requests.Session):
         if page is None or page.status_code == 403:
             u = urlparse(url)
             query = urlencode(kwargs.pop('params', {}))
-            query = f'{u.query}&{query}' if u.query else query
+            query = f'{u.query}&{query}' if query and u.query else query or u.query
             url = u._replace(query=query).geturl()
             self.set_retry(total=2, status_forcelist={500, 502, 503, 504})
             if cf:
