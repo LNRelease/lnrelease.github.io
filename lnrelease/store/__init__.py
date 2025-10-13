@@ -14,6 +14,7 @@ STORES = {
     'books.apple.com': apple,
     'itunes.apple.com': apple,
     'geo.itunes.apple.com': apple,
+    'barnesandnoble.com': barnes_noble,
     'www.barnesandnoble.com': barnes_noble,
     'play.google.com': google,
 }

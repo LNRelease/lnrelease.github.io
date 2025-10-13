@@ -3,7 +3,7 @@ import re
 import warnings
 from pathlib import Path
 from random import random
-from urllib.parse import quote, urljoin, urlparse
+from urllib.parse import urljoin, urlparse
 
 import store
 from bs4 import BeautifulSoup
@@ -11,6 +11,7 @@ from session import Session
 from utils import Info, Key, Series, Table
 
 NAME = 'Hanashi Media'
+
 PAGES = Path('hanashi.csv')
 LINK = re.compile(r'/light-novels/[\w-]+')
 
@@ -66,7 +67,7 @@ def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info
 
     vol, info = read(session, jsn, series, link, volumes, skip)
     path = link.rsplit('/', 1)[0]
-    for vol in volumes:
+    for vol in list(volumes):
         try:
             page = session.get(f'{path}/{vol}/__data.json')
             info |= read(session, page.json(), series, f'{path}/{vol}', volumes, skip)[1]
