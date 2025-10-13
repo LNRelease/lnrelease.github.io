@@ -25,6 +25,7 @@ SHORTENERS = {
     'amzn.to',
     'apple.co',
     'bit.ly',
+    't.co',
 }
 IA = re.compile(r'https?://web\.archive\.org/web/(?P<time>\d{14})/(?P<url>.+)')
 
@@ -66,7 +67,7 @@ DELAYS = {
     'api.cloudflare.com': (0.1, 0.2),
     'crossinfworld.com': (10, 30),
     'play.google.com': (10, 30),
-    'hanashi.media': (30, 600),
+    'hanashi.media': (10, 30),
     'labs.j-novel.club': (10, 30),
     'api.kodansha.us': (30, 60),
     'www.onepeacebooks.com': (30, 600),
