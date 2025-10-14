@@ -55,6 +55,7 @@
 |Oct 30|[Bowing to Love: The Noble and the Gladiator](https://sevenseasentertainment.com/books/bowing-to-love-the-noble-and-the-gladiator-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 30|[The New Gate](https://hanashi.media/light-novels/the-new-gate/1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Oct 30|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
+|Oct 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/light-novels/tsukimichi-moonlit-fantasy/9 "Hanashi Media")|9|Hanashi Media|🖥️|
 |Oct 31|[I Want to Be a Saint, But I Can Only Use Attack Magic!](https://crossinfworld.com/I-Want-to-Be-a-Saint-But-I-Can-Only-Use-Attack-Magic-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Oct 31|[Love & Magic Academy: Who Cares about the Heroine and Villainess? I Want to Be the Strongest in this Otome Game World](https://crossinfworld.com/Love-and-Magic-Academy-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 
@@ -135,6 +136,7 @@
 |Nov 28|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Nov 30|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 |Nov 30|[The Do-Over Damsel Conquers the Dragon Emperor The Official History of the Continent of Platy](https://crossinfworld.com/The-Do-Over-Damsel-Conquers-the-Dragon-Emperor-The-Official-History-of-the-Continent-of-Platy.html "Cross Infinite World")|9|Cross Infinite World|🖥️|
+|Nov 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/light-novels/tsukimichi-moonlit-fantasy/10 "Hanashi Media")|10|Hanashi Media|🖥️|
 
 ### December
 
@@ -366,12 +368,35 @@
 |Apr 07|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 07|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Apr 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
+|Apr 13|[By the Grace of the Gods](https://yenpress.com/titles/9781718353954-by-the-grace-of-the-gods-volume-16 "Yen Press")|16|Yen Press|📖|
+|Apr 13|[Tearmoon Empire](https://yenpress.com/titles/9781718374546-tearmoon-empire-volume-15-light-novel "Yen Press")|15|Yen Press|📖|
+|Apr 13|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345171-my-quiet-blacksmith-life-in-another-world-volume-5-light-novel "Yen Press")|5|Yen Press|📖|
+|Apr 14|[Agents of the Four Seasons](https://yenpress.com/titles/9798855407693-agents-of-the-four-seasons-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Apr 14|[Almark](https://yenpress.com/titles/9798855418668-almark-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 14|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9798855423051-alya-sometimes-hides-her-feelings-in-russian-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
+|Apr 14|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9798855410808-a-misanthrope-teaches-a-class-for-demi-humans-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 14|[Associate Professor Akira Takatsuki's Conjecture EX](https://yenpress.com/titles/9781975353117-associate-professor-akira-takatsuki-s-conjecture-ex "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 14|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9798855420678-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️📖|
+|Apr 14|[Classroom for Heroes](https://yenpress.com/titles/9781975378783-classroom-for-heroes-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Apr 14|[Our Party Nearly Wiped and Then Everything Went Downhill](https://yenpress.com/titles/9798855423693-our-party-nearly-wiped-and-then-everything-went-downhill-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 14|[Four Child Life](https://yenpress.com/titles/9798855404012-four-child-life-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 14|[The Azure Sword, Slayer of Distortions](https://yenpress.com/titles/9798855418576-the-azure-sword-slayer-of-distortions-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 14|[Witches Can't Be Collared](https://yenpress.com/titles/9798855418781-witches-can-t-be-collared-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 14|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855425956-reign-of-the-seven-spellblades-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
+|Apr 14|[Saint's Fallen Antlers](https://yenpress.com/titles/9798855408591-saint-s-fallen-antlers "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 14|[Shanti](https://yenpress.com/titles/9798855423600-shanti-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 14|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
+|Apr 14|[The Bubble Love of the Mermaid](https://yenpress.com/titles/9798855430448-the-bubble-love-of-the-mermaid-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 14|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9798855427363-the-ephemeral-scenes-of-setsuna-s-journey-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Apr 14|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Apr 14|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Apr 14|[The World's Strongest Witch](https://yenpress.com/titles/9798855414370-the-world-s-strongest-witch-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 14|[You Can Have My Back: Extra Edition: Destined Souls](https://yenpress.com/titles/9798855412925-you-can-have-my-back-extra-edition-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 21|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 |Apr 21|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Apr 21|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Apr 27|[An Unruly Summon](https://yenpress.com/titles/9781718316089-an-unruly-summon-volume-1 "Yen Press")|1|Yen Press|📖|
+|Apr 27|[ATLAS: Her, the Combatant, and Him, the Hero](https://yenpress.com/titles/9781718320901-atlas-her-the-combatant-and-him-the-hero-volume-1 "Yen Press")|1|Yen Press|📖|
 |Apr 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6.1|Seven Seas Entertainment|🖥️📖|
 
 ### May
