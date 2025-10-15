@@ -30,7 +30,6 @@ def parse(session: Session, link: str, series: Series, refresh: int) -> set[Info
     info = set()
     page = session.get(link, cf=True, ia=True, refresh=refresh, headers=CHROME)
     soup = BeautifulSoup(page.content, 'lxml')
-    digital = soup.find(string='Early Digital:')  # assume all volumes are either digital or not
     audio = False
     index = 0
     for release in soup.find_all(class_='series-volume'):
@@ -55,12 +54,9 @@ def parse(session: Session, link: str, series: Series, refresh: int) -> set[Info
         volume_link = release.get('href') or release.a['href']
         date = release.find('b', string='Release Date')
         physical_date = strpdate(date.next_sibling.strip(' \t\n\r\v\f:'))
+        digital_date = None
         if date := release.find('b', string='Early Digital:'):
             digital_date = strpdate(date.next_sibling.strip())
-        elif digital and header == 'VOLUMES':
-            digital_date = physical_date
-        else:
-            digital_date = None
         isbn = ''
         format = 'Physical' if header == 'VOLUMES' else 'Audiobook'
         if header == 'VOLUMES':

@@ -1,13 +1,12 @@
 import datetime
 import re
-import warnings
-from collections import Counter, defaultdict
+from collections import defaultdict
 from itertools import chain, pairwise
 from math import prod
 
-from utils import Book, Info, Series
+from utils import Book, Format, Info, Series
 
-from . import check, copy, guess, letters, one, part, secondary, short, standard
+from . import check, copy, guess, letters, one, part, secondary, short, standard, yen_press
 
 NAME = 'J-Novel Club'
 
@@ -144,9 +143,33 @@ def omnibus(series: Series, books: dict[str, list[Book]], links: dict[str, list[
     return [book for x in physicals.values() for book in x]
 
 
+def book_key(book: Book) -> tuple[str, Format]:
+    return book.volume, Format.from_str(book.format)
+
+
 def parse(series: Series, info: dict[str, list[Info]],
           links: dict[str, list[Info]]) -> dict[str, list[Book]]:
-    books = _parse(series, info, links)
+    jnc = defaultdict(list)
+    yp = defaultdict(list)
+    for format, lst in info.items():
+        for inf in lst:
+            (yp if inf.source == 'Yen Press' else jnc
+             )[format].append(inf)
+    if not jnc:
+        return {}
+    books = _parse(series, jnc, links)
     if 'Physical' in books:
         books['Physical'] = omnibus(series, books, links)
+    if yp:
+        keys = set()
+        isbns = set()
+        for book in books.setdefault('Physical', []):
+            keys.add(book_key(book))
+            isbns.add(book.isbn)
+        for lst in yen_press.parse(series, yp, links).values():
+            for book in lst:
+                if (book.isbn not in isbns
+                    and ' Omnibus ' not in book.name
+                        and book_key(book) not in keys):
+                    books['Physical'].append(book)
     return books

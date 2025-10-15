@@ -46,6 +46,7 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
         title = f'{start.group("start")} Volume {vol.group("volume")}'
     series = Series(None, series_title)
     info = set()
+    publisher = imprint if imprint == 'J-Novel Club' else NAME
     for format, detail in zip(formats, details):
         if format not in FORMATS:
             continue
@@ -53,7 +54,7 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
         isbn = detail.select_one('span:-soup-contains("ISBN") + p').text
         date = datetime.datetime.strptime(detail.select_one('span:-soup-contains("Release Date") + p').text,
                                           '%b %d, %Y').date()
-        info.add(Info(series.key, links[isbn], NAME, NAME, title, 0, format, isbn, date))
+        info.add(Info(series.key, links[isbn], NAME, publisher, title, 0, format, isbn, date))
 
     if info:
         return series, info

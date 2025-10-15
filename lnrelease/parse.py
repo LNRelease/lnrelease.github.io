@@ -1,14 +1,13 @@
 import importlib
 import warnings
 from collections import defaultdict
-from collections.abc import Callable
 from itertools import groupby
 from operator import attrgetter
 from pathlib import Path
 
 import publisher
 from scrape import INFO, SERIES
-from utils import FORMATS, PRIMARY, SECONDARY, SOURCES, Book, Format, Info, Series, Table
+from utils import FORMATS, PRIMARY, SECONDARY, SOURCES, Book, Info, Series, Table
 
 PUBLISHERS = {}
 for file in Path('lnrelease/publisher').glob('*.py'):
@@ -51,21 +50,6 @@ def main() -> None:
         inf = dict(sorted(inf.items(), key=lambda x: FORMATS.get(x[0], 0)))
         for x in module.parse(serie, inf, links).values():
             books.update(x)
-
-    def jnc_key(book: Book) -> tuple[str, str, str]:
-        return book.name, book.volume, Format.from_str(book.format)
-    jnc_keys = set()
-    jnc_isbns = set()
-    jnc_series = set()
-    for book in books:
-        if book.publisher == 'J-Novel Club':
-            jnc_keys.add(jnc_key(book))
-            jnc_isbns.add(book.isbn)
-            jnc_series.add(book.serieskey)
-    books -= {b for b in books
-              if b.publisher == 'Yen Press'
-              and ((b.isbn in jnc_isbns or jnc_key(b) in jnc_keys)
-                   or ' Omnibus ' in b.name and b.serieskey in jnc_series)}
 
     books.save()
 

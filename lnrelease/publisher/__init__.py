@@ -44,7 +44,9 @@ def sub_nums(s: str) -> str:
 
 
 def diff_list(titles: list[str]) -> list[str]:
-    if len(titles) == 1:
+    if len(titles) == 0:
+        return []
+    elif len(titles) == 1:
         if match := LOOSE.fullmatch(titles[0]):
             return [match.group('volume')]
         else:

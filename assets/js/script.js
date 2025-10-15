@@ -241,6 +241,53 @@ class Book {
     }
 }
 
+function initShortcuts() {
+    document.addEventListener('keydown', e => {
+        if ((e.key === 'f' || e.key === 'F')
+            && e.ctrlKey !== e.metaKey
+            && !e.shiftKey
+            && !e.altKey) {
+            SEARCH.focus();
+            SEARCH.select();
+            e.preventDefault();
+        }
+    });
+    let touch = null;
+    let startA = -1;
+    let startB = -1;
+    document.addEventListener('touchstart', e => {
+        switch (e.touches.length) {
+            case 1:
+                startA = performance.now();
+                touch = e.touches[0];
+                break;
+            case 2:
+                startB = performance.now();
+                break;
+            default:
+                touch = null;
+        }
+    });
+    document.addEventListener('touchend', e => {
+        if (touch == null || e.touches.length != 1) {
+            touch = null;
+            return;
+        }
+        const now = performance.now();
+        const t = e.touches[0];
+        if (now - startA > 100
+            && now - startB < 200
+            && t.identifier == touch.identifier
+            && Math.abs(t.screenX - touch.screenX) < 10
+            && Math.abs(t.screenY - touch.screenY) < 10) {
+            touch = null;
+            SEARCH.focus();
+            SEARCH.select();
+            e.preventDefault();
+        }
+    });
+}
+
 function getRow(book, widths) {
     if (book.row) {
         book.row.classList.toggle('row-dark', book.dark);
@@ -1307,16 +1354,6 @@ function initFilter(novels) {
 function initSearch(novels) {
     novels.normPublishers = novels.publishers.map(x =>
         [norm(x), norm(x.replace(/[^\p{Lu}]+/gu, ''))]);
-    document.addEventListener('keydown', e => {
-        if ((e.key === 'f' || e.key === 'F')
-            && e.ctrlKey !== e.metaKey
-            && !e.shiftKey
-            && !e.altKey) {
-            SEARCH.focus();
-            SEARCH.select();
-            e.preventDefault();
-        }
-    });
     SEARCH.addEventListener('keydown', e => {
         if (e.key === 'Escape') {
             SEARCH.blur();
@@ -1326,45 +1363,12 @@ function initSearch(novels) {
     });
     SEARCH.addEventListener('input', () =>
         filterTable(novels));
-
-    let touch = null;
-    let startA = -1;
-    let startB = -1;
-    document.addEventListener('touchstart', e => {
-        switch (e.touches.length) {
-            case 1:
-                startA = performance.now();
-                touch = e.touches[0];
-                break;
-            case 2:
-                startB = performance.now();
-                break;
-            default:
-                touch = null;
-        }
-    });
-    document.addEventListener('touchend', e => {
-        if (touch == null || e.touches.length != 1) {
-            touch = null;
-            return;
-        }
-        const now = performance.now();
-        const t = e.touches[0];
-        if (now - startA > 100
-            && now - startB < 200
-            && t.identifier == touch.identifier
-            && Math.abs(t.screenX - touch.screenX) < 10
-            && Math.abs(t.screenY - touch.screenY) < 10) {
-            touch = null;
-            SEARCH.focus();
-            SEARCH.select();
-            e.preventDefault();
-        }
-    });
 }
 
 async function init() {
-    const response = await fetch('data.json');
+    const promise = fetch('data.json');
+    initShortcuts();
+    const response = await promise;
     const { series, publishers, data } = await response.json();
 
     const [novels, todo] = initNovels(series, publishers, data);
