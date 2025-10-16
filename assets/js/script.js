@@ -482,7 +482,7 @@ async function redrawTable(novels) {
     novels.updater = updater;
 
     PAD.style.minHeight = null;
-    LOADING.style.display = 'block';
+    LOADING.style.display = null;
     SHOWN.textContent = novels.shown;
     ROWS.replaceChildren(PAD);
 
@@ -511,7 +511,7 @@ async function redrawTable(novels) {
 
     drawTable(novels);
     CALC.replaceChildren();
-    LOADING.style.display = null;
+    LOADING.style.display = 'none';
     TABLE.style.height = height + HEADER_HEIGHT + 'px';
 }
 
