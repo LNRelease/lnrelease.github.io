@@ -182,6 +182,7 @@
 |Dec 15|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-31 "J-Novel Club")|31|J-Novel Club|🖥️|
 |Dec 15|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-5 "J-Novel Club")|3.2|J-Novel Club|🖥️|
 |Dec 16|[Alya Sometimes Hides Her Feelings in Russian: Momoco's Art Book](https://yenpress.com/titles/9798855420739-alya-sometimes-hides-her-feelings-in-russian-momoco-s-art-book "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 16|[Attack on Titan Coloring Book](https://kodansha.us/product/attack-on-titan-coloring-book-2-our-fights "Kodansha")|2|Kodansha|📖|
 |Dec 16|[Black Summoner](https://yenpress.com/titles/9781975392321-black-summoner-vol-6-light-novel "J-Novel Club")|6|J-Novel Club|📖|
 |Dec 16|[Classroom for Heroes](https://yenpress.com/titles/9781975378769-classroom-for-heroes-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 16|[Date A Live](https://yenpress.com/titles/9781975372415-date-a-live-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
@@ -256,6 +257,7 @@
 |Jan 07|[Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends](https://j-novel.club/series/even-exiled-she-s-still-the-beloved-saint-st-evelyn-s-weird-and-wonderful-friends#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jan 07|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 09|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Jan 10|[Heir to a Monstermancer](https://j-novel.club/series/heir-to-a-monstermancer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 12|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 12|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-5 "J-Novel Club")|5-6|J-Novel Club|📖|
 |Jan 12|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
@@ -300,6 +302,7 @@
 |Feb 06|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
 |Feb 06|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 09|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-7 "J-Novel Club")|7-8|J-Novel Club|📖|
+|Feb 09|[Duchess in the Attic](https://j-novel.club/series/duchess-in-the-attic#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Feb 09|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
 |Feb 10|[A Good Day Starts with Cats and Books](https://sevenseasentertainment.com/books/a-good-day-starts-with-cats-and-books-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393595-catalog-of-wonders-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
