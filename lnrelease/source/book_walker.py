@@ -31,6 +31,7 @@ PUBLISHERS = {
     'Tokyopop': '',
     'VIZ Media': 'VIZ Media',
     'Ize Press': 'Yen Press',
+    'JY': 'Yen Press',
     'Yen Audio': 'Yen Press',
     'Yen On': 'Yen Press',
     'Yen Press': 'Yen Press',
