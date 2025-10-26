@@ -17,11 +17,15 @@ def parse(session: Session, series: Series, link: str, format: str = '') -> set[
 
     page = session.get(link)
     jsn = page.json()['response']
+    readable = jsn['readable']
+    for genre in readable['genres']:
+        if genre['name'] == 'Reference':
+            print(jsn.get('readableUrl', jsn['id']))
+            return set()
 
-    slug = jsn['readableUrl'] if 'readableUrl' in jsn else jsn['id']
+    slug = jsn.get('readableUrl', jsn['id'])
     url = f'https://kodansha.us/product/{slug}'
     title = jsn['name']
-    readable = jsn['readable']
     isbn = readable['isbn']
     date = datetime.date.fromisoformat(readable['printReleaseDate'][:10])
     format = format or readable['coverType']
@@ -80,7 +84,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                 if serie:
                     link = f'https://api.kodansha.us/product/{content["id"]}'
                     try:
-                        info.update(parse(session, serie, link, format))
+                        inf = parse(session, serie, link, format)
+                        info -= inf
+                        info |= inf
                     except Exception as e:
                         warnings.warn(f'({link}): {e}', RuntimeWarning)
 
