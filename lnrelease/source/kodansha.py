@@ -20,7 +20,6 @@ def parse(session: Session, series: Series, link: str, format: str = '') -> set[
     readable = jsn['readable']
     for genre in readable['genres']:
         if genre['name'] == 'Reference':
-            print(jsn.get('readableUrl', jsn['id']))
             return set()
 
     slug = jsn.get('readableUrl', jsn['id'])
