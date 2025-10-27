@@ -182,7 +182,6 @@
 |Dec 15|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-31 "J-Novel Club")|31|J-Novel Club|🖥️|
 |Dec 15|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-5 "J-Novel Club")|3.2|J-Novel Club|🖥️|
 |Dec 16|[Alya Sometimes Hides Her Feelings in Russian: Momoco's Art Book](https://yenpress.com/titles/9798855420739-alya-sometimes-hides-her-feelings-in-russian-momoco-s-art-book "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 16|[Attack on Titan Coloring Book](https://kodansha.us/product/attack-on-titan-coloring-book-2-our-fights "Kodansha")|2|Kodansha|📖|
 |Dec 16|[Black Summoner](https://yenpress.com/titles/9781975392321-black-summoner-vol-6-light-novel "J-Novel Club")|6|J-Novel Club|📖|
 |Dec 16|[Classroom for Heroes](https://yenpress.com/titles/9781975378769-classroom-for-heroes-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 16|[Date A Live](https://yenpress.com/titles/9781975372415-date-a-live-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
