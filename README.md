@@ -262,7 +262,6 @@
 |Jan 07|[Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends](https://j-novel.club/series/even-exiled-she-s-still-the-beloved-saint-st-evelyn-s-weird-and-wonderful-friends#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jan 07|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 09|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
-|Jan 10|[Heir to a Monstermancer](https://j-novel.club/series/heir-to-a-monstermancer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 12|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 12|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-5 "J-Novel Club")|5-6|J-Novel Club|📖|
 |Jan 12|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
@@ -294,6 +293,7 @@
 |Jan 27|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Jan 27|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 28|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Jan 29|[Blade Skill Online: Crushing the Competition with My Abysmal Stats, Useless Class, and Garbage Weapon!](https://j-novel.club/series/blade-skill-online-crushing-the-competition-with-my-abysmal-stats-useless-class-and-garbage-weapon#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 29|[Old Knight, New Post: From Retiree to Her Majesty's Blade](https://j-novel.club/series/old-knight-new-post-from-retiree-to-her-majesty-s-blade#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 29|[The Blue Sea of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 
@@ -305,6 +305,7 @@
 |Feb 03|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 03|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094233 "Square Enix")|8|Square Enix|📖|
 |Feb 03|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Feb 04|[Miss Blossom's Backward Beauty Standards: Give Me the Ugly Crown Prince!](https://j-novel.club/series/miss-blossom-s-backward-beauty-standards-give-me-the-ugly-crown-prince#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 05|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Feb 06|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
 |Feb 06|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -330,12 +331,16 @@
 |Feb 10|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379728-the-vexations-of-a-shut-in-vampire-princess-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Feb 10|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 11|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Feb 11|[The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://j-novel.club/series/the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Feb 11|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Feb 12|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Feb 13|[Heir to a Monstermancer](https://j-novel.club/series/heir-to-a-monstermancer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 13|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 17|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 17|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 18|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Feb 19|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
 |Feb 20|[Finding My Way to (You) in This MMO World](https://j-novel.club/series/finding-my-way-to-you-in-this-mmo-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 24|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
