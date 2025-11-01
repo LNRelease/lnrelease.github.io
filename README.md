@@ -193,7 +193,6 @@
 |Dec 16|[Sentenced to Be a Hero](https://yenpress.com/titles/9798855407617-sentenced-to-be-a-hero-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 16|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975397180-the-unimplemented-overlords-have-joined-the-party-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 16|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
-|Dec 16|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903588-villains-are-destined-to-die-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 17|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-11 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 18|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Dec 18|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
@@ -259,6 +258,7 @@
 |Jan 06|[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://yenpress.com/titles/9798855417708-the-world-s-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Jan 06|[This Is the Wizard's Secret Weapon](https://yenpress.com/titles/9798855414578-this-is-the-wizard-s-secret-weapon-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 06|[Thou, as My Knight...](https://yenpress.com/titles/9798855418620-thou-as-my-knight-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 06|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903588-villains-are-destined-to-die-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 06|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368739-wandering-witch-the-journey-of-elaina-vol-16-light-novel "Yen Press")|16|Yen Press|🖥️📖|
 |Jan 06|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855418743-wolf-parchment-new-theory-spice-wolf-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Jan 07|[Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends](https://j-novel.club/series/even-exiled-she-s-still-the-beloved-saint-st-evelyn-s-weird-and-wonderful-friends#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -432,6 +432,7 @@
 |Apr 14|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Apr 14|[The World's Strongest Witch](https://yenpress.com/titles/9798855414370-the-world-s-strongest-witch-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 14|[You Can Have My Back](https://yenpress.com/titles/9798855412925-you-can-have-my-back-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+|Apr 16|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 21|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 |Apr 21|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Apr 21|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
