@@ -291,6 +291,7 @@
 |Jan 22|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
 |Jan 22|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 23|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|Jan 27|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-9 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jan 27|[Disney Twisted-Wonderland: Usurper from the Wilds](https://www.viz.com/manga-books/novel/disney-twisted-wonderland-the-novel-episode-1-crimson-tyrant/product/8679/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Jan 27|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Jan 27|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
