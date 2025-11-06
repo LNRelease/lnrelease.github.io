@@ -338,6 +338,7 @@
 |Feb 11|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 11|[The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://j-novel.club/series/the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 11|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Feb 12|[Disowned but Not Disheartened! Life Is Good with Overpowered Magic](https://j-novel.club/series/disowned-but-not-disheartened-life-is-good-with-overpowered-magic#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 12|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Feb 13|[Heir to a Monstermancer](https://j-novel.club/series/heir-to-a-monstermancer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 13|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
