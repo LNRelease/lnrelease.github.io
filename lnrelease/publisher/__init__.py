@@ -31,9 +31,19 @@ NUM_DICT = {
     re.compile(r'\b(5th|fifth|five|v)\b', flags=re.IGNORECASE): '5',
     re.compile(r'\b(6th|sixth|six|vi)\b', flags=re.IGNORECASE): '6',
     re.compile(r'\b(7th|seventh|seven|vii)\b', flags=re.IGNORECASE): '7',
-    re.compile(r'\b(8th|eigth|eight|viii)\b', flags=re.IGNORECASE): '8',
+    re.compile(r'\b(8th|eighth|eight|viii)\b', flags=re.IGNORECASE): '8',
     re.compile(r'\b(9th|ninth|nine|ix)\b', flags=re.IGNORECASE): '9',
     re.compile(r'\b(10th|tenth|ten|x)\b', flags=re.IGNORECASE): '10',
+    re.compile(r'\b(11th|eleventh|eleven|xi)\b', flags=re.IGNORECASE): '11',
+    re.compile(r'\b(12th|twelfth|twelve|xii)\b', flags=re.IGNORECASE): '12',
+    re.compile(r'\b(13th|thirteenth|thirteen|xiii)\b', flags=re.IGNORECASE): '13',
+    re.compile(r'\b(14th|fourteenth|fourteen|xiv)\b', flags=re.IGNORECASE): '14',
+    re.compile(r'\b(15th|fifteenth|fifteen|xv)\b', flags=re.IGNORECASE): '15',
+    re.compile(r'\b(16th|sixteenth|sixteen|xvi)\b', flags=re.IGNORECASE): '16',
+    re.compile(r'\b(17th|seventeenth|seventeen|xvii)\b', flags=re.IGNORECASE): '17',
+    re.compile(r'\b(18th|eighteenth|eighteen|xviii)\b', flags=re.IGNORECASE): '18',
+    re.compile(r'\b(19th|nineteenth|nineteen|xix)\b', flags=re.IGNORECASE): '19',
+    re.compile(r'\b(20th|twentieth|twenty|xx)\b', flags=re.IGNORECASE): '20',
 }
 
 
