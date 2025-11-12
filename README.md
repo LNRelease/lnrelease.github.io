@@ -397,9 +397,28 @@
 |:---:|---|:---:|---|:---:|
 |May 05|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 05|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|May 11|[Infinite Dendrogram](https://yenpress.com/titles/9781718355217-infinite-dendrogram-volume-22-light-novel "J-Novel Club")|22|J-Novel Club|📖|
+|May 11|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://yenpress.com/titles/9781718341845-making-magic-the-sweet-life-of-a-witch-who-knows-an-infinite-mp-loophole-volume-5-light-novel "J-Novel Club")|5|J-Novel Club|📖|
+|May 11|[My Next Life as a Villainess: All Routes Lead to Doom!](https://yenpress.com/titles/9781718366732-my-next-life-as-a-villainess-all-routes-lead-to-doom-volume-14-light-novel "J-Novel Club")|14|J-Novel Club|📖|
+|May 11|[The Brilliant Healer's New Life in the Shadows](https://yenpress.com/titles/9781718332751-the-brilliant-healer-s-new-life-in-the-shadows-volume-6-light-novel "J-Novel Club")|6|J-Novel Club|📖|
+|May 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://yenpress.com/titles/9781718305090-the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap-volume-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
+|May 12|[Blade & Bastard](https://yenpress.com/titles/9798855433654-blade-bastard-vol-5-light-novel "J-Novel Club")|5|J-Novel Club|📖|
+|May 12|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855405767-chitose-is-in-the-ramune-bottle-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |May 12|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|May 12|[Divine Incursions](https://yenpress.com/titles/9798855420838-divine-incursions-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |May 12|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-light-novel-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|📖|
+|May 12|[Hell Mode](https://yenpress.com/titles/9798855433432-hell-mode-vol-10 "J-Novel Club")|10|J-Novel Club|📖|
+|May 12|[Lord of Mysteries](https://yenpress.com/titles/9798855414288-lord-of-mysteries-vol-3 "Yen Press")|3|Yen Press|📖|
+|May 12|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368401-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-11-light-novel "J-Novel Club")|11|J-Novel Club|📖|
+|May 12|[Sword Art Online Progressive](https://yenpress.com/titles/9798855427899-sword-art-online-progressive-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|May 12|[The Alchemist's Fluffy Island Getaway](https://yenpress.com/titles/9798855433647-the-alchemist-s-fluffy-island-getaway-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|May 12|[The BS Situation of Tougetsu Umidori](https://yenpress.com/titles/9798855407730-the-bs-situation-of-tougetsu-umidori-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+|May 12|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9798855407457-the-demon-sword-master-of-excalibur-academy-vol-13-light-novel "Yen Press")|13|Yen Press|🖥️📖|
+|May 12|[The Executioner and Her Way of Life](https://yenpress.com/titles/9798855427448-the-executioner-and-her-way-of-life-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
+|May 12|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9798855427387-the-princess-of-convenient-plot-devices-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
+|May 12|[The Summer Hikaru Died](https://yenpress.com/titles/9798855434033-the-summer-hikaru-died-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |May 12|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|May 12|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903618-villains-are-destined-to-die-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |May 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |May 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️📖|
 |May 19|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
