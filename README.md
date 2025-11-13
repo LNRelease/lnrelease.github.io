@@ -298,6 +298,7 @@
 |Feb 24|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 24|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Feb 26|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|Feb 26|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 27|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Feb 27|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-13 "J-Novel Club")|11|J-Novel Club|🖥️|
 
@@ -309,6 +310,7 @@
 |Mar 03|[Reborn as an Assassin's Apprentice](https://sevenseasentertainment.com/books/reborn-as-an-assassins-apprentice-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 03|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Mar 03|[True Love Fades Away When the Contract Ends – The Secret of the Rose](https://sevenseasentertainment.com/books/true-love-fades-away-when-the-contract-ends-the-secret-of-the-rose-light-novel-volume-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Mar 05|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 09|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-19 "J-Novel Club")|19|J-Novel Club|📖|
 |Mar 09|[Ascendance of a Bookworm: Hannelore's Fifth Year at the Royal Academy](https://j-novel.club/series/ascendance-of-a-bookworm-hannelore-s-fifth-year-at-the-royal-academy#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Mar 09|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-7 "J-Novel Club")|7-8|J-Novel Club|📖|
@@ -400,6 +402,7 @@
 |May 11|[Infinite Dendrogram](https://yenpress.com/titles/9781718355217-infinite-dendrogram-volume-22-light-novel "J-Novel Club")|22|J-Novel Club|📖|
 |May 11|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://yenpress.com/titles/9781718341845-making-magic-the-sweet-life-of-a-witch-who-knows-an-infinite-mp-loophole-volume-5-light-novel "J-Novel Club")|5|J-Novel Club|📖|
 |May 11|[My Next Life as a Villainess: All Routes Lead to Doom!](https://yenpress.com/titles/9781718366732-my-next-life-as-a-villainess-all-routes-lead-to-doom-volume-14-light-novel "J-Novel Club")|14|J-Novel Club|📖|
+|May 11|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345195-my-quiet-blacksmith-life-in-another-world-volume-6-light-novel "J-Novel Club")|6|J-Novel Club|📖|
 |May 11|[The Brilliant Healer's New Life in the Shadows](https://yenpress.com/titles/9781718332751-the-brilliant-healer-s-new-life-in-the-shadows-volume-6-light-novel "J-Novel Club")|6|J-Novel Club|📖|
 |May 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://yenpress.com/titles/9781718305090-the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap-volume-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
 |May 12|[Blade & Bastard](https://yenpress.com/titles/9798855433654-blade-bastard-vol-5-light-novel "J-Novel Club")|5|J-Novel Club|📖|
@@ -457,6 +460,7 @@
 |Jul 21|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jul 21|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jul 28|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Jul 28|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfind](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfind-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jul 28|[History of the Kingdom of the Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-the-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jul 28|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-7-part-1/ "Seven Seas Entertainment")|7.1|Seven Seas Entertainment|🖥️📖|
 |Jul 28|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
