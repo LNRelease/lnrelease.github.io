@@ -138,7 +138,8 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
 
                 if inf := parse(session, link, serie, refresh):
                     series.add(serie)
-                    info -= inf
+                    isbns = {i.isbn for i in inf if i.isbn}
+                    info -= {i for i in info if i in inf or i.isbn in isbns}
                     info |= inf
             except Exception as e:
                 warnings.warn(f'({link}): {e}', RuntimeWarning)
