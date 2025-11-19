@@ -75,6 +75,7 @@
 |Nov 25|[Kusunoki's Garden of Gods](https://yenpress.com/titles/9781975390822-kusunoki-s-garden-of-gods-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 25|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-1-light-novel-vol-1-3-hardcover-omnibus/ "Seven Seas Entertainment")|1-3|Seven Seas Entertainment|📖|
 |Nov 25|[Our Last Crusade or the Rise of a New World](https://yenpress.com/titles/9798855405224-our-last-crusade-or-the-rise-of-a-new-world-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
+|Nov 25|[Studio Ghibli: The Complete Works](https://kodansha.us/product/studio-ghibli-the-complete-works-2 "Kodansha")|1|Kodansha||
 |Nov 25|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Nov 25|[Victoria of Many Faces](https://yenpress.com/titles/9798855408430-victoria-of-many-faces-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 25|[Who Killed the Hero?](https://yenpress.com/titles/9798855421927-who-killed-the-hero-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
