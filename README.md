@@ -354,6 +354,7 @@
 |Mar 10|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 10|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411904-to-sir-without-love-i-m-divorcing-you-i-part-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 10|[To the Monster I Love](https://yenpress.com/titles/9798855418255-to-the-monster-i-love-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 11|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 13|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 17|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 17|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
