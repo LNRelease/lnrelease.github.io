@@ -61,7 +61,7 @@ def parse(session: Session, link: str, series: Series, refresh: int) -> set[Info
         format = 'Physical' if header == 'VOLUMES' else 'Audiobook'
         if header == 'VOLUMES':
             isbn = release.find('b', string='ISBN:').next_sibling.strip()
-            if 'digital' in isbn:
+            if not isbn or 'digital' in isbn:
                 digital_date = physical_date
                 physical_date = None
                 isbn = ''
