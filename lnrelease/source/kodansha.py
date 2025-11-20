@@ -18,9 +18,9 @@ def parse(session: Session, series: Series, link: str, format: str = '') -> set[
     page = session.get(link)
     jsn = page.json()['response']
     readable = jsn['readable']
-    for genre in readable['genres']:
-        if genre['name'] == 'Reference':
-            return set()
+    genres = {x['name'] for x in readable['genres']}
+    if 'Reference' in genres or genres == {'Arts & Entertainment'}:
+        return set()
 
     slug = jsn.get('readableUrl', jsn['id'])
     url = f'https://kodansha.us/product/{slug}'
