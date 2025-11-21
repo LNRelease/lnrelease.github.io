@@ -72,9 +72,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         today - max(i.date for i in prev)).days > 365:
                     continue
                 try:
-                    inf = parse(session, s.key, serie['slug'])
-                    info -= inf
-                    info |= inf
+                    if inf := parse(session, s.key, serie['slug']):
+                        info -= {i for i in info if i.serieskey == s.key} | inf
+                        info |= inf
                 except Exception as e:
                     warnings.warn(f'{serie["slug"]}: {e}', RuntimeWarning)
 
