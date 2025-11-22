@@ -131,7 +131,8 @@ def parse(session: Session, links: list[str], *,
         publisher = publisher or match.group('publisher')
         date = date or match.group('date')
     if not date:
-        warnings.warn(f'No date found: {links[0]}')
+        if b"We don't know when or if this item will be back in stock." not in page.content:
+            warnings.warn(f'No date found: {links[0]}')
         return None
     date = strpdate(date)
     if not date:
