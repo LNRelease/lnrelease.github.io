@@ -49,7 +49,7 @@
 |Nov 14|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Nov 14|[They Don't Know I'm Too Young for the Adventurer's Guild](https://j-novel.club/series/they-don-t-know-i-m-too-young-for-the-adventurer-s-guild#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 17|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-8 "J-Novel Club")|0|J-Novel Club|🖥️|
-|Nov 17|[Heir to a Monstermancer](https://j-novel.club/series/heir-to-a-monstermancer#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️📖|
+|Nov 17|[Heir to a Monstermancer](https://j-novel.club/series/heir-to-a-monstermancer#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 17|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 18|[As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World](https://kodansha.us/product/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-novel-7 "Kodansha")|7|Kodansha|🖥️📖|
 |Nov 18|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
@@ -306,6 +306,7 @@
 |Feb 19|[Holmes of Kyoto](https://j-novel.club/series/holmes-of-kyoto#volume-21 "J-Novel Club")|21|J-Novel Club|🖥️|
 |Feb 19|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
 |Feb 20|[Finding My Way to (You) in This MMO World](https://j-novel.club/series/finding-my-way-to-you-in-this-mmo-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Feb 20|[In Another World with Household Spells](https://j-novel.club/series/in-another-world-with-household-spells#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 20|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 23|[One Last Hurrah! The Grayed Heroes Explore a Vivid Future](https://j-novel.club/series/one-last-hurrah-the-grayed-heroes-explore-a-vivid-future#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
