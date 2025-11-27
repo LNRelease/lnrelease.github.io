@@ -40,6 +40,7 @@
 |Nov 11|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Nov 11|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 12|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-7.html "Cross Infinite World")|7|Cross Infinite World|📖|
+|Nov 12|[I Want to Be a Saint, But I Can Only Use Attack Magic!](https://crossinfworld.com/I-Want-to-Be-a-Saint-But-I-Can-Only-Use-Attack-Magic-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|📖|
 |Nov 12|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 12|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-12 "J-Novel Club")|10.2|J-Novel Club|🖥️|
 |Nov 13|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️|
@@ -257,6 +258,7 @@
 |Jan 29|[The Blue Sea of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Jan 29|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Jan 30|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jan 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 
 ### February
 
@@ -323,6 +325,7 @@
 |Feb 26|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 27|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Feb 27|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-13 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Feb 28|[If the Heroine Wants My Fiancé, I'll Marry a Yandere Villain Instead!](https://crossinfworld.com/If-the-Heroine-Wants-My-Fiance-Ill-Marry-a-Yandere-Villain-Instead-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 
 ### March
 
@@ -377,6 +380,7 @@
 |Mar 24|[So I'm a Spider, So What? Ex](https://yenpress.com/titles/9798855410532-so-i-m-a-spider-so-what-ex-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 24|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Mar 31|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-8.html "Cross Infinite World")|8|Cross Infinite World|🖥️|
+|Mar 31|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Mar 31|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 
 ### April
@@ -401,7 +405,6 @@
 |Apr 14|[Our Party Nearly Wiped and Then Everything Went Downhill](https://yenpress.com/titles/9798855423693-our-party-nearly-wiped-and-then-everything-went-downhill-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 14|[Four Child Life](https://yenpress.com/titles/9798855404012-four-child-life-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 14|[The Azure Sword, Slayer of Distortions](https://yenpress.com/titles/9798855418576-the-azure-sword-slayer-of-distortions-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Apr 14|[Witches Can't Be Collared](https://yenpress.com/titles/9798855418781-witches-can-t-be-collared-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 14|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855425956-reign-of-the-seven-spellblades-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Apr 14|[Saint's Fallen Antlers](https://yenpress.com/titles/9798855408591-saint-s-fallen-antlers "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 14|[Shanti](https://yenpress.com/titles/9798855423600-shanti-light-novel "Yen Press")|1|Yen Press|🖥️📖|
@@ -411,6 +414,7 @@
 |Apr 14|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Apr 14|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Apr 14|[The World's Strongest Witch](https://yenpress.com/titles/9798855414370-the-world-s-strongest-witch-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 14|[Witches Can't Be Collared](https://yenpress.com/titles/9798855418781-witches-can-t-be-collared-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 14|[You Can Have My Back](https://yenpress.com/titles/9798855412925-you-can-have-my-back-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Apr 16|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 21|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
@@ -424,12 +428,13 @@
 |:---:|---|:---:|---|:---:|
 |May 05|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 05|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|May 11|[Infinite Dendrogram](https://yenpress.com/titles/9781718355217-infinite-dendrogram-volume-22-light-novel "J-Novel Club")|22|J-Novel Club|📖|
-|May 11|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://yenpress.com/titles/9781718341845-making-magic-the-sweet-life-of-a-witch-who-knows-an-infinite-mp-loophole-volume-5-light-novel "J-Novel Club")|5|J-Novel Club|📖|
-|May 11|[My Next Life as a Villainess: All Routes Lead to Doom!](https://yenpress.com/titles/9781718366732-my-next-life-as-a-villainess-all-routes-lead-to-doom-volume-14-light-novel "J-Novel Club")|14|J-Novel Club|📖|
-|May 11|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345195-my-quiet-blacksmith-life-in-another-world-volume-6-light-novel "J-Novel Club")|6|J-Novel Club|📖|
-|May 11|[The Brilliant Healer's New Life in the Shadows](https://yenpress.com/titles/9781718332751-the-brilliant-healer-s-new-life-in-the-shadows-volume-6-light-novel "J-Novel Club")|6|J-Novel Club|📖|
-|May 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://yenpress.com/titles/9781718305090-the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap-volume-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
+|May 11|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-22 "J-Novel Club")|22|J-Novel Club|📖|
+|May 11|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
+|May 11|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-14 "J-Novel Club")|14|J-Novel Club|📖|
+|May 11|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|📖|
+|May 11|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-25 "J-Novel Club")|25-26|J-Novel Club|📖|
+|May 11|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-6 "J-Novel Club")|6|J-Novel Club|📖|
+|May 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://j-novel.club/series/the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
 |May 12|[Blade & Bastard](https://yenpress.com/titles/9798855433654-blade-bastard-vol-5-light-novel "J-Novel Club")|5|J-Novel Club|📖|
 |May 12|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855405767-chitose-is-in-the-ramune-bottle-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |May 12|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
