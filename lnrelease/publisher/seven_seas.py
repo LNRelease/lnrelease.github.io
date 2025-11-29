@@ -52,7 +52,7 @@ def parse(series: Series, info: dict[str, list[Info]],
             info['Digital'].append(i)
 
     books = _parse(series, info, links, True)
-    if alts:
+    if alts and 'Physical' in books:
         info.setdefault('Digital', [])
         digitals = {(book.name, book.volume): book for book in books.setdefault('Digital', [])}
         alt_books = {(book.name, book.volume): book for book in _parse(series, {'': alts}, links)['']}
