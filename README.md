@@ -416,6 +416,7 @@
 |Apr 14|[The World's Strongest Witch](https://yenpress.com/titles/9798855414370-the-world-s-strongest-witch-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 14|[Witches Can't Be Collared](https://yenpress.com/titles/9798855418781-witches-can-t-be-collared-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 14|[You Can Have My Back](https://yenpress.com/titles/9798855412925-you-can-have-my-back-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+|Apr 16|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Apr 16|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 21|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 |Apr 21|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
