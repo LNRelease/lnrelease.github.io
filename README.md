@@ -322,6 +322,7 @@
 |Feb 25|[Guild Handyman? More like Mastermind! Using My Hidden Skills in the Shadows](https://j-novel.club/series/guild-handyman-more-like-mastermind-using-my-hidden-skills-in-the-shadows#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 25|[Knock Yourself Out! The Goddess Beat the Final Boss in the Tutorial, So Now I'm Free to Do Whatever](https://j-novel.club/series/knock-yourself-out-the-goddess-beat-the-final-boss-in-the-tutorial-so-now-i-m-free-to-do-whatever#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Feb 26|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|Feb 26|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-32 "J-Novel Club")|32|J-Novel Club|🖥️|
 |Feb 26|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 27|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Feb 27|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-13 "J-Novel Club")|11|J-Novel Club|🖥️|
