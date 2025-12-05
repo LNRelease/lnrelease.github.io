@@ -20,6 +20,7 @@ PUBLISHERS = {
     'Impress Corporation': 'Impress Corporation',
     'J-Novel Club': 'J-Novel Club',
     'JNC Audio': 'J-Novel Club',
+    'Tantor Media, Inc': 'J-Novel Club',
     'Kodansha': 'Kodansha',
     'NITRO PLUS': '',
     'One Peace Books': 'One Peace Books',
