@@ -188,29 +188,11 @@
 |Jan 06|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Jan 06|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12-5/ "Seven Seas Entertainment")|12.5|Seven Seas Entertainment|📖|
 |Jan 06|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
-|Jan 06|[Goblin Slayer Side Story: Year One](https://yenpress.com/titles/9798855422276-goblin-slayer-side-story-year-one-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
-|Jan 06|[Gods' Games We Play](https://yenpress.com/titles/9798855407419-gods-games-we-play-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
-|Jan 06|[I'll Become a Villainess Who Goes Down in History](https://yenpress.com/titles/9798855407150-i-ll-become-a-villainess-who-goes-down-in-history-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
-|Jan 06|[Ishura](https://yenpress.com/titles/9798855424447-ishura-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
-|Jan 06|[King's Proposal](https://yenpress.com/titles/9798855422511-king-s-proposal-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
-|Jan 06|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855418439-kunon-the-sorcerer-can-see-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
-|Jan 06|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368395-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-10-light-novel "J-Novel Club")|10|J-Novel Club|📖|
-|Jan 06|[New Game Plus After Defeating the Last Boss](https://yenpress.com/titles/9798855409246-new-game-plus-after-defeating-the-last-boss-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
-|Jan 06|[Once Upon a Witch's Death](https://yenpress.com/titles/9798855424478-once-upon-a-witch-s-death-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Jan 06|[Rascal Does Not Dream of a Dear Friend](https://yenpress.com/titles/9798855422436-rascal-does-not-dream-of-a-dear-friend-light-novel "Yen Press")|15|Yen Press|🖥️📖|
-|Jan 06|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire?](https://yenpress.com/titles/9798855403404-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
 |Jan 06|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-9-light-novel "Kodansha")|9|Kodansha|🖥️📖|
-|Jan 06|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9798855403039-sugar-apple-fairy-tale-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jan 06|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9798855408881-the-angel-next-door-spoils-me-rotten-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
-|Jan 06|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9798855421446-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-8-5-novel "Yen Press")|8.5|Yen Press|🖥️📖|
-|Jan 06|[The Only Thing I'd Do in a No-Boys-Allowed Game World](https://yenpress.com/titles/9798855407556-the-only-thing-i-d-do-in-a-no-boys-allowed-game-world-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
-|Jan 06|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855417685-the-world-bows-down-before-my-flames-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
-|Jan 06|[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://yenpress.com/titles/9798855417708-the-world-s-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
-|Jan 06|[This Is the Wizard's Secret Weapon](https://yenpress.com/titles/9798855414578-this-is-the-wizard-s-secret-weapon-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 06|[Thou, as My Knight...](https://yenpress.com/titles/9798855418620-thou-as-my-knight-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 06|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903588-villains-are-destined-to-die-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 06|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368739-wandering-witch-the-journey-of-elaina-vol-16-light-novel "Yen Press")|16|Yen Press|🖥️📖|
-|Jan 06|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855418743-wolf-parchment-new-theory-spice-wolf-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Jan 07|[Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends](https://j-novel.club/series/even-exiled-she-s-still-the-beloved-saint-st-evelyn-s-weird-and-wonderful-friends#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jan 07|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 08|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
@@ -225,8 +207,10 @@
 |Jan 12|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-4 "J-Novel Club")|4|J-Novel Club|📖|
 |Jan 12|[The Countess Is a Coward No More! This Reincarnated Witch Just Wants a Break](https://j-novel.club/series/the-countess-is-a-coward-no-more-this-reincarnated-witch-just-wants-a-break#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jan 13|[Am I Actually the Strongest?](https://www.penguinrandomhouse.com/books/799021/am-i-actually-the-strongest-7-light-novel-by-sai-sumimori/9781647295059 "Kodansha")|7|Kodansha|📖|
+|Jan 13|[Goblin Slayer Side Story: Year One](https://yenpress.com/titles/9798855422276-goblin-slayer-side-story-year-one-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 13|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Jan 13|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
+|Jan 13|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855417685-the-world-bows-down-before-my-flames-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Jan 13|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 14|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jan 15|[A Good Day Starts with Cats and Books](https://sevenseasentertainment.com/books/a-good-day-starts-with-cats-and-books-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
@@ -250,8 +234,24 @@
 |Jan 23|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Jan 27|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-9 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jan 27|[Disney Twisted-Wonderland: Usurper from the Wilds](https://www.viz.com/manga-books/novel/disney-twisted-wonderland-the-novel-episode-1-crimson-tyrant/product/8679/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|Jan 27|[Gods' Games We Play](https://yenpress.com/titles/9798855407419-gods-games-we-play-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
+|Jan 27|[I'll Become a Villainess Who Goes Down in History](https://yenpress.com/titles/9798855407150-i-ll-become-a-villainess-who-goes-down-in-history-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Jan 27|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
+|Jan 27|[Ishura](https://yenpress.com/titles/9798855424447-ishura-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
+|Jan 27|[King's Proposal](https://yenpress.com/titles/9798855422511-king-s-proposal-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
+|Jan 27|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855418439-kunon-the-sorcerer-can-see-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
+|Jan 27|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368395-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-10-light-novel "J-Novel Club")|10|J-Novel Club|📖|
+|Jan 27|[New Game Plus After Defeating the Last Boss](https://yenpress.com/titles/9798855409246-new-game-plus-after-defeating-the-last-boss-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 27|[Once Upon a Witch's Death](https://yenpress.com/titles/9798855424478-once-upon-a-witch-s-death-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Jan 27|[Rascal Does Not Dream of a Dear Friend](https://yenpress.com/titles/9798855422436-rascal-does-not-dream-of-a-dear-friend-light-novel "Yen Press")|15|Yen Press|🖥️📖|
+|Jan 27|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire?](https://yenpress.com/titles/9798855403404-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
+|Jan 27|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9798855403039-sugar-apple-fairy-tale-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|Jan 27|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9798855421446-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-8-5-novel "Yen Press")|8.5|Yen Press|🖥️📖|
+|Jan 27|[The Only Thing I'd Do in a No-Boys-Allowed Game World](https://yenpress.com/titles/9798855407556-the-only-thing-i-d-do-in-a-no-boys-allowed-game-world-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Jan 27|[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://yenpress.com/titles/9798855417708-the-world-s-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Jan 27|[This Is the Wizard's Secret Weapon](https://yenpress.com/titles/9798855414578-this-is-the-wizard-s-secret-weapon-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 27|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Jan 27|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855418743-wolf-parchment-new-theory-spice-wolf-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Jan 28|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 29|[Blade Skill Online: Crushing the Competition with My Abysmal Stats, Useless Class, and Garbage Weapon!](https://j-novel.club/series/blade-skill-online-crushing-the-competition-with-my-abysmal-stats-useless-class-and-garbage-weapon#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 29|[Old Knight, New Post: From Retiree to Her Majesty's Blade](https://j-novel.club/series/old-knight-new-post-from-retiree-to-her-majesty-s-blade#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
