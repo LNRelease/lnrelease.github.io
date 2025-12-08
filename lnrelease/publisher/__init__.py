@@ -2,7 +2,7 @@ import datetime
 import re
 import warnings
 from collections import Counter, defaultdict
-from difflib import get_close_matches
+from difflib import SequenceMatcher, get_close_matches
 from itertools import chain
 from operator import attrgetter
 
@@ -114,6 +114,8 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
                 book = isbns[inf.isbn]
             elif match := get_close_matches(diff[i], poss, n=1, cutoff=0.9):
                 book = poss[match[0]]
+            elif SequenceMatcher(a=diff[i], b=main_diff[i]).ratio() > 0.5:
+                book = main_books[i]
             else:
                 continue
             lst[i] = Book(series.key, inf.link, inf.publisher, book.name, book.volume, inf.format, inf.isbn, inf.date)
