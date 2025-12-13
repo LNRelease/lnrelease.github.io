@@ -285,22 +285,27 @@
 |Mar 10|[To the Monster I Love](https://yenpress.com/titles/9798855418255-to-the-monster-i-love-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 11|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 12|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Mar 13|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 13|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 17|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 17|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Mar 17|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903762-omniscient-reader-s-viewpoint-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 17|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
+|Mar 18|[Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends](https://j-novel.club/series/even-exiled-she-s-still-the-beloved-saint-st-evelyn-s-weird-and-wonderful-friends#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Mar 18|[Reforming an Icy Final Boss: Getting Back at the Self-Proclaimed Villainess with the Power of Friendship](https://j-novel.club/series/reforming-an-icy-final-boss-getting-back-at-the-self-proclaimed-villainess-with-the-power-of-friendship#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 18|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Mar 18|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-6 "J-Novel Club")|4.1|J-Novel Club|🖥️|
 |Mar 18|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 19|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Mar 20|[Black Summoner](https://j-novel.club/series/black-summoner#volume-22 "J-Novel Club")|22|J-Novel Club|🖥️|
+|Mar 20|[The World's Least Interesting Master Swordsman](https://j-novel.club/series/the-world-s-least-interesting-master-swordsman#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Mar 21|[The Accursed Chef and His Pair of Furry Foodies](https://j-novel.club/series/the-accursed-chef-and-his-pair-of-furry-foodies#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Mar 23|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 24|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Mar 24|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Mar 24|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Mar 24|[So I'm a Spider, So What? Ex](https://yenpress.com/titles/9798855410532-so-i-m-a-spider-so-what-ex-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 24|[The Goddess Says, "Kill the Tsundere Witch!"](https://j-novel.club/series/the-goddess-says-kill-the-tsundere-witch#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Mar 24|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Mar 25|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Mar 25|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
@@ -314,6 +319,7 @@
 |:---:|---|:---:|---|:---:|
 |Apr 02|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Apr 03|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|Apr 03|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 07|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 07|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Apr 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
@@ -329,9 +335,9 @@
 |Apr 14|[Associate Professor Akira Takatsuki's Conjecture EX](https://yenpress.com/titles/9781975353117-associate-professor-akira-takatsuki-s-conjecture-ex "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 14|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9798855420678-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️📖|
 |Apr 14|[Classroom for Heroes](https://yenpress.com/titles/9781975378783-classroom-for-heroes-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Apr 14|[Our Party Nearly Wiped and Then Everything Went Downhill](https://yenpress.com/titles/9798855423693-our-party-nearly-wiped-and-then-everything-went-downhill-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 14|[Four Child Life](https://yenpress.com/titles/9798855404012-four-child-life-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 14|[The Azure Sword, Slayer of Distortions](https://yenpress.com/titles/9798855418576-the-azure-sword-slayer-of-distortions-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 14|[Our Party Nearly Wiped and Then Everything Went Downhill](https://yenpress.com/titles/9798855423693-our-party-nearly-wiped-and-then-everything-went-downhill-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 14|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855425956-reign-of-the-seven-spellblades-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Apr 14|[Saint's Fallen Antlers](https://yenpress.com/titles/9798855408591-saint-s-fallen-antlers "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 14|[Shanti](https://yenpress.com/titles/9798855423600-shanti-light-novel "Yen Press")|1|Yen Press|🖥️📖|
