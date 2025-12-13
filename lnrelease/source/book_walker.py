@@ -103,8 +103,11 @@ def scrape_cat(session: Session, cat: str, links: dict[str, Info], limit: int) -
         page = session.get(f'https://global.bookwalker.jp/categories/{cat}/', params=params)
         soup = BeautifulSoup(page.content, 'lxml')
 
-        for book in soup.find_all(class_='a-tile-ttl'):
-            a = book.a
+        for book in soup.select('.o-tile-list > .o-tile'):
+            if any('Chapter' == x.text.strip() for x in
+                   book.select('.m-tile-tag-box > .m-tile-tag > div')):
+                continue
+            a = book.select_one('.a-tile-ttl > a')
             link = a.get('href')
             title = a.get('title')
             if (not title
