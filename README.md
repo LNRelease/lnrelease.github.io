@@ -77,6 +77,7 @@
 |Dec 30|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Dec 30|[The Goddess Says, "Kill the Tsundere Witch!"](https://j-novel.club/series/the-goddess-says-kill-the-tsundere-witch#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 30|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Dec 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/light-novels/tsukimichi-moonlit-fantasy/11 "Hanashi Media")|11|Hanashi Media|🖥️|
 |Dec 31|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Dec 31|[Grimgar of Fantasy and Ash](https://j-novel.club/series/grimar-of-fantasy-and-ash#volume-23 "J-Novel Club")|21|J-Novel Club|🖥️|
 |Dec 31|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
@@ -169,6 +170,7 @@
 |Jan 29|[The Blue Sea of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Jan 29|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Jan 30|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jan 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/light-novels/tsukimichi-moonlit-fantasy/12 "Hanashi Media")|12|Hanashi Media|🖥️|
 |Jan 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 
 ### February
