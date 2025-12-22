@@ -16,6 +16,7 @@ const AUDIOBOOK = 4;
 const SHOWN = document.getElementById('shown');
 const TOTAL = document.getElementById('total');
 const SEARCH = document.getElementById('search');
+const MONTH_SELECTOR = document.getElementById('month-selector');
 const TABLE = document.getElementById('table');
 const HEADERS = Array.from(document.getElementById('headers').children);
 const ROWS = document.getElementById('rows');
@@ -81,6 +82,16 @@ function dateFilter() {
     return { start: startTime, end: endTime };
 }
 
+function monthFilter(monthValue) {
+    if (!monthValue) {
+        return dateFilter();
+    }
+    const [year, month] = monthValue.split('-').map(Number);
+    const startTime = Date.UTC(year, month - 1, 1);
+    const endTime = Date.UTC(year, month, 0, 23, 59, 59, 999);
+    return { start: startTime, end: endTime };
+}
+
 function norm(s) {
     return s.normalize('NFKD').replace(/[^\w\s]+/g, '').toLowerCase();
 }
@@ -93,8 +104,10 @@ function yieldTask() {
 class Novels extends Array {
     constructor(series, publishers) {
         super();
+        const now = new Date();
+        const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
         this.filters = {
-            date: dateFilter(),
+            date: monthFilter(currentMonth),
             star: new Set(settings.series),
             volume: { start: '', end: '' },
             publisher: new Set(publishers.filter(item =>
@@ -891,6 +904,25 @@ function initDate(novels) {
         header.add('filter');
     }
 
+    function updateMonthSelector() {
+        const filter = novels.filters.date;
+        if (filter.start && filter.end) {
+            const startDate = new Date(filter.start);
+            const endDate = new Date(filter.end);
+            const startYear = startDate.getUTCFullYear();
+            const startMonth = startDate.getUTCMonth();
+            const endYear = endDate.getUTCFullYear();
+            const endMonth = endDate.getUTCMonth();
+            const startOfMonth = Date.UTC(startYear, startMonth, 1);
+            const endOfMonth = Date.UTC(startYear, startMonth + 1, 0, 23, 59, 59, 999);
+            if (filter.start === startOfMonth && filter.end === endOfMonth) {
+                MONTH_SELECTOR.value = `${startYear}-${String(startMonth + 1).padStart(2, '0')}`;
+                return;
+            }
+        }
+        MONTH_SELECTOR.value = '';
+    }
+
     function update() {
         const filter = novels.filters.date;
         start.value = new Date(filter.start)
@@ -901,11 +933,15 @@ function initDate(novels) {
             book.filterDate(filter);
         filterTable(novels);
         header.add('filter');
+        updateMonthSelector();
     }
 
     document.getElementById('date-reset')
         .addEventListener('click', () => {
-            novels.filters.date = dateFilter();
+            const now = new Date();
+            const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
+            novels.filters.date = monthFilter(currentMonth);
+            MONTH_SELECTOR.value = currentMonth;
             update();
         });
     document.getElementById('date-clear')
@@ -924,10 +960,40 @@ function initDate(novels) {
             book.filterDate(filter);
         filterTable(novels);
         header.toggle('filter', filter.start || filter.end);
+        updateMonthSelector();
     }
 
     start.addEventListener('input', filter);
     end.addEventListener('input', filter);
+    updateMonthSelector();
+}
+
+function initMonthSelector(novels) {
+    const now = new Date();
+    const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
+    MONTH_SELECTOR.value = currentMonth;
+    
+    novels.filters.date = monthFilter(currentMonth);
+    for (const book of novels)
+        book.filterDate(novels.filters.date);
+    filterTable(novels);
+    HEADERS[0].classList.add('filter');
+
+    MONTH_SELECTOR.addEventListener('input', () => {
+        const monthValue = MONTH_SELECTOR.value;
+        novels.filters.date = monthFilter(monthValue);
+        const filter = novels.filters.date;
+        const start = document.getElementById('date-start');
+        const end = document.getElementById('date-end');
+        if (start && end) {
+            start.value = new Date(filter.start).toISOString().substring(0, 10);
+            end.value = new Date(filter.end).toISOString().substring(0, 10);
+        }
+        for (const book of novels)
+            book.filterDate(filter);
+        filterTable(novels);
+        HEADERS[0].classList.toggle('filter', monthValue !== '');
+    });
 }
 
 function initTitle(novels) {
@@ -1306,6 +1372,7 @@ function initMenus() {
 }
 
 function initFilter(novels) {
+    initMonthSelector(novels);
     initDate(novels);
     initTitle(novels);
     initVolume(novels);
