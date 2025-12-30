@@ -155,12 +155,12 @@
 |Jan 27|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire?](https://yenpress.com/titles/9798855403404-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
 |Jan 27|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9798855403039-sugar-apple-fairy-tale-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jan 27|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9798855421446-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-8-5-novel "Yen Press")|8.5|Yen Press|🖥️📖|
-|Jan 27|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 27|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855418743-wolf-parchment-new-theory-spice-wolf-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Jan 28|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 29|[Blade Skill Online: Crushing the Competition with My Abysmal Stats, Useless Class, and Garbage Weapon!](https://j-novel.club/series/blade-skill-online-crushing-the-competition-with-my-abysmal-stats-useless-class-and-garbage-weapon#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 29|[Old Knight, New Post: From Retiree to Her Majesty's Blade](https://j-novel.club/series/old-knight-new-post-from-retiree-to-her-majesty-s-blade#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 29|[The Blue Sea of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
+|Jan 29|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 29|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Jan 30|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/light-novels/tsukimichi-moonlit-fantasy/12 "Hanashi Media")|12|Hanashi Media|🖥️|
@@ -314,9 +314,9 @@
 |Mar 24|[The Hidden Dungeon Only I Can Enter](https://sevenseasentertainment.com/books/the-hidden-dungeon-only-i-can-enter-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Mar 25|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Mar 25|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Mar 25|[The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://j-novel.club/series/the-poison-king-now-that-i-ve-gained-ultimate-power-the-bewitching-beauties-in-my-harem-can-t-get-enough-of-me#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Mar 31|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-8.html "Cross Infinite World")|8|Cross Infinite World|🖥️|
 |Mar 31|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
-|Mar 31|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 
 ### April
 
@@ -362,6 +362,7 @@
 |Apr 21|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Apr 21|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Apr 22|[Grimgar of Fantasy and Ash](https://j-novel.club/series/grimar-of-fantasy-and-ash#volume-24 "J-Novel Club")|22|J-Novel Club|🖥️|
+|Apr 23|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Apr 23|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Apr 28|[JoJo's Bizarre Adventure: Purple Smoke Distortion](https://www.viz.com/manga-books/novel/jojo-s-bizarre-adventure-purple-smoke-distortion/product/8798/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Apr 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6.1|Seven Seas Entertainment|🖥️📖|
@@ -374,6 +375,7 @@
 |May 05|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 05|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |May 05|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094240 "Square Enix")|9|Square Enix|📖|
+|May 05|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |May 11|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-22 "J-Novel Club")|22|J-Novel Club|📖|
 |May 11|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
 |May 11|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-14 "J-Novel Club")|14|J-Novel Club|📖|
