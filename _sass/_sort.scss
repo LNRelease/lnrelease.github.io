@@ -1,14 +1,23 @@
 .length,
+.month-selector,
 .search {
     display: table-cell;
     padding-bottom: .4em;
     white-space: nowrap;
 }
 
+.month-selector {
+    padding-left: 2%;
+}
+
 .search {
     padding-left: 2%;
     width: 100%;
     text-align: right;
+}
+
+#month-selector {
+    margin-left: .25em;
 }
 
 #search {
