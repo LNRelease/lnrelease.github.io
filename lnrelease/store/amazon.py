@@ -14,7 +14,7 @@ SALT = hash(NAME)
 
 PATH = re.compile(r'(?:/.+)?/(?:dp/(?:product/)?|gp/.+/)(?P<asin>\w{10})(?:/.*)?')
 ISBN_13 = re.compile(r'ISBN-13')
-ISBN = re.compile(r'^\s*978[-\d]{10,}\s*$')
+ISBN = re.compile(r'^\s*97[89][-\d]{10,}\s*$')
 DATE = re.compile(r'^(?:Publication date|Audible release date)$')
 PRODUCT = re.compile(r'^\s*Product (?:details|information)\s*$')
 PUBLISHER = re.compile(r'Publisher')

@@ -15,6 +15,7 @@ OMNIBUS = re.compile(rf'(?P<name>.+?)(?: \w+ Edition \d+)? \(Light Novel\)\s*\(V
 NON_FORMATS = ('Manga', 'Novel')
 FORMATS = ('Light Novel', 'Reference Guide')
 DATES = (r'%b %d, %Y', r'%Y-%m-%d', r'%B %d, %Y', r'%Y/%m/%d')
+ISBN = re.compile(r'97[89][-\d]{10,}')
 
 
 def strpdate(s: str) -> datetime.date:
@@ -61,7 +62,7 @@ def parse(session: Session, link: str, series: Series, refresh: int) -> set[Info
         format = 'Physical' if header == 'VOLUMES' else 'Audiobook'
         if header == 'VOLUMES':
             isbn = release.find('b', string='ISBN:').next_sibling.strip()
-            if not isbn or 'digital' in isbn:
+            if not ISBN.fullmatch(isbn):
                 digital_date = physical_date
                 physical_date = None
                 isbn = ''
@@ -131,7 +132,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         refresh = 0
                     elif days < 30:
                         refresh = 4
-                    elif random() > 0.1:
+                    elif random() > 0.5:
                         continue
                     else:
                         refresh = 10
