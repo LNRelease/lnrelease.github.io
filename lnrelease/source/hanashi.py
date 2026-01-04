@@ -53,7 +53,7 @@ def read(session: Session, jsn: dict, series: Series, link: str,
         else:
             alts.append(norm)
 
-    info.add(Info(series.key, link, NAME, NAME, title, 0, 'Digital', index, date, alts))
+    info.add(Info(series.key, link, NAME, NAME, title, index, 'Digital', '', date, alts))
     return vol, info
 
 
