@@ -717,8 +717,18 @@ function sortTable(novels, index) {
 function initSort(novels) {
     for (const [i, th] of HEADERS.entries()) {
         th.addEventListener('click', e => {
-            if (e.target === th)
+            if (e.target === th) {
+                if (i === 0) {
+                    const sortBtn = th.querySelector('.sort-btn');
+                    if (sortBtn && !sortBtn.contains(e.target)) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        sortBtn.click();
+                        return;
+                    }
+                }
                 sortTable(novels, i);
+            }
         });
     }
 }
