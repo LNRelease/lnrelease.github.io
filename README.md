@@ -252,7 +252,9 @@
 |Feb 26|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️|
 |Feb 27|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Feb 27|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-13 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Feb 28|[Goodbye, Horrible Fiancé, Hello, Fun Magic School Life!](https://crossinfworld.com/Goodbye-Horrible-Fiance-Hello-Fun-Magic-School-Life-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Feb 28|[If the Heroine Wants My Fiancé, I'll Marry a Yandere Villain Instead!](https://crossinfworld.com/If-the-Heroine-Wants-My-Fiance-Ill-Marry-a-Yandere-Villain-Instead-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
+|Feb 28|[Strawberry Princess: The Time Loop Defying Villainess](https://crossinfworld.com/Strawberry-Princess-The-Time-Loop-Defying-Villainess.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
 ### March
 
@@ -305,8 +307,8 @@
 |Mar 18|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 19|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Mar 20|[Black Summoner](https://j-novel.club/series/black-summoner#volume-22 "J-Novel Club")|22|J-Novel Club|🖥️|
+|Mar 20|[The Accursed Chef and His Pair of Furry Foodies](https://j-novel.club/series/the-accursed-chef-and-his-pair-of-furry-foodies#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Mar 20|[The World's Least Interesting Master Swordsman](https://j-novel.club/series/the-world-s-least-interesting-master-swordsman#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
-|Mar 21|[The Accursed Chef and His Pair of Furry Foodies](https://j-novel.club/series/the-accursed-chef-and-his-pair-of-furry-foodies#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Mar 23|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 24|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Mar 24|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -320,6 +322,7 @@
 |Mar 25|[The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://j-novel.club/series/the-poison-king-now-that-i-ve-gained-ultimate-power-the-bewitching-beauties-in-my-harem-can-t-get-enough-of-me#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Mar 31|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-8.html "Cross Infinite World")|8|Cross Infinite World|🖥️|
 |Mar 31|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
+|Mar 31|[The Brooding Duke's Guide to the Lie-Detecting Lady](https://crossinfworld.com/The-Brooding-Dukes-Guide-to-the-Lie-Detecting-Lady.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
 ### April
 
@@ -359,6 +362,7 @@
 |Apr 14|[Witches Can't Be Collared](https://yenpress.com/titles/9798855418781-witches-can-t-be-collared-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 14|[You Can Have My Back](https://yenpress.com/titles/9798855412925-you-can-have-my-back-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Apr 16|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
+|Apr 16|[So Dearly Reckless](https://j-novel.club/series/so-dearly-reckless#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 16|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Apr 16|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 21|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
