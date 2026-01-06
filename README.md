@@ -162,7 +162,7 @@
 |Jan 29|[Old Knight, New Post: From Retiree to Her Majesty's Blade](https://j-novel.club/series/old-knight-new-post-from-retiree-to-her-majesty-s-blade#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 29|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️|
 |Jan 29|[The Blue Sea of Marielle Clarac](https://j-novel.club/series/the-tales-of-marielle-clarac#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
-|Jan 29|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 29|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jan 29|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Jan 30|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 30|[Tsukimichi: Moonlit Fantasy](https://hanashi.media/light-novels/tsukimichi-moonlit-fantasy/12 "Hanashi Media")|12|Hanashi Media|🖥️|

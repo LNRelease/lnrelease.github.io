@@ -1,4 +1,5 @@
 import importlib
+import os
 import warnings
 from collections import defaultdict
 from concurrent.futures import Future, as_completed
@@ -7,6 +8,7 @@ from pathlib import Path
 from threading import Thread
 from time import time
 
+from session import CF_ACCOUNT, REQUEST_STATS
 from utils import SOURCES, Info, Series, Table
 
 MODULES = [importlib.import_module(f'source.{s.stem}') for s in Path('lnrelease/source').glob('*.py')]
@@ -25,6 +27,9 @@ def worker(future: Future, fn, *args) -> None:
 
 
 def main() -> None:
+    if not CF_ACCOUNT and os.environ.get('GITHUB_EVENT_NAME') == 'schedule':
+        return
+
     series = Table(SERIES, Series)
     info = Table(INFO, Info)
     sources: defaultdict[str, set[Info]] = defaultdict(set)
@@ -64,7 +69,6 @@ def main() -> None:
         dump_traceback()
 
     print('\nStats:')
-    from session import REQUEST_STATS
     for netloc, stats in REQUEST_STATS.items():
         print(f'{netloc:>50s}: {stats}')
 
