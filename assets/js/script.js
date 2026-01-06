@@ -16,7 +16,6 @@ const AUDIOBOOK = 4;
 const SHOWN = document.getElementById('shown');
 const TOTAL = document.getElementById('total');
 const SEARCH = document.getElementById('search');
-const MONTH_SELECTOR = document.getElementById('month-selector');
 const TABLE = document.getElementById('table');
 const HEADERS = Array.from(document.getElementById('headers').children);
 const ROWS = document.getElementById('rows');
@@ -68,6 +67,7 @@ settings.star ??= false;
 settings.series ??= [];
 settings.publisher ??= [];
 settings.format ??= [PHYSICAL, DIGITAL, PHYSICAL_DIGITAL];
+settings.monthMode ??= false;
 storage?.setItem('settings', JSON.stringify(settings));
 
 // Scroll when novels loaded
@@ -104,10 +104,8 @@ function yieldTask() {
 class Novels extends Array {
     constructor(series, publishers) {
         super();
-        const now = new Date();
-        const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
         this.filters = {
-            date: monthFilter(currentMonth),
+            date: dateFilter(),
             star: new Set(settings.series),
             volume: { start: '', end: '' },
             publisher: new Set(publishers.filter(item =>
@@ -892,56 +890,93 @@ function initDate(novels) {
     const header = HEADERS[0].classList;
     const start = document.getElementById('date-start');
     const end = document.getElementById('date-end');
-    const dates = novels.filters.date;
-    if (dates.start) {
-        start.value = new Date(dates.start)
-            .toISOString().substring(0, 10);
-        header.add('filter');
-    }
-    if (dates.end) {
-        end.value = new Date(dates.end)
-            .toISOString().substring(0, 10);
-        header.add('filter');
-    }
+    const monthMode = document.getElementById('month-mode');
+    monthMode.checked = settings.monthMode;
 
-    function updateMonthSelector() {
+    function updateInputs() {
         const filter = novels.filters.date;
-        if (filter.start && filter.end) {
-            const startDate = new Date(filter.start);
-            const endDate = new Date(filter.end);
-            const startYear = startDate.getUTCFullYear();
-            const startMonth = startDate.getUTCMonth();
-            const endYear = endDate.getUTCFullYear();
-            const endMonth = endDate.getUTCMonth();
-            const startOfMonth = Date.UTC(startYear, startMonth, 1);
-            const endOfMonth = Date.UTC(startYear, startMonth + 1, 0, 23, 59, 59, 999);
-            if (filter.start === startOfMonth && filter.end === endOfMonth) {
-                MONTH_SELECTOR.value = `${startYear}-${String(startMonth + 1).padStart(2, '0')}`;
-                return;
+        if (settings.monthMode) {
+            if (filter.start) {
+                const startDate = new Date(filter.start);
+                start.value = `${startDate.getUTCFullYear()}-${String(startDate.getUTCMonth() + 1).padStart(2, '0')}`;
+            }
+            if (filter.end) {
+                const endDate = new Date(filter.end);
+                end.value = `${endDate.getUTCFullYear()}-${String(endDate.getUTCMonth() + 1).padStart(2, '0')}`;
+            }
+        } else {
+            if (filter.start) {
+                start.value = new Date(filter.start).toISOString().substring(0, 10);
+            }
+            if (filter.end) {
+                end.value = new Date(filter.end).toISOString().substring(0, 10);
             }
         }
-        MONTH_SELECTOR.value = '';
+        header.toggle('filter', filter.start || filter.end);
     }
 
     function update() {
-        const filter = novels.filters.date;
-        start.value = new Date(filter.start)
-            .toISOString().substring(0, 10);
-        end.value = new Date(filter.end)
-            .toISOString().substring(0, 10);
         for (const book of novels)
-            book.filterDate(filter);
+            book.filterDate(novels.filters.date);
         filterTable(novels);
-        header.add('filter');
-        updateMonthSelector();
+        updateInputs();
     }
+
+    monthMode.addEventListener('change', () => {
+        settings.monthMode = monthMode.checked;
+        storage?.setItem('settings', JSON.stringify(settings));
+        if (settings.monthMode) {
+            start.type = 'month';
+            end.type = 'month';
+            start.min = '2000-01';
+            start.max = '9999-12';
+            end.min = '2000-01';
+            end.max = '9999-12';
+            if (novels.filters.date.start && novels.filters.date.end) {
+                const startDate = new Date(novels.filters.date.start);
+                const endDate = new Date(novels.filters.date.end);
+                start.value = `${startDate.getUTCFullYear()}-${String(startDate.getUTCMonth() + 1).padStart(2, '0')}`;
+                end.value = `${endDate.getUTCFullYear()}-${String(endDate.getUTCMonth() + 1).padStart(2, '0')}`;
+            }
+        } else {
+            start.type = 'date';
+            end.type = 'date';
+            start.min = '0001-01-01';
+            start.max = '9999-12-31';
+            end.min = '0001-01-01';
+            end.max = '9999-12-31';
+            if (novels.filters.date.start && novels.filters.date.end) {
+                start.value = new Date(novels.filters.date.start).toISOString().substring(0, 10);
+                end.value = new Date(novels.filters.date.end).toISOString().substring(0, 10);
+            }
+        }
+        update();
+    });
+
+    if (settings.monthMode) {
+        start.type = 'month';
+        end.type = 'month';
+        start.min = '2000-01';
+        start.max = '9999-12';
+        end.min = '2000-01';
+        end.max = '9999-12';
+    }
+
+    const dates = novels.filters.date;
+    if (dates.start || dates.end) {
+        header.add('filter');
+    }
+    updateInputs();
 
     document.getElementById('date-reset')
         .addEventListener('click', () => {
-            const now = new Date();
-            const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
-            novels.filters.date = monthFilter(currentMonth);
-            MONTH_SELECTOR.value = currentMonth;
+            if (settings.monthMode) {
+                const now = new Date();
+                const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
+                novels.filters.date = monthFilter(currentMonth);
+            } else {
+                novels.filters.date = dateFilter();
+            }
             update();
         });
     document.getElementById('date-clear')
@@ -955,45 +990,28 @@ function initDate(novels) {
     function filter(event) {
         const filter = novels.filters.date;
         const target = event.target;
-        filter[target.name] = new Date(target.value).getTime() || null;
-        for (const book of novels)
-            book.filterDate(filter);
-        filterTable(novels);
-        header.toggle('filter', filter.start || filter.end);
-        updateMonthSelector();
-    }
-
-    start.addEventListener('input', filter);
-    end.addEventListener('input', filter);
-    updateMonthSelector();
-}
-
-function initMonthSelector(novels) {
-    const now = new Date();
-    const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
-    MONTH_SELECTOR.value = currentMonth;
-    
-    novels.filters.date = monthFilter(currentMonth);
-    for (const book of novels)
-        book.filterDate(novels.filters.date);
-    filterTable(novels);
-    HEADERS[0].classList.add('filter');
-
-    MONTH_SELECTOR.addEventListener('input', () => {
-        const monthValue = MONTH_SELECTOR.value;
-        novels.filters.date = monthFilter(monthValue);
-        const filter = novels.filters.date;
-        const start = document.getElementById('date-start');
-        const end = document.getElementById('date-end');
-        if (start && end) {
-            start.value = new Date(filter.start).toISOString().substring(0, 10);
-            end.value = new Date(filter.end).toISOString().substring(0, 10);
+        if (settings.monthMode) {
+            if (target.value) {
+                const [year, month] = target.value.split('-').map(Number);
+                if (target.name === 'start') {
+                    filter.start = Date.UTC(year, month - 1, 1);
+                } else {
+                    filter.end = Date.UTC(year, month, 0, 23, 59, 59, 999);
+                }
+            } else {
+                filter[target.name] = null;
+            }
+        } else {
+            filter[target.name] = new Date(target.value).getTime() || null;
         }
         for (const book of novels)
             book.filterDate(filter);
         filterTable(novels);
-        HEADERS[0].classList.toggle('filter', monthValue !== '');
-    });
+        header.toggle('filter', filter.start || filter.end);
+    }
+
+    start.addEventListener('input', filter);
+    end.addEventListener('input', filter);
 }
 
 function initTitle(novels) {
@@ -1372,7 +1390,6 @@ function initMenus() {
 }
 
 function initFilter(novels) {
-    initMonthSelector(novels);
     initDate(novels);
     initTitle(novels);
     initVolume(novels);
@@ -1412,6 +1429,7 @@ function initFilter(novels) {
                 settings.publisher = novels.publishers.filter(item =>
                     !novels.filters.publisher.has(item));
                 settings.format = Array.from(novels.filters.format);
+                settings.monthMode = document.getElementById('month-mode').checked;
                 storage.setItem('settings', JSON.stringify(settings));
             }
         });

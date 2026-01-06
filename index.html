@@ -9,19 +9,23 @@ description: Automated light novel release calendar.
   <h3>Redirecting to the <a href="{{ '/html' | relative_url }}">non-JavaScript site</a></h3>
 </noscript>
 <div class="length"><span id="shown">0</span> of <span id="total">0</span></div>
-<label class="month-selector">Month:<input id="month-selector" type="month"></label>
 <label class="search">Search:<input id="search" type="search"></label>
 <div id="table">
   <div id="headers" class="sticky">
     <div class="sort">
       Date
       <div class="sort-btn"><span class="sort-icon"></span></div>
-      <div class="sort-menu sort-input" id="menu-date">
-        <input type="date" id="date-start" name="start" min="0001-01-01" max="9999-12-31">
-        -
-        <input type="date" id="date-end" name="end" min="0001-01-01" max="9999-12-31">
-        <span id="date-reset" class="menu-btn reset"></span>
-        <span id="date-clear" class="menu-btn cross"></span>
+      <div class="sort-menu sort-list" id="menu-date">
+        <div class="list-row">
+          <label><input id="month-mode" type="checkbox"><span>Month Mode</span></label>
+          <span id="date-reset" class="menu-btn reset"></span>
+        </div>
+        <div class="list-row list-border">
+          <input type="date" id="date-start" name="start" min="0001-01-01" max="9999-12-31">
+          -
+          <input type="date" id="date-end" name="end" min="0001-01-01" max="9999-12-31">
+          <span id="date-clear" class="menu-btn cross"></span>
+        </div>
       </div>
     </div>
     <div class="sort">
