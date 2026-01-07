@@ -212,6 +212,19 @@
     box-shadow: 0 .1em .25em .1em $color-shadow;
 }
 
+.sort-input {
+    flex-direction: row;
+    padding-right: .2em;
+}
+
+.sort-input input:last-of-type {
+    margin-right: .25em;
+}
+
+.sort-list {
+    flex-direction: column;
+}
+
 .sort-list label {
     display: flex;
     padding: .25em 0;
@@ -224,15 +237,6 @@
     margin-right: .25em;
     height: 1.25em;
     width: 1.25em;
-}
-
-.sort-input {
-    flex-direction: row;
-    padding-right: .2em;
-}
-
-.sort-input input:last-of-type {
-    margin-right: .25em;
 }
 
 #menu-date .cross {
