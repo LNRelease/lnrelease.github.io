@@ -24,6 +24,9 @@ const CALC = document.getElementById('calc');
 const LOADING = document.getElementById('loading');
 const STAR = document.getElementById('star');
 const STARS = document.getElementById('stars');
+const DATE_START = document.getElementById('date-start');
+const DATE_END = document.getElementById('date-end');
+const MONTH_MODE = document.getElementById('month-mode');
 
 const COLLATOR = new Intl.Collator();
 const VOL_COMPARATOR = (a, b) => {
@@ -67,6 +70,21 @@ settings.star ??= false;
 settings.series ??= [];
 settings.publisher ??= [];
 settings.format ??= [PHYSICAL, DIGITAL, PHYSICAL_DIGITAL];
+settings.monthMode ??= false;
+const monthSupport = (() => { // Check browser support
+    if (DATE_START.type == 'month')
+        return true;
+    DATE_START.type = 'date';
+    DATE_START.min = '0001-01-01';
+    DATE_START.max = '9999-12-31';
+    DATE_END.type = 'date';
+    DATE_END.min = '0001-01-01';
+    DATE_END.max = '9999-12-31';
+    settings.monthMode = false;
+    MONTH_MODE.disabled = true;
+    MONTH_MODE.parentElement.style.color = 'var(--color-shadow)';
+    return false;
+})();
 storage?.setItem('settings', JSON.stringify(settings));
 
 // Scroll when novels loaded
@@ -74,10 +92,17 @@ let hashFragment = window.location.hash.substring(1) || null;
 
 function dateFilter() {
     const now = new Date();
-    const endTime = Date.UTC(now.getFullYear() + 1, 11, 31);
+    const year = now.getUTCFullYear();
+    const month = now.getUTCMonth();
+    if (settings.monthMode) {
+        const startTime = Date.UTC(year, month);
+        const endTime = Date.UTC(year, month + 1, 0);
+        return { start: startTime, end: endTime };
+    }
     now.setDate(now.getDate() - 7);
     now.setDate(1);
-    const startTime = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
+    const startTime = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
+    const endTime = Date.UTC(year + 1, 11, 31);
     return { start: startTime, end: endTime };
 }
 
@@ -877,26 +902,32 @@ function unstarSeries(novels, serieskey, div) {
 
 function initDate(novels) {
     const header = HEADERS[0].classList;
-    const start = document.getElementById('date-start');
-    const end = document.getElementById('date-end');
+    MONTH_MODE.checked = settings.monthMode;
+
+    if (monthSupport) {
+        MONTH_MODE.addEventListener('change', () => {
+            settings.monthMode = MONTH_MODE.checked;
+        });
+    }
+    const datelen = monthSupport ? 7 : 10;
     const dates = novels.filters.date;
     if (dates.start) {
-        start.value = new Date(dates.start)
-            .toISOString().substring(0, 10);
+        DATE_START.value = new Date(dates.start)
+            .toISOString().substring(0, datelen);
         header.add('filter');
     }
     if (dates.end) {
-        end.value = new Date(dates.end)
-            .toISOString().substring(0, 10);
+        DATE_END.value = new Date(dates.end)
+            .toISOString().substring(0, datelen);
         header.add('filter');
     }
 
     function update() {
         const filter = novels.filters.date;
-        start.value = new Date(filter.start)
-            .toISOString().substring(0, 10);
-        end.value = new Date(filter.end)
-            .toISOString().substring(0, 10);
+        DATE_START.value = new Date(filter.start)
+            .toISOString().substring(0, datelen);
+        DATE_END.value = new Date(filter.end)
+            .toISOString().substring(0, datelen);
         for (const book of novels)
             book.filterDate(filter);
         filterTable(novels);
@@ -911,7 +942,7 @@ function initDate(novels) {
     document.getElementById('date-clear')
         .addEventListener('click', () => {
             const startTime = Date.UTC(2000, 0, 1);
-            const endTime = Date.UTC(new Date().getFullYear() + 2, 11, 31);
+            const endTime = Date.UTC(new Date().getUTCFullYear() + 5, 0, 0);
             novels.filters.date = { start: startTime, end: endTime };
             update();
         });
@@ -919,15 +950,24 @@ function initDate(novels) {
     function filter(event) {
         const filter = novels.filters.date;
         const target = event.target;
-        filter[target.name] = new Date(target.value).getTime() || null;
+        if (target.value) {
+            const date = new Date(target.value);
+            if (monthSupport && target.name === 'end' && target.value) {
+                date.setMonth(date.getMonth() + 1);
+                date.setDate(0);
+            }
+            filter[target.name] = Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate());
+        } else {
+            filter[target.name] = null;
+        }
         for (const book of novels)
             book.filterDate(filter);
         filterTable(novels);
         header.toggle('filter', filter.start || filter.end);
     }
 
-    start.addEventListener('input', filter);
-    end.addEventListener('input', filter);
+    DATE_START.addEventListener('input', filter);
+    DATE_END.addEventListener('input', filter);
 }
 
 function initTitle(novels) {
@@ -1345,6 +1385,7 @@ function initFilter(novels) {
                 settings.publisher = novels.publishers.filter(item =>
                     !novels.filters.publisher.has(item));
                 settings.format = Array.from(novels.filters.format);
+                settings.monthMode = document.getElementById('month-mode').checked;
                 storage.setItem('settings', JSON.stringify(settings));
             }
         });

@@ -15,12 +15,17 @@ description: Automated light novel release calendar.
     <div class="sort">
       Date
       <div class="sort-btn"><span class="sort-icon"></span></div>
-      <div class="sort-menu sort-input" id="menu-date">
-        <input type="date" id="date-start" name="start" min="0001-01-01" max="9999-12-31">
-        -
-        <input type="date" id="date-end" name="end" min="0001-01-01" max="9999-12-31">
-        <span id="date-reset" class="menu-btn reset"></span>
-        <span id="date-clear" class="menu-btn cross"></span>
+      <div class="sort-menu sort-input sort-list" id="menu-date">
+        <div class="list-row">
+          <label><input id="month-mode" type="checkbox"><span>Month Mode</span></label>
+          <span id="date-clear" class="menu-btn cross"></span>
+        </div>
+        <div class="list-row">
+          <input type="month" id="date-start" name="start" min="2000-01" max="9999-12">
+          -
+          <input type="month" id="date-end" name="end" min="2000-01" max="9999-12">
+          <span id="date-reset" class="menu-btn reset"></span>
+        </div>
       </div>
     </div>
     <div class="sort">
