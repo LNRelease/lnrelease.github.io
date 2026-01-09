@@ -12,7 +12,8 @@
 |Jan 06|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Jan 06|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12-5/ "Seven Seas Entertainment")|12.5|Seven Seas Entertainment|📖|
 |Jan 06|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
-|Jan 06|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-9-light-novel "Kodansha")|9|Kodansha|🖥️📖|
+|Jan 06|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-9-light-novel "Kodansha")|9|Kodansha|📖|
+|Jan 06|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-9-light-novel "Kodansha")|9.1|Kodansha|🖥️|
 |Jan 06|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9798855408881-the-angel-next-door-spoils-me-rotten-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jan 06|[Thou, as My Knight...](https://yenpress.com/titles/9798855418620-thou-as-my-knight-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 06|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903588-villains-are-destined-to-die-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -34,6 +35,7 @@
 |Jan 13|[Goblin Slayer Side Story: Year One](https://yenpress.com/titles/9798855422276-goblin-slayer-side-story-year-one-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 13|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Jan 13|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
+|Jan 13|[Saving 80,000 Gold in Another World for My Retirement](https://global.bookwalker.jp/de4f3820a4-f1f3-4d36-81b5-41497b4862ee/ "Kodansha")|9.2|Kodansha|🖥️|
 |Jan 13|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Jan 13|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855417685-the-world-bows-down-before-my-flames-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Jan 13|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -86,16 +88,9 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Feb 03|[Adachi and Shimamura: Short Stories](https://sevenseasentertainment.com/books/adachi-and-shimamura-short-stories-2-light-novel/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
-|Feb 03|[Gods' Games We Play](https://yenpress.com/titles/9798855407419-gods-games-we-play-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Feb 03|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
-|Feb 03|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855418439-kunon-the-sorcerer-can-see-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
-|Feb 03|[New Game Plus After Defeating the Last Boss](https://yenpress.com/titles/9798855409246-new-game-plus-after-defeating-the-last-boss-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
-|Feb 03|[Once Upon a Witch's Death](https://yenpress.com/titles/9798855424478-once-upon-a-witch-s-death-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Feb 03|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094233 "Square Enix")|8|Square Enix|📖|
-|Feb 03|[The Only Thing I'd Do in a No-Boys-Allowed Game World](https://yenpress.com/titles/9798855407556-the-only-thing-i-d-do-in-a-no-boys-allowed-game-world-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Feb 03|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
-|Feb 03|[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://yenpress.com/titles/9798855417708-the-world-s-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
-|Feb 03|[This Is the Wizard's Secret Weapon](https://yenpress.com/titles/9798855414578-this-is-the-wizard-s-secret-weapon-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Feb 04|[Miss Blossom's Backward Beauty Standards: Give Me the Ugly Crown Prince!](https://j-novel.club/series/miss-blossom-s-backward-beauty-standards-give-me-the-ugly-crown-prince#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 05|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
 |Feb 05|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -110,8 +105,12 @@
 |Feb 10|[A Good Day Starts with Cats and Books](https://sevenseasentertainment.com/books/a-good-day-starts-with-cats-and-books-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393595-catalog-of-wonders-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Feb 10|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855418767-even-a-replica-can-fall-in-love-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Feb 10|[Gods' Games We Play](https://yenpress.com/titles/9798855407419-gods-games-we-play-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
+|Feb 10|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855418439-kunon-the-sorcerer-can-see-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Feb 10|[Moscow 2160](https://yenpress.com/titles/9798855419627-moscow-2160-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Feb 10|[Nagisa Natsunagi Still Wants to Be a High School Girl](https://yenpress.com/titles/9798855409284-nagisa-natsunagi-still-wants-to-be-a-high-school-girl-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Feb 10|[New Game Plus After Defeating the Last Boss](https://yenpress.com/titles/9798855409246-new-game-plus-after-defeating-the-last-boss-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 10|[Once Upon a Witch's Death](https://yenpress.com/titles/9798855424478-once-upon-a-witch-s-death-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Feb 10|[Orc Eroica](https://yenpress.com/titles/9798855417647-orc-eroica-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Feb 10|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855401103-playing-death-games-to-put-food-on-the-table-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Feb 10|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
@@ -123,7 +122,10 @@
 |Feb 10|[The Detective Is Already Dead](https://yenpress.com/titles/9798855416862-the-detective-is-already-dead-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
 |Feb 10|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409789-the-irregular-at-magic-high-school-vol-26-light-novel "Yen Press")|26|Yen Press|🖥️📖|
 |Feb 10|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391072-the-misfit-of-demon-king-academy-vol-7-light-novel "J-Novel Club")|7|J-Novel Club|📖|
+|Feb 10|[The Only Thing I'd Do in a No-Boys-Allowed Game World](https://yenpress.com/titles/9798855407556-the-only-thing-i-d-do-in-a-no-boys-allowed-game-world-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Feb 10|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9781975379728-the-vexations-of-a-shut-in-vampire-princess-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
+|Feb 10|[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://yenpress.com/titles/9798855417708-the-world-s-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Feb 10|[This Is the Wizard's Secret Weapon](https://yenpress.com/titles/9798855414578-this-is-the-wizard-s-secret-weapon-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Feb 10|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Feb 11|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Feb 11|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -251,6 +253,7 @@
 |Apr 13|[Ascendance of a Bookworm: Hannelore's Fifth Year at the Royal Academy](https://j-novel.club/series/ascendance-of-a-bookworm-hannelore-s-fifth-year-at-the-royal-academy#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 13|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
 |Apr 13|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-9 "J-Novel Club")|9-10|J-Novel Club|📖|
+|Apr 13|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Apr 13|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
 |Apr 13|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-15 "J-Novel Club")|15|J-Novel Club|📖|
 |Apr 14|[Agents of the Four Seasons](https://yenpress.com/titles/9798855407693-agents-of-the-four-seasons-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
