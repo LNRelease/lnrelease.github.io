@@ -286,6 +286,7 @@
 |Apr 21|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Apr 22|[Grimgar of Fantasy and Ash](https://j-novel.club/series/grimar-of-fantasy-and-ash#volume-24 "J-Novel Club")|22|J-Novel Club|🖥️|
 |Apr 23|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Apr 23|[Sowing Vengeance: The Eldest Son's Disgraceful Green Thumb](https://j-novel.club/series/sowing-vengeance-the-eldest-son-s-disgraceful-green-thumb#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 23|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Apr 28|[JoJo's Bizarre Adventure: Purple Smoke Distortion](https://www.viz.com/manga-books/novel/jojo-s-bizarre-adventure-purple-smoke-distortion/product/8798/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Apr 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6.1|Seven Seas Entertainment|🖥️📖|
