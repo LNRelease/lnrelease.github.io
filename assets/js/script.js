@@ -100,7 +100,7 @@ function dateFilter() {
         return { start: startTime, end: endTime };
     }
     now.setDate(now.getDate() - 7);
-    now.setDate(1);
+    now.setUTCDate(1);
     const startTime = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
     const endTime = Date.UTC(year + 1, 11, 31);
     return { start: startTime, end: endTime };
@@ -953,8 +953,8 @@ function initDate(novels) {
         if (target.value) {
             const date = new Date(target.value);
             if (monthSupport && target.name === 'end' && target.value) {
-                date.setMonth(date.getMonth() + 1);
-                date.setDate(0);
+                date.setUTCMonth(date.getUTCMonth() + 1);
+                date.setUTCDate(0);
             }
             filter[target.name] = Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate());
         } else {
