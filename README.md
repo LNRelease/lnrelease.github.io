@@ -139,6 +139,7 @@
 |Feb 13|[Heir to a Monstermancer](https://j-novel.club/series/heir-to-a-monstermancer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 13|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 13|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Feb 14|[I Got Reincarnated as a Cultist Mob in an Eroge Full of Maniacs with Death Wishes](https://hanashi.media/light-novels/i-got-reincarnated-as-a-cultist-mob-in-an-eroge-full-of-maniacs-with-death-wishes/3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Feb 17|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Feb 17|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 17|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
@@ -154,6 +155,7 @@
 |Feb 20|[Finding My Way to (You) in This MMO World](https://j-novel.club/series/finding-my-way-to-you-in-this-mmo-world#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 20|[In Another World with Household Spells](https://j-novel.club/series/in-another-world-with-household-spells#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 20|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Feb 21|[The abandoned reincarnation sage: Building a mighty empire with monsters within the monster's forest](https://hanashi.media/light-novels/the-abandoned-reincarnation-sage-building-a-mighty-empire-with-monsters-within-the-monsters-forest/3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Feb 23|[One Last Hurrah! The Grayed Heroes Explore a Vivid Future](https://j-novel.club/series/one-last-hurrah-the-grayed-heroes-explore-a-vivid-future#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Feb 24|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -169,6 +171,7 @@
 |Feb 27|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-13 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Feb 28|[Goodbye, Horrible Fiancé, Hello, Fun Magic School Life!](https://crossinfworld.com/Goodbye-Horrible-Fiance-Hello-Fun-Magic-School-Life-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Feb 28|[If the Heroine Wants My Fiancé, I'll Marry a Yandere Villain Instead!](https://crossinfworld.com/If-the-Heroine-Wants-My-Fiance-Ill-Marry-a-Yandere-Villain-Instead-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
+|Feb 28|[I'm just a Villager... So what?](https://hanashi.media/light-novels/im-just-a-villager-so-what/3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Feb 28|[Strawberry Princess: The Time Loop Defying Villainess](https://crossinfworld.com/Strawberry-Princess-The-Time-Loop-Defying-Villainess.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
 ### March
