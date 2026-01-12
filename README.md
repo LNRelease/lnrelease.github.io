@@ -12,8 +12,7 @@
 |Jan 06|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Jan 06|[Classroom of the Elite: Year 2](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-2-light-novel-vol-12-5/ "Seven Seas Entertainment")|12.5|Seven Seas Entertainment|📖|
 |Jan 06|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
-|Jan 06|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-9-light-novel "Kodansha")|9|Kodansha|📖|
-|Jan 06|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-9-light-novel "Kodansha")|9.1|Kodansha|🖥️|
+|Jan 06|[Saving 80,000 Gold in Another World for My Retirement](https://kodansha.us/product/saving-80000-gold-in-another-world-for-my-retirement-9-light-novel "Kodansha")|9|Kodansha|🖥️📖|
 |Jan 06|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9798855408881-the-angel-next-door-spoils-me-rotten-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jan 06|[Thou, as My Knight...](https://yenpress.com/titles/9798855418620-thou-as-my-knight-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 06|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903588-villains-are-destined-to-die-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -35,7 +34,6 @@
 |Jan 13|[Goblin Slayer Side Story: Year One](https://yenpress.com/titles/9798855422276-goblin-slayer-side-story-year-one-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 13|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Jan 13|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
-|Jan 13|[Saving 80,000 Gold in Another World for My Retirement](https://global.bookwalker.jp/de4f3820a4-f1f3-4d36-81b5-41497b4862ee/ "Kodansha")|9.2|Kodansha|🖥️|
 |Jan 13|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Jan 13|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855417685-the-world-bows-down-before-my-flames-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Jan 13|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
