@@ -300,6 +300,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |May 01|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-12 "J-Novel Club")|8.1|J-Novel Club|🖥️|
+|May 01|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |May 05|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 05|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |May 05|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094240 "Square Enix")|9|Square Enix|📖|
