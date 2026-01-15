@@ -16,8 +16,10 @@ PAGES = Path('book_walker.csv')
 SERIES = re.compile(r'(?P<name>.+?)(?:(?: [Ll]ight [Nn]ovel| Novels)? \(Light Novels\))?')
 PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
+    'Graphic Audio': 'Dark Horse',
     'Denshobato': '',
     'Impress Corporation': 'Impress Corporation',
+    'Dreamscape Lore': 'J-Novel Club',
     'J-Novel Club': 'J-Novel Club',
     'JNC Audio': 'J-Novel Club',
     'Tantor Media, Inc': 'J-Novel Club',
