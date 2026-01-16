@@ -249,6 +249,7 @@
 |Apr 02|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Apr 03|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Apr 03|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Apr 06|[Blade Skill Online: Crushing the Competition with My Abysmal Stats, Useless Class, and Garbage Weapon!](https://j-novel.club/series/blade-skill-online-crushing-the-competition-with-my-abysmal-stats-useless-class-and-garbage-weapon#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Apr 07|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 07|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Apr 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
@@ -351,7 +352,6 @@
 |Jun 09|[Konosuba: God's Blessing on This Wonderful World! TRPG Advanced Rule Book](https://yenpress.com/titles/9798855419467-konosuba-god-s-blessing-on-this-wonderful-world-trpg-advanced-rule-book "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 09|[Kusunoki's Garden of Gods](https://yenpress.com/titles/9798855408454-kusunoki-s-garden-of-gods-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 09|[Melody of the Boundary](https://yenpress.com/titles/9798855428780-melody-of-the-boundary-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Jun 09|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345218-my-quiet-blacksmith-life-in-another-world-volume-7-light-novel "J-Novel Club")|7|J-Novel Club|📖|
 |Jun 09|[New Game Plus After Defeating the Last Boss](https://yenpress.com/titles/9798855422047-new-game-plus-after-defeating-the-last-boss-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 09|[Once Upon a Witch's Death](https://yenpress.com/titles/9798855427936-once-upon-a-witch-s-death-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jun 09|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire?](https://yenpress.com/titles/9798855403411-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-9-light-novel "J-Novel Club")|9|J-Novel Club|📖|
