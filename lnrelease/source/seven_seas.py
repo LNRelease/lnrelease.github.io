@@ -95,8 +95,14 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             'page': 1,
         }
         while True:
-            page = session.get(url, params=params, **kwargs)
-            jsn = page.json()
+            jsn = []
+            for _ in range(5):
+                try:
+                    page = session.get(url, params=params, **kwargs)
+                    jsn = page.json()
+                    break
+                except JSONDecodeError:
+                    pass
             for serie in jsn:
                 link = serie['link']
                 title = unescape(serie['title']['rendered'])
