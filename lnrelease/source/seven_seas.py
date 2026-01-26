@@ -5,6 +5,7 @@ from html import unescape
 from random import random
 
 from bs4 import BeautifulSoup
+from requests.exceptions import JSONDecodeError
 from session import CHROME, Session
 from utils import PHYSICAL, Info, Series
 
