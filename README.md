@@ -302,6 +302,7 @@
 |Apr 23|[Sowing Vengeance: The Eldest Son's Disgraceful Green Thumb](https://j-novel.club/series/sowing-vengeance-the-eldest-son-s-disgraceful-green-thumb#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 23|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Apr 27|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Apr 28|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Apr 28|[JoJo's Bizarre Adventure: Purple Smoke Distortion](https://www.viz.com/manga-books/novel/jojo-s-bizarre-adventure-purple-smoke-distortion/product/8798/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Apr 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6.1|Seven Seas Entertainment|🖥️📖|
 |Apr 29|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
@@ -323,6 +324,7 @@
 |May 11|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|📖|
 |May 11|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-25 "J-Novel Club")|25-26|J-Novel Club|📖|
 |May 11|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-6 "J-Novel Club")|6|J-Novel Club|📖|
+|May 11|[The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://j-novel.club/series/the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://j-novel.club/series/the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
 |May 12|[Blade & Bastard](https://yenpress.com/titles/9798855433654-blade-bastard-vol-5-light-novel "J-Novel Club")|5|J-Novel Club|📖|
 |May 12|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855405767-chitose-is-in-the-ramune-bottle-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
