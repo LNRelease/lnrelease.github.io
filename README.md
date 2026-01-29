@@ -292,6 +292,7 @@
 |Apr 16|[So Dearly Reckless](https://j-novel.club/series/so-dearly-reckless#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 16|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Apr 16|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Apr 20|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Apr 21|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-10 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Apr 21|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 |Apr 21|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
@@ -318,6 +319,7 @@
 |May 05|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |May 05|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094240 "Square Enix")|9|Square Enix|📖|
 |May 05|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
+|May 07|[VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream](https://j-novel.club/series/vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |May 11|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-22 "J-Novel Club")|22|J-Novel Club|📖|
 |May 11|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
 |May 11|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-14 "J-Novel Club")|14|J-Novel Club|📖|
@@ -344,6 +346,7 @@
 |May 12|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |May 12|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903618-villains-are-destined-to-die-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |May 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|May 19|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |May 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️📖|
 |May 19|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |May 20|[Tearmoon Empire Short Story Collection 1](https://j-novel.club/series/tearmoon-empire#volume-17 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -381,6 +384,7 @@
 |Jun 16|[The Confession Strategy](https://sevenseasentertainment.com/books/confession-strategy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jun 23|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jun 23|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
+|Jun 24|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 30|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jun 30|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-2-light-novel-vol-4-6-hardcover-omnibus/ "Seven Seas Entertainment")|4-6|Seven Seas Entertainment|📖|
 |Jun 30|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
@@ -453,6 +457,12 @@
 |:---:|---|:---:|---|:---:|
 |Oct 13|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 27|[When It Rains, It Pours](https://sevenseasentertainment.com/books/when-it-rains-it-pours-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+
+### November
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Nov 03|[I'm Running for Crown Princess, but All I Want is a Steady Paycheck!](https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 
 ### December
 
