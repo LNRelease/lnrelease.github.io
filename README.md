@@ -302,6 +302,7 @@
 |Apr 23|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Apr 23|[Sowing Vengeance: The Eldest Son's Disgraceful Green Thumb](https://j-novel.club/series/sowing-vengeance-the-eldest-son-s-disgraceful-green-thumb#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 23|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Apr 24|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀](https://j-novel.club/series/reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Apr 27|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Apr 28|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Apr 28|[JoJo's Bizarre Adventure: Purple Smoke Distortion](https://www.viz.com/manga-books/novel/jojo-s-bizarre-adventure-purple-smoke-distortion/product/8798/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
@@ -314,6 +315,7 @@
 |:---:|---|:---:|---|:---:|
 |May 01|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-12 "J-Novel Club")|8.1|J-Novel Club|🖥️|
 |May 01|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|May 01|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |May 04|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 05|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 05|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -349,6 +351,7 @@
 |May 19|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |May 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️📖|
 |May 19|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
+|May 20|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 20|[Tearmoon Empire Short Story Collection 1](https://j-novel.club/series/tearmoon-empire#volume-17 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 21|[The Greatest Magicmaster's Retirement Plan](https://j-novel.club/series/the-greatest-magicmaster-s-retirement-plan#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
 |May 22|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -361,6 +364,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jun 01|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 04|[How a Realist Hero Rebuilt the Kingdom: Short Story Chronicles](https://j-novel.club/series/how-a-realist-hero-rebuilt-the-kingdom#volume-21 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jun 09|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9798855422535-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 09|[Black Summoner](https://yenpress.com/titles/9781975392338-black-summoner-vol-7-light-novel "J-Novel Club")|7|J-Novel Club|📖|
