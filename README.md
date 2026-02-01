@@ -57,6 +57,7 @@
 |Jan 22|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jan 22|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Jan 23|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|Jan 26|[I Want to Be a Saint, But I Can Only Use Attack Magic!](https://crossinfworld.com/I-Want-to-Be-a-Saint-But-I-Can-Only-Use-Attack-Magic-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|📖|
 |Jan 27|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-9 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jan 27|[Disney Twisted-Wonderland: Usurper from the Wilds](https://www.viz.com/manga-books/novel/disney-twisted-wonderland-novels/product/8679/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Jan 27|[I'll Become a Villainess Who Goes Down in History](https://yenpress.com/titles/9798855407150-i-ll-become-a-villainess-who-goes-down-in-history-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
