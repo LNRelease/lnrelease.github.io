@@ -212,6 +212,7 @@
 |Mar 10|[To the Monster I Love](https://yenpress.com/titles/9798855418255-to-the-monster-i-love-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 11|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 12|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Mar 12|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️|
 |Mar 12|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Mar 13|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 13|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -244,6 +245,7 @@
 |Mar 25|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Mar 25|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Mar 25|[The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://j-novel.club/series/the-poison-king-now-that-i-ve-gained-ultimate-power-the-bewitching-beauties-in-my-harem-can-t-get-enough-of-me#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Mar 26|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
 |Mar 31|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-8.html "Cross Infinite World")|8|Cross Infinite World|🖥️|
 |Mar 31|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Mar 31|[The Brooding Duke's Guide to the Lie-Detecting Lady](https://crossinfworld.com/The-Brooding-Dukes-Guide-to-the-Lie-Detecting-Lady.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
@@ -279,7 +281,7 @@
 |Apr 14|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855425956-reign-of-the-seven-spellblades-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
 |Apr 14|[Saint's Fallen Antlers](https://yenpress.com/titles/9798855408591-saint-s-fallen-antlers "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 14|[Shanti](https://yenpress.com/titles/9798855423600-shanti-light-novel "Yen Press")|1|Yen Press|🖥️📖|
-|Apr 14|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
+|Apr 14|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
 |Apr 14|[The Bubble Love of the Mermaid](https://yenpress.com/titles/9798855430448-the-bubble-love-of-the-mermaid-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 14|[The Ephemeral Scenes of Setsuna's Journey](https://yenpress.com/titles/9798855427363-the-ephemeral-scenes-of-setsuna-s-journey-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Apr 14|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
@@ -295,7 +297,7 @@
 |Apr 16|[Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom](https://j-novel.club/series/zilbagias-the-demon-prince-how-the-seventh-prince-brought-down-the-kingdom#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 20|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Apr 21|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-10 "J-Novel Club")|9|J-Novel Club|🖥️|
-|Apr 21|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
+|Apr 21|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Apr 21|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Apr 21|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Apr 22|[Grimgar of Fantasy and Ash](https://j-novel.club/series/grimar-of-fantasy-and-ash#volume-24 "J-Novel Club")|22|J-Novel Club|🖥️|
@@ -317,6 +319,7 @@
 |May 01|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-12 "J-Novel Club")|8.1|J-Novel Club|🖥️|
 |May 01|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |May 01|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|May 04|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-33 "J-Novel Club")|33|J-Novel Club|🖥️|
 |May 04|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 05|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 05|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
