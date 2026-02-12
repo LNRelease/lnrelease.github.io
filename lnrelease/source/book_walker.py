@@ -16,6 +16,7 @@ PAGES = Path('book_walker.csv')
 SERIES = re.compile(r'(?P<name>.+?)(?:(?: [Ll]ight [Nn]ovel| Novels)? \(Light Novels\))?')
 PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
+    'Dark Horse Comics': 'Dark Horse',
     'Graphic Audio': 'Dark Horse',
     'Denshobato': '',
     'Impress Corporation': 'Impress Corporation',
@@ -59,7 +60,7 @@ def parse(session: Session, link: str, links: dict[str, Info], format: str) -> t
     soup = BeautifulSoup(page.content, 'lxml')
 
     jsn = json.loads(soup.find('script', type='application/ld+json').text)
-    title = jsn['name'].removeprefix('[AUDIOBOOK] ')
+    title = jsn['name'].removeprefix('[AUDIOBOOK] ').removesuffix(' [Dramatized Adaptation]')
     series_title = soup.select_one('div.product-detail-inner th:-soup-contains("Series Title") + td a')
     if series_title:
         series_title = SERIES.fullmatch(series_title.text).group('name').removeprefix('[AUDIOBOOK] ')
