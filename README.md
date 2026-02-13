@@ -59,7 +59,10 @@
 |Feb 13|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 13|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 14|[I Got Reincarnated as a Cultist Mob in an Eroge Full of Maniacs with Death Wishes](https://hanashi.media/light-novels/i-got-reincarnated-as-a-cultist-mob-in-an-eroge-full-of-maniacs-with-death-wishes/3 "Hanashi Media")|3|Hanashi Media|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de1c9c9ed7-a871-48b0-86ac-3f6fbdd70913/ "Dark Horse")|1|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee4740d94-fc23-43d9-8166-ceeea22d2e78/ "Dark Horse")|3|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de5191c6da-2299-4d71-a52a-88661ddde285/ "Dark Horse")|4|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee880d306-5a55-4315-9edf-a0b3f7fc39f2/ "Dark Horse")|8|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de04ff5cd5-ff3e-4b9a-af70-365f33b11c32/ "Dark Horse")|11|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/def1ae1bb8-21ed-4553-9da1-e7104fd12891/ "Dark Horse")|15|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de2f8970cf-0b63-45b0-bc36-042da0c9f4af/ "Dark Horse")|16|Dark Horse|🖥️|
