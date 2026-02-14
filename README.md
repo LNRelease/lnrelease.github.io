@@ -63,9 +63,12 @@
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee4740d94-fc23-43d9-8166-ceeea22d2e78/ "Dark Horse")|3|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de5191c6da-2299-4d71-a52a-88661ddde285/ "Dark Horse")|4|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee880d306-5a55-4315-9edf-a0b3f7fc39f2/ "Dark Horse")|8|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de08d30355-e5b7-41de-9a5a-75f8761f1452/ "Dark Horse")|10|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de04ff5cd5-ff3e-4b9a-af70-365f33b11c32/ "Dark Horse")|11|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/def1ae1bb8-21ed-4553-9da1-e7104fd12891/ "Dark Horse")|15|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de2f8970cf-0b63-45b0-bc36-042da0c9f4af/ "Dark Horse")|16|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/deb1047562-b1fd-4b41-8b4f-0ddd91660efc/ "Dark Horse")|18|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de0100187b-16ea-4bbd-b335-d34bc39edde2/ "Dark Horse")|23|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/ded23b6783-4bca-4c6c-9a72-73eaeaa12fed/ "Dark Horse")|25|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de93ae2ff1-f9e6-40e0-911c-a4c28d7ccf08/ "Dark Horse")|28|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/defd3f02fd-4a24-41ab-a867-d32e8d44f176/ "Dark Horse")|30|Dark Horse|🖥️|
@@ -262,7 +265,9 @@
 |May 11|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
 |May 11|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-14 "J-Novel Club")|14|J-Novel Club|📖|
 |May 11|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|📖|
+|May 11|[Proud to Be the Villainess](https://j-novel.club/series/proud-to-be-the-villainess#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 11|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-25 "J-Novel Club")|25-26|J-Novel Club|📖|
+|May 11|[Starting on Hard Mode: God Levels, Got Problems](https://j-novel.club/series/starting-on-hard-mode-god-levels-got-problems#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 11|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-6 "J-Novel Club")|6|J-Novel Club|📖|
 |May 11|[The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://j-novel.club/series/the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://j-novel.club/series/the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
@@ -284,21 +289,29 @@
 |May 12|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |May 12|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903618-villains-are-destined-to-die-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |May 13|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|May 13|[Reborn to Reign: Imposing My Rules with My Mastery of Magic](https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|May 15|[Fired? But I Maintain All the Software!](https://j-novel.club/series/fired-but-i-maintain-all-the-software#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 15|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
+|May 15|[Return of the Corpse King: Reining in My Cringe Secret Society](https://j-novel.club/series/return-of-the-corpse-king-reining-in-my-cringe-secret-society#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 18|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |May 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |May 19|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|May 19|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️📖|
 |May 19|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |May 20|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 20|[Tearmoon Empire Short Story Collection 1](https://j-novel.club/series/tearmoon-empire#volume-17 "J-Novel Club")|1|J-Novel Club|🖥️|
+|May 20|[The Path of an S-Rank Adventurer: From Deadweight to Weapon Master](https://j-novel.club/series/the-path-of-an-s-rank-adventurer-from-deadweight-to-weapon-master#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|May 21|[Sister Mafioso](https://j-novel.club/series/sister-mafioso#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 21|[The Greatest Magicmaster's Retirement Plan](https://j-novel.club/series/the-greatest-magicmaster-s-retirement-plan#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
 |May 22|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 22|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|May 22|[Unsung Epics of the Hero's Journey](https://j-novel.club/series/unsung-epics-of-the-hero-s-journey#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 26|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |May 26|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
 |May 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |May 29|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
+|May 29|[The Reincarnated Mastermind: Sundering Fate with Magic Swords](https://j-novel.club/series/the-reincarnated-mastermind-sundering-fate-with-magic-swords#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 
 ### June
 
