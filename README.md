@@ -62,14 +62,19 @@
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de1c9c9ed7-a871-48b0-86ac-3f6fbdd70913/ "Dark Horse")|1|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee4740d94-fc23-43d9-8166-ceeea22d2e78/ "Dark Horse")|3|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de5191c6da-2299-4d71-a52a-88661ddde285/ "Dark Horse")|4|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/def94bb9ba-40ff-4897-bc73-06ee29f15572/ "Dark Horse")|7|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee880d306-5a55-4315-9edf-a0b3f7fc39f2/ "Dark Horse")|8|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de08d30355-e5b7-41de-9a5a-75f8761f1452/ "Dark Horse")|10|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de04ff5cd5-ff3e-4b9a-af70-365f33b11c32/ "Dark Horse")|11|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dea3f34948-915d-4709-8790-76a0b3c1efe5/ "Dark Horse")|14|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/def1ae1bb8-21ed-4553-9da1-e7104fd12891/ "Dark Horse")|15|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de2f8970cf-0b63-45b0-bc36-042da0c9f4af/ "Dark Horse")|16|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de1261f4ff-cb8b-434c-8ac2-54a66b82ac34/ "Dark Horse")|17|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/deb1047562-b1fd-4b41-8b4f-0ddd91660efc/ "Dark Horse")|18|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/ded0406eaa-29bd-4136-8182-3748a792ad22/ "Dark Horse")|20|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de0100187b-16ea-4bbd-b335-d34bc39edde2/ "Dark Horse")|23|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/ded23b6783-4bca-4c6c-9a72-73eaeaa12fed/ "Dark Horse")|25|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de5caf2a21-fb22-4a13-b556-14f1fb00501a/ "Dark Horse")|26|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de93ae2ff1-f9e6-40e0-911c-a4c28d7ccf08/ "Dark Horse")|28|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/defd3f02fd-4a24-41ab-a867-d32e8d44f176/ "Dark Horse")|30|Dark Horse|🖥️|
 |Feb 17|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -190,6 +195,7 @@
 |:---:|---|:---:|---|:---:|
 |Apr 02|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Apr 02|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Apr 02|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️|
 |Apr 03|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Apr 03|[The Tanaka Family Reincarnates](https://j-novel.club/series/the-tanaka-family-reincarnates#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Apr 06|[Blade Skill Online: Crushing the Competition with My Abysmal Stats, Useless Class, and Garbage Weapon!](https://j-novel.club/series/blade-skill-online-crushing-the-competition-with-my-abysmal-stats-useless-class-and-garbage-weapon#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
@@ -297,7 +303,7 @@
 |May 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |May 19|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |May 19|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|May 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️📖|
+|May 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|📖|
 |May 19|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |May 20|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 20|[Tearmoon Empire Short Story Collection 1](https://j-novel.club/series/tearmoon-empire#volume-17 "J-Novel Club")|1|J-Novel Club|🖥️|
