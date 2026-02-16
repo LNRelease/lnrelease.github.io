@@ -62,16 +62,19 @@
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de1c9c9ed7-a871-48b0-86ac-3f6fbdd70913/ "Dark Horse")|1|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee4740d94-fc23-43d9-8166-ceeea22d2e78/ "Dark Horse")|3|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de5191c6da-2299-4d71-a52a-88661ddde285/ "Dark Horse")|4|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dea69fed4e-c110-44fd-92ee-9401b58fab7b/ "Dark Horse")|5|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/def94bb9ba-40ff-4897-bc73-06ee29f15572/ "Dark Horse")|7|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee880d306-5a55-4315-9edf-a0b3f7fc39f2/ "Dark Horse")|8|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de08d30355-e5b7-41de-9a5a-75f8761f1452/ "Dark Horse")|10|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de04ff5cd5-ff3e-4b9a-af70-365f33b11c32/ "Dark Horse")|11|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de2f36ee74-968e-423f-add5-2ea27b3ab019/ "Dark Horse")|12|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dea3f34948-915d-4709-8790-76a0b3c1efe5/ "Dark Horse")|14|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/def1ae1bb8-21ed-4553-9da1-e7104fd12891/ "Dark Horse")|15|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de2f8970cf-0b63-45b0-bc36-042da0c9f4af/ "Dark Horse")|16|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de1261f4ff-cb8b-434c-8ac2-54a66b82ac34/ "Dark Horse")|17|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/deb1047562-b1fd-4b41-8b4f-0ddd91660efc/ "Dark Horse")|18|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/ded0406eaa-29bd-4136-8182-3748a792ad22/ "Dark Horse")|20|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de57fa405c-4d75-4829-9143-d637e8ff7972/ "Dark Horse")|21|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de0100187b-16ea-4bbd-b335-d34bc39edde2/ "Dark Horse")|23|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/ded23b6783-4bca-4c6c-9a72-73eaeaa12fed/ "Dark Horse")|25|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de5caf2a21-fb22-4a13-b556-14f1fb00501a/ "Dark Horse")|26|Dark Horse|🖥️|
@@ -201,6 +204,7 @@
 |Apr 06|[Blade Skill Online: Crushing the Competition with My Abysmal Stats, Useless Class, and Garbage Weapon!](https://j-novel.club/series/blade-skill-online-crushing-the-competition-with-my-abysmal-stats-useless-class-and-garbage-weapon#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Apr 07|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Apr 07|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
+|Apr 09|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Apr 09|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[Ascendance of a Bookworm: Hannelore's Fifth Year at the Royal Academy](https://j-novel.club/series/ascendance-of-a-bookworm-hannelore-s-fifth-year-at-the-royal-academy#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Apr 13|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
@@ -244,6 +248,7 @@
 |Apr 23|[Dimension Wave](https://j-novel.club/series/dimension-wave#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Apr 23|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Apr 23|[Sowing Vengeance: The Eldest Son's Disgraceful Green Thumb](https://j-novel.club/series/sowing-vengeance-the-eldest-son-s-disgraceful-green-thumb#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Apr 23|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️|
 |Apr 23|[The Banished Former Hero Lives as He Pleases](https://j-novel.club/series/the-banished-former-hero-lives-as-he-pleases#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Apr 24|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀](https://j-novel.club/series/reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Apr 27|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
@@ -279,7 +284,7 @@
 |May 11|[The White Cat's Revenge as Plotted from the Dragon King's Lap](https://j-novel.club/series/the-white-cat-s-revenge-as-plotted-from-the-dragon-king-s-lap#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
 |May 12|[Blade & Bastard](https://yenpress.com/titles/9798855433654-blade-bastard-vol-5-light-novel "J-Novel Club")|5|J-Novel Club|📖|
 |May 12|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855405767-chitose-is-in-the-ramune-bottle-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
-|May 12|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|May 12|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |May 12|[Divine Incursions](https://yenpress.com/titles/9798855420838-divine-incursions-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |May 12|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-light-novel-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|📖|
 |May 12|[Hell Mode](https://yenpress.com/titles/9798855433432-hell-mode-vol-10 "J-Novel Club")|10|J-Novel Club|📖|
@@ -315,7 +320,7 @@
 |May 22|[Unsung Epics of the Hero's Journey](https://j-novel.club/series/unsung-epics-of-the-hero-s-journey#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 26|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |May 26|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
-|May 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
+|May 26|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |May 29|[The Apothecary Diaries](https://j-novel.club/series/the-apothecary-diaries#volume-16 "J-Novel Club")|16|J-Novel Club|🖥️|
 |May 29|[The Reincarnated Mastermind: Sundering Fate with Magic Swords](https://j-novel.club/series/the-reincarnated-mastermind-sundering-fate-with-magic-swords#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 
