@@ -77,9 +77,11 @@
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/deb1047562-b1fd-4b41-8b4f-0ddd91660efc/ "Dark Horse")|18|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/ded0406eaa-29bd-4136-8182-3748a792ad22/ "Dark Horse")|20|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de57fa405c-4d75-4829-9143-d637e8ff7972/ "Dark Horse")|21|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee3711d62-d20e-4278-b7a4-992fd33a33bf/ "Dark Horse")|22|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de0100187b-16ea-4bbd-b335-d34bc39edde2/ "Dark Horse")|23|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/ded23b6783-4bca-4c6c-9a72-73eaeaa12fed/ "Dark Horse")|25|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de5caf2a21-fb22-4a13-b556-14f1fb00501a/ "Dark Horse")|26|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de28bf1aa3-6371-4dc0-8f1e-175e9b9a209f/ "Dark Horse")|27|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de93ae2ff1-f9e6-40e0-911c-a4c28d7ccf08/ "Dark Horse")|28|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/defd3f02fd-4a24-41ab-a867-d32e8d44f176/ "Dark Horse")|30|Dark Horse|🖥️|
 |Feb 17|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -144,7 +146,6 @@
 |Mar 10|[Legend of the Far East's Savior](https://yenpress.com/titles/9798855424362-legend-of-the-far-east-s-savior-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 10|[Liar, Liar](https://yenpress.com/titles/9781975370718-liar-liar-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Mar 10|[Lycoris Recoil: Recovery Days](https://yenpress.com/titles/9798855431988-lycoris-recoil-recovery-days-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
-|Mar 10|[Magical Explorer](https://yenpress.com/titles/9798855421941-magical-explorer-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Mar 10|[My Happy Marriage](https://yenpress.com/titles/9798855429008-my-happy-marriage-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Mar 10|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|📖|
 |Mar 10|[Re:ZERO -Starting Life in Another World- Ex](https://yenpress.com/titles/9798855424492-re-zero-starting-life-in-another-world-ex-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
@@ -162,8 +163,8 @@
 |Mar 13|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Mar 17|[Frieren: Beyond Journey's End -Prelude-](https://yenpress.com/titles/9798855430493-frieren-beyond-journey-s-end-prelude-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 17|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
+|Mar 17|[Magical Explorer](https://yenpress.com/titles/9798855421941-magical-explorer-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Mar 17|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
-|Mar 17|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903762-omniscient-reader-s-viewpoint-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 17|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Mar 18|[Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends](https://j-novel.club/series/even-exiled-she-s-still-the-beloved-saint-st-evelyn-s-weird-and-wonderful-friends#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 18|[Reforming an Icy Final Boss: Getting Back at the Self-Proclaimed Villainess with the Power of Friendship](https://j-novel.club/series/reforming-an-icy-final-boss-getting-back-at-the-self-proclaimed-villainess-with-the-power-of-friendship#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -193,6 +194,7 @@
 |Mar 31|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-8.html "Cross Infinite World")|8|Cross Infinite World|🖥️|
 |Mar 31|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Mar 31|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
+|Mar 31|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903762-omniscient-reader-s-viewpoint-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 31|[The Brooding Duke's Guide to the Lie-Detecting Lady](https://crossinfworld.com/The-Brooding-Dukes-Guide-to-the-Lie-Detecting-Lady.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
 ### April
@@ -321,6 +323,7 @@
 |May 20|[The Path of an S-Rank Adventurer: From Deadweight to Weapon Master](https://j-novel.club/series/the-path-of-an-s-rank-adventurer-from-deadweight-to-weapon-master#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 21|[Sister Mafioso](https://j-novel.club/series/sister-mafioso#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 21|[The Greatest Magicmaster's Retirement Plan](https://j-novel.club/series/the-greatest-magicmaster-s-retirement-plan#volume-19 "J-Novel Club")|19|J-Novel Club|🖥️|
+|May 22|[Seirei Gensouki: Spirit Chronicles](https://j-novel.club/series/seirei-gensouki-spirit-chronicles#volume-27 "J-Novel Club")|27|J-Novel Club|🖥️|
 |May 22|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |May 22|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-14 "J-Novel Club")|12.1|J-Novel Club|🖥️|
 |May 22|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
