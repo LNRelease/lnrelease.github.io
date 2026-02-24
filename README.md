@@ -358,6 +358,7 @@
 |Jun 09|[Melody of the Boundary](https://yenpress.com/titles/9798855428780-melody-of-the-boundary-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jun 09|[New Game Plus After Defeating the Last Boss](https://yenpress.com/titles/9798855422047-new-game-plus-after-defeating-the-last-boss-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 09|[Once Upon a Witch's Death](https://yenpress.com/titles/9798855427936-once-upon-a-witch-s-death-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Jun 09|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
 |Jun 09|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire?](https://yenpress.com/titles/9798855403411-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-9-light-novel "J-Novel Club")|9|J-Novel Club|📖|
 |Jun 09|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975393304-re-starting-life-in-another-world-short-story-collection-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Jun 09|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9798855418958-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-9-novel "Yen Press")|9|Yen Press|🖥️📖|
