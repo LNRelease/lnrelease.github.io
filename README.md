@@ -71,6 +71,7 @@
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de08d30355-e5b7-41de-9a5a-75f8761f1452/ "Dark Horse")|10|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de04ff5cd5-ff3e-4b9a-af70-365f33b11c32/ "Dark Horse")|11|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de2f36ee74-968e-423f-add5-2ea27b3ab019/ "Dark Horse")|12|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de18b10c35-e525-4d06-8d31-7b3f07b0d750/ "Dark Horse")|13|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dea3f34948-915d-4709-8790-76a0b3c1efe5/ "Dark Horse")|14|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/def1ae1bb8-21ed-4553-9da1-e7104fd12891/ "Dark Horse")|15|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de2f8970cf-0b63-45b0-bc36-042da0c9f4af/ "Dark Horse")|16|Dark Horse|🖥️|
