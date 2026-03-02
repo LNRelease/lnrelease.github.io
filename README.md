@@ -245,6 +245,7 @@
 |Apr 14|[The World's Strongest Witch](https://yenpress.com/titles/9798855414370-the-world-s-strongest-witch-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 14|[Witches Can't Be Collared](https://yenpress.com/titles/9798855418781-witches-can-t-be-collared-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 14|[You Can Have My Back](https://yenpress.com/titles/9798855412925-you-can-have-my-back-vol-4-light-novel "Yen Press")|4|Yen Press|🖥️📖|
+|Apr 16|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️|
 |Apr 16|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Apr 16|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Apr 16|[So Dearly Reckless](https://j-novel.club/series/so-dearly-reckless#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -319,7 +320,7 @@
 |May 15|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |May 15|[Return of the Corpse King: Reining in My Cringe Secret Society](https://j-novel.club/series/return-of-the-corpse-king-reining-in-my-cringe-secret-society#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 18|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
-|May 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|May 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |May 19|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |May 19|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|📖|
