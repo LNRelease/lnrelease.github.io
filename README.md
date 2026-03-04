@@ -77,6 +77,7 @@
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de2f8970cf-0b63-45b0-bc36-042da0c9f4af/ "Dark Horse")|16|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de1261f4ff-cb8b-434c-8ac2-54a66b82ac34/ "Dark Horse")|17|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/deb1047562-b1fd-4b41-8b4f-0ddd91660efc/ "Dark Horse")|18|Dark Horse|🖥️|
+|Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de3ab59aea-59e8-4bfb-8be5-e48072096dfb/ "Dark Horse")|19|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/ded0406eaa-29bd-4136-8182-3748a792ad22/ "Dark Horse")|20|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/de57fa405c-4d75-4829-9143-d637e8ff7972/ "Dark Horse")|21|Dark Horse|🖥️|
 |Feb 16|[Vampire Hunter D](https://global.bookwalker.jp/dee3711d62-d20e-4278-b7a4-992fd33a33bf/ "Dark Horse")|22|Dark Horse|🖥️|
@@ -116,7 +117,11 @@
 |Feb 26|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 26|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️|
 |Feb 27|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
+|Feb 27|[If the Heroine Wants My Fiancé, I'll Marry a Yandere Villain Instead!](https://crossinfworld.com/If-the-Heroine-Wants-My-Fiance-Ill-Marry-a-Yandere-Villain-Instead-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|📖|
+|Feb 27|[Love & Magic Academy: Who Cares about the Heroine and Villainess? I Want to Be the Strongest in this Otome Game World](https://crossinfworld.com/Love-and-Magic-Academy-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|📖|
+|Feb 27|[The Hired Heroine Wants the Villainess to Gloat](https://crossinfworld.com/The-Hired-Heroine-Wants-the-Villainess-to-Gloat.html "Cross Infinite World")|1|Cross Infinite World|📖|
 |Feb 27|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-13 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Feb 27|[Too Strong to Belong! Banished to Another World!](https://crossinfworld.com/Too-Strong-to-Belong-Banished-to-Another-World.html "Cross Infinite World")|1|Cross Infinite World|📖|
 |Feb 28|[Goodbye, Horrible Fiancé, Hello, Fun Magic School Life!](https://crossinfworld.com/Goodbye-Horrible-Fiance-Hello-Fun-Magic-School-Life-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Feb 28|[If the Heroine Wants My Fiancé, I'll Marry a Yandere Villain Instead!](https://crossinfworld.com/If-the-Heroine-Wants-My-Fiance-Ill-Marry-a-Yandere-Villain-Instead-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Feb 28|[I'm just a Villager... So what?](https://hanashi.media/light-novels/im-just-a-villager-so-what/3 "Hanashi Media")|3|Hanashi Media|🖥️|
@@ -197,6 +202,7 @@
 |Mar 26|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6.1|Seven Seas Entertainment|🖥️|
 |Mar 31|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-8.html "Cross Infinite World")|8|Cross Infinite World|🖥️|
 |Mar 31|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
+|Mar 31|[Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness](https://crossinfworld.com/Dinners-with-My-Darling-How-the-Former-Monster-King-Ate-Her-Way-to-Happiness-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 |Mar 31|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Mar 31|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903762-omniscient-reader-s-viewpoint-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 31|[The Brooding Duke's Guide to the Lie-Detecting Lady](https://crossinfworld.com/The-Brooding-Dukes-Guide-to-the-Lie-Detecting-Lady.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
@@ -270,6 +276,7 @@
 |Apr 28|[JoJo's Bizarre Adventure: Purple Smoke Distortion](https://www.viz.com/manga-books/novel/jojo-s-bizarre-adventure-purple-smoke-distortion/product/8798/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Apr 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6.1|Seven Seas Entertainment|📖|
 |Apr 29|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Apr 30|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 |Apr 30|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Apr 30|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️|
 
@@ -350,6 +357,7 @@
 |:---:|---|:---:|---|:---:|
 |Jun 01|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 04|[How a Realist Hero Rebuilt the Kingdom: Short Story Chronicles](https://j-novel.club/series/how-a-realist-hero-rebuilt-the-kingdom#volume-21 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Jun 05|[Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends](https://j-novel.club/series/even-exiled-she-s-still-the-beloved-saint-st-evelyn-s-weird-and-wonderful-friends#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 09|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9798855422535-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 09|[Black Summoner](https://yenpress.com/titles/9781975392338-black-summoner-vol-7-light-novel "J-Novel Club")|7|J-Novel Club|📖|
 |Jun 09|[Catalog of Wonders](https://yenpress.com/titles/9781975393618-catalog-of-wonders-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
@@ -380,6 +388,8 @@
 |Jun 24|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 26|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 30|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Jun 30|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
+|Jun 30|[Love & Magic Academy: Who Cares about the Heroine and Villainess? I Want to Be the Strongest in this Otome Game World](https://crossinfworld.com/Love-and-Magic-Academy-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 |Jun 30|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-2-light-novel-vol-4-6-hardcover-omnibus/ "Seven Seas Entertainment")|4-6|Seven Seas Entertainment|📖|
 |Jun 30|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jun 30|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/815191/saving-80000-gold-in-another-world-for-my-retirement-10-light-novel-by-funa/9781647295684 "Kodansha")|10|Kodansha|📖|
