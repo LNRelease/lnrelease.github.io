@@ -170,7 +170,6 @@
 |Mar 12|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Mar 13|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 13|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
-|Mar 17|[Frieren: Beyond Journey's End -Prelude-](https://yenpress.com/titles/9798855430493-frieren-beyond-journey-s-end-prelude-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 17|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Mar 17|[Magical Explorer](https://yenpress.com/titles/9798855421941-magical-explorer-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Mar 17|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -189,6 +188,7 @@
 |Mar 20|[The Accursed Chef and His Pair of Furry Foodies](https://j-novel.club/series/the-accursed-chef-and-his-pair-of-furry-foodies#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Mar 20|[The World's Least Interesting Master Swordsman](https://j-novel.club/series/the-world-s-least-interesting-master-swordsman#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Mar 23|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Mar 24|[Frieren: Beyond Journey's End -Prelude-](https://yenpress.com/titles/9798855430493-frieren-beyond-journey-s-end-prelude-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 24|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Mar 24|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Mar 24|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
