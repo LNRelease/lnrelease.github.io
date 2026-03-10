@@ -151,6 +151,7 @@
 |Apr 28|[JoJo's Bizarre Adventure: Purple Smoke Distortion](https://www.viz.com/manga-books/novel/jojo-s-bizarre-adventure-purple-smoke-distortion/product/8798/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Apr 28|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6.1|Seven Seas Entertainment|📖|
 |Apr 29|[The Reincarnation of the Strongest Exorcist in Another World](https://j-novel.club/series/the-reincarnation-of-the-strongest-exorcist-in-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Apr 30|[Holmes of Kyoto](https://j-novel.club/series/holmes-of-kyoto#volume-22 "J-Novel Club")|0|J-Novel Club|🖥️|
 |Apr 30|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 |Apr 30|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Apr 30|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️|
