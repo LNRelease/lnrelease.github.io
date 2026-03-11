@@ -235,6 +235,7 @@
 |Jun 01|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 04|[How a Realist Hero Rebuilt the Kingdom: Short Story Chronicles](https://j-novel.club/series/how-a-realist-hero-rebuilt-the-kingdom#volume-21 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Jun 05|[Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends](https://j-novel.club/series/even-exiled-she-s-still-the-beloved-saint-st-evelyn-s-weird-and-wonderful-friends#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Jun 08|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jun 09|[Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://yenpress.com/titles/9798855422535-before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 09|[Black Summoner](https://yenpress.com/titles/9781975392338-black-summoner-vol-7-light-novel "J-Novel Club")|7|J-Novel Club|📖|
 |Jun 09|[Catalog of Wonders](https://yenpress.com/titles/9781975393618-catalog-of-wonders-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
@@ -253,6 +254,7 @@
 |Jun 09|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9798855418958-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-9-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Jun 09|[The Only Thing I'd Do in a No-Boys-Allowed Game World](https://yenpress.com/titles/9798855424348-the-only-thing-i-d-do-in-a-no-boys-allowed-game-world-vol-4-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jun 09|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Jun 12|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Jun 16|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jun 16|[Semantic Error](https://yenpress.com/titles/9798400904073-semantic-error-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jun 16|[The Confession Strategy](https://sevenseasentertainment.com/books/confession-strategy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -319,10 +321,29 @@
 |Aug 04|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! Short Story Collection](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-short-story-collection-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 04|[Space Orc: Barbarian Raider of the Stars, Aiming for the Queen!](https://sevenseasentertainment.com/books/space-orc-barbarian-raider-of-the-stars-aiming-for-the-queen-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 04|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094257 "Square Enix")|10|Square Enix|📖|
+|Aug 11|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9798855434019-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
+|Aug 11|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9798855422290-if-the-villainess-and-villain-met-and-fell-in-love-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
+|Aug 11|[In Another World With My Smartphone](https://yenpress.com/titles/9781718350304-in-another-world-with-my-smartphone-volume-31-light-novel "J-Novel Club")|31|J-Novel Club|📖|
+|Aug 11|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9798855437850-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-20-light-novel "Yen Press")|20|Yen Press|🖥️📖|
+|Aug 11|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855422023-kunon-the-sorcerer-can-see-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
+|Aug 11|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345256-my-quiet-blacksmith-life-in-another-world-volume-9-light-novel "J-Novel Club")|9|J-Novel Club|📖|
+|Aug 11|[My Yandere Girlfriend Hiding in the Dungeon Kills Me Over and Over Again](https://yenpress.com/titles/9798855428803-my-yandere-girlfriend-hiding-in-the-dungeon-kills-me-over-and-over-again-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Aug 11|[Rascal Does Not Dream of a Beach Queen +](https://yenpress.com/titles/9798855434453-rascal-does-not-dream-of-a-beach-queen-light-novel "Yen Press")|16|Yen Press|🖥️📖|
+|Aug 11|[Sasaki and Peeps](https://yenpress.com/titles/9798855424300-sasaki-and-peeps-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
+|Aug 11|[Scarlet](https://yenpress.com/titles/9798855437775-scarlet "Yen Press")|1|Yen Press|🖥️📖|
+|Aug 11|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9798855425994-the-angel-next-door-spoils-me-rotten-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
+|Aug 11|[The Detective Is Already Dead](https://yenpress.com/titles/9798855422573-the-detective-is-already-dead-vol-12 "Yen Press")|12|Yen Press|🖥️📖|
+|Aug 11|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855434484-the-kept-man-of-the-princess-knight-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Aug 11|[The Unwanted Undead Adventurer](https://yenpress.com/titles/9781718357532-the-unwanted-undead-adventurer-volume-14-light-novel "J-Novel Club")|14|J-Novel Club|📖|
+|Aug 11|[To the Monster I Love](https://yenpress.com/titles/9798855424935-to-the-monster-i-love-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Aug 11|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Aug 11|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368753-wandering-witch-the-journey-of-elaina-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️📖|
+|Aug 11|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855434507-wolf-parchment-new-theory-spice-wolf-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
+|Aug 11|[You Are My Regret](https://yenpress.com/titles/9798855433890-you-are-my-regret-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Aug 12|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 18|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 25|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Aug 25|[The Water Magician: Arc 1](https://yenpress.com/titles/9781718336971-the-water-magician-arc-1-volume-1-light-novel "J-Novel Club")|1|J-Novel Club|📖|
 
 ### September
 
