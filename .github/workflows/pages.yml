@@ -28,12 +28,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: main
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -51,7 +51,7 @@ jobs:
         run: find assets/ -type f -exec mv -nt ./ -- {} +
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
@@ -71,7 +71,7 @@ jobs:
           --output-dir _site/;
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
 
   deploy:
     environment:
