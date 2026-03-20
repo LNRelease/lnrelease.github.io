@@ -1,6 +1,7 @@
 import datetime
 import re
 from collections import Counter
+from dataclasses import replace
 from itertools import chain
 
 from utils import FORMATS, Book, Info, Series
@@ -25,9 +26,8 @@ def parse(series: Series, info: dict[str, list[Info]],
             and inf.isbn not in isbns
             and inf.date > today
                 and (d := fdates.get(inf.format)) and inf.date not in d):
-            i = Info(series.key, inf.link, inf.source, NAME, inf.title, 0, inf.format, inf.isbn, inf.date)
-            info[inf.format].append(i)
-            isbns.add(i.isbn)
+            info[inf.format].append(replace(inf, index=0))
+            isbns.add(inf.isbn)
     dates(info, links)
 
     books: dict[str, list[Book]] = {}

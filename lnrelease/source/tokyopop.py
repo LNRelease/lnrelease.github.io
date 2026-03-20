@@ -17,6 +17,7 @@ def read(jsn: dict, series: Series, index: int) -> Info | None:
     link = f'https://tokyopop.com/products/{isbn}_{jsn["seo"]}'
     title = jsn['title']
     format = jsn['formats'][0]['format']['name']
+    format = 'Audiobook' if format == 'Other audio format' else format
     date = datetime.date.fromisoformat(jsn['date']['date'][:10])
     return Info(series.key, link, NAME, NAME, title, index, format, isbn, date)
 
@@ -43,33 +44,28 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]] | None:
 
 def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
     with Session() as session:
-        site = 'https://tokyopop.com/collections/novels'
-        params = {'sort_by': 'created-descending'}
-        for i in range(1, limit + 1):
-            params['page'] = i
-            page = session.get(site, params=params, cf=True, ia=True)
-            soup = BeautifulSoup(page.content, 'lxml')
+        sitemap = session.get('https://tokyopop.com/sitemap.xml', cf=True, ia=True)
+        for loc in BeautifulSoup(sitemap.content, 'xml').select('sitemap > loc'):
+            if 'sitemap_products' not in loc.text:
+                continue
 
-            results = soup.find(id='CollectionAjaxContent').find_all(
-                'a', href=lambda x: x and x.startswith('/collections/novels/products/'))
-            for a in results:
-                title = a.find(class_='grid-product__title').text
-                if not title.endswith('Light Novel)'):
+            page = session.get(loc.text, cf=True, ia=True)
+            soup = BeautifulSoup(page.content, 'xml')
+            for loc in soup.select('urlset > url > loc'):
+                if '-light-novel' not in loc.text:
                     continue
+
                 try:
-                    isbn = ISBN.fullmatch(a.get('href')).group('isbn')
-                    res = parse(session, isbn)
-                    if res:
+                    isbn = ISBN.fullmatch(loc.text).group('isbn')
+                    if res := parse(session, isbn):
                         series.add(res[0])
                         info -= res[1]
                         info |= res[1]
                 except Exception as e:
                     warnings.warn(f'{isbn}: {e}', RuntimeWarning)
 
-            if not soup.select_one('.pagination > .next') or not results:
-                break
     return series, info
 
 
 def scrape(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
-    return scrape_full(series, info, 5)
+    return scrape_full(series, info)

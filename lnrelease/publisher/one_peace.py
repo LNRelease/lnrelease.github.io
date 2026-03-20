@@ -1,5 +1,5 @@
-import re
 from collections import Counter
+from dataclasses import replace
 from itertools import chain
 
 from utils import EPOCH, Book, Format, Info, Series
@@ -39,10 +39,9 @@ def parse(series: Series, info: dict[str, list[Info]],
         dates = fdates.get(fmt)
         title = norm(inf.title)
         if title not in titles and Series(None, title) == series:
-            i = Info(series.key, inf.link, inf.source, NAME, title, 0, inf.format, inf.isbn, inf.date)
-            info[fmt.name.title()].append(i)
+            info[fmt.name.title()].append(replace(inf, index=0))
             titles.add(title)
-            fdates[fmt][title] = Counter((i.date,))
+            fdates[fmt][title] = Counter((inf.date,))
         elif inf.date != EPOCH and (counter := dates.get(norm(inf.title))) is not None:
             counter[inf.date] += 1
 

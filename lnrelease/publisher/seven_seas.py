@@ -1,5 +1,6 @@
 import datetime
 import re
+from dataclasses import replace
 from itertools import chain
 
 from utils import Book, Info, Series
@@ -48,8 +49,7 @@ def parse(series: Series, info: dict[str, list[Info]],
     if not alts and 'Digital' not in info and all(inf.date > today for inf in info['Physical']):
         info['Digital'] = []
         for inf in info['Physical']:
-            i = Info(series.key, inf.link, inf.source, NAME, inf.title, inf.index, 'Digital', '', inf.date)
-            info['Digital'].append(i)
+            info['Digital'].append(replace(inf, format='Digital', isbn=''))
 
     books = _parse(series, info, links, True)
     if alts and 'Physical' in books:

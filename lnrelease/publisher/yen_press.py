@@ -6,7 +6,7 @@ NAME = 'Yen Press'
 
 
 def parse(series: Series, info: dict[str, list[Info]],
-          links: set[Info]) -> dict[str, list[Book]]:
+          links: dict[str, list[Info]]) -> dict[str, list[Book]]:
     books: dict[str, list[Book]] = {}
     for format, lst in info.items():
         # remove duplicates
