@@ -3,6 +3,7 @@ from __future__ import annotations
 import datetime
 import json
 import re
+from difflib import SequenceMatcher
 from urllib.parse import urlparse, urlunparse
 
 import utils
@@ -46,13 +47,17 @@ def parse(session: Session, links: list[str], *,
 
     serieskey = series.key if series else ''
     jsn = json.loads(soup.find('script', type='application/ld+json').text)
+    if ((s := jsn.get('isPartof')) and s.get('@type') == 'BookSeries'
+            and SequenceMatcher(a=serieskey, b=utils.clean_str(s['name'])).ratio() < 0.3):
+        return None
+
     publisher = publisher or jsn['publisher']
-    title = title or jsn['name']
-    format = format or jsn['@type']
+    title = jsn['name'] or title
+    format = jsn['@type'] or format
     if format == 'Book':
         format = 'Digital'
-    isbn = isbn or jsn.get('isbn', '')
+    isbn = jsn.get('isbn') or isbn
     date = datetime.date.fromisoformat(jsn['datePublished'][:10])
 
-    info = utils.Info(serieskey, links[0], NAME, publisher, title, index, format, isbn, date)
+    info = utils.Info(serieskey, links[0], NAME, publisher, title, 0, format, isbn, date)
     return series, {info}

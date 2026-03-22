@@ -20,7 +20,6 @@ def parse(series: Series, info: dict[str, list[Info]],
             elif inf.isbn not in fisbns.get(inf.format, ()) and inf.date not in fdates.get(inf.format, ()):
                 info[inf.format].append(replace(inf, index=0))
                 fisbns[inf.format].add(inf.isbn)
-    dates(info, links)
     if digitals:
         info['Digital'] = []
         for inf in info['Paperback']:
