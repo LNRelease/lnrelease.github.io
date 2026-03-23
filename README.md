@@ -74,6 +74,8 @@
 |Mar 25|[The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://j-novel.club/series/the-poison-king-now-that-i-ve-gained-ultimate-power-the-bewitching-beauties-in-my-harem-can-t-get-enough-of-me#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Mar 26|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
 |Mar 26|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-6-part-1/ "Seven Seas Entertainment")|6.1|Seven Seas Entertainment|🖥️|
+|Mar 30|[The Fruit of Evolution](https://books.apple.com/us/book/id6757627005 "Hanashi Media")|12|Hanashi Media|🖥️|
+|Mar 30|[Tsukimichi](https://books.apple.com/us/book/id6759630170 "Hanashi Media")|14|Hanashi Media|🖥️|
 |Mar 31|[Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://crossinfworld.com/Apocalypse-Bringer-Mynoghra-World-Conquest-Starts-with-the-Civilization-of-Ruin-Volume-8.html "Cross Infinite World")|8|Cross Infinite World|🖥️|
 |Mar 31|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 |Mar 31|[Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness](https://crossinfworld.com/Dinners-with-My-Darling-How-the-Former-Monster-King-Ate-Her-Way-to-Happiness-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
@@ -156,6 +158,8 @@
 |Apr 30|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 |Apr 30|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Apr 30|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️|
+|Apr 30|[The New Gate](https://books.apple.com/us/book/id6760683300 "Hanashi Media")|3|Hanashi Media|🖥️|
+|Apr 30|[Tsukimichi](https://books.apple.com/us/book/id6759630350 "Hanashi Media")|15|Hanashi Media|🖥️|
 
 ### May
 
@@ -204,6 +208,7 @@
 |May 15|[Fired? But I Maintain All the Software!](https://j-novel.club/series/fired-but-i-maintain-all-the-software#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 15|[My Next Life as a Villainess: All Routes Lead to Doom!](https://j-novel.club/series/my-next-life-as-a-villainess-all-routes-lead-to-doom#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |May 15|[Return of the Corpse King: Reining in My Cringe Secret Society](https://j-novel.club/series/return-of-the-corpse-king-reining-in-my-cringe-secret-society#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|May 16|[I Got Reincarnated as a Cultist Mob in an Eroge Full of Maniacs with Death Wishes](https://books.apple.com/us/book/id6759206236 "Hanashi Media")|4|Hanashi Media|🖥️|
 |May 18|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |May 19|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |May 19|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -222,6 +227,7 @@
 |May 22|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-14 "J-Novel Club")|12.1|J-Novel Club|🖥️|
 |May 22|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |May 22|[Unsung Epics of the Hero's Journey](https://j-novel.club/series/unsung-epics-of-the-hero-s-journey#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|May 23|[The Abandoned Reincarnation Sage](https://books.apple.com/us/book/id6759305790 "Hanashi Media")|4|Hanashi Media|🖥️|
 |May 26|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |May 26|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s-daughter-is-my-ex#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |May 26|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
@@ -269,6 +275,7 @@
 |Jun 22|[The World's Least Interesting Master Swordsman](https://j-novel.club/series/the-world-s-least-interesting-master-swordsman#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Jun 22|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Jun 23|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jun 23|[I'm Just a Villager, So What?](https://books.apple.com/us/book/id6759811040 "Hanashi Media")|4|Hanashi Media|🖥️|
 |Jun 23|[I'm the Evil Lord of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Jun 23|[Long Story Short, I'm Living in the Mountains](https://j-novel.club/series/long-story-short-i-m-living-in-the-mountains#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 23|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-7 "J-Novel Club")|4.2|J-Novel Club|🖥️|
