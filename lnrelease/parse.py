@@ -22,6 +22,7 @@ def main() -> None:
     info = Table(INFO, Info)
     links: defaultdict[str, list[Info]] = defaultdict(list)
     lst: list[Info] = []
+    serieskeys = set()
     for i in info:
         links[i.link].append(i)
         if ((i.source not in SECONDARY or i.publisher not in PRIMARY)
@@ -29,6 +30,9 @@ def main() -> None:
                 and i.publisher == 'J-Novel Club'
                 and i.format == 'Audiobook')):
             lst.append(i)
+            serieskeys.add(i.serieskey)
+    lst.extend(i for i in info if i.serieskey not in serieskeys
+               and i.source == 'Apple' and i.publisher == 'Hanashi Media')
     lst.sort()
     # sort by source then title
     links = dict(sorted(links.items(), key=lambda x: (SOURCES[x[1][0].source], x[1][0].title)))

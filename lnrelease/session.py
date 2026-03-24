@@ -57,6 +57,7 @@ RATE_LIMITER = Lock()
 DELAYS = {
     'www.amazon.com': (10, 30),
     'books.apple.com': (10, 30),
+    'itunes.apple.com': (10, 30),
     'web.archive.org': (10, 30),
     'www.audible.com': (10, 30),
     'www.audible.de': (10, 30),
@@ -66,13 +67,13 @@ DELAYS = {
     'global.bookwalker.jp': (1, 3),
     'api.cloudflare.com': (0.1, 0.2),
     'crossinfworld.com': (10, 30),
+    'store.crunchyroll.com': (30, 60),
     'play.google.com': (10, 30),
     'hanashi.media': (10, 30),
     'labs.j-novel.club': (10, 30),
     'api.kodansha.us': (30, 60),
     'www.onepeacebooks.com': (30, 600),
     'www.penguinrandomhouse.ca': (30, 600),
-    'legacy.rightstufanime.com': (30, 300),
     'sevenseasentertainment.com': (10, 30),
     'squareenixmangaandbooks.square-enix-games.com': (30, 600),
     'v3-static.supadu.io': (30, 300),
@@ -277,7 +278,7 @@ class Session(requests.Session):
                 page = self.ia_cache(url, refresh=refresh, **kwargs)
             self.set_retry()
 
-        if page and page.status_code not in (200, 404):
+        if page and page.status_code not in (200, 401, 404):
             warnings.warn(f'Status code {page.status_code}: {url}', RuntimeWarning)
 
         return page

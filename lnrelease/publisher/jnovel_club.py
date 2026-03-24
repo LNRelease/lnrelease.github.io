@@ -10,7 +10,7 @@ from . import check, copy, guess, letters, one, part, secondary, short, standard
 
 NAME = 'J-Novel Club'
 
-OMNIBUS = re.compile(r'(?P<name>.+?)(?:Collector\'s Edition )?(?:Omnibus )?:? Volume (?P<start>\d+(?:\.\d)?)-(?P<end>\d+(?:\.\d)?)')
+OMNIBUS = re.compile(r'(?P<name>.+?)(?:Collector\'s Edition )?(?:Omnibus )?:? Volumes? (?P<start>\d+(?:\.\d)?)-(?P<end>\d+(?:\.\d)?)(?: Collector\'s Edition)?')
 
 
 def _parse(series: Series, info: dict[str, list[Info]],
