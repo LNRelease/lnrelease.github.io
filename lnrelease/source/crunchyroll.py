@@ -106,7 +106,6 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         total = 1
         while params['offset'] < total:
             try:
-                print(params['offset'])
                 for _ in range(2):
                     page = session.get(link, headers=headers, params=params)
                     if page.status_code == 401:

@@ -1,6 +1,6 @@
 from utils import Book, Info, Series
 
-from . import NUMBER, check, copy, guess, omnibus, one, part, secondary, short, standard
+from . import NUMBER, check, copy, guess, omnibus, one, part, secondary, short, standard, sub_nums
 
 NAME = 'Yen Press'
 
@@ -29,8 +29,9 @@ def parse(series: Series, info: dict[str, list[Info]],
     if len(todo) == 0:
         pass
     elif all((' Volume ' in main_info[i].title
-              or ' Vol. ' in main_info[i].title)
-             and len(NUMBER.findall(main_info[i].title)) > 1
+              or ' Vol. ' in main_info[i].title
+              or ' Part ' in main_info[i].title)
+             and len(NUMBER.findall(sub_nums(main_info[i].title))) > 1
              for i in todo):
         part(series, info, books)
     elif len(todo) < size - 1:
