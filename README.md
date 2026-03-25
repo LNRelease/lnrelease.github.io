@@ -36,7 +36,7 @@
 |Mar 10|[Sword of the Stallion](https://yenpress.com/titles/9798855407235-sword-of-the-stallion-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 10|[The Misdeeds of an Extremely Arrogant Villain Aristocrat](https://sevenseasentertainment.com/books/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Mar 10|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
-|Mar 10|[To Sir, Without Love: I'm Divorcing You I, Part 2](https://yenpress.com/titles/9798855411904-to-sir-without-love-i-m-divorcing-you-i-part-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Mar 10|[To Sir, Without Love: 1'm Divorcing You](https://yenpress.com/titles/9798855411904-to-sir-without-love-i-m-divorcing-you-i-part-2-light-novel "Yen Press")|1.2|Yen Press|🖥️📖|
 |Mar 10|[To the Monster I Love](https://yenpress.com/titles/9798855418255-to-the-monster-i-love-vol-1-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 11|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Mar 12|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -406,7 +406,7 @@
 |Sep 08|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409802-the-irregular-at-magic-high-school-vol-27-light-novel "Yen Press")|27|Yen Press|🖥️📖|
 |Sep 08|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391089-the-misfit-of-demon-king-academy-vol-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
 |Sep 08|[The Vexations of a Shut-In Vampire Princess](https://yenpress.com/titles/9798855406542-the-vexations-of-a-shut-in-vampire-princess-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
-|Sep 08|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411928-to-sir-without-love-i-m-divorcing-you-ii-part-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Sep 08|[To Sir, Without Love: 1'm Divorcing You](https://yenpress.com/titles/9798855411928-to-sir-without-love-i-m-divorcing-you-ii-part-1-light-novel "Yen Press")|2.1|Yen Press|🖥️📖|
 |Sep 08|[Why Run? My Summoned Beast Is Cute!](https://yenpress.com/titles/9798855433104-why-run-my-summoned-beast-is-cute-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 08|[Your Forma](https://yenpress.com/titles/9798855434521-your-forma-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Sep 15|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
