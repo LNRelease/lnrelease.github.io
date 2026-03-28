@@ -26,7 +26,7 @@ def main() -> None:
     for i in info:
         links[i.link].append(i)
         if ((i.source not in SECONDARY or i.publisher not in PRIMARY)
-            or (i.source == 'BOOK☆WALKER'
+            or (i.source == 'BookWalker'
                 and i.publisher == 'J-Novel Club'
                 and i.format == 'Audiobook')):
             lst.append(i)

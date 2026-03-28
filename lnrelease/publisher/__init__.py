@@ -99,7 +99,7 @@ def copy(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
     poss = {d: b for d, b in zip(main_diff, main_books) if b}
     poss |= {d.split(':')[0]: b for d, b in poss.items() if ':' in d}
     titles = {inf.title: book for inf, book in zip(main_info, main_books)}
-    isbns = {inf.isbn: book for inf, book in zip(main_info, main_books)}
+    isbns = {inf.isbn: book for inf, book in zip(main_info, main_books) if inf.isbn}
 
     for key, lst in books.items():
         # find close match
@@ -250,7 +250,7 @@ def part(series: Series, info: dict[str, list[Info]], books: dict[str, list[Book
             continue
 
         if match := PART.fullmatch(sub_nums(inf.title)):
-            name = match.group('name')
+            name = series.title
             vol = match.group('volume')
             part = match.group('part')
             if match := NUMBER.search(part):

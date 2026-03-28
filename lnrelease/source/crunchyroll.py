@@ -28,6 +28,7 @@ PUBLISHERS = {
     'ONE PEACE': 'One Peace Books',
     'SEVEN SEAS': 'Seven Seas Entertainment',
     'SQUARE ENIX BOOKS': 'Square Enix',
+    'SQUARE ENIX MANGA': 'Square Enix',
     'STEAMSHIP': 'Seven Seas Entertainment',
     'TENTAI BOOKS': 'Tentai Books',
     'TOKYOPOP': 'TOKYOPOP',

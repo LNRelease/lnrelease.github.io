@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 import utils
 from session import Session
 
-from . import (_default, amazon, apple, audible, barnes_noble, book_walker,
+from . import (_default, amazon, apple, audible, barnes_noble, book_walker, bookwalker,
                crunchyroll, google, prh, square_enix, tokyopop, viz, yen_press)
 
 STORES = {
@@ -20,6 +20,7 @@ STORES = {
 }
 
 PROCESSED = {
+    'bookwalker.com': bookwalker,
     'global.bookwalker.jp': book_walker,
     'crossinfworld.com': _default,
     'store.crunchyroll.com': crunchyroll,
