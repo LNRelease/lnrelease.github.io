@@ -10,7 +10,7 @@ from utils import Info, Series, clean_str
 
 NAME = 'BookWalker'
 
-MOVE = re.compile(r'\$\w+\(\"(?P<id>[^\"]+)\",\"[^\"]+\"\)')
+HYDRATE = re.compile(r'^\$RS\(\"(?P<src>S:\w+)\",\"(?P<dst>P:\w+)\"\)$')
 PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
     'Dark Horse Comics': 'Dark Horse',
@@ -32,6 +32,15 @@ PUBLISHERS = {
 }
 
 
+def get(session: Session, link: str, **kwargs) -> BeautifulSoup:
+    page = session.get(link, **kwargs)
+    soup = BeautifulSoup(page.content, 'lxml')
+    for script in soup.find_all('script', string=HYDRATE):
+        match = HYDRATE.fullmatch(script.text)
+        soup.find(id=match.group('dst')).replace_with(soup.find(id=match.group('src')).extract())
+    return soup
+
+
 def get_format(format: str, key: str) -> str:
     match format:
         case 'NOVEL':
@@ -45,31 +54,16 @@ def get_format(format: str, key: str) -> str:
             return None
 
 
-def extract(soup: BeautifulSoup, selector: str) -> str:
-    tag = soup.select_one(selector)
-    if tag.text:
-        return tag.text
-    id = tag.find('template', attrs={}, id=True, recursive=False)['id']
-    script = soup.select_one(rf'script:-soup-contains-own("\\22{id}\\22")')
-    id = MOVE.fullmatch(script.text).group('id')
-    res = soup.find(id=id).text
-    if not res:
-        link = soup.select_one('link[rel="canonical"]')['href']
-        warnings.warn(f'({link}):\n{tag.prettify()}', RuntimeWarning)
-    return res
-
-
 def parse(session: Session, series: Series, link: str, index: int) -> Info | None:
-    page = session.get(link)
-    soup = BeautifulSoup(page.content, 'lxml')
-
-    pub = extract(soup, 'div[aria-label="PUBLISHER"] > div[class$="__container"] > div > a[class$="__content"]')
-    publisher = PUBLISHERS.get(pub)
+    soup = get(session, link)
+    pub = soup.select_one('div[aria-label="PUBLISHER"] > div[class$="__container"] > div > a[class$="__content"]')
+    publisher = PUBLISHERS.get(pub.text)
     if publisher is None:
-        warnings.warn(f'Unknown publisher: {pub}', RuntimeWarning)
+        warnings.warn(f'Unknown publisher: {pub.text}', RuntimeWarning)
     if not publisher:
         return None
-    format = get_format(extract(soup, 'div[class$="__topSection"] div[aria-label="Format"]'), link)
+    format = soup.select_one('div[class$="__topSection"] div[aria-label="Format"]')
+    format = get_format(format.text, link)
     if not format:
         return None
 
@@ -83,8 +77,7 @@ def parse(session: Session, series: Series, link: str, index: int) -> Info | Non
 def parse_series(session: Session, series: Series, url: str, skip: set[str]) -> set[Info]:
     info = set()
 
-    page = session.get(url)
-    soup = BeautifulSoup(page.content, 'lxml')
+    soup = get(session, url)
     if soup.select_one('div[class$="__totalWrapper"] + p').text != 'Volumes':
         return info
 
@@ -92,7 +85,7 @@ def parse_series(session: Session, series: Series, url: str, skip: set[str]) -> 
     for index, a in enumerate(lst, start=1):
         link = urljoin(url, a['href'])
         try:
-            title = a.next_sibling.select_one('div[class$="__content"] > div[class$="__title"] > a')['aria-label']
+            title = a.next_sibling.select_one('div[class$="__title"] > a')['aria-label']
             if (title.startswith('BOOK☆WALKER Exclusive: ')
                 or title.endswith(' [Bonus Item]')
                 or ' Bundle Set]' in title
@@ -108,7 +101,7 @@ def parse_series(session: Session, series: Series, url: str, skip: set[str]) -> 
 
 def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
     today = datetime.date.today()
-    cutoff = today - datetime.timedelta(days=365)
+    cutoff = today - datetime.timedelta(days=180)
     skip: set[str] = set()
     newest: dict[tuple[str, str], datetime.date] = {}
     for inf in info:
@@ -126,20 +119,19 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
             if i > 1:
                 params['page'] = i
             try:
-                page = session.get('https://bookwalker.com/browse', params=params)
-                soup = BeautifulSoup(page.content, 'lxml')
+                soup = get(session, 'https://bookwalker.com/browse', params=params)
                 lst = soup.select('div[class$="__results"] > div[class$="__root"][class*="book-card-grid-view-module__"]'
                                   '> div[class$="__content"][class*="book-card-grid-view-module__"] > a')
                 for a in lst:
                     title = a.text
                     if title[-12:].lower() == ' light novel':
-                        title = title[-12:]
+                        title = title[:-12]
                     serie = Series(None, title)
                     format = a.previous_sibling.select_one('div[aria-label="Format"] > p').text
                     key = clean_str(a.text), get_format(format, title)
                     if newest.get(key, today) < cutoff and i > 2 and random() > 0.5:
                         continue
-                    link = urljoin(page.url, a['href'])
+                    link = urljoin('https://bookwalker.com/', a['href'])
                     if inf := parse_series(session, serie, link, skip):
                         series.add(serie)
                         info -= inf
