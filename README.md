@@ -389,7 +389,6 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Sep 01|[Her Royal Highness Seems to Be Angry](https://tokyopop.com/products/9781427886187_her-royal-highness-seems-to-be-angry-volume-5-light-novel "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
 |Sep 01|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 |Sep 01|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Sep 07|[Infinite Dendrogram SP](https://j-novel.club/series/infinite-dendrogram#volume-23 "J-Novel Club")|1-2|J-Novel Club|📖|
@@ -435,6 +434,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Oct 13|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Oct 27|[Her Royal Highness Seems to Be Angry](https://tokyopop.com/products/9781427886187_her-royal-highness-seems-to-be-angry-volume-5-light-novel "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
 |Oct 27|[When It Rains, It Pours](https://sevenseasentertainment.com/books/when-it-rains-it-pours-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### November
@@ -442,11 +442,13 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Nov 03|[I'm Running for Crown Princess, but All I Want is a Steady Paycheck!](https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Nov 24|[Trapezium](https://sevenseasentertainment.com/books/trapezium-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### December
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Dec 01|[Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines](https://sevenseasentertainment.com/books/legend-of-the-accidental-sword-saint-playing-the-mentor-from-the-sidelines-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 22|[Too Many Losing Heroines! Short Stories](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-short-stories/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 
