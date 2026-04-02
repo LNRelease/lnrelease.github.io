@@ -37,7 +37,11 @@ def get(session: Session, link: str, **kwargs) -> BeautifulSoup:
     soup = BeautifulSoup(page.content, 'lxml')
     for script in soup.find_all('script', string=HYDRATE):
         match = HYDRATE.fullmatch(script.text)
-        soup.find(id=match.group('dst')).replace_with(soup.find(id=match.group('src')).extract())
+        dst = soup.find(id=match.group('dst'))
+        src = soup.find(id=match.group('src'))
+        dst.insert_before(*src.contents)
+        src.extract()
+        dst.extract()
     return soup
 
 
