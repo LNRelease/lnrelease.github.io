@@ -2,10 +2,11 @@ import datetime
 import re
 import warnings
 from random import random
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
 from session import Session
+from store.bookwalker import PATH
 from utils import Info, Series, clean_str
 
 NAME = 'BookWalker'
@@ -32,7 +33,7 @@ PUBLISHERS = {
 }
 
 
-def get(session: Session, link: str, **kwargs) -> BeautifulSoup:
+def get_soup(session: Session, link: str, **kwargs) -> BeautifulSoup:
     page = session.get(link, **kwargs)
     soup = BeautifulSoup(page.content, 'lxml')
     for script in soup.find_all('script', string=HYDRATE):
@@ -43,6 +44,10 @@ def get(session: Session, link: str, **kwargs) -> BeautifulSoup:
         src.extract()
         dst.extract()
     return soup
+
+
+def get_id(link: str) -> str:
+    return PATH.fullmatch(urlparse(link).path).group('id')
 
 
 def get_format(format: str, key: str) -> str:
@@ -59,7 +64,7 @@ def get_format(format: str, key: str) -> str:
 
 
 def parse(session: Session, series: Series, link: str, index: int) -> Info | None:
-    soup = get(session, link)
+    soup = get_soup(session, link)
     pub = soup.select_one('div[aria-label="PUBLISHER"] > div[class$="__container"] > div > a[class$="__content"]')
     publisher = PUBLISHERS.get(pub.text)
     if publisher is None:
@@ -78,29 +83,35 @@ def parse(session: Session, series: Series, link: str, index: int) -> Info | Non
     return info
 
 
-def parse_series(session: Session, series: Series, url: str, skip: set[str]) -> set[Info]:
-    info = set()
-
-    soup = get(session, url)
-    if soup.select_one('div[class$="__totalWrapper"] + p').text != 'Volumes':
-        return info
+def parse_series(session: Session, series: Series, uids: dict[str, Info], url: str, skip: set[str]) -> None:
+    try:
+        soup = get_soup(session, url)
+        if soup.select_one('div[class$="__totalWrapper"] + p').text != 'Volumes':
+            return
+    except Exception as e:
+        warnings.warn(f'({url}): {e}', RuntimeWarning)
+        return
 
     lst = soup.select('a[class$="__bookCoverContainer"]')
     for index, a in enumerate(lst, start=1):
         link = urljoin(url, a['href'])
         try:
+            uid = get_id(link)
             title = a.next_sibling.select_one('div[class$="__title"] > a')['aria-label']
             if (title.startswith('BOOK☆WALKER Exclusive: ')
                 or title.endswith(' [Bonus Item]')
                 or ' Bundle Set]' in title
                     or link in skip):
+                if uid in uids:
+                    inf = uids[uid]
+                    inf.serieskey = series.key
+                    inf.link = link
+                    inf.index = index
                 continue
             if inf := parse(session, series, link, index):
-                info.add(inf)
+                uids[uid] = inf
         except Exception as e:
             warnings.warn(f'({link}): {e}', RuntimeWarning)
-
-    return info
 
 
 def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
@@ -114,6 +125,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
         key = inf.serieskey, inf.format
         if inf.date > newest.setdefault(key, inf.date):
             newest[key] = inf.date
+    uids = {get_id(inf.link): inf for inf in info}
 
     params = {'formats[]': [2, 4], 'sort': 'updated'}
     with Session() as session:
@@ -122,8 +134,11 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
         for i in range(1, limit):
             if i > 1:
                 params['page'] = i
+            finish = True
             try:
-                soup = get(session, 'https://bookwalker.com/browse', params=params)
+                soup = get_soup(session, 'https://bookwalker.com/browse', params=params)
+                finish = soup.select_one('a[href^="/browse?"]:has(> span[class$="__buttonInner"]'
+                                         ' > span:-soup-contains-own("Next"))') is None
                 lst = soup.select('div[class$="__results"] > div[class$="__root"][class*="book-card-grid-view-module__"]'
                                   '> div[class$="__content"][class*="book-card-grid-view-module__"] > a')
                 for a in lst:
@@ -135,20 +150,17 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                     key = clean_str(a.text), get_format(format, title)
                     if newest.get(key, today) < cutoff and i > 2 and random() > 0.5:
                         continue
-                    link = urljoin('https://bookwalker.com/', a['href'])
-                    if inf := parse_series(session, serie, link, skip):
-                        series.add(serie)
-                        info -= inf
-                        info |= inf
 
-                if not soup.select_one('a[href^="/browse?"]:has(> span[class$="__buttonInner"]'
-                                       ' > span:-soup-contains-own("Next"))'):
+                    link = urljoin('https://bookwalker.com/', a['href'])
+                    parse_series(session, serie, uids, link, skip)
                     break
+
             except Exception as e:
                 warnings.warn(f'({i}): {e}', RuntimeWarning)
+            if finish:
                 break
 
-    return series, info
+    return series, set(uids.values())
 
 
 def scrape(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
