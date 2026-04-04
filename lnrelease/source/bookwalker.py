@@ -153,7 +153,6 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
 
                     link = urljoin('https://bookwalker.com/', a['href'])
                     parse_series(session, serie, uids, link, skip)
-                    break
 
             except Exception as e:
                 warnings.warn(f'({i}): {e}', RuntimeWarning)
