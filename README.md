@@ -162,7 +162,7 @@
 |Apr 30|[Holmes of Kyoto](https://j-novel.club/series/holmes-of-kyoto#volume-22 "J-Novel Club")|0|J-Novel Club|🖥️|
 |Apr 30|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 |Apr 30|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
-|Apr 30|[Observation Records of My Wife](https://books.apple.com/us/book/id6760793562 "Hanashi Media")|3|Hanashi Media|🖥️|
+|Apr 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://books.apple.com/us/book/id6760793562 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Apr 30|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️|
 |Apr 30|[Re:Monster](https://books.apple.com/us/book/id6760683417 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Apr 30|[The New Gate](https://books.apple.com/us/book/id6760683300 "Hanashi Media")|3|Hanashi Media|🖥️|
@@ -341,6 +341,7 @@
 |Jul 21|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jul 21|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903793-omniscient-reader-s-viewpoint-novel-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 21|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Jul 27|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-25 "J-Novel Club")|23|J-Novel Club|🖥️|
 |Jul 28|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Jul 28|[Her Royal Highness Seems to Be Angry](https://www.penguinrandomhouse.com/books/820352/her-royal-highness-seems-to-be-angry-volume-6-light-novel-by-kou-yatsuhashi/9781427886248 "TOKYOPOP")|6|TOKYOPOP|🖥️📖|
 |Jul 28|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
