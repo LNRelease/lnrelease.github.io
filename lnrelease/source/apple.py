@@ -78,9 +78,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     continue
                 if res := parse(session, links, 'Hanashi Media', link):
                     series.add(res[0])
-                    for inf in res[1]:
-                        info.add(inf)
-                        links[inf.link] = res[0]
+                    info -= res[1]
+                    info |= res[1]
+                    links |= {inf.link: res[0] for inf in res[1]}
             except Exception as e:
                 warnings.warn(f'({result["trackViewUrl"]}): {e}', RuntimeWarning)
 
