@@ -77,8 +77,13 @@ def parse(session: Session, series: Series, link: str, index: int) -> Info | Non
         return None
 
     title = soup.select_one('meta[property="og:title"]')['content'].removesuffix(' [Dramatized Adaptation]')
-    date = soup.select_one('p:-soup-contains-own("Released on")')
-    date = datetime.datetime.strptime(date.text, 'Released on %b %d, %Y').date()
+    if date := soup.select_one('p:-soup-contains-own("Released on ")'):
+        date = datetime.datetime.strptime(date.text, 'Released on %b %d, %Y').date()
+    elif date := soup.select_one('p:-soup-contains-own("Releasing ")'):
+        date = datetime.datetime.strptime(date.text, 'Releasing %b %d, %Y').date()
+    else:
+        warnings.warn(f'No date found: {link}', RuntimeWarning)
+        return None
     info = Info(series.key, link, NAME, publisher, title, index, format, '', date)
     return info
 
