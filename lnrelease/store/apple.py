@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import datetime
+import html
 import json
 import re
 from difflib import SequenceMatcher
@@ -13,7 +14,7 @@ from session import Session
 NAME = 'Apple'
 SALT = hash(NAME)
 
-PATH = re.compile(r'/(?P<country>\w+)/(?P<format>book|audiobook)/(?:[\w%-]+/)?(?P<id>id\d{10})')
+PATH = re.compile(r'/(?P<country>\w+)/(?P<format>book|audiobook)/(?:[\w%-]+/)?id(?P<id>\d{10})')
 
 
 def equal(a: str, b: str) -> bool:
@@ -30,7 +31,7 @@ def hash_link(link: str) -> int:
 def normalise(session: Session, link: str) -> str | None:
     u = urlparse(link)
     if match := PATH.fullmatch(u.path):
-        path = f'/us/{match.group("format")}/{match.group("id")}'
+        path = f'/us/{match.group("format")}/id{match.group("id")}'
     else:
         return None
     return urlunparse(('https', 'books.apple.com', path, '', '', ''))
@@ -52,7 +53,7 @@ def parse(session: Session, links: list[str], *,
         return None
 
     publisher = publisher or jsn['publisher']
-    title = jsn['name'] or title
+    title = html.unescape(jsn['name']) or title
     format = jsn['@type'] or format
     if format == 'Book':
         format = 'Digital'

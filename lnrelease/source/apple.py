@@ -1,15 +1,21 @@
 import datetime
 import json
 import warnings
+from dataclasses import replace
 from itertools import groupby
 from operator import attrgetter
+from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup
 from session import Session
-from store.apple import normalise
+from store.apple import PATH, normalise
 from utils import AUDIOBOOK, Info, Series
 
 NAME = 'Apple'
+
+
+def get_id(link: str) -> int:
+    return int(PATH.fullmatch(urlparse(link).path).group('id'))
 
 
 def read(attributes: dict[str, str], serieskey: str, publisher: str) -> Info:
@@ -20,7 +26,7 @@ def read(attributes: dict[str, str], serieskey: str, publisher: str) -> Info:
     return Info(serieskey, link, NAME, publisher, title, 0, 'Digital', isbn, date)
 
 
-def parse(session: Session, series: Series | dict[str, Series], publisher: str, link: str) -> tuple[Series, set[Info]] | None:
+def parse(session: Session, series: Series | dict[int, Series], publisher: str, link: str) -> tuple[Series, set[Info]] | None:
     info = set()
     page = session.get(link, params={'see-all': 'other-books-in-book-series'})
     soup = BeautifulSoup(page.content, 'lxml')
@@ -34,8 +40,7 @@ def parse(session: Session, series: Series | dict[str, Series], publisher: str, 
             warnings.warn(f'Unknown Apple publisher: {item["publisher"]}')
             return None
         for book in others:
-            link = normalise(None, book['attributes']['url'])
-            if s := series.get(link):
+            if s := series.get(int(book['id'])):
                 series = s
                 break
         else:
@@ -49,8 +54,10 @@ def parse(session: Session, series: Series | dict[str, Series], publisher: str, 
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
-    smap = {s.key: s for s in series}
+    audiobooks = {i for i in info if i.format in AUDIOBOOK}
     with Session() as session:
+        smap = {s.key: s for s in series}
+        uids = {get_id(i.link): i for i in info if inf.format not in AUDIOBOOK}
         for key, group in groupby(sorted(info), attrgetter('serieskey')):
             try:
                 lst = list(group)
@@ -58,12 +65,11 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                 if len(lst) <= 1 and not any('vol' in inf.title.lower() for inf in lst):
                     continue
                 res = parse(session, smap[key], lst[0].publisher, lst[0].link)
-                info -= res[1]
-                info |= res[1]
+                uids |= {get_id(i.link): i for i in res[1]}
             except Exception as e:
                 warnings.warn(f'({key}): {e}', RuntimeWarning)
 
-        links = {i.link: smap[i.serieskey] for i in info}
+        smap = {uid: smap[i.serieskey] for uid, i in uids.items()}
         params = {
             'term': '"Hanashi Media"',
             'country': 'US',
@@ -74,14 +80,18 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         for result in page.json()['results']:
             try:
                 link = normalise(None, result['trackViewUrl'])
-                if link in links:
-                    continue
-                if res := parse(session, links, 'Hanashi Media', link):
+                uid = result['trackId']
+                if inf := uids.get(uid):
+                    title = result['trackName']
+                    date = datetime.date.fromisoformat(result['releaseDate'][:10])
+                    uids[uid] = replace(inf, title=title, date=date)
+                elif res := parse(session, smap, 'Hanashi Media', link):
                     series.add(res[0])
-                    info -= res[1]
-                    info |= res[1]
-                    links |= {inf.link: res[0] for inf in res[1]}
+                    for inf in res[1]:
+                        uid = get_id(inf.link)
+                        uids[uid] = inf
+                        smap[uid] = res[0]
             except Exception as e:
                 warnings.warn(f'({result["trackViewUrl"]}): {e}', RuntimeWarning)
 
-    return series, info
+    return series, set(uids.values()) | audiobooks

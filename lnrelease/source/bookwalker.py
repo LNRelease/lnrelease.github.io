@@ -25,6 +25,7 @@ PUBLISHERS = {
     'One Peace Books (Audiobooks)': 'One Peace Books',
     'SB Creative': 'SB Creative',
     'Seven Seas Entertainment': 'Seven Seas Entertainment',
+    'Seven Seas Siren': 'Seven Seas Entertainment',
     'Tokyopop': '',
     'VIZ Media': 'VIZ Media',
     'Ize Press': '',
@@ -84,7 +85,10 @@ def parse(session: Session, series: Series, link: str, index: int) -> Info | Non
     else:
         warnings.warn(f'No date found: {link}', RuntimeWarning)
         return None
-    info = Info(series.key, link, NAME, publisher, title, index, format, '', date)
+    isbn = ''
+    if tag := soup.select_one('div[aria-label="ISBN"] > div[class$="__container"] > div > a[class$="__content"]'):
+        isbn = tag.text
+    info = Info(series.key, link, NAME, publisher, title, index, format, isbn, date)
     return info
 
 
@@ -153,11 +157,14 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                     serie = Series(None, title)
                     format = a.previous_sibling.select_one('div[aria-label="Format"] > p').text
                     key = clean_str(a.text), get_format(format, title)
-                    if newest.get(key, today) < cutoff and i > 2 and random() > 0.5:
-                        continue
+                    s = skip
+                    if newest.get(key, today) < cutoff and i > 2:
+                        if random() > 0.1:
+                            continue
+                        s = set()
 
                     link = urljoin('https://bookwalker.com/', a['href'])
-                    parse_series(session, serie, uids, link, skip)
+                    parse_series(session, serie, uids, link, s)
 
             except Exception as e:
                 warnings.warn(f'({i}): {e}', RuntimeWarning)
