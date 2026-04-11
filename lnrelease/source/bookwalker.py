@@ -86,7 +86,7 @@ def parse(session: Session, series: Series, link: str, index: int) -> Info | Non
         warnings.warn(f'No date found: {link}', RuntimeWarning)
         return None
     isbn = ''
-    if tag := soup.select_one('div[aria-label="ISBN"] > div[class$="__container"] > div > a[class$="__content"]'):
+    if tag := soup.select_one('div[aria-label="ISBN"] > div[class$="__container"] > div > div[class$="__content"]'):
         isbn = tag.text
     info = Info(series.key, link, NAME, publisher, title, index, format, isbn, date)
     return info

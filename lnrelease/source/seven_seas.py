@@ -95,33 +95,37 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
             'per_page': 100,
             'page': 1,
         }
-        while True:
-            jsn = []
-            for _ in range(5):
-                try:
-                    page = session.get(url, params=params, **kwargs)
-                    jsn = page.json()
+        try:
+            while True:
+                jsn = []
+                for _ in range(5):
+                    try:
+                        page = session.get(url, params=params, **kwargs)
+                        jsn = page.json()
+                        break
+                    except JSONDecodeError:
+                        pass
+                for serie in jsn:
+                    link = serie['link']
+                    title = unescape(serie['title']['rendered'])
+                    modified = datetime.date.fromisoformat(serie['modified_gmt'][:10])
+                    links.setdefault(link, (title, modified))
+                if len(jsn) != params['per_page']:
                     break
-                except JSONDecodeError:
-                    pass
-            for serie in jsn:
-                link = serie['link']
-                title = unescape(serie['title']['rendered'])
-                modified = datetime.date.fromisoformat(serie['modified_gmt'][:10])
-                links.setdefault(link, (title, modified))
-            if len(jsn) != params['per_page']:
-                break
-            params['page'] += 1
+                params['page'] += 1
 
-        page = session.get('https://sevenseasentertainment.com/series-list/', **kwargs)
-        soup = BeautifulSoup(page.content, 'lxml')
-        lst = soup.select('tr#volumes > td:first-child > a')
-        if not lst:
-            warnings.warn(f'No series found: {page.url}', RuntimeWarning)
-        for a in lst:
-            link = a.get('href')
-            if link.endswith('-light-novel/'):
-                links.setdefault(link, (a.text, None))
+            for _ in range(5):
+                page = session.get('https://sevenseasentertainment.com/series-list/', **kwargs)
+                soup = BeautifulSoup(page.content, 'lxml')
+                lst = soup.select('tr#volumes > td:first-child > a')
+                if lst:
+                    break
+            for a in lst:
+                link = a.get('href')
+                if link.endswith('-light-novel/'):
+                    links.setdefault(link, (a.text, None))
+        except Exception as e:
+            warnings.warn(f'Error finding links: {e}')
 
         today = datetime.date.today()
         for link, (title, modified) in links.items():

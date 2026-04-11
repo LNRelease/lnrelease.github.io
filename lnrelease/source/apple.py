@@ -57,12 +57,12 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     audiobooks = {i for i in info if i.format in AUDIOBOOK}
     with Session() as session:
         smap = {s.key: s for s in series}
-        uids = {get_id(i.link): i for i in info if inf.format not in AUDIOBOOK}
+        uids = {get_id(i.link): i for i in info if i.format not in AUDIOBOOK}
         for key, group in groupby(sorted(info), attrgetter('serieskey')):
             try:
                 lst = list(group)
-                lst = [inf for inf in lst if inf.format not in AUDIOBOOK]
-                if len(lst) <= 1 and not any('vol' in inf.title.lower() for inf in lst):
+                lst = [i for i in lst if i.format not in AUDIOBOOK]
+                if len(lst) <= 1 and not any('vol' in i.title.lower() for i in lst):
                     continue
                 res = parse(session, smap[key], lst[0].publisher, lst[0].link)
                 uids |= {get_id(i.link): i for i in res[1]}
