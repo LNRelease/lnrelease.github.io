@@ -19,7 +19,7 @@ PUBLISHERS = {
     'Denshobato': '',
     'Dreamscape Lore': 'J-Novel Club',
     'J-Novel Club': 'J-Novel Club',
-    'Tantor Media, Inc': 'J-Novel Club',
+    'Tantor Media': 'J-Novel Club',
     'Kodansha': 'Kodansha',
     'One Peace Books': 'One Peace Books',
     'One Peace Books (Audiobooks)': 'One Peace Books',
