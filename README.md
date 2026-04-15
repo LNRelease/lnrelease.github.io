@@ -244,6 +244,7 @@
 |Jul 13|[I Shall Survive Using Potions!](https://j-novel.club/series/i-shall-survive-using-potions#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
 |Jul 13|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-6 "J-Novel Club")|6|J-Novel Club|📖|
 |Jul 13|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
+|Jul 13|[Otherside Picnic](https://j-novel.club/series/otherside-picnic#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jul 13|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-7 "J-Novel Club")|7|J-Novel Club|📖|
 |Jul 14|[A Certain Magical Index NT](https://yenpress.com/titles/9781975388430-a-certain-magical-index-nt-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Jul 14|[Date A Live](https://yenpress.com/titles/9781975372439-date-a-live-vol-16-light-novel "Yen Press")|16|Yen Press|🖥️📖|
@@ -309,6 +310,7 @@
 |Aug 11|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368753-wandering-witch-the-journey-of-elaina-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️📖|
 |Aug 11|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855434507-wolf-parchment-new-theory-spice-wolf-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
 |Aug 11|[You Are My Regret](https://yenpress.com/titles/9798855433890-you-are-my-regret-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Aug 12|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Aug 12|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 18|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 18|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
