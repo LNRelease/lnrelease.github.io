@@ -127,7 +127,6 @@
 |May 12|[The Executioner and Her Way of Life](https://yenpress.com/titles/9798855427448-the-executioner-and-her-way-of-life-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |May 12|[The Princess of Convenient Plot Devices](https://yenpress.com/titles/9798855427387-the-princess-of-convenient-plot-devices-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |May 12|[The Summer Hikaru Died](https://yenpress.com/titles/9798855434033-the-summer-hikaru-died-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
-|May 12|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |May 12|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903618-villains-are-destined-to-die-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |May 13|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |May 13|[Reborn to Reign: Imposing My Rules with My Mastery of Magic](https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -141,6 +140,7 @@
 |May 19|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |May 19|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|📖|
+|May 19|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |May 19|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-light-novel-vol-1-ebook-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |May 20|[In Another World with Household Spells](https://j-novel.club/series/in-another-world-with-household-spells#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |May 20|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
