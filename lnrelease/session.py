@@ -191,8 +191,11 @@ class Session(requests.Session):
 
         kwargs.setdefault('headers', {}).update(CF_HEADERS)
         delta = 30 if refresh == -1 else refresh + random.randrange(refresh * 2)
-        cutoff = datetime.now(timezone.utc) - timedelta(days=delta)
-        query = f'page.url:"{url}" AND date:>{cutoff.strftime("%Y-%m-%d")}'
+        if delta < 30:
+            cutoff = datetime.now(timezone.utc) - timedelta(days=delta)
+            query = f'page.url:"{url}" AND date:>{cutoff.strftime("%Y-%m-%d")}'
+        else:
+            query = f'page.url:"{url}"'
         if page := self.try_get(f'{CF_API}/search', retries=2, params={'q': query}, **kwargs):
             results: list[dict] = page.json()['results']
             results.sort(key=lambda x: x['task']['time'], reverse=True)

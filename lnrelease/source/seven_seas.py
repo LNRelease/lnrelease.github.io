@@ -2,7 +2,6 @@ import datetime
 import re
 import warnings
 from html import unescape
-from random import random
 
 from bs4 import BeautifulSoup
 from requests.exceptions import JSONDecodeError
@@ -131,22 +130,20 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         for link, (title, modified) in links.items():
             try:
                 serie = Series(None, title)
+                prev = {i for i in info if i.serieskey == serie.key}
+                old = prev and (today - max(i.date for i in prev)).days > 180
                 if modified is None:
-                    prev = {i for i in info if i.serieskey == serie.key}
-                    old = bool(prev) and (today - max(i.date for i in prev)).days > 365
-                    if old and random() > 0.2:
-                        continue
                     refresh = 10 if old else 4
                 else:
                     days = (today - modified).days
                     if days < 2:
                         refresh = 0
-                    elif days < 30:
-                        refresh = 4
-                    elif random() > 0.5:
-                        continue
-                    else:
+                    elif days < 90:
+                        refresh = days // 14 + 1
+                    elif not old:
                         refresh = 10
+                    else:
+                        refresh = 20
 
                 if inf := parse(session, link, serie, refresh):
                     series.add(serie)
