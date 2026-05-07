@@ -222,9 +222,9 @@
 |Jun 26|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 29|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 29|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
-|Jun 30|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Jun 30|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jun 30|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
-|Jun 30|[GATE - Volume 1-B](https://books.apple.com/us/book/id6766386887 "Hanashi Media")|1|Hanashi Media|🖥️|
+|Jun 30|[GATE - Volume 1-B](https://books.apple.com/us/book/id6766386887 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Jun 30|[Love & Magic Academy: Who Cares about the Heroine and Villainess? I Want to Be the Strongest in this Otome Game World](https://crossinfworld.com/Love-and-Magic-Academy-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 |Jun 30|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-2-light-novel-vol-4-6-hardcover-omnibus/ "Seven Seas Entertainment")|4-6|Seven Seas Entertainment|📖|
 |Jun 30|[Reincarnated As a Poor Farmer](https://books.apple.com/us/book/id6760372114 "Hanashi Media")|1|Hanashi Media|🖥️|
@@ -314,6 +314,7 @@
 |Aug 04|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094257 "Square Enix")|10|Square Enix|📖|
 |Aug 05|[Hell Mode](https://j-novel.club/series/hell-mode#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Aug 07|[The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://j-novel.club/series/the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Aug 10|[An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://j-novel.club/series/an-introvert-s-hookup-hiccups#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Aug 10|[In Another World With My Smartphone](https://j-novel.club/series/in-another-world-with-my-smartphone#volume-31 "J-Novel Club")|31|J-Novel Club|📖|
 |Aug 10|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
 |Aug 10|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-14 "J-Novel Club")|14|J-Novel Club|📖|
@@ -339,6 +340,7 @@
 |Aug 12|[Fired? But I Maintain All the Software!](https://j-novel.club/series/fired-but-i-maintain-all-the-software#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 12|[Proud to Be the Villainess](https://j-novel.club/series/proud-to-be-the-villainess#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 12|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Aug 17|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 18|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 18|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 18|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
@@ -349,6 +351,7 @@
 |Aug 25|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Aug 25|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 |Aug 25|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
+|Aug 26|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Aug 27|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 
 ### September
@@ -358,6 +361,7 @@
 |Sep 01|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Sep 01|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 |Sep 01|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Sep 02|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 03|[Reborn as an Assassin's Apprentice](https://sevenseasentertainment.com/books/reborn-as-an-assassins-apprentice-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Sep 03|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Sep 07|[Infinite Dendrogram SP](https://j-novel.club/series/infinite-dendrogram#volume-24 "J-Novel Club")|1-2|J-Novel Club|📖|
