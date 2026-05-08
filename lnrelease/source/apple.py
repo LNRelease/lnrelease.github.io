@@ -34,6 +34,7 @@ def parse(session: Session, series: Series | dict[int, Series], publisher: str, 
     jsn = json.loads(list(data.values())[0])
     item = jsn['d'][0]['attributes']
     others = jsn['d'][0]['relationships']['other-books-in-book-series']['data']
+    others = sorted(others, key=lambda x: x['attributes']['releaseDate'])
 
     if isinstance(series, dict):
         if publisher not in item['publisher']:
