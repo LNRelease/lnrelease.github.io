@@ -272,6 +272,8 @@
 |Aug 18|[Sister Mafioso](https://j-novel.club/series/sister-mafioso#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 18|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Aug 18|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
+|Aug 19|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-15 "J-Novel Club")|12.2|J-Novel Club|🖥️|
+|Aug 19|[The Path of an S-Rank Adventurer: From Deadweight to Weapon Master](https://j-novel.club/series/the-path-of-an-s-rank-adventurer-from-deadweight-to-weapon-master#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 21|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
 |Aug 24|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Aug 25|[Her Royal Highness Seems to Be Angry](https://www.penguinrandomhouse.com/books/803335/her-royal-highness-seems-to-be-angry-volume-4-light-novel-by-kou-yatsuhashi/9781427883001 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
