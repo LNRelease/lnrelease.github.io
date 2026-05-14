@@ -299,6 +299,7 @@
 |Sep 08|[Ayakashi à la Mode](https://yenpress.com/titles/9798855431049-ayakashi-a-la-mode-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 08|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Sep 08|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975362690-death-march-to-the-parallel-world-rhapsody-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
+|Sep 08|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 08|[Four Child Life](https://yenpress.com/titles/9798855404036-four-child-life-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 08|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9798855415810-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Sep 08|[Legend of the Far East's Savior](https://yenpress.com/titles/9798855424775-legend-of-the-far-east-s-savior-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -430,3 +431,9 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Apr 27|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+
+### June
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Jun 08|[There's No Freaking Way I'll be Your Lover! Unless… Spin-off Collection](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-spin-off-collection-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
