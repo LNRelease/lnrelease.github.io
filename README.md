@@ -201,7 +201,7 @@
 |Jul 20|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 21|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jul 21|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903793-omniscient-reader-s-viewpoint-novel-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
-|Jul 21|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Jul 23|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jul 24|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jul 24|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jul 27|[Infinite Dendrogram](https://j-novel.club/series/infinite-dendrogram#volume-23 "J-Novel Club")|23|J-Novel Club|🖥️|
@@ -259,6 +259,7 @@
 |Aug 11|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368753-wandering-witch-the-journey-of-elaina-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️📖|
 |Aug 11|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855434507-wolf-parchment-new-theory-spice-wolf-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
 |Aug 11|[You Are My Regret](https://yenpress.com/titles/9798855433890-you-are-my-regret-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Aug 12|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
 |Aug 12|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Aug 12|[Fired? But I Maintain All the Software!](https://j-novel.club/series/fired-but-i-maintain-all-the-software#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 12|[Proud to Be the Villainess](https://j-novel.club/series/proud-to-be-the-villainess#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -282,6 +283,7 @@
 |Aug 25|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Aug 26|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Aug 27|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
+|Aug 28|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 
 ### September
 
@@ -325,6 +327,7 @@
 |Sep 16|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Sep 17|[Butareba -The Story of a Man Turned into a Pig-](https://j-novel.club/series/butareba-the-story-of-a-man-turned-into-a-pig#volume-9 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Sep 17|[D-Genesis: Three Years after the Dungeons Appeared](https://j-novel.club/series/d-genesis#volume-11 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Sep 18|[The Reincarnated Mastermind: Sundering Fate with Magic Swords](https://j-novel.club/series/the-reincarnated-mastermind-sundering-fate-with-magic-swords#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Sep 21|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Sep 22|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[The Neverending Winter, the Land of Broken Dreams](https://sevenseasentertainment.com/books/the-neverending-winter-the-land-of-broken-dreams-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -357,12 +360,12 @@
 |Oct 13|[King's Proposal](https://yenpress.com/titles/9798855437959-king-s-proposal-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Oct 13|[My Friend's Little Sister Has It In For Me!](https://yenpress.com/titles/9781718326903-my-friend-s-little-sister-has-it-in-for-me-volume-11-light-novel "J-Novel Club")|11|J-Novel Club|📖|
 |Oct 13|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368418-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-12-light-novel "J-Novel Club")|12|J-Novel Club|📖|
-|Oct 13|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 13|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855435559-reign-of-the-seven-spellblades-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Oct 13|[See You at That Site of Grace After Work](https://yenpress.com/titles/9798855426939-see-you-at-that-site-of-grace-after-work "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 13|[Witches Can't Be Collared](https://yenpress.com/titles/9798855438277-witches-can-t-be-collared-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 13|[You Can Have My Back](https://yenpress.com/titles/9798855412949-you-can-have-my-back-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 13|[Your Castle's Little Helper](https://yenpress.com/titles/9798855432268-your-castle-s-little-helper-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Oct 15|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 20|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Semantic Error](https://yenpress.com/titles/9798400904103-semantic-error-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
