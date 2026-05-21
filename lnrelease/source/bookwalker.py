@@ -79,12 +79,13 @@ def parse(session: Session, series: Series, link: str, index: int) -> Info | Non
 
     title = soup.select_one('meta[property="og:title"]')['content'].removesuffix(' [Dramatized Adaptation]')
     if date := soup.select_one('p:-soup-contains-own("Released on ")'):
-        date = datetime.datetime.strptime(date.text, 'Released on %b %d, %Y').date()
+        date = date.text[12:-4]
     elif date := soup.select_one('p:-soup-contains-own("Releasing ")'):
-        date = datetime.datetime.strptime(date.text, 'Releasing %b %d, %Y').date()
+        date = date.text[10:-4]
     else:
         warnings.warn(f'No date found: {link}', RuntimeWarning)
         return None
+    date = datetime.datetime.strptime(date, '%b %d, %Y').date()
     isbn = ''
     if tag := soup.select_one('div[aria-label="ISBN"] > div[class$="__container"] > div > div[class$="__content"]'):
         isbn = tag.text
