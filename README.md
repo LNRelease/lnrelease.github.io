@@ -306,6 +306,7 @@
 |:---:|---|:---:|---|:---:|
 |Sep 01|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Sep 01|[How a Realist Hero Rebuilt the Kingdom](https://sevenseasentertainment.com/books/how-a-realist-hero-rebuilt-the-kingdom-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
+|Sep 01|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Sep 01|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Sep 02|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 03|[Reborn as an Assassin's Apprentice](https://sevenseasentertainment.com/books/reborn-as-an-assassins-apprentice-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
@@ -401,12 +402,35 @@
 |Nov 03|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Nov 05|[I'm Running for Crown Princess, but All I Want is a Steady Paycheck!](https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Nov 10|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://yenpress.com/titles/9781718357198-an-archdemon-s-dilemma-how-to-love-your-elf-bride-volume-20-light-novel "J-Novel Club")|20|J-Novel Club|📖|
+|Nov 10|[Argonaut: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9798855423556-argonaut-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393632-catalog-of-wonders-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Nov 10|[Days with My Stepsister](https://yenpress.com/titles/9798855408355-days-with-my-stepsister-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Nov 10|[High School DxD](https://yenpress.com/titles/9798855427400-high-school-dxd-vol-19-light-novel "Yen Press")|19|Yen Press|🖥️📖|
+|Nov 10|[The Azure Sword, Slayer of Distortions](https://yenpress.com/titles/9798855422474-the-azure-sword-slayer-of-distortions-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Nov 10|[I'll Become a Villainess Who Goes Down in History](https://yenpress.com/titles/9798855407198-i-ll-become-a-villainess-who-goes-down-in-history-vol-5-novel "Yen Press")|5|Yen Press|🖥️📖|
+|Nov 10|[Kusunoki's Garden of Gods](https://yenpress.com/titles/9798855408478-kusunoki-s-garden-of-gods-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
+|Nov 10|[Magical Explorer](https://yenpress.com/titles/9798855437997-magical-explorer-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
+|Nov 10|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://yenpress.com/titles/9781718341876-making-magic-the-sweet-life-of-a-witch-who-knows-an-infinite-mp-loophole-volume-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
 |Nov 10|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Nov 10|[On the Way Home After Defeating the Demon King](https://yenpress.com/titles/9798855433081-on-the-way-home-after-defeating-the-demon-king-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 10|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975393328-re-starting-life-in-another-world-short-story-collection-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
+|Nov 10|[Rise of the Lowborn: Ascending the Ranks by Crushing Incompetent Nobles](https://yenpress.com/titles/9798855426960-rise-of-the-lowborn-ascending-the-ranks-by-crushing-incompetent-nobles-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 10|[The Brilliant Healer's New Life in the Shadows](https://yenpress.com/titles/9781718332775-the-brilliant-healer-s-new-life-in-the-shadows-volume-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
+|Nov 10|[The Demon King Seems to Have Infiltrated the Hero's Party](https://yenpress.com/titles/9798855431209-the-demon-king-seems-to-have-infiltrated-the-hero-s-party-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 10|[The Executioner and Her Way of Life](https://yenpress.com/titles/9798855427479-the-executioner-and-her-way-of-life-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
+|Nov 10|[The Story of the Moon Waiting for the Evening](https://yenpress.com/titles/9798855438710-the-story-of-the-moon-waiting-for-the-evening-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 10|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|Nov 10|[The World's Strongest Witch](https://yenpress.com/titles/9798855414394-the-world-s-strongest-witch-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Nov 10|[Valkyrie Bullet](https://yenpress.com/titles/9798855421514-valkyrie-bullet-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 17|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
+|Nov 17|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400905513-omniscient-reader-s-viewpoint-novel-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 17|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
+|Nov 24|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://yenpress.com/titles/9781718386686-a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-volume-1-light-novel "J-Novel Club")|1|J-Novel Club|📖|
 |Nov 24|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Nov 24|[Min-Maxing My TRPG Build in Another World](https://yenpress.com/titles/9781718323957-min-maxing-my-trpg-build-in-another-world-volume-1-light-novel "J-Novel Club")|1|J-Novel Club|📖|
+|Nov 24|[The Water Magician: Arc 1](https://yenpress.com/titles/9781718336995-the-water-magician-arc-1-volume-3-light-novel "J-Novel Club")|3|J-Novel Club|📖|
 |Nov 24|[Trapezium](https://sevenseasentertainment.com/books/trapezium-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 
