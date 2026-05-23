@@ -316,6 +316,7 @@
 |Sep 07|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-10 "J-Novel Club")|10|J-Novel Club|📖|
 |Sep 08|[Ayakashi à la Mode](https://yenpress.com/titles/9798855431049-ayakashi-a-la-mode-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 08|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
+|Sep 08|[BLADE & BASTARD: Saga of the Unknown Adventurers](https://j-novel.club/series/blade-bastard#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Sep 08|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9781975362690-death-march-to-the-parallel-world-rhapsody-vol-25-light-novel "Yen Press")|25|Yen Press|🖥️📖|
 |Sep 08|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 08|[Four Child Life](https://yenpress.com/titles/9798855404036-four-child-life-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -349,6 +350,7 @@
 |Sep 22|[The Neverending Winter, the Land of Broken Dreams](https://sevenseasentertainment.com/books/the-neverending-winter-the-land-of-broken-dreams-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Sep 25|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 25|[Finding My Way to (You) in This MMO World](https://j-novel.club/series/finding-my-way-to-you-in-this-mmo-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Sep 29|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
