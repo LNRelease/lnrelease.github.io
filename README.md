@@ -266,7 +266,6 @@
 |Aug 11|[My Yandere Girlfriend Hiding in the Dungeon Kills Me Over and Over Again](https://yenpress.com/titles/9798855428803-my-yandere-girlfriend-hiding-in-the-dungeon-kills-me-over-and-over-again-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 11|[Rascal Does Not Dream of a Beach Queen +](https://yenpress.com/titles/9798855434453-rascal-does-not-dream-of-a-beach-queen-light-novel "Yen Press")|16|Yen Press|🖥️📖|
 |Aug 11|[Sasaki and Peeps](https://yenpress.com/titles/9798855424300-sasaki-and-peeps-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
-|Aug 11|[Scarlet](https://yenpress.com/titles/9798855437775-scarlet "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 11|[The Angel Next Door Spoils Me Rotten](https://yenpress.com/titles/9798855425994-the-angel-next-door-spoils-me-rotten-vol-10-light-novel "Yen Press")|10|Yen Press|🖥️📖|
 |Aug 11|[The Detective Is Already Dead](https://yenpress.com/titles/9798855422573-the-detective-is-already-dead-vol-12 "Yen Press")|12|Yen Press|🖥️📖|
 |Aug 11|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
@@ -356,6 +355,7 @@
 |Sep 18|[The Reincarnated Mastermind: Sundering Fate with Magic Swords](https://j-novel.club/series/the-reincarnated-mastermind-sundering-fate-with-magic-swords#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Sep 21|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Sep 22|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️📖|
+|Sep 22|[Scarlet](https://yenpress.com/titles/9798855437775-scarlet "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[The Neverending Winter, the Land of Broken Dreams](https://sevenseasentertainment.com/books/the-neverending-winter-the-land-of-broken-dreams-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Sep 22|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
