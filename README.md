@@ -141,6 +141,7 @@
 |Jun 24|[Blade Skill Online: Crushing the Competition with My Abysmal Stats, Useless Class, and Garbage Weapon!](https://j-novel.club/series/blade-skill-online-crushing-the-competition-with-my-abysmal-stats-useless-class-and-garbage-weapon#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jun 24|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 25|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-11 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Jun 25|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️|
 |Jun 26|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jun 29|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 29|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -335,7 +336,7 @@
 |Sep 08|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855424324-playing-death-games-to-put-food-on-the-table-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Sep 08|[Secrets of the Silent Witch](https://yenpress.com/titles/9798855421989-secrets-of-the-silent-witch-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Sep 08|[Sentenced to Be a Hero](https://yenpress.com/titles/9798855422559-sentenced-to-be-a-hero-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
-|Sep 08|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️📖|
+|Sep 08|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|📖|
 |Sep 08|[Spy Classroom](https://yenpress.com/titles/9798855405248-spy-classroom-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
 |Sep 08|[The Holy Grail of Eris](https://yenpress.com/titles/9798855435757-the-holy-grail-of-eris-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Sep 08|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409802-the-irregular-at-magic-high-school-vol-27-light-novel "Yen Press")|27|Yen Press|🖥️📖|
@@ -484,6 +485,12 @@
 |:---:|---|:---:|---|:---:|
 |Feb 02|[In Another World with My Cat: A Software Engineer Uses Code to Master Magic and Build a Territory](https://sevenseasentertainment.com/books/in-another-world-with-my-cat-a-software-engineer-uses-code-to-master-magic-and-build-a-territory-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 09|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+
+### March
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Mar 04|[Wandmaker of the Ruined World](https://sevenseasentertainment.com/books/wandmaker-of-the-ruined-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 
 ### April
 
