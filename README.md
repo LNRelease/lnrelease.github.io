@@ -75,6 +75,7 @@
 |May 22|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |May 22|[Unsung Epics of the Hero's Journey](https://j-novel.club/series/unsung-epics-of-the-hero-s-journey#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |May 23|[The Abandoned Reincarnation Sage](https://books.apple.com/us/book/id6759305790 "Hanashi Media")|4|Hanashi Media|🖥️|
+|May 25|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|📖|
 |May 26|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |May 26|[My Stepmom's Daughter Is My Ex](https://j-novel.club/series/my-stepmom-s-daughter-is-my-ex#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |May 26|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
