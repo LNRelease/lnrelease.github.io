@@ -67,7 +67,7 @@ def get_format(format: str, key: str) -> str:
 
 def parse(session: Session, series: Series, link: str, index: int) -> Info | None:
     soup = get_soup(session, link)
-    pub = soup.select_one('div[aria-label="PUBLISHER"] > div[class$="__container"] > div > a[class$="__content"]')
+    pub = soup.select_one('p:-soup-contains(PUBLISHER) ~ p')
     publisher = PUBLISHERS.get(pub.text)
     if publisher is None:
         warnings.warn(f'Unknown publisher: {pub.text}', RuntimeWarning)
@@ -88,7 +88,7 @@ def parse(session: Session, series: Series, link: str, index: int) -> Info | Non
         return None
     date = datetime.datetime.strptime(date, '%b %d, %Y').date()
     isbn = ''
-    if tag := soup.select_one('div[aria-label="ISBN"] > div[class$="__container"] > div > div[class$="__content"]'):
+    if tag := soup.select_one('p:-soup-contains(ISBN) ~ p'):
         isbn = tag.text
     info = Info(series.key, link, NAME, publisher, title, index, format, isbn, date)
     return info
