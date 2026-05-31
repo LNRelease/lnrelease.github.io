@@ -67,7 +67,7 @@ def get_format(format: str, key: str) -> str:
 
 def parse(session: Session, series: Series, link: str, index: int) -> Info | None:
     soup = get_soup(session, link)
-    pub = soup.select_one('p:-soup-contains(PUBLISHER) ~ p')
+    pub = soup.select_one('p:-soup-contains-own(PUBLISHER) ~ p')
     publisher = PUBLISHERS.get(pub.text)
     if publisher is None:
         warnings.warn(f'Unknown publisher: {pub.text}', RuntimeWarning)
@@ -79,16 +79,13 @@ def parse(session: Session, series: Series, link: str, index: int) -> Info | Non
         return None
 
     title = soup.select_one('meta[property="og:title"]')['content'].removesuffix(' [Dramatized Adaptation]')
-    if date := soup.select_one('p:-soup-contains-own("Released on ")'):
-        date = date.text[12:-4]
-    elif date := soup.select_one('p:-soup-contains-own("Releasing ")'):
-        date = date.text[10:-4]
+    if date := soup.select_one('p:-soup-contains-own("Publication Date") ~ p'):
+        date = datetime.datetime.strptime(date.text[:-4], '%b %d, %Y').date()
     else:
         warnings.warn(f'No date found: {link}', RuntimeWarning)
         return None
-    date = datetime.datetime.strptime(date, '%b %d, %Y').date()
     isbn = ''
-    if tag := soup.select_one('p:-soup-contains(ISBN) ~ p'):
+    if tag := soup.select_one('p:-soup-contains-own(ISBN) ~ p'):
         isbn = tag.text
     info = Info(series.key, link, NAME, publisher, title, index, format, isbn, date)
     return info
