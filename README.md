@@ -379,6 +379,9 @@
 |Oct 06|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
+|Oct 12|[Ascendance of a Bookworm: Fanbook](https://j-novel.club/series/ascendance-of-a-bookworm-fanbook#volume-7 "J-Novel Club")|7|J-Novel Club|📖|
+|Oct 12|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-13 "J-Novel Club")|13-14|J-Novel Club|📖|
+|Oct 12|[My Friend's Little Sister Has It In for Me!](https://j-novel.club/series/my-friend-s-little-sister-has-it-in-for-me#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
 |Oct 13|[Agents of the Four Seasons](https://yenpress.com/titles/9798855407716-agents-of-the-four-seasons-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Oct 13|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9798855424539-alya-sometimes-hides-her-feelings-in-russian-vol-9-5 "Yen Press")|9.5|Yen Press|🖥️📖|
 |Oct 13|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9781975353094-associate-professor-akira-takatsuki-s-conjecture-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
@@ -391,7 +394,6 @@
 |Oct 13|[How to Eat Life](https://yenpress.com/titles/9798855413175-how-to-eat-life-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 13|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9798855438895-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Oct 13|[King's Proposal](https://yenpress.com/titles/9798855437959-king-s-proposal-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
-|Oct 13|[My Friend's Little Sister Has It In For Me!](https://yenpress.com/titles/9781718326903-my-friend-s-little-sister-has-it-in-for-me-volume-11-light-novel "J-Novel Club")|11|J-Novel Club|📖|
 |Oct 13|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975368418-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-12-light-novel "J-Novel Club")|12|J-Novel Club|📖|
 |Oct 13|[Reign of the Seven Spellblades](https://yenpress.com/titles/9798855435559-reign-of-the-seven-spellblades-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
 |Oct 13|[See You at That Site of Grace After Work](https://yenpress.com/titles/9798855426939-see-you-at-that-site-of-grace-after-work "Yen Press")|1|Yen Press|🖥️📖|
@@ -403,6 +405,7 @@
 |Oct 20|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Her Royal Highness Seems to Be Angry](https://www.penguinrandomhouse.com/books/803335/her-royal-highness-seems-to-be-angry-volume-4-light-novel-by-kou-yatsuhashi/9781427883001 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
 |Oct 20|[Semantic Error](https://yenpress.com/titles/9798400904103-semantic-error-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Oct 26|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-1 "J-Novel Club")|1-3|J-Novel Club|📖|
 |Oct 27|[Her Royal Highness Seems to Be Angry](https://tokyopop.com/products/9781427886187_her-royal-highness-seems-to-be-angry-volume-5-light-novel "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
 |Oct 27|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Oct 27|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
