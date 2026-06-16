@@ -35,7 +35,7 @@
 |Jun 12|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Jun 16|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jun 16|[Semantic Error](https://yenpress.com/titles/9798400904073-semantic-error-novel-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Jun 16|[The Confession Strategy](https://sevenseasentertainment.com/books/the-confession-strategy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jun 16|[The Confession Strategy](https://sevenseasentertainment.com/books/the-confession-strategy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Jun 17|[The Boy Who Ruled the Monsters](https://j-novel.club/series/the-boy-who-ruled-the-monsters#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 17|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 18|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
@@ -261,6 +261,7 @@
 |Sep 08|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411928-to-sir-without-love-i-m-divorcing-you-ii-part-1-light-novel "Yen Press")|2.1|Yen Press|🖥️📖|
 |Sep 08|[Why Run? My Summoned Beast Is Cute!](https://yenpress.com/titles/9798855433104-why-run-my-summoned-beast-is-cute-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 08|[Your Forma](https://yenpress.com/titles/9798855434521-your-forma-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Sep 10|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-12 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Sep 10|[Predator Witches](https://sevenseasentertainment.com/books/predator-witches-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Sep 10|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-21 "J-Novel Club")|0|J-Novel Club|🖥️|
 |Sep 11|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-8 "J-Novel Club")|5.1|J-Novel Club|🖥️|
@@ -284,6 +285,7 @@
 |Sep 25|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 25|[Finding My Way to (You) in This MMO World](https://j-novel.club/series/finding-my-way-to-you-in-this-mmo-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Sep 25|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Sep 25|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 29|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Sep 29|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
 |Sep 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-13 "J-Novel Club")|8.2|J-Novel Club|🖥️|
@@ -331,6 +333,7 @@
 |Oct 27|[The Wrong Way to Use Healing Magic](https://bookwalker.com/volume/2S9639BZ3W20/the-wrong-way-to-use-healing-magic-volume-6 "One Peace Books")|6|One Peace Books|🖥️|
 |Oct 27|[Tokujo-chan: The Girls Who Brighten Your Day](https://yenpress.com/titles/9798855432749-tokujo-chan-the-girls-who-brighten-your-day "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[When It Rains, It Pours](https://sevenseasentertainment.com/books/when-it-rains-it-pours-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Oct 28|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Oct 29|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 
 ### November
