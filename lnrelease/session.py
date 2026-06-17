@@ -65,6 +65,7 @@ DELAYS = {
     'www.audible.co.uk': (10, 30),
     'www.barnesandnoble.com': (10, 30),
     'bookwalker.com': (1, 3),
+    'static.bookwalker.com': (1, 3),
     'api.cloudflare.com': (0.1, 0.2),
     'crossinfworld.com': (10, 30),
     'store.crunchyroll.com': (30, 60),

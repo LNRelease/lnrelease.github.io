@@ -45,16 +45,10 @@ def parse(session: Session, link: str) -> tuple[Series, set[Info]] | None:
 def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
     with Session() as session:
         sitemap = session.get('https://tokyopop.com/sitemap.xml', cf=True, ia=True)
-        for loc in BeautifulSoup(sitemap.content, 'xml').select('sitemap > loc'):
-            if 'sitemap_products' not in loc.text:
-                continue
-
+        for loc in BeautifulSoup(sitemap.content, 'lxml-xml').select('sitemap > loc:-soup-contains("sitemap_products")'):
             page = session.get(loc.text, cf=True, ia=True)
-            soup = BeautifulSoup(page.content, 'xml')
-            for loc in soup.select('urlset > url > loc'):
-                if '-light-novel' not in loc.text:
-                    continue
-
+            soup = BeautifulSoup(page.content, 'lxml-xml')
+            for loc in soup.select('urlset > url > loc:-soup-contains("-light-novel")'):
                 try:
                     isbn = ISBN.fullmatch(loc.text).group('isbn')
                     if res := parse(session, isbn):
