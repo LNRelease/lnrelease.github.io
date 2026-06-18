@@ -247,6 +247,7 @@
 |Sep 08|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 08|[Four Child Life](https://yenpress.com/titles/9798855404036-four-child-life-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 08|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9798855415810-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Sep 08|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Sep 08|[Legend of the Far East's Savior](https://yenpress.com/titles/9798855424775-legend-of-the-far-east-s-savior-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 08|[Lord of Mysteries](https://yenpress.com/titles/9798855414295-lord-of-mysteries-vol-4 "Yen Press")|4|Yen Press|📖|
 |Sep 08|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://sevenseasentertainment.com/books/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
@@ -339,6 +340,7 @@
 |Oct 27|[When It Rains, It Pours](https://sevenseasentertainment.com/books/when-it-rains-it-pours-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 28|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Oct 29|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
+|Oct 29|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 
 ### November
 
