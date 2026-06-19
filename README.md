@@ -127,7 +127,6 @@
 |Jul 17|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jul 20|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 21|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
-|Jul 21|[My Uncontrollable Man](https://tokyopop.com/products/9781427888082_my-uncontrollable-man-light-novel "TOKYOPOP")|5|TOKYOPOP|📖|
 |Jul 21|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jul 21|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903793-omniscient-reader-s-viewpoint-novel-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 21|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️|
@@ -163,6 +162,7 @@
 |Aug 03|[Return of the Corpse King: Reining in My Cringe Secret Society](https://j-novel.club/series/return-of-the-corpse-king-reining-in-my-cringe-secret-society#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 04|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! Short Story Collection](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-short-story-collection-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Aug 04|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
+|Aug 04|[My Uncontrollable Man](https://tokyopop.com/products/9781427888082_my-uncontrollable-man-light-novel "TOKYOPOP")|5|TOKYOPOP|📖|
 |Aug 04|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 |Aug 04|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|📖|
 |Aug 04|[Space Orc: Barbarian Raider of the Stars, Aiming for the Queen!](https://sevenseasentertainment.com/books/space-orc-barbarian-raider-of-the-stars-aiming-for-the-queen-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -355,7 +355,6 @@
 |Nov 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393632-catalog-of-wonders-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 10|[Days with My Stepsister](https://yenpress.com/titles/9798855408355-days-with-my-stepsister-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
 |Nov 10|[High School DxD](https://yenpress.com/titles/9798855427400-high-school-dxd-vol-19-light-novel "Yen Press")|19|Yen Press|🖥️📖|
-|Nov 10|[The Azure Sword, Slayer of Distortions](https://yenpress.com/titles/9798855422474-the-azure-sword-slayer-of-distortions-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 10|[I'll Become a Villainess Who Goes Down in History](https://yenpress.com/titles/9798855407198-i-ll-become-a-villainess-who-goes-down-in-history-vol-5-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 10|[Kusunoki's Garden of Gods](https://yenpress.com/titles/9798855408478-kusunoki-s-garden-of-gods-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 10|[Magical Explorer](https://yenpress.com/titles/9798855437997-magical-explorer-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
@@ -364,6 +363,7 @@
 |Nov 10|[On the Way Home After Defeating the Demon King](https://yenpress.com/titles/9798855433081-on-the-way-home-after-defeating-the-demon-king-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 10|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975393328-re-starting-life-in-another-world-short-story-collection-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 10|[Rise of the Lowborn: Ascending the Ranks by Crushing Incompetent Nobles](https://yenpress.com/titles/9798855426960-rise-of-the-lowborn-ascending-the-ranks-by-crushing-incompetent-nobles-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 10|[The Azure Sword, Slayer of Distortions](https://yenpress.com/titles/9798855422474-the-azure-sword-slayer-of-distortions-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 10|[The Brilliant Healer's New Life in the Shadows](https://yenpress.com/titles/9781718332775-the-brilliant-healer-s-new-life-in-the-shadows-volume-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
 |Nov 10|[The Demon King Seems to Have Infiltrated the Hero's Party](https://yenpress.com/titles/9798855431209-the-demon-king-seems-to-have-infiltrated-the-hero-s-party-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 10|[The Executioner and Her Way of Life](https://yenpress.com/titles/9798855427479-the-executioner-and-her-way-of-life-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
@@ -388,17 +388,39 @@
 |:---:|---|:---:|---|:---:|
 |Dec 01|[Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines](https://sevenseasentertainment.com/books/legend-of-the-accidental-sword-saint-playing-the-mentor-from-the-sidelines-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 01|[Space Orc: Barbarian Raider of the Stars, Aiming for the Queen!](https://sevenseasentertainment.com/books/space-orc-barbarian-raider-of-the-stars-aiming-for-the-queen-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
-|Dec 01|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
+|Dec 08|[86--EIGHTY-SIX](https://yenpress.com/titles/9798855438239-86-eighty-six-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
+|Dec 08|[Accel World](https://yenpress.com/titles/9798855438253-accel-world-vol-28-light-novel "Yen Press")|28|Yen Press|🖥️📖|
+|Dec 08|[Bride of the Barrier Master](https://yenpress.com/titles/9798855430363-bride-of-the-barrier-master-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Dec 08|[Classroom for Heroes](https://yenpress.com/titles/9798855439748-classroom-for-heroes-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Dec 08|[Date A Live](https://yenpress.com/titles/9781975372453-date-a-live-vol-17-light-novel "Yen Press")|17|Yen Press|📖|
+|Dec 08|[Gods' Games We Play](https://yenpress.com/titles/9798855407433-gods-games-we-play-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
+|Dec 08|[Haibara's Teenage New Game+](https://yenpress.com/titles/9781718317901-haibara-s-teenage-new-game-volume-1-light-novel "J-Novel Club")|1|J-Novel Club|📖|
+|Dec 08|[Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle Episode Asfi](https://yenpress.com/titles/9798855439519-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-familia-chronicle-episode-asfi-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 08|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975388799-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-19 "Yen Press")|19|Yen Press|🖥️📖|
+|Dec 08|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345294-my-quiet-blacksmith-life-in-another-world-volume-11-light-novel "J-Novel Club")|11|J-Novel Club|📖|
+|Dec 08|[Orc Eroica](https://yenpress.com/titles/9798855437935-orc-eroica-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
+|Dec 08|[Playful Relationships](https://yenpress.com/titles/9798855436280-playful-relationships-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 08|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378561-re-starting-life-in-another-world-vol-30-light-novel "Yen Press")|30|Yen Press|🖥️📖|
+|Dec 08|[Mafia](https://yenpress.com/titles/9798855444711-mafia-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Dec 08|[Shino & Ren: Future](https://yenpress.com/titles/9798855431186-shino-ren-future-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 08|[Tale of the Wizrain Kingdom: The Nation's Dragon Guardian Is Reborn as a Downtrodden Young Lady](https://yenpress.com/titles/9798855435214-tale-of-the-wizrain-kingdom-the-nation-s-dragon-guardian-is-reborn-as-a-downtrodden-young-lady-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 08|[The Despicable Duke Settles His Affairs](https://yenpress.com/titles/9781718307971-the-despicable-duke-settles-his-affairs "J-Novel Club")|1|J-Novel Club|📖|
+|Dec 08|[The Immortal Witch Would Sacrifice Ten Thousand Lives to Fulfill a Simple Wish](https://yenpress.com/titles/9798855433449-the-immortal-witch-would-sacrifice-ten-thousand-lives-to-fulfill-a-simple-wish-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 08|[There's No Freaking Way I'll Be Your Lover! Unless… More Stories to Love!](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-more-stories-to-love-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
+|Dec 08|[The Water Magician: Arc 1](https://yenpress.com/titles/9781718337015-the-water-magician-arc-1-volume-4-light-novel "J-Novel Club")|4|J-Novel Club|📖|
+|Dec 08|[The World's Strongest Rearguard: Labyrinth Country's Novice Seeker](https://yenpress.com/titles/9798855437973-the-world-s-strongest-rearguard-labyrinth-country-s-novice-seeker-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
+|Dec 08|[Wistoria: Wand and Sword](https://yenpress.com/titles/9798855419665-wistoria-wand-and-sword-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Dec 22|[Date A Live](https://yenpress.com/titles/9781975372460-date-a-live-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️|
 |Dec 22|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Dec 22|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-7-part-2/ "Seven Seas Entertainment")|7.2|Seven Seas Entertainment|🖥️📖|
 |Dec 22|[Too Many Losing Heroines! Short Stories](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-short-stories/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[The Berserker NPC Unknowingly Destroys the World](https://sevenseasentertainment.com/books/the-berserker-npc-unknowingly-destroys-the-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Dec 29|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
 
 
