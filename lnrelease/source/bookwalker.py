@@ -16,6 +16,7 @@ HYDRATE = re.compile(r'(?:^|;)\$R(?P<t>[SC])\(\"(?P<a>[SB]:\w+)\",\"(?P<b>[PS]:\
 PATH = re.compile(r'/(?:volume|chapter|series)/(?P<id>[A-Z\d]{12})/[\w-]+')
 PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
+    'Crossed Hearts': '',
     'Dark Horse Comics': 'Dark Horse',
     'Graphic Audio': 'Dark Horse',
     'Denshobato': '',
@@ -198,7 +199,7 @@ def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tupl
                     uid = get_id(link)
                     lastmod = datetime.datetime.fromisoformat(url.lastmod.text).date()
                     date = keys.get(uid, EPOCH)
-                    if date is None or date >= lastmod and random() > 0.05:
+                    if date is None or date >= lastmod and random() > 0.1:
                         continue
                     elif res := parse_series(session, uids, link):
                         if res[1]:
