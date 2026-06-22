@@ -460,7 +460,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Jun 08|[There's No Freaking Way I'll be Your Lover! Unless… Spin-off Collection](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-spin-off-collection-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jun 08|[There's No Freaking Way I'll Be Your Lover! Unless… Even More Stories to Love!](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-even-more-stories-to-love-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### December
 
