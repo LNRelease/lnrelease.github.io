@@ -126,10 +126,10 @@
 |Jul 16|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 17|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jul 20|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
-|Jul 21|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Jul 21|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jul 21|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903793-omniscient-reader-s-viewpoint-novel-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 21|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️|
+|Jul 23|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Jul 23|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jul 24|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jul 24|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -148,11 +148,14 @@
 |Jul 30|[I Saved Myself with a Potion!](https://books.apple.com/us/book/id6766413811 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Jul 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://books.apple.com/us/book/id6768497105 "Hanashi Media")|4|Hanashi Media|🖥️|
 |Jul 30|[Re:Monster](https://books.apple.com/us/book/id6768498502 "Hanashi Media")|4|Hanashi Media|🖥️|
+|Jul 30|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
 |Jul 30|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jul 30|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 30|[The New Gate](https://books.apple.com/us/book/id6768498104 "Hanashi Media")|4|Hanashi Media|🖥️|
+|Jul 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-7.html "Cross Infinite World")|7|Cross Infinite World|🖥️|
 |Jul 31|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jul 31|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-9.html "Cross Infinite World")|9|Cross Infinite World|🖥️|
+|Jul 31|[Goodbye, Horrible Fiancé, Hello, Fun Magic School Life!](https://crossinfworld.com/Goodbye-Horrible-Fiance-Hello-Fun-Magic-School-Life-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
 
 ### August
 
@@ -215,7 +218,7 @@
 |Aug 24|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 24|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Aug 25|[Reincarnated in a Mafia Dating Sim](https://tokyopop.com/products/9781427888006_reincarnated-in-a-mafia-dating-sim-volume-1-light-novel "TOKYOPOP")|1|TOKYOPOP|📖|
-|Aug 25|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
+|Aug 25|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Aug 25|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Aug 26|[In Another World with Household Spells](https://j-novel.club/series/in-another-world-with-household-spells#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Aug 26|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
