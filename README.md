@@ -59,7 +59,7 @@
 |Jun 29|[I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://j-novel.club/series/i-m-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jun 29|[Pens Down, Swords Up: Throw Your Studies to the Wind](https://j-novel.club/series/pens-down-swords-up#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jun 30|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
-|Jun 30|[GATE](https://books.apple.com/us/book/id6766386887 "Hanashi Media")|1-B|Hanashi Media|🖥️|
+|Jun 30|[GATE](https://books.apple.com/us/book/id6766386887 "Hanashi Media")|1.2|Hanashi Media|🖥️|
 |Jun 30|[Love & Magic Academy: Who Cares about the Heroine and Villainess? I Want to Be the Strongest in this Otome Game World](https://crossinfworld.com/Love-and-Magic-Academy-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
 |Jun 30|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-2-light-novel-vol-4-6-hardcover-omnibus/ "Seven Seas Entertainment")|4-6|Seven Seas Entertainment|📖|
 |Jun 30|[Reincarnated as a Poor Farmer in Another World](https://books.apple.com/us/book/id6760372114 "Hanashi Media")|1|Hanashi Media|🖥️|
