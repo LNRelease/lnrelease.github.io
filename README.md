@@ -143,7 +143,6 @@
 |Jul 28|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jul 28|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Jul 28|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️|
-|Jul 28|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️|
 |Jul 30|[A Journey Through Another World](https://books.apple.com/us/book/id6766730912 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Jul 30|[I Saved Myself with a Potion!](https://books.apple.com/us/book/id6766413811 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Jul 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://books.apple.com/us/book/id6768497105 "Hanashi Media")|4|Hanashi Media|🖥️|
@@ -152,6 +151,7 @@
 |Jul 30|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jul 30|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 30|[The New Gate](https://books.apple.com/us/book/id6768498104 "Hanashi Media")|4|Hanashi Media|🖥️|
+|Jul 30|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️|
 |Jul 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-7.html "Cross Infinite World")|7|Cross Infinite World|🖥️|
 |Jul 31|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jul 31|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-9.html "Cross Infinite World")|9|Cross Infinite World|🖥️|
@@ -289,6 +289,7 @@
 |Sep 22|[The Neverending Winter, the Land of Broken Dreams](https://sevenseasentertainment.com/books/the-neverending-winter-the-land-of-broken-dreams-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Sep 22|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
+|Sep 24|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-35 "J-Novel Club")|35|J-Novel Club|🖥️|
 |Sep 25|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 25|[Finding My Way to (You) in This MMO World](https://j-novel.club/series/finding-my-way-to-you-in-this-mmo-world#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Sep 25|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
