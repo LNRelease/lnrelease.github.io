@@ -41,6 +41,9 @@ PUBLISHERS = {
 def get_soup(session: Session, link: str, **kwargs) -> BeautifulSoup:
     page = session.get(link, **kwargs)
     soup = BeautifulSoup(page.content, 'lxml')
+    if redirect := soup.find('meta', attrs={'http-equiv': 'refresh', 'id': '__next-page-redirect'}):
+        link = urljoin(page.url, redirect['content'].split('url=')[-1])
+        return get_soup(session, link, **kwargs)
     for script in soup.find_all('script'):
         for t, a, b in HYDRATE.findall(script.text):
             match t:
@@ -54,7 +57,8 @@ def get_soup(session: Session, link: str, **kwargs) -> BeautifulSoup:
                         nxt = dst.next_sibling
                         dst.extract()
                         dst = nxt
-            dst.insert_before(*src.contents)
+            if dst is not None and src is not None:
+                dst.insert_before(*src.contents)
             src.extract()
             dst.extract()
         script.extract()

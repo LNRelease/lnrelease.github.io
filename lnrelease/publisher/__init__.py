@@ -10,7 +10,7 @@ from utils import EPOCH, SECONDARY, SOURCES, Book, Format, Info, Series
 
 NAME = 'misc'
 
-PARSE = re.compile(r'(?P<name>.+?)(?:[,:]| [–-])? *(?:\bVol\.|(?:[\(\[]|\b)Volume|\(Light Novel) *0*(?P<volume>\d+(?:\.\d|-[A-Z])?)[\)\]]?(?:[,:]? Part (?P<part>\d+)|\s*[:\(].+|\s+[–-](?!\d).+)?')
+PARSE = re.compile(r'(?P<name>.+?)(?:[,:]| [–-])? *(?:\bVol\.|(?:[\(\[]|\b)Volume|\(Light Novel) *0*(?P<volume>\d+(?:\.\d|-[A-Z])?)[\)\]]?(?:(?:[,:]|\s+[–-])? Part (?P<part>\S+)|\s*[:\(].+|\s+[–-]\D+)?')
 OMNIBUS = re.compile(r'(?P<name>.+?)(?:,|:| [–-]| Omnibus)* *(?:Vol\.|\(?Volumes?) *(?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)\)?(?: Collector\'s Edition)?')
 SKIP = re.compile(r'.+? (?:Omnibus \d+|(?:Omnibus|Collector\'s) Edition)')
 PART = re.compile(r'(?P<name>.+?)(?:\s*(?:,|:| [–-]))?(?: Volume| Vol\.)? (?P<volume>\d+(?:\.5)?)[:,]? (?P<part>.+)')
@@ -144,6 +144,9 @@ def standard(series: Series, info: dict[str, list[Info]], books: dict[str, list[
                 name = match.group('name')
                 vol = match.group('volume')
                 if part := match.group('part'):
+                    part = sub_nums(part)
+                    if not part.replace('.', '', 1).isdigit():
+                        continue
                     vol = f'{vol}.{part}'
             elif i == 0 and series.title == inf.title:
                 name = inf.title
