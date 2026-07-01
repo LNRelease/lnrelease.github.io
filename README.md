@@ -117,11 +117,11 @@
 |Jul 14|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Jul 14|[The Unimplemented Overlords Have Joined the Party!](https://yenpress.com/titles/9781975397203-the-unimplemented-overlords-have-joined-the-party-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Jul 14|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855430202-the-world-bows-down-before-my-flames-vol-4-novel "Yen Press")|4|Yen Press|🖥️📖|
-|Jul 14|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Jul 14|[Who Killed the Hero?](https://yenpress.com/titles/9798855434057-who-killed-the-hero-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jul 15|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Jul 16|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jul 16|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
+|Jul 16|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Jul 16|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 17|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jul 20|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
@@ -139,13 +139,13 @@
 |Jul 28|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Jul 28|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-7-part-1/ "Seven Seas Entertainment")|7.1|Seven Seas Entertainment|📖|
 |Jul 28|[Sakamoto Days: Assassin's Method](https://www.viz.com/manga-books/novel/sakamoto-days-novels/product/8913/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
-|Jul 28|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jul 28|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Jul 28|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️|
 |Jul 30|[A Journey Through Another World](https://books.apple.com/us/book/id6766730912 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Jul 30|[I Saved Myself with a Potion!](https://books.apple.com/us/book/id6766413811 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Jul 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://books.apple.com/us/book/id6768497105 "Hanashi Media")|4|Hanashi Media|🖥️|
 |Jul 30|[Re:Monster](https://books.apple.com/us/book/id6768498502 "Hanashi Media")|4|Hanashi Media|🖥️|
+|Jul 30|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jul 30|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
 |Jul 30|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jul 30|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
@@ -291,6 +291,8 @@
 |Sep 22|[The Neverending Winter, the Land of Broken Dreams](https://sevenseasentertainment.com/books/the-neverending-winter-the-land-of-broken-dreams-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Sep 22|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
+|Sep 23|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
+|Sep 23|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Sep 23|[Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://j-novel.club/series/peddler-in-another-world#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Sep 23|[The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://j-novel.club/series/the-poison-king-now-that-i-ve-gained-ultimate-power-the-bewitching-beauties-in-my-harem-can-t-get-enough-of-me#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Sep 24|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-35 "J-Novel Club")|35|J-Novel Club|🖥️|
