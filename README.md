@@ -80,7 +80,7 @@
 |Jul 02|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️|
 |Jul 06|[Formerly, the Fallen Daughter of the Duke](https://j-novel.club/series/formerly-the-fallen-daughter-of-the-duke#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jul 06|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
-|Jul 07|[Distorted I Love You](https://sevenseasentertainment.com/books/distorted-i-love-you-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jul 07|[Distorted I Love You](https://sevenseasentertainment.com/books/distorted-i-love-you-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Jul 07|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jul 07|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Jul 07|[The Misdeeds of an Extremely Arrogant Villain Aristocrat](https://sevenseasentertainment.com/books/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -353,6 +353,7 @@
 |Oct 13|[Your Castle's Little Helper](https://yenpress.com/titles/9798855432268-your-castle-s-little-helper-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 14|[Genius in the Library: This Bookish Rookie Will Save the Day!](https://j-novel.club/series/genius-in-the-library-this-bookish-rookie-will-save-the-day#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 15|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Oct 15|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 20|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Oct 20|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Her Royal Highness Seems to Be Angry](https://www.penguinrandomhouse.com/books/803335/her-royal-highness-seems-to-be-angry-volume-4-light-novel-by-kou-yatsuhashi/9781427883001 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
