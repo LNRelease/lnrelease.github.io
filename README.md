@@ -246,6 +246,7 @@
 |Sep 28|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 29|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Sep 29|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
+|Sep 30|[GATE](https://books.apple.com/us/book/id6789404173 "Hanashi Media")|2.1|Hanashi Media|🖥️|
 |Sep 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-13 "J-Novel Club")|8.2|J-Novel Club|🖥️|
 |Sep 30|[Sorry Darling, but You Won't Kill Me Again!](https://j-novel.club/series/sorry-darling-but-you-won-t-kill-me-again#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 30|[The Fruit of Evolution](https://books.apple.com/us/book/id6789415928 "Hanashi Media")|14|Hanashi Media|🖥️|
@@ -400,6 +401,7 @@
 |Jan 08|[Villager A Wants to Save the Villainess No Matter What!](https://sevenseasentertainment.com/books/villager-a-wants-to-save-the-villainess-no-matter-what-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jan 12|[I'm in Love with the Villainess: Come on and Notice Me Already](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-come-on-and-notice-me-already-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Into The Night – YOASOBI Story Collection](https://sevenseasentertainment.com/books/into-the-night-yoasobi-story-collection-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |Jan 21|[A Serious Error in Chihaya-chan's Reputation](https://sevenseasentertainment.com/books/a-serious-error-in-chihaya-chans-reputation-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jan 26|[Gear × Magic: Reincarnated as an Engineer, I'll Save the Villainous Princess](https://sevenseasentertainment.com/books/gear-x-magic-reincarnated-as-an-engineer-ill-save-the-villainous-princess-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
