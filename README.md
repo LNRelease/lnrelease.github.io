@@ -86,6 +86,7 @@
 |Jul 30|[The New Gate](https://books.apple.com/us/book/id6768498104 "Hanashi Media")|4|Hanashi Media|🖥️|
 |Jul 30|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️|
 |Jul 30|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️|
+|Jul 30|[Tsukimichi](https://books.apple.com/us/book/id6790002403 "Hanashi Media")|18|Hanashi Media|🖥️|
 |Jul 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-7.html "Cross Infinite World")|7|Cross Infinite World|🖥️|
 |Jul 31|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jul 31|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-9.html "Cross Infinite World")|9|Cross Infinite World|🖥️|
@@ -165,6 +166,7 @@
 |Aug 27|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Aug 27|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
 |Aug 28|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Aug 30|[Tsukimichi](https://books.apple.com/us/book/id6790002793 "Hanashi Media")|19|Hanashi Media|🖥️|
 
 ### September
 
@@ -248,6 +250,7 @@
 |Sep 29|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Sep 30|[GATE](https://books.apple.com/us/book/id6789404173 "Hanashi Media")|2.1|Hanashi Media|🖥️|
 |Sep 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-13 "J-Novel Club")|8.2|J-Novel Club|🖥️|
+|Sep 30|[Reincarnated as a Poor Farmer in Another World](https://books.apple.com/us/book/id6790180446 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Sep 30|[Sorry Darling, but You Won't Kill Me Again!](https://j-novel.club/series/sorry-darling-but-you-won-t-kill-me-again#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 30|[The Fruit of Evolution](https://books.apple.com/us/book/id6789415928 "Hanashi Media")|14|Hanashi Media|🖥️|
 
@@ -397,13 +400,17 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jan 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 08|[Villager A Wants to Save the Villainess No Matter What!](https://sevenseasentertainment.com/books/villager-a-wants-to-save-the-villainess-no-matter-what-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Jan 12|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[I'm in Love with the Villainess: Come on and Notice Me Already](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-come-on-and-notice-me-already-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Into The Night – YOASOBI Story Collection](https://sevenseasentertainment.com/books/into-the-night-yoasobi-story-collection-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |Jan 21|[A Serious Error in Chihaya-chan's Reputation](https://sevenseasentertainment.com/books/a-serious-error-in-chihaya-chans-reputation-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jan 26|[Gear × Magic: Reincarnated as an Engineer, I'll Save the Villainous Princess](https://sevenseasentertainment.com/books/gear-x-magic-reincarnated-as-an-engineer-ill-save-the-villainous-princess-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-light-novel-vol-22/ "Seven Seas Entertainment")|22|Seven Seas Entertainment|📖|
 
 ### February
 
