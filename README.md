@@ -294,12 +294,14 @@
 |Oct 13|[You Can Have My Back](https://yenpress.com/titles/9798855412949-you-can-have-my-back-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 13|[Your Castle's Little Helper](https://yenpress.com/titles/9798855432268-your-castle-s-little-helper-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 14|[Genius in the Library: This Bookish Rookie Will Save the Day!](https://j-novel.club/series/genius-in-the-library-this-bookish-rookie-will-save-the-day#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Oct 14|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Oct 15|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 15|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 20|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Oct 20|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Her Royal Highness Seems to Be Angry](https://www.penguinrandomhouse.com/books/803335/her-royal-highness-seems-to-be-angry-volume-4-light-novel-by-kou-yatsuhashi/9781427883001 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
 |Oct 20|[Semantic Error](https://yenpress.com/titles/9798400904103-semantic-error-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Oct 20|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Oct 22|[Disowned but Not Disheartened! Life Is Good with Overpowered Magic](https://j-novel.club/series/disowned-but-not-disheartened-life-is-good-with-overpowered-magic#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 26|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-1 "J-Novel Club")|1-3|J-Novel Club|📖|
 |Oct 27|[Her Royal Highness Seems to Be Angry](https://tokyopop.com/products/9781427886187_her-royal-highness-seems-to-be-angry-volume-5-light-novel "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
@@ -409,6 +411,7 @@
 |Jan 12|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[I'm in Love with the Villainess: Come on and Notice Me Already](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-come-on-and-notice-me-already-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Into The Night – YOASOBI Story Collection](https://sevenseasentertainment.com/books/into-the-night-yoasobi-story-collection-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 12|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
@@ -422,7 +425,10 @@
 |:---:|---|:---:|---|:---:|
 |Feb 02|[In Another World with My Cat: A Software Engineer Uses Code to Master Magic and Build a Territory](https://sevenseasentertainment.com/books/in-another-world-with-my-cat-a-software-engineer-uses-code-to-master-magic-and-build-a-territory-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 02|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Feb 04|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
+|Feb 09|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Feb 11|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Feb 11|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 25|[Goetia Shock](https://sevenseasentertainment.com/books/goetia-shock-vol-1-cyberdetective-alicia-arkwright-and-the-ink-painted-nightmare-part-1-light-novel-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 
@@ -438,6 +444,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Apr 27|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
+|Apr 27|[The Suspects of Necromancy](https://sevenseasentertainment.com/books/the-suspects-of-necromancy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### June
 
