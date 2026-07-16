@@ -52,6 +52,9 @@
 |Jul 14|[The World Bows Down Before My Flames](https://yenpress.com/titles/9798855430202-the-world-bows-down-before-my-flames-vol-4-novel "Yen Press")|4|Yen Press|🖥️📖|
 |Jul 14|[Who Killed the Hero?](https://yenpress.com/titles/9798855434057-who-killed-the-hero-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jul 15|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Jul 15|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Jul 15|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Jul 15|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jul 16|[Lady Bumpkin and Her Lord Villain](https://j-novel.club/series/lady-bumpkin-and-her-lord-villain#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jul 16|[Space Orc: Barbarian Raider of the Stars, Aiming for the Queen!](https://sevenseasentertainment.com/books/space-orc-barbarian-raider-of-the-stars-aiming-for-the-queen-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jul 16|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
