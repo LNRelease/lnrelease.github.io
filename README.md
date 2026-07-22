@@ -61,6 +61,7 @@
 |Jul 16|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Jul 16|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 17|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Jul 18|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|📖|
 |Jul 20|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 21|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jul 21|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903793-omniscient-reader-s-viewpoint-novel-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
@@ -171,6 +172,9 @@
 |Aug 28|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Aug 30|[The Disfavored Prince is a Genius Alchemist](https://books.apple.com/us/book/id6790212734 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Aug 30|[Tsukimichi](https://books.apple.com/us/book/id6790002793 "Hanashi Media")|19|Hanashi Media|🖥️|
+|Aug 31|[Assassin Empress Bellreuge](https://crossinfworld.com/Assassin-Empress-Bellreuge.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
+|Aug 31|[From Corporate Drone to Mincemaster! One Order of Dragon Coming Right Up!](https://crossinfworld.com/From-Corporate-Drone-to-Mincemaster-One-Order-of-Dragon-Coming-Right-Up.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
+|Aug 31|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
 
 ### September
 
@@ -253,6 +257,7 @@
 |Sep 28|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 29|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Sep 29|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
+|Sep 30|[From Bumbling Prodigy to Villainess: Will the Duke's Love Go Unnoticed?](https://crossinfworld.com/From-Bumbling-Prodigy-to-Villainess-Will-the-Dukes-Love-Go-Unnoticed.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Sep 30|[GATE](https://books.apple.com/us/book/id6789404173 "Hanashi Media")|2.1|Hanashi Media|🖥️|
 |Sep 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-13 "J-Novel Club")|8.2|J-Novel Club|🖥️|
 |Sep 30|[Reincarnated as a Poor Farmer in Another World](https://books.apple.com/us/book/id6790180446 "Hanashi Media")|2|Hanashi Media|🖥️|
@@ -321,6 +326,7 @@
 |Oct 28|[Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://j-novel.club/series/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
 |Oct 29|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Oct 29|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Oct 31|[The Villainess' Journal: Newlywed Life of an Obsessive Researcher](https://crossinfworld.com/The-Villainess-Journal-Newlywed-Life-of-an-Obsessive-Researcher.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
 ### November
 
@@ -463,6 +469,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Apr 06|[I'm Running for Crown Princess, but All I Want is a Steady Paycheck!](https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Apr 06|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Apr 27|[The Saint's Magic Power is Omnipotent](https://sevenseasentertainment.com/books/the-saints-magic-power-is-omnipotent-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|🖥️📖|
 |Apr 27|[The Suspects of Necromancy](https://sevenseasentertainment.com/books/the-suspects-of-necromancy-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
