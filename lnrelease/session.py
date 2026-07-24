@@ -4,6 +4,7 @@ import re
 import warnings
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
+from hashlib import blake2s
 from threading import Lock
 from time import perf_counter_ns, sleep, time
 from typing import Self
@@ -13,12 +14,12 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-HEADERS = {'User-Agent': 'lnrelease.github.io/2.1'}
-CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36'}
-CF_ACCOUNT = os.getenv('CF_ACCOUNT')
-CF_KEY = os.getenv('CF_KEY')
+CF_ACCOUNT = os.getenv('CF_ACCOUNT', '')
+CF_KEY = os.getenv('CF_KEY', '')
 CF_HEADERS = {'Content-Type': 'application/json', 'Authorization': f'Bearer {CF_KEY}'}
 CF_API = f'https://api.cloudflare.com/client/v4/accounts/{CF_ACCOUNT}/urlscanner/v2'
+HEADERS = {'User-Agent': f'lnrelease/2.2 ({blake2s(CF_KEY.encode()).hexdigest()[:8]}; +https://github.com/LNRelease/lnrelease.github.io)'}
+CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36'}
 
 SHORTENERS = {
     'a.co',
@@ -72,7 +73,6 @@ DELAYS = {
     'play.google.com': (10, 30),
     'hanashi.media': (10, 30),
     'labs.j-novel.club': (10, 30),
-    'api.kodansha.us': (30, 60),
     'www.onepeacebooks.com': (30, 600),
     'www.penguinrandomhouse.ca': (30, 600),
     'sevenseasentertainment.com': (10, 30),
