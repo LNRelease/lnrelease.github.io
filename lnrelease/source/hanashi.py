@@ -1,33 +1,28 @@
 import datetime
-import re
 import warnings
 from pathlib import Path
 from random import random
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urlparse
 
 import store
-from bs4 import BeautifulSoup
 from session import Session
 from utils import Info, Key, Series, Table
 
 NAME = 'Hanashi Media'
 
 PAGES = Path('hanashi.csv')
-LINK = re.compile(r'/light-novels/[\w-]+')
 
 
-def read(session: Session, jsn: dict, series: Series, link: str,
-         volumes: dict[float, int], skip: set[str]) -> tuple[int, set[Info]]:
+def parse(session: Session, series: Series, jsn: dict, skip: set[str], index: int) -> set[Info]:
     info = set()
-    data = jsn['nodes'][2]['data']
-    vol = data[data[1]['number']]
-    title = f'{series.title} Volume {vol}'
-    index = volumes.pop(vol, 0)
-    date = datetime.date.fromisoformat(data[data[1]['release']][1][:10])
+    link = 'https://hanashi.media/ebooks/' + jsn['at']
+    title = jsn['title']
+    date = datetime.date.fromisoformat(jsn['release'][:10])
+    isbn = jsn['isbn']
 
     urls = []
-    for url in data:
-        if not isinstance(url, str) or not url.startswith('http'):
+    for key, url in jsn.items():
+        if not key.endswith('Link') or not url or not url.startswith('http'):
             continue
         url = session.resolve(url)
         if norm := store.normalise(session, url, resolve=True):
@@ -53,28 +48,8 @@ def read(session: Session, jsn: dict, series: Series, link: str,
         else:
             alts.append(norm)
 
-    info.add(Info(series.key, link, NAME, NAME, title, index, 'Digital', '', date, alts))
-    return vol, info
-
-
-def parse(session: Session, link: str, skip: set[str]) -> tuple[Series, set[Info]]:
-    page = session.get(f'{link}/__data.json')
-    jsn = page.json()
-    data = jsn['nodes'][1]['data']
-    series_title = data[data[1]['title']]
-    volumes = {data[data[x]['number']]: i for i, x in enumerate(data[data[1]['Volume']])}
-    series = Series(None, series_title)
-
-    vol, info = read(session, jsn, series, link, volumes, skip)
-    path = link.rsplit('/', 1)[0]
-    for vol in list(volumes):
-        try:
-            page = session.get(f'{path}/{vol}/__data.json')
-            info |= read(session, page.json(), series, f'{path}/{vol}', volumes, skip)[1]
-        except Exception as e:
-            warnings.warn(f'({link}): {e}', RuntimeWarning)
-
-    return series, info
+    info.add(Info(series.key, link, NAME, NAME, title, index, 'Digital', isbn, date, alts))
+    return info
 
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
@@ -84,17 +59,19 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     skip = {row.key for row in pages if random() > 0.1 and row.date < cutoff}
 
     with Session() as session:
-        page = session.get('https://hanashi.media/light-novels')
-        soup = BeautifulSoup(page.content, 'lxml')
-        links = filter(LINK.match, {a.get('href', '') for a in soup.select('a')})
-        for link in links:
+        serie: dict[str, tuple[Series, int]] = {}
+        url = 'https://store-api.hanashi.media/series'
+        for row in session.post('https://store-api.hanashi.media/explore/series').json()['data']:
+            s = Series(None, row['title'])
+            for entry in session.post(url, json={'at': row['at']}).json()['data']['entries']:
+                serie[entry['ebookId']] = s, entry['order']
+        url = 'https://store-api.hanashi.media/explore/schedule'
+        for book in session.post(url).json()['data']:
             try:
-                link = urljoin(page.url, link)
-                s, inf = parse(session, link, skip)
-
-                if inf:
+                s, index = serie.get(book['id'], (Series(None, book['title']), 0))
+                if inf := parse(session, s, book, skip, index):
                     series.add(s)
-                    info -= {i for i in info if i.serieskey == s.key} | inf
+                    info -= inf
                     info |= inf
                     for i in inf:
                         if i.source == NAME:
@@ -103,7 +80,7 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         pages.discard(l)
                         pages.add(l)
             except Exception as e:
-                warnings.warn(f'({link}): {e}', RuntimeWarning)
+                warnings.warn(f'({book['at']}): {e}', RuntimeWarning)
 
     pages.save()
     return series, info

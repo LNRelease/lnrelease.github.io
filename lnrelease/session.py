@@ -71,7 +71,7 @@ DELAYS = {
     'crossinfworld.com': (10, 30),
     'store.crunchyroll.com': (30, 60),
     'play.google.com': (10, 30),
-    'hanashi.media': (10, 30),
+    'store-api.hanashi.media': (10, 30),
     'labs.j-novel.club': (10, 30),
     'www.onepeacebooks.com': (30, 600),
     'www.penguinrandomhouse.ca': (30, 600),
@@ -213,12 +213,11 @@ class Session(requests.Session):
         REQUEST_STATS['api.cloudflare.com'].cache += 1
         with limiter(urlparse(url).netloc).lock:
             for _ in range(5):
-                with limiter('api.cloudflare.com'):
-                    try:
-                        page = self.post(f'{CF_API}/scan', json={'url': url}, **kwargs)
-                    except requests.exceptions.RequestException as e:
-                        warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
-                    sleep(20)
+                try:
+                    page = self.post(f'{CF_API}/scan', json={'url': url}, **kwargs)
+                except requests.exceptions.RequestException as e:
+                    warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
+                sleep(20)
                 if page:
                     res = self.cf_result(url, page.json()['uuid'], **kwargs)
                     sleep(20)
@@ -286,3 +285,7 @@ class Session(requests.Session):
             warnings.warn(f'Status code {page.status_code}: {url}', RuntimeWarning)
 
         return page
+
+    def post(self, url: str, *args, **kwargs) -> requests.Response:
+        with limiter(urlparse(url).netloc):
+            return super().post(url, *args, **kwargs)

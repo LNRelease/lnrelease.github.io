@@ -72,16 +72,20 @@ def diff_list(titles: list[str]) -> list[str]:
     return [t[i:] for t in titles]
 
 
-def dates(info: dict[str, list[Info]], links: dict[str, list[Info]]) -> bool:
+def dates(info: dict[str, list[Info]], links: dict[str, list[Info]], trust: bool = True) -> bool:
     changed = False
     for inf in chain.from_iterable(info.values()):
+        dates = Counter()
         if inf.date != EPOCH:
-            continue
+            if trust:
+                continue
+            else:
+                dates[inf.date] += 1
 
         format = Format.from_str(inf.format)
-        dates = Counter(alt.date for link in inf.alts
-                        for alt in links.get(link, ())
-                        if format == Format.from_str(alt.format))
+        for link in inf.alts:
+            dates.update(alt.date for alt in links.get(link, ())
+                         if format == Format.from_str(alt.format))
         if date := dates.most_common(1):
             inf.date = date[0][0]
             changed = True
