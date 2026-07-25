@@ -79,18 +79,18 @@
 |Jul 28|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-7-part-1/ "Seven Seas Entertainment")|7.1|Seven Seas Entertainment|📖|
 |Jul 28|[Sakamoto Days: Assassin's Method](https://www.viz.com/manga-books/novel/sakamoto-days-novels/product/8913/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Jul 28|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
-|Jul 30|[A Journey Through Another World](https://books.apple.com/us/book/id6766730912 "Hanashi Media")|2|Hanashi Media|🖥️|
-|Jul 30|[I Saved Myself with a Potion!](https://books.apple.com/us/book/id6766413811 "Hanashi Media")|2|Hanashi Media|🖥️|
-|Jul 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://books.apple.com/us/book/id6768497105 "Hanashi Media")|4|Hanashi Media|🖥️|
-|Jul 30|[Re:Monster](https://books.apple.com/us/book/id6768498502 "Hanashi Media")|4|Hanashi Media|🖥️|
+|Jul 30|[A Journey Through Another World](https://hanashi.media/ebooks/a-journey-through-another-world-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
+|Jul 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://hanashi.media/ebooks/an-observation-log-of-my-wife-vol-4 "Hanashi Media")|4|Hanashi Media|🖥️|
+|Jul 30|[I Saved Myself with a Potion!](https://hanashi.media/ebooks/i-saved-myself-with-a-potion-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
+|Jul 30|[Re:Monster](https://hanashi.media/ebooks/remonster-vol-4 "Hanashi Media")|4|Hanashi Media|🖥️|
 |Jul 30|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jul 30|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
 |Jul 30|[Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!](https://j-novel.club/series/taking-my-reincarnation-one-step-at-a-time#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jul 30|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
-|Jul 30|[The New Gate](https://books.apple.com/us/book/id6768498104 "Hanashi Media")|4|Hanashi Media|🖥️|
+|Jul 30|[The New Gate](https://hanashi.media/ebooks/the-new-gate-vol-4 "Hanashi Media")|4|Hanashi Media|🖥️|
 |Jul 30|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️|
 |Jul 30|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|🖥️|
-|Jul 30|[Tsukimichi](https://books.apple.com/us/book/id6790002403 "Hanashi Media")|18|Hanashi Media|🖥️|
+|Jul 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-18 "Hanashi Media")|18|Hanashi Media|🖥️|
 |Jul 31|[Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound](https://crossinfworld.com/Even-Dogs-Go-to-Other-Worlds-Volume-7.html "Cross Infinite World")|7|Cross Infinite World|🖥️|
 |Jul 31|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jul 31|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-9.html "Cross Infinite World")|9|Cross Infinite World|🖥️|
@@ -144,7 +144,7 @@
 |Aug 13|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Aug 14|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 14|[Unsung Epics of the Hero's Journey](https://j-novel.club/series/unsung-epics-of-the-hero-s-journey#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Aug 16|[The Vampire and the Chocolatier](https://books.apple.com/us/book/id6768501610 "Hanashi Media")|1|Hanashi Media|🖥️|
+|Aug 16|[The Vampire and the Chocolatier](https://hanashi.media/ebooks/the-vampire-and-the-chocolatier-vol-1-a-genius-alchemists-sweet-obsession "Hanashi Media")|1|Hanashi Media|🖥️|
 |Aug 17|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 18|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 18|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -157,7 +157,7 @@
 |Aug 20|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️|
 |Aug 20|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
 |Aug 21|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
-|Aug 23|[The Abandoned Reincarnation Sage](https://books.apple.com/us/book/id6789394279 "Hanashi Media")|5|Hanashi Media|🖥️|
+|Aug 23|[The Abandoned Reincarnation Sage](https://hanashi.media/ebooks/the-abandoned-reincarnation-sage-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Aug 24|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 24|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Aug 25|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
@@ -169,8 +169,8 @@
 |Aug 27|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Aug 27|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
 |Aug 28|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
-|Aug 30|[The Disfavored Prince is a Genius Alchemist](https://books.apple.com/us/book/id6790212734 "Hanashi Media")|2|Hanashi Media|🖥️|
-|Aug 30|[Tsukimichi](https://books.apple.com/us/book/id6790002793 "Hanashi Media")|19|Hanashi Media|🖥️|
+|Aug 30|[The Disfavored Prince is a Genius Alchemist](https://hanashi.media/ebooks/the-disfavored-prince-is-a-genius-alchemist-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
+|Aug 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-19-moonlit-fantasy "Hanashi Media")|19|Hanashi Media|🖥️|
 |Aug 31|[Assassin Empress Bellreuge](https://crossinfworld.com/Assassin-Empress-Bellreuge.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Aug 31|[From Corporate Drone to Mincemaster! One Order of Dragon Coming Right Up!](https://crossinfworld.com/From-Corporate-Drone-to-Mincemaster-One-Order-of-Dragon-Coming-Right-Up.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Aug 31|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
@@ -245,7 +245,7 @@
 |Sep 22|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Sep 23|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Sep 23|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
-|Sep 23|[I'm Just a Villager, So What?](https://books.apple.com/us/book/id6790214378 "Hanashi Media")|5|Hanashi Media|🖥️|
+|Sep 23|[I'm Just a Villager, So What?](https://hanashi.media/ebooks/im-just-a-villager-so-what-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Sep 23|[The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://j-novel.club/series/the-poison-king-now-that-i-ve-gained-ultimate-power-the-bewitching-beauties-in-my-harem-can-t-get-enough-of-me#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Sep 24|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-35 "J-Novel Club")|35|J-Novel Club|🖥️|
 |Sep 24|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
@@ -259,12 +259,12 @@
 |Sep 29|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Sep 29|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Sep 30|[From Bumbling Prodigy to Villainess: Will the Duke's Love Go Unnoticed?](https://crossinfworld.com/From-Bumbling-Prodigy-to-Villainess-Will-the-Dukes-Love-Go-Unnoticed.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
-|Sep 30|[GATE](https://books.apple.com/us/book/id6789404173 "Hanashi Media")|2.1|Hanashi Media|🖥️|
+|Sep 30|[GATE](https://hanashi.media/ebooks/gate-vol-2-part-i-thus-the-jsdf-fought-there "Hanashi Media")|2.1|Hanashi Media|🖥️|
 |Sep 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-13 "J-Novel Club")|8.2|J-Novel Club|🖥️|
-|Sep 30|[Reincarnated as a Poor Farmer in Another World](https://books.apple.com/us/book/id6790180446 "Hanashi Media")|2|Hanashi Media|🖥️|
-|Sep 30|[Reincarnated Onmyoji](https://books.apple.com/us/book/id6790197142 "Hanashi Media")|2|Hanashi Media|🖥️|
+|Sep 30|[Reincarnated as a Poor Farmer in Another World](https://hanashi.media/ebooks/reincarnated-as-a-poor-farmer-in-another-world-vol-2-ill-use-my-modern-knowledge-to-build-my-own-kingdom "Hanashi Media")|2|Hanashi Media|🖥️|
+|Sep 30|[Reincarnated Onmyoji](https://hanashi.media/ebooks/reincarnated-onmyoji-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Sep 30|[Sorry Darling, but You Won't Kill Me Again!](https://j-novel.club/series/sorry-darling-but-you-won-t-kill-me-again#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 30|[The Fruit of Evolution](https://books.apple.com/us/book/id6789415928 "Hanashi Media")|14|Hanashi Media|🖥️|
+|Sep 30|[The Fruit of Evolution](https://hanashi.media/ebooks/the-fruit-of-evolution-vol-14-before-i-knew-it-my-life-had-it-made "Hanashi Media")|14|Hanashi Media|🖥️|
 
 ### October
 
@@ -459,6 +459,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Mar 02|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Mar 04|[Wandmaker of the Ruined World](https://sevenseasentertainment.com/books/wandmaker-of-the-ruined-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Mar 09|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
