@@ -170,7 +170,8 @@
 |Aug 28|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Aug 29|[The New Gate](https://hanashi.media/ebooks/the-new-gate-vol-4 "Hanashi Media")|4|Hanashi Media|🖥️|
 |Aug 30|[The Disfavored Prince is a Genius Alchemist](https://hanashi.media/ebooks/the-disfavored-prince-is-a-genius-alchemist-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
-|Aug 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-19-moonlit-fantasy "Hanashi Media")|19|Hanashi Media|🖥️|
+|Aug 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-19 "Hanashi Media")|19.1|Hanashi Media|🖥️|
+|Aug 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-19-moonlit-fantasy "Hanashi Media")|19.2|Hanashi Media|🖥️|
 |Aug 31|[Assassin Empress Bellreuge](https://crossinfworld.com/Assassin-Empress-Bellreuge.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Aug 31|[From Corporate Drone to Mincemaster! One Order of Dragon Coming Right Up!](https://crossinfworld.com/From-Corporate-Drone-to-Mincemaster-One-Order-of-Dragon-Coming-Right-Up.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Aug 31|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
@@ -265,6 +266,7 @@
 |Sep 30|[Reincarnated Onmyoji](https://hanashi.media/ebooks/reincarnated-onmyoji-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Sep 30|[Sorry Darling, but You Won't Kill Me Again!](https://j-novel.club/series/sorry-darling-but-you-won-t-kill-me-again#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 30|[The Fruit of Evolution](https://hanashi.media/ebooks/the-fruit-of-evolution-vol-14-before-i-knew-it-my-life-had-it-made "Hanashi Media")|14|Hanashi Media|🖥️|
+|Sep 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-20 "Hanashi Media")|20|Hanashi Media|🖥️|
 
 ### October
 
@@ -328,6 +330,10 @@
 |Oct 28|[The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://j-novel.club/series/the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 29|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Oct 29|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
+|Oct 30|[A Journey Through Another World](https://hanashi.media/ebooks/a-journey-through-another-world-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
+|Oct 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://hanashi.media/ebooks/an-observation-log-of-my-wife-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
+|Oct 30|[I Saved Myself with a Potion!](https://hanashi.media/ebooks/i-saved-myself-with-a-potion-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
+|Oct 30|[Re:Monster](https://hanashi.media/ebooks/remonster-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Oct 31|[The Villainess' Journal: Newlywed Life of an Obsessive Researcher](https://crossinfworld.com/The-Villainess-Journal-Newlywed-Life-of-an-Obsessive-Researcher.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
 ### November
