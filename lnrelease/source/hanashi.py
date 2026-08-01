@@ -63,15 +63,16 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
         url = 'https://store-api.hanashi.media/series'
         for row in session.post('https://store-api.hanashi.media/explore/series').json()['data']:
             s = Series(None, row['title'])
-            for entry in session.post(url, json={'at': row['at']}).json()['data']['entries']:
-                serie[entry['ebookId']] = s, entry['order']
+            entries = session.post(url, json={'at': row['at']}).json()['data']['entries']
+            serie |= {entry['ebookId']: (s, i) for i, entry in enumerate(entries, start=1)}
         url = 'https://store-api.hanashi.media/explore/schedule'
         for book in session.post(url).json()['data']:
             try:
                 s, index = serie.get(book['id'], (Series(None, book['title']), 0))
                 if inf := parse(session, s, book, skip, index):
                     series.add(s)
-                    info -= inf
+                    isbns = {i.source: i.isbn for i in inf if i.isbn}
+                    info -= {i for i in info if isbns.get(i.source) == i.isbn} | inf
                     info |= inf
                     for i in inf:
                         if i.source == NAME:
