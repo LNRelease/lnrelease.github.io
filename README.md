@@ -62,6 +62,7 @@
 |Jul 16|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Jul 17|[Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother](https://j-novel.club/series/goodbye-overtime-this-reincarnated-villainess-is-living-for-her-new-big-brother#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jul 18|[Breaking Up Was the Plan, the Duke Falling For the Villainess Was Not!](https://crossinfworld.com/Breaking-Up-Was-the-Plan-the-Duke-Falling-For-the-Villainess-Was-Not-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|📖|
+|Jul 19|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|📖|
 |Jul 20|[The Hero and the Sage, Reincarnated and Engaged](https://j-novel.club/series/the-hero-and-the-sage-reincarnated-and-engaged#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jul 21|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jul 21|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400903793-omniscient-reader-s-viewpoint-novel-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
@@ -143,8 +144,7 @@
 |Aug 13|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Aug 14|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 14|[Unsung Epics of the Hero's Journey](https://j-novel.club/series/unsung-epics-of-the-hero-s-journey#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Aug 16|[The Vampire and the Chocolatier](https://hanashi.media/ebooks/the-vampire-and-the-chocolatier-vol-1 "Hanashi Media")|1.1|Hanashi Media|🖥️|
-|Aug 16|[The Vampire and the Chocolatier](https://hanashi.media/ebooks/the-vampire-and-the-chocolatier-vol-1-a-genius-alchemists-sweet-obsession "Hanashi Media")|1.2|Hanashi Media|🖥️|
+|Aug 16|[The Vampire and the Chocolatier](https://hanashi.media/ebooks/the-vampire-and-the-chocolatier-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Aug 17|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 18|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 18|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -171,8 +171,7 @@
 |Aug 28|[The Canon Fodder's Ascension from Pawn to World Unifier](https://j-novel.club/series/the-canon-fodder-s-ascension-from-pawn-to-world-unifier#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Aug 29|[The New Gate](https://hanashi.media/ebooks/the-new-gate-vol-4 "Hanashi Media")|4|Hanashi Media|🖥️|
 |Aug 30|[The Disfavored Prince is a Genius Alchemist](https://hanashi.media/ebooks/the-disfavored-prince-is-a-genius-alchemist-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
-|Aug 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-19 "Hanashi Media")|19.1|Hanashi Media|🖥️|
-|Aug 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-19-moonlit-fantasy "Hanashi Media")|19.2|Hanashi Media|🖥️|
+|Aug 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-19 "Hanashi Media")|19|Hanashi Media|🖥️|
 |Aug 31|[Assassin Empress Bellreuge](https://crossinfworld.com/Assassin-Empress-Bellreuge.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Aug 31|[From Corporate Drone to Mincemaster! One Order of Dragon Coming Right Up!](https://crossinfworld.com/From-Corporate-Drone-to-Mincemaster-One-Order-of-Dragon-Coming-Right-Up.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Aug 31|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|🖥️|
@@ -261,15 +260,12 @@
 |Sep 29|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Sep 29|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Sep 30|[From Bumbling Prodigy to Villainess: Will the Duke's Love Go Unnoticed?](https://crossinfworld.com/From-Bumbling-Prodigy-to-Villainess-Will-the-Dukes-Love-Go-Unnoticed.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
-|Sep 30|[GATE](https://hanashi.media/ebooks/gate-vol-2-part-i "Hanashi Media")|2.1.1|Hanashi Media|🖥️|
-|Sep 30|[GATE](https://hanashi.media/ebooks/gate-vol-2-part-i-thus-the-jsdf-fought-there "Hanashi Media")|2.1.2|Hanashi Media|🖥️|
+|Sep 30|[GATE](https://hanashi.media/ebooks/gate-vol-2-part-i "Hanashi Media")|2.1|Hanashi Media|🖥️|
 |Sep 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-13 "J-Novel Club")|8.2|J-Novel Club|🖥️|
-|Sep 30|[Reincarnated as a Poor Farmer in Another World](https://hanashi.media/ebooks/reincarnated-as-a-poor-farmer-in-another-world-vol-2 "Hanashi Media")|2.1|Hanashi Media|🖥️|
-|Sep 30|[Reincarnated as a Poor Farmer in Another World](https://hanashi.media/ebooks/reincarnated-as-a-poor-farmer-in-another-world-vol-2-ill-use-my-modern-knowledge-to-build-my-own-kingdom "Hanashi Media")|2.2|Hanashi Media|🖥️|
+|Sep 30|[Reincarnated as a Poor Farmer in Another World](https://hanashi.media/ebooks/reincarnated-as-a-poor-farmer-in-another-world-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Sep 30|[Reincarnated Onmyoji](https://hanashi.media/ebooks/reincarnated-onmyoji-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Sep 30|[Sorry Darling, but You Won't Kill Me Again!](https://j-novel.club/series/sorry-darling-but-you-won-t-kill-me-again#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
-|Sep 30|[The Fruit of Evolution](https://hanashi.media/ebooks/the-fruit-of-evolution-vol-14 "Hanashi Media")|14.1|Hanashi Media|🖥️|
-|Sep 30|[The Fruit of Evolution](https://hanashi.media/ebooks/the-fruit-of-evolution-vol-14-before-i-knew-it-my-life-had-it-made "Hanashi Media")|14.2|Hanashi Media|🖥️|
+|Sep 30|[The Fruit of Evolution](https://hanashi.media/ebooks/the-fruit-of-evolution-vol-14 "Hanashi Media")|14|Hanashi Media|🖥️|
 |Sep 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-20 "Hanashi Media")|20|Hanashi Media|🖥️|
 
 ### October
@@ -383,6 +379,7 @@
 |Nov 24|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Min-Maxing My TRPG Build in Another World](https://yenpress.com/titles/9781718323957-min-maxing-my-trpg-build-in-another-world-volume-1-light-novel "J-Novel Club")|1|J-Novel Club|📖|
+|Nov 24|[Sakamoto Days: Assassin's Blues](https://www.viz.com/manga-books/novel/sakamoto-days-novels/product/9074/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 24|[The Water Magician: Arc 1](https://yenpress.com/titles/9781718336995-the-water-magician-arc-1-volume-3-light-novel "J-Novel Club")|3|J-Novel Club|📖|
 |Nov 24|[Trapezium](https://sevenseasentertainment.com/books/trapezium-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
