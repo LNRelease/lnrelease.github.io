@@ -119,6 +119,7 @@
 |Aug 10|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
 |Aug 10|[The Unwanted Undead Adventurer](https://j-novel.club/series/the-unwanted-undead-adventurer#volume-14 "J-Novel Club")|14|J-Novel Club|📖|
 |Aug 11|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9798855434019-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-15-light-novel "Yen Press")|15|Yen Press|🖥️📖|
+|Aug 11|[Bye Bye, Earth](https://yenpress.com/titles/9798855415070-bye-bye-earth-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Aug 11|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9798855422290-if-the-villainess-and-villain-met-and-fell-in-love-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 11|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9798855437850-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-20-light-novel "Yen Press")|20|Yen Press|🖥️📖|
 |Aug 11|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855422023-kunon-the-sorcerer-can-see-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
@@ -354,6 +355,7 @@
 |Nov 09|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-11 "J-Novel Club")|11-12|J-Novel Club|📖|
 |Nov 09|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
 |Nov 09|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
+|Nov 09|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-16 "J-Novel Club")|13.1|J-Novel Club|🖥️|
 |Nov 10|[Argonaut: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9798855423556-argonaut-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 10|[Catalog of Wonders](https://yenpress.com/titles/9781975393632-catalog-of-wonders-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 10|[Days with My Stepsister](https://yenpress.com/titles/9798855408355-days-with-my-stepsister-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
@@ -367,6 +369,7 @@
 |Nov 10|[Rise of the Lowborn: Ascending the Ranks by Crushing Incompetent Nobles](https://yenpress.com/titles/9798855426960-rise-of-the-lowborn-ascending-the-ranks-by-crushing-incompetent-nobles-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 10|[The Azure Sword, Slayer of Distortions](https://yenpress.com/titles/9798855422474-the-azure-sword-slayer-of-distortions-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 10|[The Demon King Seems to Have Infiltrated the Hero's Party](https://yenpress.com/titles/9798855431209-the-demon-king-seems-to-have-infiltrated-the-hero-s-party-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 10|[The Empty Box and Zeroth Maria Collector's Edition (Yen Webstore Exclusive)](https://yenpress.com/titles/9798855423754-the-empty-box-and-zeroth-maria-collector-s-edition-yen-webstore-exclusive "Yen Press")|1|Yen Press|📖|
 |Nov 10|[The Executioner and Her Way of Life](https://yenpress.com/titles/9798855427479-the-executioner-and-her-way-of-life-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
 |Nov 10|[The Story of the Moon Waiting for the Evening](https://yenpress.com/titles/9798855438710-the-story-of-the-moon-waiting-for-the-evening-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 10|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -392,6 +395,7 @@
 |Dec 01|[Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines](https://sevenseasentertainment.com/books/legend-of-the-accidental-sword-saint-playing-the-mentor-from-the-sidelines-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 01|[Space Orc: Barbarian Raider of the Stars, Aiming for the Queen!](https://sevenseasentertainment.com/books/space-orc-barbarian-raider-of-the-stars-aiming-for-the-queen-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
+|Dec 02|[Notorious No More: The Villainess Enjoys Feigning Incompetence](https://j-novel.club/series/notorious-no-more-the-villainess-enjoys-feigning-incompetence#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 07|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Dec 07|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Dec 07|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
@@ -423,6 +427,7 @@
 |Dec 22|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Dec 22|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-7-part-2/ "Seven Seas Entertainment")|7.2|Seven Seas Entertainment|🖥️📖|
 |Dec 22|[Too Many Losing Heroines! Short Stories](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-short-stories/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 28|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 29|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[The Berserker NPC Unknowingly Destroys the World](https://sevenseasentertainment.com/books/the-berserker-npc-unknowingly-destroys-the-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
