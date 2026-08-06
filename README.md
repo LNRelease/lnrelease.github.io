@@ -335,6 +335,7 @@
 |Oct 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://hanashi.media/ebooks/an-observation-log-of-my-wife-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Oct 30|[I Saved Myself with a Potion!](https://hanashi.media/ebooks/i-saved-myself-with-a-potion-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Oct 30|[Re:Monster](https://hanashi.media/ebooks/remonster-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
+|Oct 30|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 30|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 31|[The Villainess' Journal: Newlywed Life of an Obsessive Researcher](https://crossinfworld.com/The-Villainess-Journal-Newlywed-Life-of-an-Obsessive-Researcher.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 
