@@ -59,8 +59,8 @@ def get_soup(session: Session, link: str, **kwargs) -> BeautifulSoup:
                         dst = nxt
             if dst is not None and src is not None:
                 dst.insert_before(*src.contents)
-            src.extract()
-            dst.extract()
+                src.extract()
+                dst.extract()
         script.extract()
     return soup
 

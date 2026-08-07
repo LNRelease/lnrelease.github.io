@@ -10,7 +10,7 @@ description: Automated light novel release calendar.
 </noscript>
 <div class="length"><span id="shown">0</span> of <span id="total">0</span></div>
 <label class="search">Search:<input id="search" type="search"></label>
-<div id="table">
+<main id="table">
   <div id="headers" class="sticky">
     <div class="sort">
       Date
@@ -89,7 +89,7 @@ description: Automated light novel release calendar.
     </div>
     <!-- Rows populated dynamically -->
   </div>
-</div>
+</main>
 <span id="loading"></span>
 <link rel="preload" href="{{ '/data.json' | relative_url }}" as="fetch" type="application/json" crossorigin>
 <script src="{{ '/script.js' | relative_url }}"></script>

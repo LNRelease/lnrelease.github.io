@@ -217,14 +217,15 @@ class Session(requests.Session):
                     page = self.post(f'{CF_API}/scan', json={'url': url}, **kwargs)
                 except requests.exceptions.RequestException as e:
                     warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
-                sleep(20)
+                with limiter('api.cloudflare.com'):
+                    sleep(20)
                 if page:
                     res = self.cf_result(url, page.json()['uuid'], **kwargs)
                     sleep(20)
                     return res
                 elif (page is not None
-                      and page.status_code not in ('409', '429')
-                      and page.json()['errors'][-1]['status'] != 409):
+                      and page.status_code not in (409, 429)
+                      and page.json()['errors'][-1]['status'] not in (409, 429)):
                     warnings.warn(f'Scan errors ({url}): {page.json()["errors"]}', RuntimeWarning)
                 with limiter('api.cloudflare.com'):
                     sleep(60)

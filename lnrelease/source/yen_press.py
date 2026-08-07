@@ -44,6 +44,7 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
             and (vol := OMNIBUS.search(desc.text))
             and (start := START.fullmatch(title))):  # rename omnibus volume
         title = f'{start.group("start")} Volume {vol.group("volume")}'
+    title = title.removesuffix(' (Yen Webstore Exclusive)')
     series = Series(None, series_title)
     info = set()
     publisher = imprint if imprint == 'J-Novel Club' else NAME
