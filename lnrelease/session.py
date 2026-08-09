@@ -210,11 +210,14 @@ class Session(requests.Session):
             return None
 
         kwargs.setdefault('headers', {}).update(CF_HEADERS)
+        jsn = {'url': url, 'visibility': 'Public'}
+        if agent := kwargs['headers'].pop('User-Agent', None):
+            jsn |= {'customagent': agent}
         REQUEST_STATS['api.cloudflare.com'].cache += 1
         with limiter(urlparse(url).netloc).lock:
             for _ in range(5):
                 try:
-                    page = self.post(f'{CF_API}/scan', json={'url': url}, **kwargs)
+                    page = self.post(f'{CF_API}/scan', json=jsn, **kwargs)
                 except requests.exceptions.RequestException as e:
                     warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
                 with limiter('api.cloudflare.com'):
@@ -224,8 +227,8 @@ class Session(requests.Session):
                     sleep(20)
                     return res
                 elif (page is not None
-                      and page.status_code not in (409, 429)
-                      and page.json()['errors'][-1]['status'] not in (409, 429)):
+                      and page.status_code != 409
+                      and page.json()['errors'][-1]['status'] != 409):
                     warnings.warn(f'Scan errors ({url}): {page.json()["errors"]}', RuntimeWarning)
                 with limiter('api.cloudflare.com'):
                     sleep(60)
@@ -245,7 +248,8 @@ class Session(requests.Session):
             time = datetime.strptime(match.group('time') + 'Z', '%Y%m%d%H%M%S%z')
         else:
             time = datetime(1, 1, 1, tzinfo=timezone.utc)
-        cutoff = now - timedelta(days=refresh + random.randrange(max(4, refresh * 4)))
+        refresh += 4
+        cutoff = now - timedelta(days=refresh + random.randrange(refresh * 4))
         if time < cutoff:
             link = f'http://web.archive.org/save/{url}'
             REQUEST_STATS['web.archive.org'].cache += 1
