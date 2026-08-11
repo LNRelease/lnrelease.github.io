@@ -263,6 +263,7 @@
 |Nov 09|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-20 "J-Novel Club")|20|J-Novel Club|📖|
 |Nov 09|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-11 "J-Novel Club")|11-12|J-Novel Club|📖|
 |Nov 09|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
+|Nov 09|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Nov 09|[The Brilliant Healer's New Life in the Shadows](https://j-novel.club/series/the-brilliant-healer-s-new-life-in-the-shadows#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
 |Nov 09|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-16 "J-Novel Club")|13.1|J-Novel Club|🖥️|
 |Nov 10|[Argonaut: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9798855423556-argonaut-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|1|Yen Press|🖥️📖|
@@ -289,6 +290,7 @@
 |Nov 17|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400905513-omniscient-reader-s-viewpoint-novel-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 17|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Nov 19|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Nov 20|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Nov 23|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Nov 23|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Nov 23|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
