@@ -36,6 +36,9 @@
 |Aug 11|[The Detective Is Already Dead](https://yenpress.com/titles/9798855422573-the-detective-is-already-dead-vol-12 "Yen Press")|12|Yen Press|🖥️📖|
 |Aug 11|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Aug 11|[The Kept Man of the Princess Knight](https://yenpress.com/titles/9798855434484-the-kept-man-of-the-princess-knight-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Aug 11|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Aug 11|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
+|Aug 11|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Aug 11|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Aug 11|[To the Monster I Love](https://yenpress.com/titles/9798855424935-to-the-monster-i-love-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Aug 11|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
