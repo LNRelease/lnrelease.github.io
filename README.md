@@ -46,7 +46,6 @@
 |Aug 11|[Wolf & Parchment: New Theory Spice & Wolf](https://yenpress.com/titles/9798855434507-wolf-parchment-new-theory-spice-wolf-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
 |Aug 11|[You Are My Regret](https://yenpress.com/titles/9798855433890-you-are-my-regret-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Aug 12|[Campfire Cooking in Another World with My Absurd Skill](https://j-novel.club/series/campfire-cooking-in-another-world-with-my-absurd-skill#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
-|Aug 12|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Aug 12|[Fired? But I Maintain All the Software!](https://j-novel.club/series/fired-but-i-maintain-all-the-software#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 12|[Proud to Be the Villainess](https://j-novel.club/series/proud-to-be-the-villainess#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 12|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -119,6 +118,7 @@
 |Sep 08|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411928-to-sir-without-love-i-m-divorcing-you-ii-part-1-light-novel "Yen Press")|2.1|Yen Press|🖥️📖|
 |Sep 09|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Sep 10|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-12 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Sep 10|[DUNGEON DIVE: Aim for the Deepest Level](https://j-novel.club/series/dungeon-dive-aim-for-the-deepest-level#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Sep 10|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Sep 10|[Predator Witches](https://sevenseasentertainment.com/books/predator-witches-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Sep 10|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-21 "J-Novel Club")|0|J-Novel Club|🖥️|
