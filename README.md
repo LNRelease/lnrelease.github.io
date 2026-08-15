@@ -337,6 +337,7 @@
 |Dec 08|[The World's Strongest Rearguard: Labyrinth Country's Novice Seeker](https://yenpress.com/titles/9798855437973-the-world-s-strongest-rearguard-labyrinth-country-s-novice-seeker-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Dec 08|[Wistoria: Wand and Sword](https://yenpress.com/titles/9798855419665-wistoria-wand-and-sword-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
+|Dec 15|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Dec 15|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Dec 16|[Proud to Be the Villainess](https://j-novel.club/series/proud-to-be-the-villainess#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 22|[Date A Live](https://yenpress.com/titles/9781975372460-date-a-live-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️|
