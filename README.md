@@ -66,7 +66,6 @@
 |Aug 20|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️|
 |Aug 20|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️|
 |Aug 21|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-17 "J-Novel Club")|17|J-Novel Club|🖥️|
-|Aug 23|[The Abandoned Reincarnation Sage](https://hanashi.media/ebooks/the-abandoned-reincarnation-sage-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Aug 24|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Aug 24|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Aug 25|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
@@ -288,6 +287,7 @@
 |Nov 10|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[The World's Strongest Witch](https://yenpress.com/titles/9798855414394-the-world-s-strongest-witch-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 10|[Valkyrie Bullet](https://yenpress.com/titles/9798855421514-valkyrie-bullet-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 16|[The Vampire and the Chocolatier](https://hanashi.media/ebooks/the-vampire-and-the-chocolatier-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Nov 17|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400905513-omniscient-reader-s-viewpoint-novel-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
