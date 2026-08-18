@@ -136,10 +136,8 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     refresh = 10 if old else 4
                 else:
                     days = (today - modified).days
-                    if days < 2:
-                        refresh = 0
-                    elif days < 90:
-                        refresh = days // 14 + 1
+                    if days < 90:
+                        refresh = days // 10 + 1
                     elif not old:
                         refresh = 10
                     else:

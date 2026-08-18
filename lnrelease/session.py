@@ -173,7 +173,6 @@ class Session(requests.Session):
             elif page.status_code == 200:
                 jsn = page.json()
                 if not jsn['task']['success']:
-                    warnings.warn(f'Scan failed ({url}|{uuid})', RuntimeWarning)
                     return None
                 delta = datetime.fromisoformat(jsn['task']['timeEnd']) - datetime.now(timezone.utc)
                 sleep(max(0, delta.total_seconds()))
