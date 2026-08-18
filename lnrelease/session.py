@@ -19,7 +19,7 @@ CF_KEY = os.getenv('CF_KEY', '')
 CF_HEADERS = {'Content-Type': 'application/json', 'Authorization': f'Bearer {CF_KEY}'}
 CF_API = f'https://api.cloudflare.com/client/v4/accounts/{CF_ACCOUNT}/urlscanner/v2'
 HEADERS = {'User-Agent': f'lnrelease/2.2 ({blake2s(CF_KEY.encode()).hexdigest()[:8]}; +https://github.com/LNRelease/lnrelease.github.io)'}
-CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36'}
+CHROME = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36'}
 
 SHORTENERS = {
     'a.co',
@@ -107,7 +107,7 @@ class Limiter:
         LAST_REQUEST[self.netloc] = time()
         REQUEST_STATS[self.netloc].end()
         self.lock.release()
-        return isinstance(exc_value, requests.exceptions.RequestException)
+        return False
 
 
 LIMITERS: dict[str, Limiter] = {}
@@ -164,24 +164,25 @@ class Session(requests.Session):
 
     def cf_result(self, url: str, uuid: str, **kwargs) -> requests.Response | None:
         try:
-            for _ in range(10):
-                page = self.try_get(f'{CF_API}/result/{uuid}', retries=2, **kwargs)
-                if (page is None
-                    or page.status_code == 400
-                    or page.status_code == 404
-                        and not page.json().get('task')):
+            page = self.try_get(f'{CF_API}/result/{uuid}', retries=2, **kwargs)
+            if (page is None
+                or page.status_code == 400
+                or page.status_code == 404
+                    and not page.json().get('task')):
+                return None
+            elif page.status_code == 200:
+                jsn = page.json()
+                if not jsn['task']['success']:
+                    warnings.warn(f'Scan failed ({url}|{uuid})', RuntimeWarning)
                     return None
-                elif page.status_code == 200:
-                    jsn = page.json()
-                    if not jsn['task']['success']:
-                        return None
-                    delta = datetime.fromisoformat(jsn['task']['timeEnd']) - datetime.now(timezone.utc)
-                    sleep(max(0, delta.total_seconds()))
-                    response = jsn['lists']['hashes'][0]
-                    res = self.try_get(f'{CF_API}/responses/{response}', retries=2, **kwargs)
-                    res.history.append(page)
-                    return res
-                sleep(10)
+                delta = datetime.fromisoformat(jsn['task']['timeEnd']) - datetime.now(timezone.utc)
+                sleep(max(0, delta.total_seconds()))
+                response = jsn['lists']['hashes'][0]
+                res = self.try_get(f'{CF_API}/responses/{response}', retries=2, **kwargs)
+                res.history.append(page)
+                return res
+            else:
+                warnings.warn(f'Error reading scan ({url}|{uuid}): {page.status_code}', RuntimeWarning)
         except Exception as e:
             warnings.warn(f'Error reading scan ({url}|{uuid}): {e}', RuntimeWarning)
         return None
@@ -213,25 +214,24 @@ class Session(requests.Session):
         jsn = {'url': url, 'visibility': 'Public'}
         if agent := kwargs['headers'].pop('User-Agent', None):
             jsn |= {'customagent': agent}
-        REQUEST_STATS['api.cloudflare.com'].cache += 1
         with limiter(urlparse(url).netloc).lock:
-            for _ in range(5):
+            for _ in range(2):
+                REQUEST_STATS['api.cloudflare.com'].cache += 1
                 try:
                     page = self.post(f'{CF_API}/scan', json=jsn, **kwargs)
                 except requests.exceptions.RequestException as e:
                     warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
-                with limiter('api.cloudflare.com'):
-                    sleep(20)
+                with limiter('api.cloudflare.com').lock:
+                    sleep(10)
                 if page:
-                    res = self.cf_result(url, page.json()['uuid'], **kwargs)
-                    sleep(20)
-                    return res
-                elif (page is not None
-                      and page.status_code != 409
-                      and page.json()['errors'][-1]['status'] != 409):
-                    warnings.warn(f'Scan errors ({url}): {page.json()["errors"]}', RuntimeWarning)
-                with limiter('api.cloudflare.com'):
+                    if res := self.cf_result(url, page.json()['uuid'], **kwargs):
+                        return res
+                elif page is None:
                     sleep(60)
+                elif page.json()['errors'][-1]['status'] != 409:
+                    warnings.warn(f'Scan errors ({url}): {page.json()["errors"]}', RuntimeWarning)
+                    with limiter('api.cloudflare.com').lock:
+                        sleep(300)
         return self.cf_search(url, **kwargs)
 
     def cf_scan(self, url: str, refresh: int = -1, **kwargs) -> requests.Response | None:
@@ -262,7 +262,10 @@ class Session(requests.Session):
         netloc = urlparse(url).netloc
         for _ in range(retries):
             with limiter(netloc):
-                return super().get(url, **kwargs)
+                try:
+                    return super().get(url, **kwargs)
+                except requests.RequestException:
+                    self.trust_env = False
         return None
 
     def get(self, url: str, direct: bool = True, cf: bool = False, ia: bool = False,
@@ -293,4 +296,7 @@ class Session(requests.Session):
 
     def post(self, url: str, *args, **kwargs) -> requests.Response:
         with limiter(urlparse(url).netloc):
-            return super().post(url, *args, **kwargs)
+            try:
+                return super().post(url, *args, **kwargs)
+            except requests.RequestException:
+                self.trust_env = False

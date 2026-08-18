@@ -18,7 +18,7 @@ def parse(session: Session, series: Series, jsn: dict, skip: set[str], index: in
     link = 'https://hanashi.media/ebooks/' + jsn['at']
     title = jsn['title']
     date = datetime.date.fromisoformat(jsn['release'][:10])
-    isbn = jsn['isbn']
+    isbn = jsn['isbn'] or ''
 
     urls = []
     for key, url in jsn.items():
