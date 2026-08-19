@@ -309,6 +309,7 @@
 |Nov 24|[Trapezium](https://sevenseasentertainment.com/books/trapezium-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Nov 25|[Return of the Corpse King: Reining in My Cringe Secret Society](https://j-novel.club/series/return-of-the-corpse-king-reining-in-my-cringe-secret-society#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Nov 30|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 
 ### December
 
@@ -318,6 +319,7 @@
 |Dec 01|[Space Orc: Barbarian Raider of the Stars, Aiming for the Queen!](https://sevenseasentertainment.com/books/space-orc-barbarian-raider-of-the-stars-aiming-for-the-queen-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
 |Dec 02|[Notorious No More: The Villainess Enjoys Feigning Incompetence](https://j-novel.club/series/notorious-no-more-the-villainess-enjoys-feigning-incompetence#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Dec 04|[Reborn to Reign: Imposing My Rules with My Mastery of Magic](https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 07|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Dec 07|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Dec 07|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
