@@ -235,6 +235,7 @@
 |Oct 22|[Disowned but Not Disheartened! Life Is Good with Overpowered Magic](https://j-novel.club/series/disowned-but-not-disheartened-life-is-good-with-overpowered-magic#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Oct 23|[I Was Reborn as a Refugee Girl, So I'm Working Toward Citizenship from Scratch](https://hanashi.media/ebooks/i-was-reborn-as-a-refugee-girl-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Oct 26|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-1 "J-Novel Club")|1-3|J-Novel Club|📖|
+|Oct 27|[Fraudulent Fiancés Roll Out the Red Carpet](https://j-novel.club/series/fraudulent-fianc-s#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 27|[Her Royal Highness Seems to Be Angry](https://tokyopop.com/products/9781427886187_her-royal-highness-seems-to-be-angry-volume-5-light-novel "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
 |Oct 27|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Oct 27|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-light-novel-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
@@ -259,16 +260,21 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Nov 02|[Keep Me Close: Finding My Home in You](https://j-novel.club/series/keep-me-close-finding-my-home-in-you#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 03|[Didn't I Say to Make My Abilities Average in the Next Life?!](https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Housekeeping Mage from Another World: Making Your Adventures Feel Like Home!](https://j-novel.club/series/housekeeping-mage-from-another-world-making-your-adventures-feel-like-home#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Nov 03|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Nov 03|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 03|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646094264 "Square Enix")|11|Square Enix|📖|
 |Nov 03|[The Most Heretical Last Boss Queen: From Villainess to Savior](https://sevenseasentertainment.com/books/the-most-heretical-last-boss-queen-from-villainess-to-savior-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
+|Nov 04|[Déjà Vute: Betrayal Begets New Beginnings](https://j-novel.club/series/d-j-vute-betrayal-begets-new-beginnings#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 04|[Grimgar of Fantasy and Ash](https://j-novel.club/series/grimar-of-fantasy-and-ash#volume-25 "J-Novel Club")|23|J-Novel Club|🖥️|
+|Nov 05|[An Otaku Prince Finds Love in Akiba](https://j-novel.club/series/an-otaku-prince-finds-love-in-akiba#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 05|[I'm Running for Crown Princess, but All I Want is a Steady Paycheck!](https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Nov 05|[Mirror, Mirror on the Wall](https://j-novel.club/series/mirror-mirror-on-the-wall#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 06|[Fired? But I Maintain All the Software!](https://j-novel.club/series/fired-but-i-maintain-all-the-software#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 09|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-20 "J-Novel Club")|20|J-Novel Club|📖|
+|Nov 09|[Fleet-Footed Dungeon Delver: Tune in for Magical Girls and Motion Blur!](https://j-novel.club/series/fleet-footed-dungeon-delver-tune-in-for-magical-girls-and-motion-blur#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 09|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-11 "J-Novel Club")|11-12|J-Novel Club|📖|
 |Nov 09|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-8 "J-Novel Club")|8|J-Novel Club|📖|
 |Nov 09|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -299,10 +305,14 @@
 |Nov 17|[Magic Maker: How to Create Magic in Another World](https://sevenseasentertainment.com/books/magic-maker-how-to-create-magic-in-another-world-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400905513-omniscient-reader-s-viewpoint-novel-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 17|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
+|Nov 18|[Grinding My Way to a Happy Ending: If Only My OP Big Bro Didn't Make Things So (Sister) Complex!](https://j-novel.club/series/grinding-my-way-to-a-happy-ending-if-only-my-op-big-bro-didn-t-make-things-so-sister-complex#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Nov 19|[Being Famous Is NEET! Going Sister-Rank on Livestream](https://j-novel.club/series/being-famous-is-neet-going-sister-rank-on-livestream#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 19|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Nov 20|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Nov 23|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
+|Nov 23|[Elegance in Exile: From Alchemy to Luxury with My Ardent Knight](https://j-novel.club/series/elegance-in-exile-from-alchemy-to-luxury-with-my-ardent-knight#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 23|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-51 "J-Novel Club")|49|J-Novel Club|🖥️|
+|Nov 23|[Middle-Aged and Mid No More: Rising in Ranks over Drinks with an Elite Priest](https://j-novel.club/series/middle-aged-and-mid-no-more-rising-in-ranks-over-drinks-with-an-elite-priest#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 23|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Nov 23|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
 |Nov 24|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
