@@ -60,6 +60,7 @@
 |Aug 18|[Sister Mafioso](https://j-novel.club/series/sister-mafioso#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 18|[There's No Freaking Way I'll be Your Lover! Unless…](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Aug 18|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
+|Aug 19|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|📖|
 |Aug 19|[The Misfit of Demon King Academy](https://j-novel.club/series/the-misfit-of-demon-king-academy#volume-15 "J-Novel Club")|12.2|J-Novel Club|🖥️|
 |Aug 19|[The Path of an S-Rank Adventurer: From Deadweight to Weapon Master](https://j-novel.club/series/the-path-of-an-s-rank-adventurer-from-deadweight-to-weapon-master#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Aug 20|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️|
@@ -171,6 +172,7 @@
 |Sep 28|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 29|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Sep 29|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
+|Sep 30|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-10.html "Cross Infinite World")|10|Cross Infinite World|🖥️|
 |Sep 30|[From Bumbling Prodigy to Villainess: Will the Duke's Love Go Unnoticed?](https://crossinfworld.com/From-Bumbling-Prodigy-to-Villainess-Will-the-Dukes-Love-Go-Unnoticed.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Sep 30|[GATE](https://hanashi.media/ebooks/gate-vol-2-part-i "Hanashi Media")|2.1|Hanashi Media|🖥️|
 |Sep 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-13 "J-Novel Club")|8.2|J-Novel Club|🖥️|
@@ -306,6 +308,7 @@
 |Nov 17|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400905513-omniscient-reader-s-viewpoint-novel-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 17|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Nov 18|[Grinding My Way to a Happy Ending: If Only My OP Big Bro Didn't Make Things So (Sister) Complex!](https://j-novel.club/series/grinding-my-way-to-a-happy-ending-if-only-my-op-big-bro-didn-t-make-things-so-sister-complex#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Nov 18|[Worthless at Home, Whiz to the World](https://j-novel.club/series/worthless-at-home-whiz-to-the-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Nov 19|[Being Famous Is NEET! Going Sister-Rank on Livestream](https://j-novel.club/series/being-famous-is-neet-going-sister-rank-on-livestream#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 19|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Nov 20|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
@@ -321,7 +324,9 @@
 |Nov 24|[Trapezium](https://sevenseasentertainment.com/books/trapezium-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |Nov 25|[Return of the Corpse King: Reining in My Cringe Secret Society](https://j-novel.club/series/return-of-the-corpse-king-reining-in-my-cringe-secret-society#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Nov 30|[Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness](https://crossinfworld.com/Dinners-with-My-Darling-How-the-Former-Monster-King-Ate-Her-Way-to-Happiness-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 |Nov 30|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Nov 30|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-22 "J-Novel Club")|21|J-Novel Club|🖥️|
 
 ### December
 
@@ -379,6 +384,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jan 04|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 08|[Villager A Wants to Save the Villainess No Matter What!](https://sevenseasentertainment.com/books/villager-a-wants-to-save-the-villainess-no-matter-what-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
