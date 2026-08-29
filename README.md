@@ -327,6 +327,8 @@
 |Nov 30|[Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness](https://crossinfworld.com/Dinners-with-My-Darling-How-the-Former-Monster-King-Ate-Her-Way-to-Happiness-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 |Nov 30|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Nov 30|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-22 "J-Novel Club")|21|J-Novel Club|🖥️|
+|Nov 30|[The Disfavored Prince is a Genius Alchemist](https://hanashi.media/ebooks/the-disfavored-prince-is-a-genius-alchemist-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
+|Nov 30|[The New Gate](https://hanashi.media/ebooks/the-new-gate-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 
 ### December
 
@@ -335,6 +337,7 @@
 |Dec 01|[Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines](https://sevenseasentertainment.com/books/legend-of-the-accidental-sword-saint-playing-the-mentor-from-the-sidelines-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 01|[Space Orc: Barbarian Raider of the Stars, Aiming for the Queen!](https://sevenseasentertainment.com/books/space-orc-barbarian-raider-of-the-stars-aiming-for-the-queen-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
+|Dec 02|[Lacey Longs for Freedom: The Dawn Witch's Low-Key Life after Defeating the Demon King](https://j-novel.club/series/lacey-longs-for-freedom-the-dawn-witch-s-low-key-life-after-defeating-the-demon-king#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 02|[Notorious No More: The Villainess Enjoys Feigning Incompetence](https://j-novel.club/series/notorious-no-more-the-villainess-enjoys-feigning-incompetence#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 03|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Dec 04|[Reborn to Reign: Imposing My Rules with My Mastery of Magic](https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -368,6 +371,7 @@
 |Dec 15|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Dec 16|[Proud to Be the Villainess](https://j-novel.club/series/proud-to-be-the-villainess#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 17|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Dec 17|[The Greatest Magicmaster's Retirement Plan](https://j-novel.club/series/the-greatest-magicmaster-s-retirement-plan#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
 |Dec 22|[Date A Live](https://yenpress.com/titles/9781975372460-date-a-live-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️|
 |Dec 22|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Dec 22|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-7-part-2/ "Seven Seas Entertainment")|7.2|Seven Seas Entertainment|🖥️📖|
@@ -378,6 +382,7 @@
 |Dec 29|[The Berserker NPC Unknowingly Destroys the World](https://sevenseasentertainment.com/books/the-berserker-npc-unknowingly-destroys-the-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 29|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️📖|
+|Dec 30|[Hell Mode](https://j-novel.club/series/hell-mode#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 
 
 ## 2027
@@ -482,6 +487,7 @@
 |May 11|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️📖|
 |May 18|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
 |May 18|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
+|May 18|[Villager A Wants to Save the Villainess No Matter What!](https://sevenseasentertainment.com/books/villager-a-wants-to-save-the-villainess-no-matter-what-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 
 ### June
 
