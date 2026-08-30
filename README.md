@@ -170,7 +170,6 @@
 |Sep 25|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Sep 28|[A Wicked Lady's Guide to Accidentally Saving the Kingdom](https://j-novel.club/series/a-wicked-lady-s-guide-to-accidentally-saving-the-kingdom#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 28|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
-|Sep 29|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Sep 30|[Fluffy Paradise](https://crossinfworld.com/Fluffy-Paradise-Volume-10.html "Cross Infinite World")|10|Cross Infinite World|🖥️|
 |Sep 30|[From Bumbling Prodigy to Villainess: Will the Duke's Love Go Unnoticed?](https://crossinfworld.com/From-Bumbling-Prodigy-to-Villainess-Will-the-Dukes-Love-Go-Unnoticed.html "Cross Infinite World")|1|Cross Infinite World|🖥️|
 |Sep 30|[GATE](https://hanashi.media/ebooks/gate-vol-2-part-i "Hanashi Media")|2.1|Hanashi Media|🖥️|
@@ -192,6 +191,7 @@
 |Oct 01|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Oct 06|[Dahlia in Bloom: Crafting a Fresh Start With Magical Tools](https://j-novel.club/series/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools#volume-14 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Oct 06|[Earl and Fairy](https://j-novel.club/series/earl-and-fairy#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
+|Oct 06|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Oct 06|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Oct 06|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Oct 06|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
@@ -486,6 +486,7 @@
 |:---:|---|:---:|---|:---:|
 |May 11|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️📖|
 |May 18|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+|May 18|[Gear × Magic: Reincarnated as an Engineer, I'll Save the Villainous Princess](https://sevenseasentertainment.com/books/gear-x-magic-reincarnated-as-an-engineer-ill-save-the-villainous-princess-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |May 18|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |May 18|[Villager A Wants to Save the Villainess No Matter What!](https://sevenseasentertainment.com/books/villager-a-wants-to-save-the-villainess-no-matter-what-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 
