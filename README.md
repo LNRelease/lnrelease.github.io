@@ -323,6 +323,7 @@
 |Nov 20|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-18 "J-Novel Club")|18|J-Novel Club|🖥️|
 |Nov 23|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Nov 23|[Elegance in Exile: From Alchemy to Luxury with My Ardent Knight](https://j-novel.club/series/elegance-in-exile-from-alchemy-to-luxury-with-my-ardent-knight#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Nov 23|[Formerly, the Fallen Daughter of the Duke](https://j-novel.club/series/formerly-the-fallen-daughter-of-the-duke#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Nov 23|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-51 "J-Novel Club")|49|J-Novel Club|🖥️|
 |Nov 23|[Middle-Aged and Mid No More: Rising in Ranks over Drinks with an Elite Priest](https://j-novel.club/series/middle-aged-and-mid-no-more-rising-in-ranks-over-drinks-with-an-elite-priest#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 23|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
@@ -350,7 +351,6 @@
 |Dec 02|[Lacey Longs for Freedom: The Dawn Witch's Low-Key Life after Defeating the Demon King](https://j-novel.club/series/lacey-longs-for-freedom-the-dawn-witch-s-low-key-life-after-defeating-the-demon-king#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 02|[Notorious No More: The Villainess Enjoys Feigning Incompetence](https://j-novel.club/series/notorious-no-more-the-villainess-enjoys-feigning-incompetence#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 03|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
-|Dec 04|[Reborn to Reign: Imposing My Rules with My Mastery of Magic](https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 07|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Dec 07|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Dec 07|[My Quiet Blacksmith Life in Another World](https://j-novel.club/series/my-quiet-blacksmith-life-in-another-world#volume-11 "J-Novel Club")|11|J-Novel Club|📖|
@@ -376,6 +376,7 @@
 |Dec 08|[The World's Strongest Rearguard: Labyrinth Country's Novice Seeker](https://yenpress.com/titles/9798855437973-the-world-s-strongest-rearguard-labyrinth-country-s-novice-seeker-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Dec 08|[Wistoria: Wand and Sword](https://yenpress.com/titles/9798855419665-wistoria-wand-and-sword-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 09|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Dec 11|[Reborn to Reign: Imposing My Rules with My Mastery of Magic](https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 15|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-13 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Dec 15|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
@@ -383,6 +384,7 @@
 |Dec 16|[Proud to Be the Villainess](https://j-novel.club/series/proud-to-be-the-villainess#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 17|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 17|[The Greatest Magicmaster's Retirement Plan](https://j-novel.club/series/the-greatest-magicmaster-s-retirement-plan#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
+|Dec 21|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Dec 22|[Date A Live](https://yenpress.com/titles/9781975372460-date-a-live-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️|
 |Dec 22|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Dec 22|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-7-part-2/ "Seven Seas Entertainment")|7.2|Seven Seas Entertainment|🖥️📖|
