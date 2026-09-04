@@ -325,6 +325,7 @@
 |Nov 23|[Elegance in Exile: From Alchemy to Luxury with My Ardent Knight](https://j-novel.club/series/elegance-in-exile-from-alchemy-to-luxury-with-my-ardent-knight#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 23|[Formerly, the Fallen Daughter of the Duke](https://j-novel.club/series/formerly-the-fallen-daughter-of-the-duke#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Nov 23|[Invaders of the Rokujouma!?](https://j-novel.club/series/invaders-of-the-rokujouma#volume-51 "J-Novel Club")|49|J-Novel Club|🖥️|
+|Nov 23|[It Was Supposed to Be My Second Life, but It Turned Out to Be My Third So I'll Change History with Knowledge and Reform](https://hanashi.media/ebooks/it-was-supposed-to-be-my-second-life-but-it-turned-out-to-be-my-third-so-ill-change-history-with-knowledge-and-reform-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Nov 23|[Middle-Aged and Mid No More: Rising in Ranks over Drinks with an Elite Priest](https://j-novel.club/series/middle-aged-and-mid-no-more-rising-in-ranks-over-drinks-with-an-elite-priest#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Nov 23|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Nov 23|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
@@ -348,6 +349,7 @@
 |Dec 01|[Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines](https://sevenseasentertainment.com/books/legend-of-the-accidental-sword-saint-playing-the-mentor-from-the-sidelines-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 01|[Space Orc: Barbarian Raider of the Stars, Aiming for the Queen!](https://sevenseasentertainment.com/books/space-orc-barbarian-raider-of-the-stars-aiming-for-the-queen-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Dec 01|[To Another World... with Land Mines!](https://j-novel.club/series/to-another-world-with-land-mines#volume-14 "J-Novel Club")|14|J-Novel Club|🖥️|
+|Dec 02|[I'll Become an Elegant Villainess! Time to Enjoy My Second Life to the Fullest](https://j-novel.club/series/i-ll-become-an-elegant-villainess-time-to-enjoy-my-second-life-to-the-fullest#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 02|[Lacey Longs for Freedom: The Dawn Witch's Low-Key Life after Defeating the Demon King](https://j-novel.club/series/lacey-longs-for-freedom-the-dawn-witch-s-low-key-life-after-defeating-the-demon-king#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 02|[Notorious No More: The Villainess Enjoys Feigning Incompetence](https://j-novel.club/series/notorious-no-more-the-villainess-enjoys-feigning-incompetence#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Dec 03|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -389,6 +391,7 @@
 |Dec 22|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Dec 22|[Reincarnated Into a Game as the Hero's Friend: Running the Kingdom Behind the Scenes](https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-7-part-2/ "Seven Seas Entertainment")|7.2|Seven Seas Entertainment|🖥️📖|
 |Dec 22|[Too Many Losing Heroines! Short Stories](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-short-stories/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 23|[A Dumped Villainess Married Me, a Lazy Villain Noble and We Became the Ultimate Power Couple](https://hanashi.media/ebooks/a-dumped-villainess-married-me-a-lazy-villain-noble-and-we-became-the-ultimate-power-couple-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Dec 28|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 29|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
@@ -409,6 +412,7 @@
 |Jan 05|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 07|[Predator Witches](https://sevenseasentertainment.com/books/predator-witches-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Jan 08|[Villager A Wants to Save the Villainess No Matter What!](https://sevenseasentertainment.com/books/villager-a-wants-to-save-the-villainess-no-matter-what-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Jan 11|[Ascendance of a Bookworm: Hannelore's Fifth Year at the Royal Academy](https://j-novel.club/series/ascendance-of-a-bookworm-hannelore-s-fifth-year-at-the-royal-academy#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 11|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-17 "J-Novel Club")|17|J-Novel Club|📖|
 |Jan 11|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Jan 12|[Almark](https://yenpress.com/titles/9798855418682-almark-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
