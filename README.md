@@ -127,7 +127,6 @@
 |Oct 13|[Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://yenpress.com/titles/9798855420692-bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-vol-18-light-novel "Yen Press")|18|Yen Press|🖥️📖|
 |Oct 13|[Buying a Classmate Once a Week](https://yenpress.com/titles/9798855431063-buying-a-classmate-once-a-week-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 13|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855438215-even-a-replica-can-fall-in-love-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
-|Oct 13|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Oct 13|[Frieren: Beyond Journey's End -Prelude-](https://yenpress.com/titles/9798855439434-frieren-beyond-journey-s-end-prelude-vol-2-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 13|[God Sleeps in Seafoam](https://j-novel.club/series/god-sleeps-in-seafoam#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 13|[How to Eat Life](https://yenpress.com/titles/9798855413175-how-to-eat-life-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -142,6 +141,7 @@
 |Oct 14|[Genius in the Library: This Bookish Rookie Will Save the Day!](https://j-novel.club/series/genius-in-the-library-this-bookish-rookie-will-save-the-day#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 14|[Infinite Dendrogram SP](https://j-novel.club/series/infinite-dendrogram#volume-26 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Oct 14|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Oct 15|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Oct 15|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Oct 15|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 |Oct 15|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
