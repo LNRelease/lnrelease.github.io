@@ -289,11 +289,11 @@
 |Dec 08|[Mafia](https://yenpress.com/titles/9798855444711-mafia-light-novel "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 08|[Shino & Ren: Future](https://yenpress.com/titles/9798855431186-shino-ren-future-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 08|[Tale of the Wizrain Kingdom: The Nation's Dragon Guardian Is Reborn as a Downtrodden Young Lady](https://yenpress.com/titles/9798855435214-tale-of-the-wizrain-kingdom-the-nation-s-dragon-guardian-is-reborn-as-a-downtrodden-young-lady-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 08|[The Immortal Witch Would Sacrifice Ten Thousand Lives to Fulfill a Simple Wish](https://yenpress.com/titles/9798855433449-the-immortal-witch-would-sacrifice-ten-thousand-lives-to-fulfill-a-simple-wish-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 08|[The Immortal Witch Would Sacrifice Ten Thousand Lives to Fulfill a Simple Wish](https://yenpress.com/titles/9798855433449-the-immortal-witch-would-sacrifice-ten-thousand-lives-to-fulfill-a-simple-wish-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 08|[There's No Freaking Way I'll Be Your Lover! Unless… More Stories to Love!](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-more-stories-to-love-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Dec 08|[The World's Strongest Rearguard: Labyrinth Country's Novice Seeker](https://yenpress.com/titles/9798855437973-the-world-s-strongest-rearguard-labyrinth-country-s-novice-seeker-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
-|Dec 08|[Wistoria: Wand and Sword](https://yenpress.com/titles/9798855419665-wistoria-wand-and-sword-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 08|[Wistoria: Wand and Sword—GrimoActa](https://yenpress.com/titles/9798855419665-wistoria-wand-and-sword-grimoacta-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 09|[Nia Liston: The Merciless Maiden](https://j-novel.club/series/nia-liston-the-merciless-maiden#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Dec 11|[Reborn to Reign: Imposing My Rules with My Mastery of Magic](https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 15|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
