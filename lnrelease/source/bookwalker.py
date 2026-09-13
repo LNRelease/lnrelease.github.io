@@ -12,7 +12,7 @@ from utils import EPOCH, Info, Key, Series, Table
 NAME = 'BookWalker'
 
 PAGES = Path('bookwalker.csv')
-HYDRATE = re.compile(r'(?:^|;)\$R(?P<t>[SC])\(\"(?P<a>[SB]:\w+)\",\"(?P<b>[PS]:\w+)\"\)$')
+HYDRATE = re.compile(r'(?:^|;)\$R(?P<t>[SC])\("(?P<a>[SB]:\w+)","(?P<b>[PS]:\w+)"\)$')
 PATH = re.compile(r'/(?:volume|chapter|series)/(?P<id>[A-Z\d]{12})/[\w-]+')
 PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
@@ -59,8 +59,9 @@ def get_soup(session: Session, link: str, **kwargs) -> BeautifulSoup:
                         dst = nxt
             if dst is not None and src is not None:
                 dst.insert_before(*src.contents)
-                src.extract()
                 dst.extract()
+            if src is not None:
+                src.extract()
         script.extract()
     return soup
 
@@ -89,7 +90,7 @@ def parse(soup: BeautifulSoup, link: str, series: Series = None, index: int = 0)
         warnings.warn(f'Unknown publisher: {pub.text}', RuntimeWarning)
     if not publisher:
         return None
-    format = soup.select_one('div[class$="__topSection"] div[aria-label="Format"]')
+    format = soup.select_one('div[class$="__info"] div[aria-label="Format"]')
     format = get_format(format.text, link)
     if not format:
         return None
@@ -112,15 +113,15 @@ def parse(soup: BeautifulSoup, link: str, series: Series = None, index: int = 0)
 def parse_series(session: Session, uids: dict[str, Info], url: str, new: bool = True
                  ) -> tuple[Series, dict[str, Info]] | Series | None:
     soup = get_soup(session, url)
-    if soup.select_one('div[class$="__totalWrapper"] + p').text != 'Volumes':
+    if soup.select_one('div[class$="__totalChildren"] > p:last-of-type').text != 'volumes':
         return None
-    format = soup.select_one('div[class$="__topSection"] div[aria-label="Format"]')
+    format = soup.select_one('div[class$="__info"] div[aria-label="Format"]')
     if not get_format(format.text, url):
         return None
     series = Series(None, soup.select_one('[class$="__title-page"]').text)
     info = {}
 
-    lst = soup.select('a[class$="__bookCoverContainer"]')
+    lst = soup.select('div[class$="__volumeCards"] a[class$="__cover"]')
     for index, a in enumerate(lst, start=1):
         link = urljoin(url, a['href'])
         try:
