@@ -46,6 +46,9 @@
 |Sep 15|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Sep 15|[I'll Become an Elegant Villainess! Time to Enjoy My Second Life to the Fullest](https://j-novel.club/series/i-ll-become-an-elegant-villainess-time-to-enjoy-my-second-life-to-the-fullest#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 15|[The Invincible Little Lady](https://j-novel.club/series/the-invincible-little-lady#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Sep 15|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Sep 15|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
+|Sep 15|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Sep 15|[The Strange Adventure of a Broke Mercenary](https://sevenseasentertainment.com/books/the-strange-adventure-of-a-broke-mercenary-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Sep 15|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Sep 15|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903649-villains-are-destined-to-die-novel-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
@@ -370,6 +373,7 @@
 |Jan 26|[Chihaya Re:Start!](https://yenpress.com/titles/9798855437195-chihaya-re-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Gear × Magic: Reincarnated as an Engineer, I'll Save the Villainous Princess](https://sevenseasentertainment.com/books/gear-x-magic-reincarnated-as-an-engineer-ill-save-the-villainous-princess-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-light-novel-vol-22/ "Seven Seas Entertainment")|22|Seven Seas Entertainment|📖|
+|Jan 27|[The Reincarnated Mastermind: Sundering Fate with Magic Swords](https://j-novel.club/series/the-reincarnated-mastermind-sundering-fate-with-magic-swords#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 
 ### February
 
@@ -385,6 +389,7 @@
 |Feb 09|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[Reincarnated in a Mafia Dating Sim](https://tokyopop.com/products/9781427888006_reincarnated-in-a-mafia-dating-sim-volume-1-light-novel "TOKYOPOP")|1|TOKYOPOP|📖|
+|Feb 10|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Feb 11|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Feb 11|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 12|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
