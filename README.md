@@ -41,6 +41,7 @@
 |Sep 10|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-21 "J-Novel Club")|0|J-Novel Club|🖥️|
 |Sep 11|[A Young Maiden's Growing Pains: I Reincarnated and All I Got Was This 100X Stat Buff!](https://j-novel.club/series/a-young-maiden-s-growing-pains-i-reincarnated-and-all-i-got-was-this-100x-stat-buff#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 11|[Father, Have You Sinned? An Assassin in Priest's Robes](https://j-novel.club/series/father-have-you-sinned-an-assassin-in-priest-s-robes#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Sep 11|[Onmyoji and Tengu Eyes](https://crossinfworld.com/Onmyoji-and-Tengu-Eyes-Volume-5.html "Cross Infinite World")|5|Cross Infinite World|📖|
 |Sep 11|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-8 "J-Novel Club")|5.1|J-Novel Club|🖥️|
 |Sep 15|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Sep 15|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -94,7 +95,6 @@
 |Sep 30|[How I Became King by Eating Monsters](https://crossinfworld.com/How-I-Became-King-by-Eating-Monsters-Volume-6.html "Cross Infinite World")|6|Cross Infinite World|🖥️|
 |Sep 30|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-13 "J-Novel Club")|8.2|J-Novel Club|🖥️|
 |Sep 30|[Reincarnated as a Poor Farmer in Another World](https://hanashi.media/ebooks/reincarnated-as-a-poor-farmer-in-another-world-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
-|Sep 30|[Reincarnated Onmyoji](https://hanashi.media/ebooks/reincarnated-onmyoji-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Sep 30|[Sorry Darling, but You Won't Kill Me Again!](https://j-novel.club/series/sorry-darling-but-you-won-t-kill-me-again#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Sep 30|[The Fruit of Evolution](https://hanashi.media/ebooks/the-fruit-of-evolution-vol-14 "Hanashi Media")|14|Hanashi Media|🖥️|
 |Sep 30|[Tsukimichi](https://hanashi.media/ebooks/tsukimichi-vol-20 "Hanashi Media")|20|Hanashi Media|🖥️|
@@ -179,6 +179,7 @@
 |Oct 30|[A Journey Through Another World](https://hanashi.media/ebooks/a-journey-through-another-world-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Oct 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://hanashi.media/ebooks/an-observation-log-of-my-wife-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Oct 30|[I Saved Myself with a Potion!](https://hanashi.media/ebooks/i-saved-myself-with-a-potion-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
+|Oct 30|[Reincarnated Onmyoji](https://hanashi.media/ebooks/reincarnated-onmyoji-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Oct 30|[Re:Monster](https://hanashi.media/ebooks/remonster-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Oct 30|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 30|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
@@ -318,6 +319,7 @@
 |Dec 22|[Too Many Losing Heroines! Short Stories](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-short-stories/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 23|[A Dumped Villainess Married Me, a Lazy Villain Noble and We Became the Ultimate Power Couple](https://hanashi.media/ebooks/a-dumped-villainess-married-me-a-lazy-villain-noble-and-we-became-the-ultimate-power-couple-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Dec 23|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
+|Dec 28|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Dec 28|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Dec 28|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 29|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
@@ -325,6 +327,7 @@
 |Dec 29|[The Berserker NPC Unknowingly Destroys the World](https://sevenseasentertainment.com/books/the-berserker-npc-unknowingly-destroys-the-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 29|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
+|Dec 30|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 30|[Hell Mode](https://j-novel.club/series/hell-mode#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 
 
@@ -337,6 +340,7 @@
 |Jan 04|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 05|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jan 07|[Predator Witches](https://sevenseasentertainment.com/books/predator-witches-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Jan 08|[Villager A Wants to Save the Villainess No Matter What!](https://sevenseasentertainment.com/books/villager-a-wants-to-save-the-villainess-no-matter-what-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jan 11|[Ascendance of a Bookworm: Hannelore's Fifth Year at the Royal Academy](https://j-novel.club/series/ascendance-of-a-bookworm-hannelore-s-fifth-year-at-the-royal-academy#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
