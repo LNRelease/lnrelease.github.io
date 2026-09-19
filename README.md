@@ -331,6 +331,7 @@
 |Dec 29|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Dec 30|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 30|[Hell Mode](https://j-novel.club/series/hell-mode#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
+|Dec 31|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 
 
 ## 2027
@@ -339,6 +340,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jan 04|[Black Summoner](https://j-novel.club/series/black-summoner#volume-23 "J-Novel Club")|23|J-Novel Club|🖥️|
 |Jan 04|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
