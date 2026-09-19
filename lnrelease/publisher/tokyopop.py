@@ -3,7 +3,7 @@ from itertools import chain
 
 from utils import DIGITAL, Book, Info, Series
 
-from . import check, copy, dates, guess, standard
+from . import check, copy, guess, standard
 
 NAME = 'TOKYOPOP'
 
@@ -16,7 +16,7 @@ def parse(series: Series, info: dict[str, list[Info]],
     for inf in chain.from_iterable(links.values()):
         if inf.serieskey == series.key and inf.publisher == NAME and inf.isbn:
             if 'Digital' not in info and inf.format in DIGITAL:
-                digitals[inf.title] = replace(inf, format='Digital')
+                digitals.setdefault(inf.title, replace(inf, format='Digital'))
             elif inf.isbn not in fisbns.get(inf.format, ()) and inf.date not in fdates.get(inf.format, ()):
                 info[inf.format].append(replace(inf, index=0))
                 fisbns[inf.format].add(inf.isbn)

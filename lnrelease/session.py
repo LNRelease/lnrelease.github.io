@@ -69,7 +69,6 @@ DELAYS = {
     'static.bookwalker.com': (1, 3),
     'api.cloudflare.com': (0.1, 0.2),
     'crossinfworld.com': (10, 30),
-    'store.crunchyroll.com': (30, 60),
     'play.google.com': (10, 30),
     'store-api.hanashi.media': (10, 30),
     'labs.j-novel.club': (10, 30),
@@ -221,7 +220,7 @@ class Session(requests.Session):
                 except requests.exceptions.RequestException as e:
                     warnings.warn(f'Error scanning ({url}): {e}', RuntimeWarning)
                 with limiter('api.cloudflare.com').lock:
-                    sleep(10)
+                    sleep(11)
                 if page:
                     if res := self.cf_result(url, page.json()['uuid'], **kwargs):
                         return res

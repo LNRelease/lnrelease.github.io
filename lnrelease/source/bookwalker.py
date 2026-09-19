@@ -1,19 +1,21 @@
 import datetime
 import re
+import sqlite3
+import unicodedata
 import warnings
-from pathlib import Path
-from random import random
-from urllib.parse import urlencode, urljoin, urlparse
+from itertools import groupby
+from urllib.parse import urlparse
 
-from bs4 import BeautifulSoup
+import zstandard as zstd
 from session import Session
-from utils import EPOCH, Info, Key, Series, Table
+from utils import Info, Series
 
 NAME = 'BookWalker'
 
-PAGES = Path('bookwalker.csv')
-HYDRATE = re.compile(r'(?:^|;)\$R(?P<t>[SC])\("(?P<a>[SB]:\w+)","(?P<b>[PS]:\w+)"\)$')
 PATH = re.compile(r'/(?:volume|chapter|series)/(?P<id>[A-Z\d]{12})/[\w-]+')
+ISBN = re.compile(r'97[89][-\d]{10,}')
+SLUG = re.compile(r'[^\w -]')
+HYPENS = re.compile(r'[ -]+')
 PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
     'Crossed Hearts': '',
@@ -27,10 +29,9 @@ PUBLISHERS = {
     'Kodansha': 'Kodansha',
     'One Peace Books': 'One Peace Books',
     'One Peace Books (Audiobooks)': 'One Peace Books',
-    'SB Creative': 'SB Creative',
     'Seven Seas Entertainment': 'Seven Seas Entertainment',
     'Seven Seas Siren': 'Seven Seas Entertainment',
-    'Tokyopop': '',
+    'Tokyopop': 'TOKYOPOP',
     'VIZ Media': 'VIZ Media',
     'Ize Press': '',
     'JY': 'Yen Press',
@@ -38,222 +39,73 @@ PUBLISHERS = {
 }
 
 
-def get_soup(session: Session, link: str, **kwargs) -> BeautifulSoup:
-    page = session.get(link, **kwargs)
-    soup = BeautifulSoup(page.content, 'lxml')
-    if redirect := soup.find('meta', attrs={'http-equiv': 'refresh', 'id': '__next-page-redirect'}):
-        link = urljoin(page.url, redirect['content'].split('url=')[-1])
-        return get_soup(session, link, **kwargs)
-    for script in soup.find_all('script'):
-        for t, a, b in HYDRATE.findall(script.text):
-            match t:
-                case 'S':
-                    src = soup.find(id=a)
-                    dst = soup.find(id=b)
-                case 'C':
-                    dst = soup.find(id=a)
-                    src = soup.find(id=b)
-                    while dst and dst != '/$':
-                        nxt = dst.next_sibling
-                        dst.extract()
-                        dst = nxt
-            if dst is not None and src is not None:
-                dst.insert_before(*src.contents)
-                dst.extract()
-            if src is not None:
-                src.extract()
-        script.extract()
-    return soup
-
-
 def get_id(link: str) -> str:
     return PATH.fullmatch(urlparse(link).path).group('id')
 
 
-def get_format(format: str, key: str) -> str | None:
+def get_link(uid: str, title: str) -> str:
+    slug = unicodedata.normalize('NFKD', title)
+    slug = SLUG.sub('', slug).lower().strip('-')
+    slug = HYPENS.sub('-', slug)
+    return f'https://bookwalker.com/volume/{uid}/{slug}'
+
+
+def get_format(format: int) -> str:
     match format:
-        case 'NOVEL':
+        case 2:
             return 'Digital'
-        case 'AUDIOBOOK':
+        case 4:
             return 'Audiobook'
-        case 'MANGA' | 'WEBTOON':
-            return None
         case _:
-            warnings.warn(f'Unknown format ({key}): {format}', RuntimeWarning)
+            warnings.warn(f'Unknown format: {format}', RuntimeWarning)
             return None
 
 
-def parse(soup: BeautifulSoup, link: str, series: Series = None, index: int = 0) -> tuple[Series, Info] | None:
-    pub = soup.select_one('p:-soup-contains-own(PUBLISHER) ~ p')
-    publisher = PUBLISHERS.get(pub.text)
-    if publisher is None:
-        warnings.warn(f'Unknown publisher: {pub.text}', RuntimeWarning)
-    if not publisher:
-        return None
-    format = soup.select_one('div[class$="__info"] div[aria-label="Format"]')
-    format = get_format(format.text, link)
-    if not format:
-        return None
-
-    title = soup.select_one('meta[property="og:title"]')['content'].removesuffix(' [Dramatized Adaptation]')
-    if date := soup.select_one('p:-soup-contains-own("Publication Date") ~ p'):
-        date = datetime.datetime.strptime(date.text[:-4], '%b %d, %Y').date()
-    else:
-        warnings.warn(f'No date found: {link}', RuntimeWarning)
-        return None
-    if series is None:
-        series = Series(None, soup.select_one('p:-soup-contains-own(SERIES) ~ p').text)
-    isbn = ''
-    if tag := soup.select_one('p:-soup-contains-own(ISBN) ~ p'):
-        isbn = tag.text
-    info = Info(series.key, link, NAME, publisher, title, index, format, isbn, date)
-    return series, info
-
-
-def parse_series(session: Session, uids: dict[str, Info], url: str, new: bool = True
-                 ) -> tuple[Series, dict[str, Info]] | Series | None:
-    soup = get_soup(session, url)
-    if soup.select_one('div[class$="__totalChildren"] > p:last-of-type').text != 'volumes':
-        return None
-    format = soup.select_one('div[class$="__info"] div[aria-label="Format"]')
-    if not get_format(format.text, url):
-        return None
-    series = Series(None, soup.select_one('[class$="__title-page"]').text)
-    info = {}
-
-    lst = soup.select('div[class$="__volumeCards"] a[class$="__cover"]')
-    for index, a in enumerate(lst, start=1):
-        link = urljoin(url, a['href'])
-        try:
-            uid = get_id(link)
-            title = a.next_sibling.select_one('div[class$="__title"] > a')['aria-label']
-            if (not new
-                or title.startswith('BOOK☆WALKER Exclusive: ')
-                or title.endswith(' [Bonus Item]')
-                    or ' Bundle Set]' in title):
-                if inf := uids.get(uid):
-                    inf.serieskey = series.key
-                    inf.link = link
-                    inf.index = index
-            elif res := parse(get_soup(session, link), link, series, index):
-                info[uid] = res[1]
-
-        except Exception as e:
-            warnings.warn(f'({link}): {e}', RuntimeWarning)
-    if not new:
-        return series
-    return series, info
-
-
-def parse_month(session: Session, url: str, uids: dict[str, Info], new: dict[str, Info], series: set[Series],
-                pages: Table[Key], keys: dict[str, datetime.date], key: str) -> BeautifulSoup:
-    try:
-        soup = get_soup(session, url)
-        for group in soup.select('div[class$="__groups"] > div[class$="__group"]'):
-            date = group.select_one('div[class$="__groupDateHeader"] h2')
-            date = datetime.datetime.strptime(date.text, '%b %d, %Y').date()
-            for entry in group.select('ul[class$="__entryList"] > li[class$="__entry"] a'):
-                try:
-                    link = urljoin(url, entry['href'])
-                    uid = get_id(link)
-                    if inf := uids.get(uid):
-                        inf.date = date
-                        continue
-                    elif uid in keys:
-                        continue
-
-                    s = get_soup(session, link)
-                    if res := parse(s, link):
-                        new[uid] = res[1]
-                        uids[uid] = res[1]
-                        slink = urljoin(link, s.select_one('p:-soup-contains-own(SERIES) ~ p > a')['href'])
-                        series.add(parse_series(session, uids, slink, new=False) or res[0])
-                        if not keys.get(slink):
-                            k = Key(get_id(slink), EPOCH)
-                            pages.discard(k)
-                            pages.add(k)
-                    else:
-                        new[uid] = None
-
-                except Exception as e:
-                    warnings.warn(f'({link}): {e}', RuntimeWarning)
-        return soup
-
-    except Exception as e:
-        warnings.warn(f'{key}: {e}', RuntimeWarning)
-
-
-def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
-    pages = Table(PAGES, Key)
-    keys = {row.key: row.date for row in pages}
-    today = datetime.date.today()
+def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     uids = {get_id(inf.link): inf for inf in info}
-
     with Session() as session:
-        session.post('https://bookwalker.com/api/kyon/kyon.v1.UserService/Restrictions',
-                     data=b'\x08\x01\x10\x01',  headers={'Content-Type': 'application/proto'})
-        sitemap = session.get('https://bookwalker.com/sitemap.xml')
-        soup = BeautifulSoup(sitemap.content, 'lxml-xml')
+        page = session.get('https://static.bookwalker.com/data/bkwk-db.sqlite.zst')
+    data = zstd.decompress(page.content)
+    con = sqlite3.connect(':memory:')
+    con.deserialize(data)
+    cur = con.cursor()
 
-        new = {}
-        for loc in soup.select('sitemap > loc:-soup-contains("/series_")'):
-            page = session.get(loc.text)
-            for url in BeautifulSoup(page.content, 'lxml-xml').select('urlset > url'):
-                try:
-                    link = url.loc.text
-                    uid = get_id(link)
-                    lastmod = datetime.datetime.fromisoformat(url.lastmod.text).date()
-                    date = keys.get(uid, EPOCH)
-                    if date is None or date >= lastmod and random() > 0.1:
-                        continue
-                    elif res := parse_series(session, uids, link):
-                        if res[1]:
-                            series.add(res[0])
-                            new |= res[1]
-                        k = Key(uid, lastmod)
-                        pages.discard(k)
-                        pages.add(k)
-                        keys[uid] = lastmod
-                    else:
-                        k = Key(uid, None)
-                        pages.discard(k)
-                        pages.add(k)
-                        keys[uid] = None
-                except Exception as e:
-                    warnings.warn(f'({link}): {e}', RuntimeWarning)
+    cur.execute('SELECT id, display_title FROM series')
+    names = dict(cur.fetchall())
+    cur.execute('SELECT labels.id, publishers.display_name FROM labels'
+                ' JOIN publishers ON labels.publisher_id = publishers.id')
+    labels = {i: PUBLISHERS.get(n) for i, n in cur.fetchall()}
+    cur.execute('SELECT product_id, external_id FROM product_external_ids WHERE type IN (7, 3) ORDER BY type')
+    isbns = {pid: isbn for pid, isbn in cur.fetchall() if ISBN.fullmatch(isbn)}
 
-        uids |= new
-        link = 'https://bookwalker.com/calendar?' + urlencode({'formats[]': [2, 4], 'type': 'volume'}, doseq=True)
-        s = parse_month(session, link, uids, new, series, pages, keys, 'now')
-        for tab in s.select('div[class$="__tabBar"] > a[class$="__tab"]'):
-            link = urljoin('https://bookwalker.com', tab['href'])
-            parse_month(session, link, uids, new, series, pages, keys, link[-6:])
+    cur.execute('SELECT id, content_id, series_id, content_type, display_title, label_id, on_sale_at'
+                ' FROM products WHERE content_type IN (2, 4) AND level != 3 AND add_on = 0'
+                ' ORDER BY series_id, display_order')
+    rows = cur.fetchall()
+    con.close()
 
-        for loc in soup.select('sitemap > loc:-soup-contains("/volume_")'):
-            page = session.get(loc.text)
-            for url in BeautifulSoup(page.content, 'lxml-xml').select('urlset > url'):
-                try:
-                    link = url.loc.text
-                    lastmod = datetime.datetime.fromisoformat(url.lastmod.text).date()
-                    uid = get_id(link)
-                    k = Key(uid, lastmod)
-                    if uid in new:
-                        pages.discard(k)
-                        pages.add(k)
-                        continue
+    for sid, group in groupby(rows, lambda x: x[2]):
+        serie = Series(None, names.get(sid))
+        series.add(serie)
+        for index, row in enumerate(group, start=1):
+            uid = row[1][4:]
+            title = row[4]
+            if title.startswith('BOOK☆WALKER Exclusive: '):
+                continue
+            link = get_link(uid, title)
+            title = title.removesuffix(' [Dramatized Adaptation]')
+            publisher = labels.get(row[5])
+            if not publisher:
+                if publisher is None:
+                    warnings.warn(f'Unknown publisher: {row[5]}', RuntimeWarning)
+                continue
+            format = get_format(row[3])
+            if not format:
+                continue
+            isbn = isbns.get(row[0], '')
+            date = datetime.date.fromisoformat(row[6][:10])
+            uids[uid] = Info(serie.key, link, NAME, publisher, title, index, format, isbn, date)
 
-                    if ((inf := uids.get(uid))
-                        and keys.get(uid, today) < lastmod
-                            and (res := parse(get_soup(session, link), link))):
-                        series.add(res[0])
-                        res[1].index = inf.index
-                        uids[uid] = res[1]
-                        pages.discard(k)
-                        pages.add(k)
-                except Exception as e:
-                    warnings.warn(f'({link}): {e}', RuntimeWarning)
-
-    pages.save()
     return series, set(uids.values())
 
 
