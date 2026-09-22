@@ -71,7 +71,7 @@
 |Sep 22|[Sentenced to Be a Hero](https://yenpress.com/titles/9798855422559-sentenced-to-be-a-hero-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Sep 22|[The Holy Grail of Eris](https://yenpress.com/titles/9798855435757-the-holy-grail-of-eris-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Sep 22|[The Misfit of Demon King Academy](https://yenpress.com/titles/9781975391089-the-misfit-of-demon-king-academy-vol-8-light-novel "J-Novel Club")|8|J-Novel Club|📖|
-|Sep 22|[The Neverending Winter, the Land of Broken Dreams](https://sevenseasentertainment.com/books/the-neverending-winter-the-land-of-broken-dreams-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Sep 22|[The Neverending Winter, the Land of Broken Dreams](https://sevenseasentertainment.com/books/the-neverending-winter-the-land-of-broken-dreams-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Sep 22|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Sep 22|[Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World](https://sevenseasentertainment.com/books/venus-mission-i-was-an-assassin-for-hire-who-died-now-im-hunting-heroes-in-another-world-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Sep 22|[Why Run? My Summoned Beast Is Cute!](https://yenpress.com/titles/9798855433104-why-run-my-summoned-beast-is-cute-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
