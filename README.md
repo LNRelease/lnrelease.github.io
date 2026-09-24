@@ -152,7 +152,7 @@
 |Oct 16|[The Capital's One-Man Golem Master Got Kicked Out!? Now Free, I'm Traveling the World with My Beautiful Heroine Disciples to Build the Ultimate Golem! Don't Ask Me to Come Back. I'm Done!](https://hanashi.media/ebooks/the-capitals-one-man-golem-master-got-kicked-out-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Oct 20|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Oct 20|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
-|Oct 20|[Her Royal Highness Seems to Be Angry](https://www.penguinrandomhouse.com/books/803335/her-royal-highness-seems-to-be-angry-volume-4-light-novel-by-kou-yatsuhashi/9781427892454 "TOKYOPOP")|4|TOKYOPOP|🖥️|
+|Oct 20|[Her Royal Highness Seems to Be Angry](https://bookwalker.com/volume/2QGBMN1TB0QG/her-royal-highness-seems-to-be-angry-volume-4 "TOKYOPOP")|4|TOKYOPOP|🖥️|
 |Oct 20|[Semantic Error](https://yenpress.com/titles/9798400904103-semantic-error-novel-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 20|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Oct 22|[Disowned but Not Disheartened! Life Is Good with Overpowered Magic](https://j-novel.club/series/disowned-but-not-disheartened-life-is-good-with-overpowered-magic#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
@@ -313,6 +313,8 @@
 |Dec 16|[Proud to Be the Villainess](https://j-novel.club/series/proud-to-be-the-villainess#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 17|[Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father](https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 17|[The Greatest Magicmaster's Retirement Plan](https://j-novel.club/series/the-greatest-magicmaster-s-retirement-plan#volume-20 "J-Novel Club")|20|J-Novel Club|🖥️|
+|Dec 18|[Record of Wortenia War](https://j-novel.club/series/record-of-wortenia-war#volume-31 "J-Novel Club")|31|J-Novel Club|🖥️|
+|Dec 21|[Chillin' in Another World with Level 2 Super Cheat Powers](https://j-novel.club/series/chillin-in-another-world-with-level-2-super-cheat-powers#volume-21 "J-Novel Club")|21|J-Novel Club|🖥️|
 |Dec 21|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Dec 22|[A Wicked Lady's Guide to Accidentally Saving the Kingdom](https://j-novel.club/series/a-wicked-lady-s-guide-to-accidentally-saving-the-kingdom#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 22|[Date A Live](https://yenpress.com/titles/9781975372460-date-a-live-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️|
@@ -321,6 +323,7 @@
 |Dec 22|[Too Many Losing Heroines! Short Stories](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-short-stories/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 23|[A Dumped Villainess Married Me, a Lazy Villain Noble and We Became the Ultimate Power Couple](https://hanashi.media/ebooks/a-dumped-villainess-married-me-a-lazy-villain-noble-and-we-became-the-ultimate-power-couple-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Dec 23|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
+|Dec 23|[I'm Just a Villager, So What?](https://hanashi.media/ebooks/im-just-a-villager-so-what-vol-6 "Hanashi Media")|6|Hanashi Media|🖥️|
 |Dec 28|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Dec 28|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Dec 28|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -375,7 +378,6 @@
 |Jan 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |Jan 21|[A Serious Error in Chihaya-chan's Reputation](https://sevenseasentertainment.com/books/a-serious-error-in-chihaya-chans-reputation-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
-|Jan 22|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jan 25|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Jan 25|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Jan 25|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
@@ -383,6 +385,7 @@
 |Jan 26|[Gear × Magic: Reincarnated as an Engineer, I'll Save the Villainous Princess](https://sevenseasentertainment.com/books/gear-x-magic-reincarnated-as-an-engineer-ill-save-the-villainous-princess-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-light-novel-vol-22/ "Seven Seas Entertainment")|22|Seven Seas Entertainment|📖|
 |Jan 27|[The Reincarnated Mastermind: Sundering Fate with Magic Swords](https://j-novel.club/series/the-reincarnated-mastermind-sundering-fate-with-magic-swords#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Jan 29|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 
 ### February
 
@@ -403,6 +406,7 @@
 |Feb 11|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 12|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 16|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
+|Feb 16|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-14 "J-Novel Club")|9.1|J-Novel Club|🖥️|
 |Feb 16|[The Water Magician: Arc 2](https://j-novel.club/series/the-water-magician#volume-8 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 18|[The Faceless Mercenary Wants to Settle Down: Homestead at the Edge of the Galaxy](https://sevenseasentertainment.com/books/the-faceless-mercenary-wants-to-settle-down-homestead-at-the-edge-of-the-galaxy-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Feb 25|[Goetia Shock](https://sevenseasentertainment.com/books/goetia-shock-vol-1-cyberdetective-alicia-arkwright-and-the-ink-painted-nightmare-part-1-light-novel-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
