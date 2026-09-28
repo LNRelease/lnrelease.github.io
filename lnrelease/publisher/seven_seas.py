@@ -40,13 +40,14 @@ def parse(series: Series, info: dict[str, list[Info]],
           links: dict[str, list[Info]]) -> dict[str, list[Book]]:
     today = datetime.date.today()
     alts = []
+    titles = {inf.title for lst in info.values() for inf in lst}
     for inf in chain.from_iterable(links.values()):
-        if (inf.serieskey == series.key
+        if ((inf.serieskey == series.key or inf.title in titles)
             and inf.source != NAME
             and inf.publisher == NAME
                 and inf.format == 'Digital'):
             alts.append(inf)
-    if not alts and 'Digital' not in info and all(inf.date > today for inf in info['Physical']):
+    if not alts and 'Digital' not in info and all(inf.date > today for inf in info.get('Physical', ())):
         info['Digital'] = []
         for inf in info['Physical']:
             info['Digital'].append(replace(inf, format='Digital', isbn=''))

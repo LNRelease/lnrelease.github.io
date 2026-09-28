@@ -70,7 +70,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     con.deserialize(data)
     cur = con.cursor()
 
-    cur.execute('SELECT id, display_title FROM series')
+    cur.execute('SELECT id, display_title FROM series'
+                ' WHERE id NOT IN (SELECT series_id FROM series_tags'
+                ' WHERE tag_id IN (SELECT id FROM tags WHERE slug = \'danmei\'))')
     names = dict(cur.fetchall())
     cur.execute('SELECT labels.id, publishers.display_name FROM labels'
                 ' JOIN publishers ON labels.publisher_id = publishers.id')
@@ -85,7 +87,9 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
     con.close()
 
     for sid, group in groupby(rows, lambda x: x[2]):
-        serie = Series(None, names.get(sid))
+        if sid not in names:
+            continue
+        serie = Series(None, names[sid])
         series.add(serie)
         for index, row in enumerate(group, start=1):
             uid = row[1][4:]
