@@ -353,6 +353,7 @@
 |Jan 07|[Predator Witches](https://sevenseasentertainment.com/books/predator-witches-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Jan 08|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jan 08|[Villager A Wants to Save the Villainess No Matter What!](https://sevenseasentertainment.com/books/villager-a-wants-to-save-the-villainess-no-matter-what-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Jan 09|[Shimotsuki-San Has a Thing for a Background Character](https://hanashi.media/ebooks/shimotsuki-san-has-a-thing-for-a-background-character-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Jan 11|[Ascendance of a Bookworm: Hannelore's Fifth Year at the Royal Academy](https://j-novel.club/series/ascendance-of-a-bookworm-hannelore-s-fifth-year-at-the-royal-academy#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 11|[By the Grace of the Gods](https://j-novel.club/series/by-the-grace-of-the-gods#volume-17 "J-Novel Club")|17|J-Novel Club|📖|
 |Jan 11|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
@@ -382,6 +383,7 @@
 |Jan 19|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |Jan 21|[A Serious Error in Chihaya-chan's Reputation](https://sevenseasentertainment.com/books/a-serious-error-in-chihaya-chans-reputation-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jan 25|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
+|Jan 25|[God Sleeps in Seafoam](https://j-novel.club/series/god-sleeps-in-seafoam#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 25|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Jan 25|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
 |Jan 26|[Chihaya Re:Start!](https://yenpress.com/titles/9798855437195-chihaya-re-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -398,6 +400,7 @@
 |Feb 02|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100086 "Square Enix")|12|Square Enix|📖|
 |Feb 02|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Feb 04|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
+|Feb 07|[The Breeding Man Takes on the Sengoku Era](https://hanashi.media/ebooks/the-breeding-man-takes-on-the-sengoku-era-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Feb 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-4 "J-Novel Club")|4-6|J-Novel Club|📖|
 |Feb 08|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
 |Feb 08|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
@@ -408,6 +411,7 @@
 |Feb 11|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Feb 11|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 12|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Feb 14|[The Sage of the Forbidden Library](https://hanashi.media/ebooks/the-sage-of-the-forbidden-library-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Feb 16|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Feb 16|[Rebuild World](https://j-novel.club/series/rebuild-world#volume-14 "J-Novel Club")|9.1|J-Novel Club|🖥️|
 |Feb 16|[The Water Magician: Arc 2](https://j-novel.club/series/the-water-magician#volume-8 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -438,6 +442,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Apr 06|[I'm Running for Crown Princess, but All I Want is a Steady Paycheck!](https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
+|Apr 09|[Welcome to Your New Workplace](https://hanashi.media/ebooks/welcome-to-your-new-workplace-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Apr 13|[Loner Life in Another World](https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[The Devil Princess](https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[The Most Notorious “Talker” Runs the World's Greatest Clan](https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5-ebook/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
