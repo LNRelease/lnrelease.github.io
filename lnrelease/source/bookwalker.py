@@ -22,6 +22,7 @@ PUBLISHERS = {
     'Dark Horse Comics': 'Dark Horse',
     'Graphic Audio': 'Dark Horse',
     'Denshobato': '',
+    'Hanashi Media': 'Hanashi Media',
     'Dreamscape Lore': 'J-Novel Club',
     'J-Novel Club': 'J-Novel Club',
     'JNC Audio': 'J-Novel Club',
