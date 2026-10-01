@@ -267,6 +267,7 @@
 |Nov 30|[Isekai Walking](https://j-novel.club/series/isekai-walking#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Nov 30|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-22 "J-Novel Club")|21|J-Novel Club|🖥️|
 |Nov 30|[The Disfavored Prince is a Genius Alchemist](https://hanashi.media/ebooks/the-disfavored-prince-is-a-genius-alchemist-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
+|Nov 30|[The Fruit of Evolution](https://hanashi.media/ebooks/the-fruit-of-evolution-vol-15 "Hanashi Media")|15|Hanashi Media|🖥️|
 |Nov 30|[The New Gate](https://hanashi.media/ebooks/the-new-gate-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 
 ### December
@@ -335,7 +336,9 @@
 |Dec 29|[The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain](https://sevenseasentertainment.com/books/the-condemned-villainess-goes-back-in-time-and-aims-to-become-the-ultimate-villain-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Dec 30|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Dec 30|[GATE](https://hanashi.media/ebooks/gate-vol-2-part-ii "Hanashi Media")|2.2|Hanashi Media|🖥️|
 |Dec 30|[Hell Mode](https://j-novel.club/series/hell-mode#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
+|Dec 30|[Reincarnated as a Poor Farmer in Another World](https://hanashi.media/ebooks/reincarnated-as-a-poor-farmer-in-another-world-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Dec 31|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 
 
@@ -406,7 +409,6 @@
 |Feb 08|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
 |Feb 09|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Feb 09|[Reincarnated in a Mafia Dating Sim](https://tokyopop.com/products/9781427888006_reincarnated-in-a-mafia-dating-sim-volume-1-light-novel "TOKYOPOP")|1|TOKYOPOP|📖|
 |Feb 10|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Feb 11|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Feb 11|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
@@ -427,6 +429,7 @@
 |Mar 04|[Wandmaker of the Ruined World](https://sevenseasentertainment.com/books/wandmaker-of-the-ruined-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Mar 09|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
+|Mar 09|[Reincarnated in a Mafia Dating Sim](https://tokyopop.com/products/9781427888006_reincarnated-in-a-mafia-dating-sim-volume-1-light-novel "TOKYOPOP")|1|TOKYOPOP|📖|
 |Mar 09|[The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Mar 16|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
