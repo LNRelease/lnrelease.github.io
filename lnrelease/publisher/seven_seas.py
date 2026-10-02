@@ -3,7 +3,7 @@ import re
 from dataclasses import replace
 from itertools import chain
 
-from utils import Book, Info, Series
+from utils import Book, Info, Series, clean_str
 
 from . import check, copy, guess, omnibus, one, secondary, short, standard
 
@@ -40,13 +40,14 @@ def parse(series: Series, info: dict[str, list[Info]],
           links: dict[str, list[Info]]) -> dict[str, list[Book]]:
     today = datetime.date.today()
     alts = []
+    audios = []
     titles = {inf.title for lst in info.values() for inf in lst}
     for inf in chain.from_iterable(links.values()):
-        if ((inf.serieskey == series.key or inf.title in titles)
-            and inf.source != NAME
-            and inf.publisher == NAME
-                and inf.format == 'Digital'):
-            alts.append(inf)
+        if (inf.serieskey == series.key or inf.title in titles) and inf.source != NAME and inf.publisher == NAME:
+            if inf.format == 'Digital':
+                alts.append(inf)
+            elif inf.format == 'Audiobook' and inf.source == 'BookWalker':
+                audios.append(inf)
     if not alts and 'Digital' not in info and all(inf.date > today for inf in info.get('Physical', ())):
         info['Digital'] = []
         for inf in info['Physical']:
@@ -55,11 +56,11 @@ def parse(series: Series, info: dict[str, list[Info]],
     books = _parse(series, info, links, True)
     if alts and 'Physical' in books:
         info.setdefault('Digital', [])
-        digitals = {(book.name, book.volume): book for book in books.setdefault('Digital', [])}
-        alt_books = {(book.name, book.volume): book for book in _parse(series, {'': alts}, links)['']}
+        digitals = {(clean_str(book.name), book.volume): book for book in books.setdefault('Digital', [])}
+        alt_books = {(clean_str(book.name), book.volume): book for book in _parse(series, {'': alts}, links)['']}
         for physical in books['Physical']:
-            digital = digitals.get((physical.name, physical.volume))
-            if alt := alt_books.get((physical.name, physical.volume)):
+            digital = digitals.get((clean_str(physical.name), physical.volume))
+            if alt := alt_books.get((clean_str(physical.name), physical.volume)):
                 if digital:
                     if alt.date < digital.date == physical.date:
                         digital.date = alt.date
@@ -73,6 +74,16 @@ def parse(series: Series, info: dict[str, list[Info]],
         for key, physical in alt_books.items():
             if digital := digitals.get(key):
                 digital.isbn = digital.isbn or physical.isbn
+    if audios:
+        info.setdefault('Audiobook', [])
+        keys = {(clean_str(book.name), book.volume): book for book in books.setdefault('Audiobook', [])}
+        dates = {book.date: book for book in books['Audiobook']}
+        for new in _parse(series, {'': audios}, links)['']:
+            old = keys.get((clean_str(new.name), new.volume)) or dates.get(new.date)
+            if not old:
+                books['Audiobook'].append(new)
+            elif not old.isbn:
+                old.isbn = new.isbn
 
     check(series, info, books)
     return books
