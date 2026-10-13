@@ -320,7 +320,19 @@
 |Feb 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-4 "J-Novel Club")|4-6|J-Novel Club|📖|
 |Feb 08|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
 |Feb 08|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
+|Feb 09|[A Flower in Raven Clothes](https://yenpress.com/titles/9798855441208-a-flower-in-raven-clothes-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 09|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9798855427912-a-misanthrope-teaches-a-class-for-demi-humans-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Feb 09|[Associate Professor Akira Takatsuki's Conjecture](https://yenpress.com/titles/9798855410235-associate-professor-akira-takatsuki-s-conjecture-vol-8-light-novel "Yen Press")|8|Yen Press|🖥️📖|
+|Feb 09|['Cause I'm Freedom!](https://yenpress.com/titles/9798855437072-cause-i-m-freedom-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 09|[Chitose Is in the Ramune Bottle](https://yenpress.com/titles/9798855447323-chitose-is-in-the-ramune-bottle-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
 |Feb 09|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Feb 09|[Liar, Liar](https://yenpress.com/titles/9781975370756-liar-liar-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
+|Feb 09|[Lord of Mysteries](https://yenpress.com/titles/9798855442014-lord-of-mysteries-vol-5 "Yen Press")|5|Yen Press|📖|
+|Feb 09|[The Demon Sword Master of Excalibur Academy](https://yenpress.com/titles/9798855407471-the-demon-sword-master-of-excalibur-academy-vol-14-light-novel "Yen Press")|14|Yen Press|🖥️📖|
+|Feb 09|[The Irregular at Magic High School](https://yenpress.com/titles/9798855409826-the-irregular-at-magic-high-school-vol-28-light-novel "Yen Press")|28|Yen Press|🖥️📖|
+|Feb 09|[The Witch's Conviction, The Beast's Redemption](https://yenpress.com/titles/9798855430141-the-witch-s-conviction-the-beast-s-redemption-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 09|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368777-wandering-witch-the-journey-of-elaina-vol-18-light-novel "Yen Press")|18|Yen Press|🖥️📖|
+|Feb 09|[Watching the Angel Sleep, Drowning in Bed Together](https://yenpress.com/titles/9798855438970-watching-the-angel-sleep-drowning-in-bed-together-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Feb 10|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Feb 11|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Feb 11|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
@@ -342,19 +354,40 @@
 |Mar 02|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Mar 04|[Reborn as an Assassin's Apprentice](https://sevenseasentertainment.com/books/reborn-as-an-assassins-apprentice-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Mar 04|[Wandmaker of the Ruined World](https://sevenseasentertainment.com/books/wandmaker-of-the-ruined-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Mar 09|[Argonaut: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9798855423587-argonaut-vol-2-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|2|Yen Press|🖥️📖|
+|Mar 09|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975379483-hell-is-dark-with-no-flowers-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Mar 09|[I Got Married to the Girl I Hate Most in Class](https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
+|Mar 09|[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://yenpress.com/titles/9798855444698-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vol-21-light-novel "Yen Press")|21|Yen Press|🖥️📖|
 |Mar 09|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
+|Mar 09|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://yenpress.com/titles/9781718341883-making-magic-the-sweet-life-of-a-witch-who-knows-an-infinite-mp-loophole-volume-9-light-novel "J-Novel Club")|9|J-Novel Club|📖|
+|Mar 09|[My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!](https://yenpress.com/titles/9781975374037-my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-vol-13-light-novel "J-Novel Club")|13|J-Novel Club|📖|
+|Mar 09|[My Quiet Blacksmith Life in Another World](https://yenpress.com/titles/9781718345317-my-quiet-blacksmith-life-in-another-world-volume-12-light-novel "J-Novel Club")|12|J-Novel Club|📖|
+|Mar 09|[Oh Boy, Was I Wrong About Her](https://yenpress.com/titles/9798855443783-oh-boy-was-i-wrong-about-her-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 09|[Otherside Picnic](https://yenpress.com/titles/9781718360822-otherside-picnic-omnibus-5-light-novel "J-Novel Club")|9-10|J-Novel Club|📖|
+|Mar 09|[Our Party Nearly Wiped and Then Everything Went Downhill](https://yenpress.com/titles/9798855438499-our-party-nearly-wiped-and-then-everything-went-downhill-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 09|[Reincarnated in a Mafia Dating Sim](https://tokyopop.com/products/9781427888006_reincarnated-in-a-mafia-dating-sim-volume-1-light-novel "TOKYOPOP")|1|TOKYOPOP|📖|
+|Mar 09|[Rise of the Lowborn: Ascending the Ranks by Crushing Incompetent Nobles](https://yenpress.com/titles/9798855426991-rise-of-the-lowborn-ascending-the-ranks-by-crushing-incompetent-nobles-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Mar 09|[Sugar Apple Fairy Tale](https://yenpress.com/titles/9798855403077-sugar-apple-fairy-tale-vol-11-light-novel "Yen Press")|11|Yen Press|🖥️📖|
+|Mar 09|[That Time I Got Reincarnated as a Slime](https://yenpress.com/titles/9798855447347-that-time-i-got-reincarnated-as-a-slime-vol-23-light-novel "Yen Press")|23|Yen Press|🖥️📖|
+|Mar 09|[The Bubble Love of the Mermaid](https://yenpress.com/titles/9798855446333-the-bubble-love-of-the-mermaid-vol-2-light-novel "Yen Press")|2|Yen Press|🖥️📖|
+|Mar 09|[The Eminence in Shadow](https://yenpress.com/titles/9798855447224-the-eminence-in-shadow-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
+|Mar 09|[The Returned Tyrant Princess Rewrites Her Dark Past](https://yenpress.com/titles/9798855423723-the-returned-tyrant-princess-rewrites-her-dark-past-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 09|[The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
+|Mar 09|[Valkyrie Bullet](https://yenpress.com/titles/9798855447392-valkyrie-bullet-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 16|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Mar 18|[The One-Eyed, One-Armed, One-Legged Sorcerer](https://sevenseasentertainment.com/books/the-one-eyed-one-armed-one-legged-sorcerer-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
+|Mar 23|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://yenpress.com/titles/9781718386709-a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-volume-3-light-novel "J-Novel Club")|3|J-Novel Club|📖|
 |Mar 23|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-light-novel-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
+|Mar 23|[Haibara's Teenage New Game+](https://yenpress.com/titles/9781718317918-haibara-s-teenage-new-game-volume-2-light-novel "J-Novel Club")|2|J-Novel Club|📖|
+|Mar 23|[Min-Maxing My TRPG Build in Another World](https://yenpress.com/titles/9781718323971-min-maxing-my-trpg-build-in-another-world-volume-3-light-novel "J-Novel Club")|3|J-Novel Club|📖|
 |Mar 23|[Too Many Losing Heroines!](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-vol-8-5/ "Seven Seas Entertainment")|8.5|Seven Seas Entertainment|🖥️📖|
 |Mar 25|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Mar 30|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Mar 30|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
+|Mar 30|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400905544-omniscient-reader-s-viewpoint-novel-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Mar 30|[Villains Are Destined to Die](https://yenpress.com/titles/9798400903687-villains-are-destined-to-die-novel-vol-5 "Yen Press")|5|Yen Press|📖|
 
 ### April
 
