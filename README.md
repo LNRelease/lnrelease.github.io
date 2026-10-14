@@ -290,6 +290,7 @@
 |Jan 12|[The Weakling Who Died a Million Times](https://yenpress.com/titles/9798855436303-the-weakling-who-died-a-million-times-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 12|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855411942-to-sir-without-love-i-m-divorcing-you-ii-part-2-light-novel "Yen Press")|2.2|Yen Press|🖥️📖|
 |Jan 12|[To the Monster I Love](https://yenpress.com/titles/9798855427950-to-the-monster-i-love-vol-3-novel "Yen Press")|3|Yen Press|🖥️📖|
+|Jan 13|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 15|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-9 "J-Novel Club")|5.2|J-Novel Club|🖥️|
 |Jan 19|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️📖|
@@ -304,8 +305,8 @@
 |Jan 26|[Chihaya Re:Start!](https://yenpress.com/titles/9798855437195-chihaya-re-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Gear × Magic: Reincarnated as an Engineer, I'll Save the Villainous Princess](https://sevenseasentertainment.com/books/gear-x-magic-reincarnated-as-an-engineer-ill-save-the-villainous-princess-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-light-novel-vol-22/ "Seven Seas Entertainment")|22|Seven Seas Entertainment|📖|
+|Jan 27|[Genius in the Library: This Bookish Rookie Will Save the Day!](https://j-novel.club/series/genius-in-the-library-this-bookish-rookie-will-save-the-day#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 27|[The Reincarnated Mastermind: Sundering Fate with Magic Swords](https://j-novel.club/series/the-reincarnated-mastermind-sundering-fate-with-magic-swords#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
-|Jan 28|[Genius in the Library: This Bookish Rookie Will Save the Day!](https://j-novel.club/series/genius-in-the-library-this-bookish-rookie-will-save-the-day#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 29|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 
 ### February
