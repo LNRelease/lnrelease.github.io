@@ -128,7 +128,6 @@
 |Nov 10|[Kusunoki's Garden of Gods](https://yenpress.com/titles/9798855408478-kusunoki-s-garden-of-gods-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 10|[Magical Buffs: The Support Caster is Stronger Than He Realized!](https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Nov 10|[Magical Explorer](https://yenpress.com/titles/9798855437997-magical-explorer-vol-12-light-novel "Yen Press")|12|Yen Press|🖥️📖|
-|Nov 10|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Nov 10|[On the Way Home After Defeating the Demon King](https://yenpress.com/titles/9798855433081-on-the-way-home-after-defeating-the-demon-king-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 10|[Re:ZERO -Starting Life in Another World- Short Story Collection](https://yenpress.com/titles/9781975393328-re-starting-life-in-another-world-short-story-collection-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 10|[Rise of the Lowborn: Ascending the Ranks by Crushing Incompetent Nobles](https://yenpress.com/titles/9798855426960-rise-of-the-lowborn-ascending-the-ranks-by-crushing-incompetent-nobles-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -168,6 +167,7 @@
 |Nov 24|[Argonaut: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9798855423556-argonaut-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Nov 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
+|Nov 24|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Nov 24|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400905513-omniscient-reader-s-viewpoint-novel-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 24|[Sakamoto Days: Assassin's Blues](https://www.viz.com/manga-books/novel/sakamoto-days-novels/product/9074/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 24|[Trapezium](https://sevenseasentertainment.com/books/trapezium-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -452,6 +452,7 @@
 |Jun 08|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jun 08|[My Status as an Assassin Obviously Exceeds the Hero's](https://sevenseasentertainment.com/books/my-status-as-an-assassin-obviously-exceeds-the-heros-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
 |Jun 08|[There's No Freaking Way I'll Be Your Lover! Unless… Even More Stories to Love!](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-even-more-stories-to-love-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jun 17|[My House Cat Became the World's Strongest?!](https://sevenseasentertainment.com/books/my-house-cat-became-the-worlds-strongest-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jun 22|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
 |Jun 22|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jun 24|[Goetia Shock](https://sevenseasentertainment.com/books/goetia-shock-vol-2-cyberdetective-alicia-arkwright-and-the-ink-painted-nightmare-part-2-light-novel-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
@@ -467,6 +468,7 @@
 |:---:|---|:---:|---|:---:|
 |Jul 01|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-4-ebook/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
 |Jul 06|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-3-light-novel-vol-7-9-hardcover-omnibus/ "Seven Seas Entertainment")|7-9|Seven Seas Entertainment|📖|
+|Jul 06|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 
 ### December
 
