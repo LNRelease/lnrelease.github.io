@@ -47,6 +47,7 @@
 |Oct 13|[You Can Have My Back](https://yenpress.com/titles/9798855412949-you-can-have-my-back-vol-5-light-novel "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 13|[Your Castle's Little Helper](https://yenpress.com/titles/9798855432268-your-castle-s-little-helper-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 14|[Genius in the Library: This Bookish Rookie Will Save the Day!](https://j-novel.club/series/genius-in-the-library-this-bookish-rookie-will-save-the-day#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Oct 14|[Goodbye, Horrible Fiancé, Hello, Fun Magic School Life!](https://crossinfworld.com/Goodbye-Horrible-Fiance-Hello-Fun-Magic-School-Life-Volume-1.html "Cross Infinite World")|1|Cross Infinite World|📖|
 |Oct 14|[Infinite Dendrogram SP](https://j-novel.club/series/infinite-dendrogram#volume-26 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Oct 14|[The Dorky NPC Mercenary Knows His Place](https://j-novel.club/series/the-dorky-npc-mercenary-knows-his-place#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Oct 14|[The Ryuo's Work Is Never Done!](https://j-novel.club/series/the-ryuo-s-work-is-never-done#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
@@ -310,6 +311,7 @@
 |Jan 25|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Jan 25|[God Sleeps in Seafoam](https://j-novel.club/series/god-sleeps-in-seafoam#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 25|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
+|Jan 25|[The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://j-novel.club/series/the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 25|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-5 "J-Novel Club")|5|J-Novel Club|📖|
 |Jan 26|[Chihaya Re:Start!](https://yenpress.com/titles/9798855437195-chihaya-re-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Gear × Magic: Reincarnated as an Engineer, I'll Save the Villainous Princess](https://sevenseasentertainment.com/books/gear-x-magic-reincarnated-as-an-engineer-ill-save-the-villainous-princess-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
