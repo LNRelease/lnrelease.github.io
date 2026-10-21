@@ -88,7 +88,6 @@
 |Oct 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://hanashi.media/ebooks/an-observation-log-of-my-wife-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Oct 30|[I Saved Myself with a Potion!](https://hanashi.media/ebooks/i-saved-myself-with-a-potion-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Oct 30|[Reincarnated Onmyoji](https://hanashi.media/ebooks/reincarnated-onmyoji-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
-|Oct 30|[Re:Monster](https://hanashi.media/ebooks/remonster-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Oct 30|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 30|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Oct 31|[From Bumbling Prodigy to Villainess: Will the Duke's Love Go Unnoticed?](https://crossinfworld.com/From-Bumbling-Prodigy-to-Villainess-Will-the-Dukes-Love-Go-Unnoticed-Volume-2.html "Cross Infinite World")|2|Cross Infinite World|🖥️|
@@ -176,6 +175,7 @@
 |Nov 25|[Return of the Corpse King: Reining in My Cringe Secret Society](https://j-novel.club/series/return-of-the-corpse-king-reining-in-my-cringe-secret-society#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Nov 26|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️|
 |Nov 26|[The One-Eyed, One-Armed, One-Legged Sorcerer](https://sevenseasentertainment.com/books/the-one-eyed-one-armed-one-legged-sorcerer-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Nov 29|[Re:Monster](https://hanashi.media/ebooks/remonster-vol-5 "Hanashi Media")|5|Hanashi Media|🖥️|
 |Nov 30|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-36 "J-Novel Club")|36|J-Novel Club|🖥️|
 |Nov 30|[Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness](https://crossinfworld.com/Dinners-with-My-Darling-How-the-Former-Monster-King-Ate-Her-Way-to-Happiness-Volume-4.html "Cross Infinite World")|4|Cross Infinite World|🖥️|
 |Nov 30|[From Bumbling Prodigy to Villainess: Will the Duke's Love Go Unnoticed?](https://crossinfworld.com/From-Bumbling-Prodigy-to-Villainess-Will-the-Dukes-Love-Go-Unnoticed-Volume-3.html "Cross Infinite World")|3|Cross Infinite World|🖥️|
