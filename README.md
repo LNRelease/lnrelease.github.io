@@ -73,7 +73,7 @@
 |Oct 27|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Oct 27|[Fraudulent Fiancés Roll Out the Red Carpet](https://j-novel.club/series/fraudulent-fianc-s#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 27|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
-|Oct 27|[The Wrong Way to Use Healing Magic](https://bookwalker.com/volume/2S9639BZ3W20/the-wrong-way-to-use-healing-magic-volume-6 "One Peace Books")|6|One Peace Books|🖥️|
+|Oct 27|[The Wrong Way to Use Healing Magic](https://www.onepeacebooks.com/jt/HealingMagic.html#:~:text=The%20Wrong%20Way%20to%20Use%20Healing%20Magic%20Volume%206 "One Peace Books")|6|One Peace Books|🖥️|
 |Oct 27|[Tokujo-chan: The Girls Who Brighten Your Day](https://yenpress.com/titles/9798855432749-tokujo-chan-the-girls-who-brighten-your-day "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 27|[When It Rains, It Pours](https://sevenseasentertainment.com/books/when-it-rains-it-pours-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
@@ -137,7 +137,6 @@
 |Nov 10|[The Empty Box and Zeroth Maria Collector's Edition](https://yenpress.com/titles/9798855423754-the-empty-box-and-zeroth-maria-collector-s-edition-yen-webstore-exclusive "Yen Press")|1|Yen Press|📖|
 |Nov 10|[The Executioner and Her Way of Life](https://yenpress.com/titles/9798855427479-the-executioner-and-her-way-of-life-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
 |Nov 10|[The Story of the Moon Waiting for the Evening](https://yenpress.com/titles/9798855438710-the-story-of-the-moon-waiting-for-the-evening-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
-|Nov 10|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Nov 10|[The World's Strongest Witch](https://yenpress.com/titles/9798855414394-the-world-s-strongest-witch-vol-3-light-novel "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 10|[Valkyrie Bullet](https://yenpress.com/titles/9798855421514-valkyrie-bullet-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 10|[When It Rains, It Pours](https://sevenseasentertainment.com/books/when-it-rains-it-pours-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
@@ -147,7 +146,6 @@
 |Nov 12|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|🖥️|
 |Nov 12|[Too Many Losing Heroines! Short Stories](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-short-stories/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Nov 16|[The Vampire and the Chocolatier](https://hanashi.media/ebooks/the-vampire-and-the-chocolatier-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
-|Nov 17|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Nov 17|[Her Royal Highness Seems to Be Angry](https://tokyopop.com/products/9781427883001_her-royal-highness-seems-to-be-angry-volume-4-light-novel "TOKYOPOP")|4|TOKYOPOP|📖|
 |Nov 17|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Nov 18|[Grinding My Way to a Happy Ending: If Only My OP Big Bro Didn't Make Things So (Sister) Complex!](https://j-novel.club/series/grinding-my-way-to-a-happy-ending-if-only-my-op-big-bro-didn-t-make-things-so-sister-complex#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -166,10 +164,12 @@
 |Nov 23|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-1 "J-Novel Club")|1|J-Novel Club|📖|
 |Nov 23|[The Water Magician: Arc 1](https://j-novel.club/series/the-water-magician#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
 |Nov 24|[Argonaut: Is It Wrong to Try to Pick Up Girls in a Dungeon? Tales of Heroes](https://yenpress.com/titles/9798855423556-argonaut-vol-1-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-tales-of-heroes "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 24|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-light-novel-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Nov 24|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Nov 24|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Nov 24|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400905513-omniscient-reader-s-viewpoint-novel-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 24|[Sakamoto Days: Assassin's Blues](https://www.viz.com/manga-books/novel/sakamoto-days-novels/product/9074/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|Nov 24|[The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom](https://sevenseasentertainment.com/books/the-too-perfect-saint-tossed-aside-by-my-fiance-and-sold-to-another-kingdom-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Nov 24|[Trapezium](https://sevenseasentertainment.com/books/trapezium-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Witch and Mercenary](https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Nov 25|[Return of the Corpse King: Reining in My Cringe Secret Society](https://j-novel.club/series/return-of-the-corpse-king-reining-in-my-cringe-secret-society#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -326,6 +326,7 @@
 |Jan 26|[Chihaya Re:Start!](https://yenpress.com/titles/9798855437195-chihaya-re-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Gear × Magic: Reincarnated as an Engineer, I'll Save the Villainous Princess](https://sevenseasentertainment.com/books/gear-x-magic-reincarnated-as-an-engineer-ill-save-the-villainous-princess-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Grimgar of Fantasy and Ash](https://sevenseasentertainment.com/books/grimgar-of-fantasy-and-ash-light-novel-vol-22/ "Seven Seas Entertainment")|22|Seven Seas Entertainment|📖|
+|Jan 27|[Déjà Vute: Betrayal Begets New Beginnings](https://j-novel.club/series/d-j-vute-betrayal-begets-new-beginnings#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 27|[Genius in the Library: This Bookish Rookie Will Save the Day!](https://j-novel.club/series/genius-in-the-library-this-bookish-rookie-will-save-the-day#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 27|[The Reincarnated Mastermind: Sundering Fate with Magic Swords](https://j-novel.club/series/the-reincarnated-mastermind-sundering-fate-with-magic-swords#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 29|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
