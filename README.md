@@ -73,7 +73,7 @@
 |Oct 27|[Adachi and Shimamura](https://sevenseasentertainment.com/books/adachi-and-shimamura-light-novel-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Oct 27|[Fraudulent Fiancés Roll Out the Red Carpet](https://j-novel.club/series/fraudulent-fianc-s#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Oct 27|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
-|Oct 27|[The Wrong Way to Use Healing Magic](https://www.onepeacebooks.com/jt/HealingMagic.html#:~:text=The%20Wrong%20Way%20to%20Use%20Healing%20Magic%20Volume%206 "One Peace Books")|6|One Peace Books|🖥️|
+|Oct 27|[The Wrong Way to Use Healing Magic](https://www.onepeacebooks.com/jt/HealingMagic.html#:~:text=The%20Wrong%20Way%20to%20Use%20Healing%20Magic%20Volume%206 "One Peace Books")|6|One Peace Books|🖥️📖|
 |Oct 27|[Tokujo-chan: The Girls Who Brighten Your Day](https://yenpress.com/titles/9798855432749-tokujo-chan-the-girls-who-brighten-your-day "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 27|[When It Rains, It Pours](https://sevenseasentertainment.com/books/when-it-rains-it-pours-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
@@ -318,6 +318,7 @@
 |Jan 20|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jan 21|[A Serious Error in Chihaya-chan's Reputation](https://sevenseasentertainment.com/books/a-serious-error-in-chihaya-chans-reputation-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jan 21|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Jan 23|[I Was Reborn as a Refugee Girl, So I'm Working Toward Citizenship from Scratch](https://hanashi.media/ebooks/i-was-reborn-as-a-refugee-girl-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Jan 25|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Jan 25|[God Sleeps in Seafoam](https://j-novel.club/series/god-sleeps-in-seafoam#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 25|[Min-Maxing My TRPG Build in Another World](https://j-novel.club/series/min-maxing-my-trpg-build-in-another-world#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
@@ -340,6 +341,7 @@
 |Feb 02|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Feb 04|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Feb 04|[In Another World with My Cat: A Software Engineer Uses Code to Master Magic and Build a Territory](https://sevenseasentertainment.com/books/in-another-world-with-my-cat-a-software-engineer-uses-code-to-master-magic-and-build-a-territory-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Feb 04|[Mirror, Mirror on the Wall](https://j-novel.club/series/mirror-mirror-on-the-wall#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 04|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 07|[The Breeding Man Takes on the Sengoku Era](https://hanashi.media/ebooks/the-breeding-man-takes-on-the-sengoku-era-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Feb 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-4 "J-Novel Club")|4-6|J-Novel Club|📖|
