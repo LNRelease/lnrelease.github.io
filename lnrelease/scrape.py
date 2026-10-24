@@ -52,7 +52,7 @@ def main() -> None:
                ).start()
 
     try:
-        for future in as_completed(futures, timeout=60*60*4):
+        for future in as_completed(futures, timeout=60*60*5):
             try:
                 serie, inf = future.result()
                 series |= serie

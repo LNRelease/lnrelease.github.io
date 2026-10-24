@@ -164,10 +164,7 @@ class Session(requests.Session):
     def cf_result(self, url: str, uuid: str, **kwargs) -> requests.Response | None:
         try:
             page = self.try_get(f'{CF_API}/result/{uuid}', retries=2, **kwargs)
-            if (page is None
-                or page.status_code == 400
-                or page.status_code == 404
-                    and not page.json().get('task')):
+            if page is None or page.status_code in (400, 404):
                 return None
             elif page.status_code == 200:
                 jsn = page.json()
@@ -226,7 +223,7 @@ class Session(requests.Session):
                         return res
                 elif page is None:
                     sleep(60)
-                elif page.json()['errors'][-1]['status'] != 409:
+                elif page.json()['errors'][-1]['status'] not in (409, 429):
                     warnings.warn(f'Scan errors ({url}): {page.json()["errors"]}', RuntimeWarning)
                     with limiter('api.cloudflare.com').lock:
                         sleep(300)
