@@ -3,19 +3,17 @@ from __future__ import annotations
 import datetime
 import json
 import re
-import warnings
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 import utils
-from bs4 import BeautifulSoup
 from session import Session
 
 NAME = 'Barnes & Noble'
 SALT = hash(NAME)
 
 PATH = re.compile(r'/w/(?P<name>[\w-]+)/(?P<id>\d+)')
-PUBLISHER = re.compile(r'^\s*Publisher:\s*(?P<name>.+)$')
-DATE = re.compile(r'^\s*Pub\. Date:\s*(?P<date>.+)$')
+SCRIPT = re.compile(r'enqueue\((?P<json>"\[\{(?:[^"\\]|\\.)*")\)')
+ISBN = re.compile(r'97[89]\d{10}')
 
 
 def equal(a: str, b: str) -> bool:
@@ -58,27 +56,29 @@ def parse(session: Session, links: list[str], *,
           ) -> tuple[utils.Series, set[utils.Info]] | None:
     ean = next((v for k, v in parse_qsl(urlparse(links[0]).query) if k == 'ean'), '')
     page = session.get(links[0])
-    soup = BeautifulSoup(page.content, 'lxml')
+    parts = urlparse(page.url)
+    jsn = json.loads(json.loads(SCRIPT.search(page.text).group('json')))
 
-    jsn = json.loads(soup.find('script', type='application/ld+json').text)['@graph'][0]
-    variant = next(x for x in jsn['hasVariant'] if x['sku'] == ean)
-    serieskey = series.key if series else utils.clean_str()
-    link = variant['url']
-    publisher = publisher or jsn['publisher']
-    title = title or jsn['name']
-    match variant['bookFormat'].removeprefix('https://schema.org/'):
-        case 'AudiobookFormat':
-            format = 'Audiobook'
-        case 'EBook':
-            format = 'Digital'
-        case 'Hardcover':
-            format = 'Hardcover'
-        case 'Paperback':
-            format = 'Paperback'
-        case _:
-            warnings.warn(f'Unknown format: {variant["bookFormat"]} ({links[0]})')
-            return None
-    date = datetime.date.fromisoformat(jsn['datePublished'])
+    def get(i: int):
+        x = jsn[i]
+        if isinstance(x, dict):
+            return {get(int(k[1:])): get(v) if v >= 0 else None for k, v in x.items()}
+        if isinstance(x, list):
+            return [get(v) if v >= 0 else None for v in x]
+        return x
 
-    info = utils.Info(serieskey, link, NAME, publisher, title, index, format, isbn, date)
-    return series, {info}
+    info = set()
+    key = f'_{jsn.index("productType")}'
+    nodes: list[dict] = [get(i) for i, v in enumerate(jsn) if isinstance(v, dict) and key in v]
+    full = next(n for n in nodes if 'vendor' in n)
+    series = series or utils.Series(None, (full.get('seriesTitle') or {}).get('value', ''))
+    publisher = publisher or full['vendor']
+    for node in nodes:
+        ean = node['ean']['value']
+        link = parts._replace(query=urlencode({'ean': ean}), fragment='').geturl()
+        title = node['title'] or title
+        format = node['productType'] or format
+        isbn = ean if ISBN.fullmatch(ean) else isbn
+        date = datetime.date.fromisoformat(node['publicationDate']['value'][:10])
+        info.add(utils.Info(series.key, link, NAME, publisher, title, index, format, isbn, date))
+    return series, info
