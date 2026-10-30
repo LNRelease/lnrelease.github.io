@@ -267,6 +267,7 @@
 |Dec 30|[GATE](https://hanashi.media/ebooks/gate-vol-2-part-ii "Hanashi Media")|2.2|Hanashi Media|🖥️|
 |Dec 30|[Hell Mode](https://j-novel.club/series/hell-mode#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 |Dec 30|[Reincarnated as a Poor Farmer in Another World](https://hanashi.media/ebooks/reincarnated-as-a-poor-farmer-in-another-world-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
+|Dec 30|[Reincarnated Onmyoji](https://hanashi.media/ebooks/reincarnated-onmyoji-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Dec 31|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Dec 31|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 
@@ -320,6 +321,7 @@
 |Jan 20|[The Bladesmith's Enchanted Weapons](https://j-novel.club/series/the-bladesmith-s-enchanted-weapons#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Jan 21|[A Serious Error in Chihaya-chan's Reputation](https://sevenseasentertainment.com/books/a-serious-error-in-chihaya-chans-reputation-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jan 21|[Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen](https://j-novel.club/series/zero-damage-sword-saint-i-enrolled-in-a-magic-school-and-wound-up-in-a-contract-with-the-demon-queen#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Jan 23|[A Journey Through Another World](https://hanashi.media/ebooks/a-journey-through-another-world-vol-4 "Hanashi Media")|4|Hanashi Media|🖥️|
 |Jan 23|[I Was Reborn as a Refugee Girl, So I'm Working Toward Citizenship from Scratch](https://hanashi.media/ebooks/i-was-reborn-as-a-refugee-girl-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Jan 25|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires#volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 |Jan 25|[God Sleeps in Seafoam](https://j-novel.club/series/god-sleeps-in-seafoam#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
@@ -335,6 +337,8 @@
 |Jan 27|[The Reincarnated Mastermind: Sundering Fate with Magic Swords](https://j-novel.club/series/the-reincarnated-mastermind-sundering-fate-with-magic-swords#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Jan 29|[The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://j-novel.club/series/the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 29|[The Otome Heroine's Fight for Survival](https://j-novel.club/series/the-otome-heroine-s-fight-for-survival#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
+|Jan 30|[An Observation Log of My Wife Who Calls Herself a Villainess](https://hanashi.media/ebooks/an-observation-log-of-my-wife-vol-6 "Hanashi Media")|6|Hanashi Media|🖥️|
+|Jan 30|[I Saved Myself with a Potion!](https://hanashi.media/ebooks/i-saved-myself-with-a-potion-vol-4 "Hanashi Media")|4|Hanashi Media|🖥️|
 
 ### February
 
