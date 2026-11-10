@@ -304,6 +304,7 @@
 |Mar 02|[Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|🖥️📖|
 |Mar 04|[Knight's & Magic](https://j-novel.club/series/knight-s-magic#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
 |Mar 04|[Reborn as an Assassin's Apprentice](https://sevenseasentertainment.com/books/reborn-as-an-assassins-apprentice-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
+|Mar 04|[Tearmoon Empire Short Story Collection 2](https://j-novel.club/series/tearmoon-empire#volume-20 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Mar 04|[Wandmaker of the Ruined World](https://sevenseasentertainment.com/books/wandmaker-of-the-ruined-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Mar 08|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-4 "J-Novel Club")|4|J-Novel Club|📖|
 |Mar 08|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-9 "J-Novel Club")|9|J-Novel Club|📖|
