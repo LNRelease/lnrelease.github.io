@@ -32,11 +32,12 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
     if series_title.endswith('(light novel serial)'):
         return None
 
-    category = soup.select_one('div.breadcrumbs.desktop-only > a:last-child').get('href')
+    category = soup.select_one('div.breadcrumbs.desktop-only > a:last-child').get('href').removeprefix('/category/')
     imprint = details[0].select_one('span:-soup-contains("Imprint") + p').text
     # category of ebooks is inconsistent
-    if (category != '/category/light-novels' and category != '/category/audio-books'
-            and imprint != 'Yen On' and imprint != 'Yen Audio'):
+    if imprint == 'Ize Press' or (
+        category not in ('light-novels', 'audio-books')
+            and imprint not in ('Yen On', 'Yen Audio')):
         return None
 
     title = soup.select_one('h1.heading').text

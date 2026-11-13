@@ -29,6 +29,7 @@ def _parse(series: Series, info: dict[str, list[Info]],
     elif all(' Volume ' in main_info[i].title for i in todo):  # multipart volume
         part(series, info, books)
     elif len(todo) < size - 1:  # probably short stories
+        short(series, info, books)
         one(series, info, books)
     else:  # special volume name
         secondary(series, info, links, books)
