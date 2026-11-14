@@ -204,6 +204,7 @@
 |Jan 12|[If the Villainess and Villain Met and Fell in Love](https://yenpress.com/titles/9798855435160-if-the-villainess-and-villain-met-and-fell-in-love-vol-6-light-novel "Yen Press")|6|Yen Press|🖥️📖|
 |Jan 12|[I'm in Love with the Villainess: Come on and Notice Me Already](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-come-on-and-notice-me-already-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Jan 12|[Into The Night - YOASOBI Story Collection](https://sevenseasentertainment.com/books/into-the-night-yoasobi-story-collection-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 12|[Let's Begin, a Battle Without the Hero](https://yenpress.com/titles/9798855440102-let-s-begin-a-battle-without-the-hero "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 12|[Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://yenpress.com/titles/9798855447422-reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-vol-10-light-novel "J-Novel Club")|10|J-Novel Club|📖|
 |Jan 12|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-light-novel-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[The Chef of the Adventurers' Tavern](https://yenpress.com/titles/9798855430165-the-chef-of-the-adventurers-tavern-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -255,6 +256,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Feb 02|[Putting a Price on World Peace](https://j-novel.club/series/putting-a-price-on-world-peace#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 02|[The Apothecary Diaries](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9798899100086 "Square Enix")|12|Square Enix|📖|
 |Feb 02|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Feb 03|[Royal Spirits Are a Royal Pain! Give Me a Regular Romance](https://j-novel.club/series/royal-spirits-are-a-royal-pain-give-me-a-regular-romance#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
@@ -263,9 +265,11 @@
 |Feb 04|[In Another World with My Cat: A Software Engineer Uses Code to Master Magic and Build a Territory](https://sevenseasentertainment.com/books/in-another-world-with-my-cat-a-software-engineer-uses-code-to-master-magic-and-build-a-territory-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 04|[Mirror, Mirror on the Wall](https://j-novel.club/series/mirror-mirror-on-the-wall#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 04|[Miss Medic's Diary at War](https://j-novel.club/series/miss-medic-s-diary-at-war#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
+|Feb 05|[My Leisure Logbook: A Taste of Isekai with the Goddess](https://j-novel.club/series/my-leisure-logbook-a-taste-of-isekai-with-the-goddess#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 07|[The Breeding Man Takes on the Sengoku Era](https://hanashi.media/ebooks/the-breeding-man-takes-on-the-sengoku-era-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Feb 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-4 "J-Novel Club")|4-6|J-Novel Club|📖|
 |Feb 08|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
+|Feb 08|[It's a Grown Man's Job to be a Magical Girl](https://j-novel.club/series/it-s-a-grown-man-s-job-to-be-a-magical-girl#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 08|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
 |Feb 09|[A Flower in Raven Clothes](https://yenpress.com/titles/9798855441208-a-flower-in-raven-clothes-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Feb 09|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9798855427912-a-misanthrope-teaches-a-class-for-demi-humans-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
@@ -281,8 +285,12 @@
 |Feb 09|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368777-wandering-witch-the-journey-of-elaina-vol-18-light-novel "Yen Press")|18|Yen Press|🖥️📖|
 |Feb 09|[Watching the Angel Sleep, Drowning in Bed Together](https://yenpress.com/titles/9798855438970-watching-the-angel-sleep-drowning-in-bed-together-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Feb 10|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Feb 10|[Nowhere Isekai: Peace over Power for This Nothin' Bumpkin](https://j-novel.club/series/nowhere-isekai-peace-over-power-for-this-nothin-bumpkin#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 11|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Feb 11|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
+|Feb 11|[Soldier Maids: Otherworld Cleanup Crew](https://j-novel.club/series/soldier-maids-otherworld-cleanup-crew#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Feb 12|[Little Miss Slime Master](https://j-novel.club/series/little-miss-slime-master#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
+|Feb 12|[Specter / Spectator: From Supernatural Slump to Viral VTuber!](https://j-novel.club/series/specter-spectator-from-supernatural-slump-to-viral-vtuber#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 12|[The Petty Villain Plays by the Rules: Rewriting This Otome Game with Honest Work!](https://j-novel.club/series/the-petty-villain-plays-by-the-rules-rewriting-this-otome-game-with-honest-work#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Feb 14|[The Sage of the Forbidden Library](https://hanashi.media/ebooks/the-sage-of-the-forbidden-library-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Feb 16|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
