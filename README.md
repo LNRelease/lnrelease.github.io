@@ -117,6 +117,7 @@
 |Dec 08|[Bride of the Barrier Master](https://yenpress.com/titles/9798855430363-bride-of-the-barrier-master-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 08|[Classroom for Heroes](https://yenpress.com/titles/9798855439748-classroom-for-heroes-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Dec 08|[Date A Live](https://yenpress.com/titles/9781975372453-date-a-live-vol-17-light-novel "Yen Press")|17|Yen Press|📖|
+|Dec 08|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Dec 08|[Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle Episode Asfi](https://yenpress.com/titles/9798855439519-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-familia-chronicle-episode-asfi-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 08|[Playful Relationships](https://yenpress.com/titles/9798855436280-playful-relationships-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 08|[Re:ZERO -Starting Life in Another World-](https://yenpress.com/titles/9781975378561-re-starting-life-in-another-world-vol-30-light-novel "Yen Press")|30|Yen Press|🖥️📖|
@@ -124,6 +125,7 @@
 |Dec 08|[Shino & Ren: Future](https://yenpress.com/titles/9798855431186-shino-ren-future-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 08|[Tale of the Wizrain Kingdom: The Nation's Dragon Guardian Is Reborn as a Downtrodden Young Lady](https://yenpress.com/titles/9798855435214-tale-of-the-wizrain-kingdom-the-nation-s-dragon-guardian-is-reborn-as-a-downtrodden-young-lady-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 08|[The Immortal Witch Would Sacrifice Ten Thousand Lives to Fulfill a Simple Wish](https://yenpress.com/titles/9798855433449-the-immortal-witch-would-sacrifice-ten-thousand-lives-to-fulfill-a-simple-wish-light-novel "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 08|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Dec 08|[The World's Strongest Rearguard: Labyrinth Country's Novice Seeker](https://yenpress.com/titles/9798855437973-the-world-s-strongest-rearguard-labyrinth-country-s-novice-seeker-vol-9-light-novel "Yen Press")|9|Yen Press|🖥️📖|
 |Dec 08|[Trapezium](https://sevenseasentertainment.com/books/trapezium-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 08|[Wistoria: Wand and Sword—GrimoActa](https://yenpress.com/titles/9798855419665-wistoria-wand-and-sword-grimoacta-vol-1-light-novel "Yen Press")|1|Yen Press|🖥️📖|
@@ -132,14 +134,12 @@
 |Dec 10|[I'm in Love with the Villainess: Come on and Notice Me Already](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-come-on-and-notice-me-already-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 10|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️|
 |Dec 11|[Reborn to Reign: Imposing My Rules with My Mastery of Magic](https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
-|Dec 15|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Dec 15|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-13 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Dec 15|[Gods' Games We Play](https://yenpress.com/titles/9798855407433-gods-games-we-play-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Dec 15|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Dec 15|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9781975388799-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-19 "Yen Press")|19|Yen Press|🖥️📖|
 |Dec 15|[Orc Eroica](https://yenpress.com/titles/9798855437935-orc-eroica-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Dec 15|[There's No Freaking Way I'll Be Your Lover! Unless… More Stories to Love!](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-more-stories-to-love-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
-|Dec 15|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Dec 16|[Proud to Be the Villainess](https://j-novel.club/series/proud-to-be-the-villainess#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 16|[The Side Character Who Thought He Was the Protagonist Mistook the Real Hero for a Side Character and Accidentally Won Everything](https://hanashi.media/ebooks/the-side-character-who-thought-he-was-the-protagonist-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Dec 17|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
@@ -152,19 +152,18 @@
 |Dec 21|[The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://j-novel.club/series/the-diary-of-a-middle-aged-sage-s-carefree-life-in-another-world#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Dec 22|[A Wicked Lady's Guide to Accidentally Saving the Kingdom](https://j-novel.club/series/a-wicked-lady-s-guide-to-accidentally-saving-the-kingdom#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Dec 22|[Date A Live](https://yenpress.com/titles/9781975372460-date-a-live-vol-17-light-novel "Yen Press")|17|Yen Press|🖥️|
-|Dec 22|[I Like Villains, so I Reincarnated as One](https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
-|Dec 22|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Dec 22|[Too Many Losing Heroines! Short Stories](https://sevenseasentertainment.com/books/too-many-losing-heroines-light-novel-short-stories/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Dec 23|[A Dumped Villainess Married Me, a Lazy Villain Noble and We Became the Ultimate Power Couple](https://hanashi.media/ebooks/a-dumped-villainess-married-me-a-lazy-villain-noble-and-we-became-the-ultimate-power-couple-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Dec 23|[A Late-Start Tamer's Laid-Back Life](https://j-novel.club/series/a-late-start-tamer-s-laid-back-life#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Dec 23|[I'm Just a Villager, So What?](https://hanashi.media/ebooks/im-just-a-villager-so-what-vol-6 "Hanashi Media")|6|Hanashi Media|🖥️|
 |Dec 24|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️|
+|Dec 24|[Liar's Journey: Reborn as a False Hero – I'll Save the Tragic Heroine from Every Death Route!](https://sevenseasentertainment.com/books/liars-journey-reborn-as-a-false-hero-ill-save-the-tragic-heroine-from-every-death-route-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Dec 24|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|🖥️|
 |Dec 28|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️|
 |Dec 28|[The Tiny Witch from the Deep Woods](https://j-novel.club/series/the-tiny-witch-from-the-deep-woods#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Dec 28|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
+|Dec 29|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Dec 29|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
-|Dec 29|[The Berserker NPC Unknowingly Destroys the World](https://sevenseasentertainment.com/books/the-berserker-npc-unknowingly-destroys-the-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 29|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Dec 30|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 30|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
@@ -173,6 +172,7 @@
 |Dec 30|[Reincarnated as a Poor Farmer in Another World](https://hanashi.media/ebooks/reincarnated-as-a-poor-farmer-in-another-world-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Dec 30|[Reincarnated Onmyoji](https://hanashi.media/ebooks/reincarnated-onmyoji-vol-3 "Hanashi Media")|3|Hanashi Media|🖥️|
 |Dec 31|[Haibara's Teenage New Game+](https://j-novel.club/series/haibara-s-teenage-new-game#volume-11 "J-Novel Club")|11|J-Novel Club|🖥️|
+|Dec 31|[The Berserker NPC Unknowingly Destroys the World](https://sevenseasentertainment.com/books/the-berserker-npc-unknowingly-destroys-the-world-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 31|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️|
 
 
@@ -182,6 +182,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jan 02|[Living It Up in Another World Until I Get Bored](https://hanashi.media/ebooks/living-it-up-in-another-world-until-i-get-bored-vol-1-a-thirty-something-nobodys-carefree-life "Hanashi Media")|1|Hanashi Media|🖥️|
 |Jan 04|[Black Summoner](https://j-novel.club/series/black-summoner#volume-23 "J-Novel Club")|23|J-Novel Club|🖥️|
 |Jan 04|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
@@ -268,6 +269,7 @@
 |Feb 05|[My Leisure Logbook: A Taste of Isekai with the Goddess](https://j-novel.club/series/my-leisure-logbook-a-taste-of-isekai-with-the-goddess#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 07|[The Breeding Man Takes on the Sengoku Era](https://hanashi.media/ebooks/the-breeding-man-takes-on-the-sengoku-era-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
 |Feb 08|[An Archdemon's Dilemma: How to Love Your Elf Bride](https://j-novel.club/series/an-archdemon-s-dilemma-how-to-love-your-slave-elf-bride#volume-4 "J-Novel Club")|4-6|J-Novel Club|📖|
+|Feb 08|[Cooking with Wild Game](https://j-novel.club/series/cooking-with-wild-game#volume-37 "J-Novel Club")|37|J-Novel Club|🖥️|
 |Feb 08|[From Villainess to Healer](https://j-novel.club/series/from-villainess-to-healer#volume-3 "J-Novel Club")|3|J-Novel Club|📖|
 |Feb 08|[It's a Grown Man's Job to be a Magical Girl](https://j-novel.club/series/it-s-a-grown-man-s-job-to-be-a-magical-girl#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 08|[Tearmoon Empire](https://j-novel.club/series/tearmoon-empire#volume-16 "J-Novel Club")|16|J-Novel Club|📖|
@@ -285,6 +287,7 @@
 |Feb 09|[Wandering Witch: The Journey of Elaina](https://yenpress.com/titles/9781975368777-wandering-witch-the-journey-of-elaina-vol-18-light-novel "Yen Press")|18|Yen Press|🖥️📖|
 |Feb 09|[Watching the Angel Sleep, Drowning in Bed Together](https://yenpress.com/titles/9798855438970-watching-the-angel-sleep-drowning-in-bed-together-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Feb 10|[EXP Is Golden](https://j-novel.club/series/exp-is-golden#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
+|Feb 10|[Keep Me Close: Finding My Home in You](https://j-novel.club/series/keep-me-close-finding-my-home-in-you#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 10|[Nowhere Isekai: Peace over Power for This Nothin' Bumpkin](https://j-novel.club/series/nowhere-isekai-peace-over-power-for-this-nothin-bumpkin#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 11|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Feb 11|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
@@ -301,6 +304,7 @@
 |Feb 18|[Record of a Reincarnated Chancellor: I Was Summoned by a Hopeless Demon Lord to Rebuild Her Army](https://sevenseasentertainment.com/books/record-of-a-reincarnated-chancellor-i-was-summoned-by-a-hopeless-demon-lord-to-rebuild-her-army-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 18|[The Faceless Mercenary Wants to Settle Down: Homestead at the Edge of the Galaxy](https://sevenseasentertainment.com/books/the-faceless-mercenary-wants-to-settle-down-homestead-at-the-edge-of-the-galaxy-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Feb 23|[Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://sevenseasentertainment.com/books/heroine-saint-no-im-an-all-works-maid-and-proud-of-it-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
+|Feb 23|[Private Tutor to the Duke's Daughter](https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-23 "J-Novel Club")|22|J-Novel Club|🖥️|
 |Feb 25|[Goetia Shock](https://sevenseasentertainment.com/books/goetia-shock-vol-1-cyberdetective-alicia-arkwright-and-the-ink-painted-nightmare-part-1-light-novel-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 26|[I Parry Everything](https://j-novel.club/series/i-parry-everything#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Feb 26|[The Frontier Lord Begins with Zero Subjects](https://j-novel.club/series/the-frontier-lord-begins-with-zero-subjects#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
@@ -397,7 +401,6 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |May 02|[The Merchant Heiress is Unstoppable with the Power of Money](https://hanashi.media/ebooks/the-merchant-heiress-is-unstoppable-with-the-power-of-money-vol-1 "Hanashi Media")|1|Hanashi Media|🖥️|
-|May 09|[Living It Up in Another World Until I Get Bored](https://hanashi.media/ebooks/living-it-up-in-another-world-until-i-get-bored-vol-1-a-thirty-something-nobodys-carefree-life "Hanashi Media")|1|Hanashi Media|🖥️|
 |May 11|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|🖥️📖|
 |May 11|[She Professed Herself Pupil of the Wise Man](https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|🖥️📖|
 |May 11|[Trapped in a Dating Sim: Otome Games Are Tough For Us, Too!](https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|🖥️📖|
