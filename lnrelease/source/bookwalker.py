@@ -20,6 +20,7 @@ PUBLISHERS = {
     'Cross Infinite World': 'Cross Infinite World',
     'Crossed Hearts': '',
     'Dark Horse Comics': 'Dark Horse',
+    'GraphicAudio': 'Dark Horse',
     'Graphic Audio': 'Dark Horse',
     'Denshobato': '',
     'Hanashi Media': 'Hanashi Media',
