@@ -137,6 +137,7 @@
 |Dec 10|[I'm in Love with the Villainess: Come on and Notice Me Already](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-come-on-and-notice-me-already-light-novel-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Dec 10|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|🖥️|
 |Dec 11|[Reborn to Reign: Imposing My Rules with My Mastery of Magic](https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
+|Dec 11|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-9 "J-Novel Club")|5.2|J-Novel Club|🖥️|
 |Dec 15|[Chivalry of a Failed Knight](https://j-novel.club/series/chivalry-of-a-failed-knight#volume-13 "J-Novel Club")|12|J-Novel Club|🖥️|
 |Dec 15|[Gods' Games We Play](https://yenpress.com/titles/9798855407433-gods-games-we-play-vol-7-light-novel "Yen Press")|7|Yen Press|🖥️📖|
 |Dec 15|[Isekai Tensei: Recruited to Another World](https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
@@ -223,7 +224,6 @@
 |Jan 13|[Repeated Vice: I Refuse to Be Important Enough to Die](https://j-novel.club/series/repeated-vice-i-refuse-to-be-important-enough-to-die#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 15|[Fraudulent Fiancés Return the Favor](https://j-novel.club/series/fraudulent-fianc-s#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Jan 15|[The Fearsome Witch Teaches in Another World](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
-|Jan 15|[The Trials and Tribulations of My Next Life as a Noblewoman](https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-9 "J-Novel Club")|5.2|J-Novel Club|🖥️|
 |Jan 16|[The Capital's One-Man Golem Master Got Kicked Out!? Now Free, I'm Traveling the World with My Beautiful Heroine Disciples to Build the Ultimate Golem! Don't Ask Me to Come Back. I'm Done!](https://hanashi.media/ebooks/the-capitals-one-man-golem-master-got-kicked-out-vol-2 "Hanashi Media")|2|Hanashi Media|🖥️|
 |Jan 19|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Jan 19|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|📖|
@@ -293,6 +293,7 @@
 |Feb 10|[Keep Me Close: Finding My Home in You](https://j-novel.club/series/keep-me-close-finding-my-home-in-you#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Feb 10|[Nowhere Isekai: Peace over Power for This Nothin' Bumpkin](https://j-novel.club/series/nowhere-isekai-peace-over-power-for-this-nothin-bumpkin#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 11|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
+|Feb 11|[Imperial Reincarnation: I Came, I Saw, I Survived](https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️|
 |Feb 11|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Feb 11|[Soldier Maids: Otherworld Cleanup Crew](https://j-novel.club/series/soldier-maids-otherworld-cleanup-crew#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Feb 12|[Little Miss Slime Master](https://j-novel.club/series/little-miss-slime-master#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
@@ -348,6 +349,7 @@
 |Mar 09|[Valkyrie Bullet](https://yenpress.com/titles/9798855447392-valkyrie-bullet-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 10|[Grinding My Way to a Happy Ending: If Only My OP Big Bro Didn't Make Things So (Sister) Complex!](https://j-novel.club/series/grinding-my-way-to-a-happy-ending-if-only-my-op-big-bro-didn-t-make-things-so-sister-complex#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️|
 |Mar 10|[Let This Grieving Soul Retire](https://j-novel.club/series/let-this-grieving-soul-retire#volume-12 "J-Novel Club")|12|J-Novel Club|🖥️|
+|Mar 16|[Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World](https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-15 "J-Novel Club")|15|J-Novel Club|🖥️|
 |Mar 16|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Mar 17|[After-School Dungeon Diver: Level Grinding in Another World](https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Mar 18|[Sagrada Reset Book 1 – A Cat, a Ghost, and a Revolutionary Sunday](https://sevenseasentertainment.com/books/sagrada-reset-book-1-a-cat-a-ghost-and-a-revolutionary-sunday-light-novel-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
