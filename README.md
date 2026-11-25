@@ -168,7 +168,6 @@
 |Dec 28|[The Villainess Speaks Not](https://j-novel.club/series/the-villainess-speaks-not#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
 |Dec 29|[A Tale of the Secret Saint ZERO](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-zero-light-novel-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Dec 29|[Classroom of the Elite: Year 3](https://sevenseasentertainment.com/books/classroom-of-the-elite-year-3-light-novel-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
-|Dec 29|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Dec 30|[Finding Avalon: The Quest of a Chaosbringer](https://j-novel.club/series/finding-avalon-the-quest-of-a-chaosbringer#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 30|[From Two-Bit Baddie to Total Heartthrob: This Villainess Will Cross-Dress to Impress!](https://j-novel.club/series/from-two-bit-baddie-to-total-heartthrob-this-villainess-will-cross-dress-to-impress#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Dec 30|[GATE](https://hanashi.media/ebooks/gate-vol-2-part-ii "Hanashi Media")|2.2|Hanashi Media|🖥️|
@@ -191,6 +190,7 @@
 |Jan 04|[Flung into a New World? Time to Lift the 200-Year Curse!](https://j-novel.club/series/flung-into-a-new-world-time-to-lift-the-200-year-curse#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️|
 |Jan 05|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-light-novel-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 |Jan 05|[Saving a Weapon Shop from Bankruptcy after the Demon King's Defeat](https://sevenseasentertainment.com/books/saving-a-weapon-shop-from-bankruptcy-after-the-demon-kings-defeat-light-novel-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
+|Jan 05|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Jan 05|[You Were Experienced, I Was Not: Our Dating Story](https://j-novel.club/series/you-were-experienced-i-was-not-our-dating-story#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Jan 07|[Predator Witches](https://sevenseasentertainment.com/books/predator-witches-light-novel-vol-2-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Jan 08|[Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://j-novel.club/series/making-magic#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
@@ -438,7 +438,6 @@
 |Jun 08|[There's No Freaking Way I'll Be Your Lover! Unless… Even More Stories to Love!](https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-even-more-stories-to-love-light-novel/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jun 17|[My House Cat Became the World's Strongest?!](https://sevenseasentertainment.com/books/my-house-cat-became-the-worlds-strongest-light-novel-vol-1-ebook/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️|
 |Jun 22|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-light-novel-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|🖥️📖|
-|Jun 22|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 |Jun 24|[Goetia Shock](https://sevenseasentertainment.com/books/goetia-shock-vol-2-cyberdetective-alicia-arkwright-and-the-ink-painted-nightmare-part-2-light-novel-ebook/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️|
 |Jun 24|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-light-novel-vol-3-ebook/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️|
 |Jun 25|[Finding My Way to (You) in This MMO World](https://j-novel.club/series/finding-my-way-to-you-in-this-mmo-world#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️|
@@ -455,6 +454,12 @@
 |Jul 06|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-deluxe-edition-3-light-novel-vol-7-9-hardcover-omnibus/ "Seven Seas Entertainment")|7-9|Seven Seas Entertainment|📖|
 |Jul 06|[Mushoku Tensei: Redundant Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-redundant-reincarnation-light-novel-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Jul 20|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-light-novel-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|🖥️📖|
+
+### August
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Aug 24|[ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!](https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-light-novel-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|🖥️📖|
 
 ### December
 
